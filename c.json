@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "c-ares",
+    "version": "1.34.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A C library for asynchronous DNS resolution and name parsing, designed for high-performance networking applications. Provides non-blocking DNS queries with parallel request handling, making it ideal for event-loop driven systems and modern network stacks.",
+    "homepage": "https://c-ares.org/",
+    "installation": "pkg install c-ares",
+    "usage": "Initialize resolver channel: ares_init(&channel); ares_gethostbyname(channel, \"example.com\", AF_INET, callback, NULL);",
+    "features": [
+      "Asynchronous DNS: Non-blocking name resolution suitable for event loops",
+      "Multi-Thread Safe: Designed for concurrent use in threaded environments",
+      "Custom Nameservers: Programmatic control over DNS server configuration",
+      "DNSSEC Support: Optional validation of DNS records",
+      "Cross-Platform: Works on Linux/BSD/macOS/Windows/Embedded systems",
+      "Integration: Used by curl, Node.js, and other network-intensive applications"
+    ],
+    "gameplay": null,
+    "additional_resources": "Official API documentation and libcurl integration examples",
+    "community_and_support": {
+      "forums": "GitHub Discussions and mailing list",
+      "GitHub": "https://github.com/c-ares/c-ares"
+    },
+    "example_commands": {
+      "start_the_game": "adig -s 8.8.8.8 www.google.com",
+      "uninstall_the_game": "pkg uninstall c-ares"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "c-script",
+    "version": "0.14",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "A lightweight embedded scripting language with C-like syntax, designed for runtime extensibility of applications. Combines simplicity of Lua with C semantics, offering direct memory access capabilities while maintaining sandboxed execution environments.",
+    "homepage": "https://github.com/c-script/c-script",
+    "installation": "pkg install c-script",
+    "usage": "Execute scripts: cscript -e 'printf(\"Hello World\");'",
+    "features": [
+      "C Syntax Familiarity: Supports pointers, structs, and preprocessor-like directives",
+      "Sandboxed Execution: Memory-safe runtime with configurable limits",
+      "FFI Support: Direct binding to host application functions",
+      "JIT Compilation: Optional just-in-time compilation for hot code paths",
+      "Cross-Platform: Runs on any system with ANSI C compiler",
+      "Embedding API: Simple integration into C/C++ applications"
+    ],
+    "gameplay": null,
+    "additional_resources": "Language specification and embedding guide",
+    "community_and_support": {
+      "forums": "GitHub Issues and Discord community",
+      "GitHub": "https://github.com/c-script/c-script"
+    },
+    "example_commands": {
+      "start_the_game": "cscript myscript.cs",
+      "uninstall_the_game": "pkg uninstall c-script"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "c-toxcore-static",
+    "version": "0.2.20-p20250105-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Statically linked build of the Tox secure messaging protocol core library. Provides end-to-end encrypted peer-to-peer communication capabilities without dependencies, ideal for embedded systems and security-focused deployments.",
+    "homepage": "https://tox.chat/",
+    "installation": "pkg install c-toxcore-static",
+    "usage": "Link in applications: gcc -ltoxcore -static mytoxapp.c",
+    "features": [
+      "Military-Grade Encryption: NaCl-based crypto primitives",
+      "Decentralized: No central servers or infrastructure required",
+      "Network Types: Supports TCP, UDP, and onion routing via Tor",
+      "Zero Dependencies: Fully self-contained build",
+      "Cross-Platform: ARM64-optimized with NEON acceleration",
+      "Protocol Features: File transfer, group chats, AV streaming"
+    ],
+    "gameplay": null,
+    "additional_resources": "Tox Protocol Specification and API docs",
+    "community_and_support": {
+      "forums": "Tox Chat Matrix channel",
+      "GitHub": "https://github.com/TokTok/tox-core"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (development library)",
+      "uninstall_the_game": "pkg uninstall c-toxcore-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "c-toxcore",
+    "version": "0.2.20-p20250105-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Reference implementation of the Tox protocol - a secure, distributed messaging platform. Provides building blocks for creating privacy-focused chat applications with strong encryption and anti-censorship features.",
+    "homepage": "https://tox.chat/",
+    "installation": "pkg install c-toxcore",
+    "usage": "Initialize Tox instance: Tox *tox = tox_new(NULL, NULL);",
+    "features": [
+      "P2P Architecture: Complete decentralization with DHT discovery",
+      "Forward Secrecy: Perfect forward secrecy in 1:1 chats",
+      "Portable Design: Works behind NATs and restrictive firewalls",
+      "Multi-Client Support: Simultaneous device connections",
+      "Community Tools: Python/JS bindings available",
+      "Logging: Configurable logging levels and handlers"
+    ],
+    "gameplay": null,
+    "additional_resources": "Tox Developer Documentation and Client Guidelines",
+    "community_and_support": {
+      "forums": "Tox Development Forum",
+      "GitHub": "https://github.com/TokTok/tox-core"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (runtime library)",
+      "uninstall_the_game": "pkg uninstall c-toxcore"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ca-certificates-java",
+    "version": "1:2024.12.31",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Mozilla's curated collection of Certificate Authority certificates packaged for Java applications. Maintains the cacerts truststore used by Java SSL implementations, ensuring up-to-date TLS certificate validation across JVM-based software.",
+    "homepage": "https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/",
+    "installation": "pkg install ca-certificates-java",
+    "usage": "Update Java truststore: update-ca-certificates --fresh",
+    "features": [
+      "Comprehensive Trust: 150+ root CAs from Mozilla's inclusion policy",
+      "Java Integration: Automatic update of $JAVA_HOME/lib/security/cacerts",
+      "CRL Support: Certificate Revocation List integration",
+      "Custom Trust: Ability to add/remove specific certificates",
+      "Security Compliance: Meets industry standards for PKI validation"
+    ],
+    "gameplay": null,
+    "additional_resources": "Mozilla CA Certificate Policy documentation",
+    "community_and_support": {
+      "forums": "Debian Java Maintainers",
+      "GitHub": "https://salsa.debian.org/java-team/ca-certificates-java"
+    },
+    "example_commands": {
+      "start_the_game": "keytool -list -keystore /etc/ssl/certs/java/cacerts",
+      "uninstall_the_game": "pkg uninstall ca-certificates-java"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ca-certificates",
+    "version": "1:2024.12.31",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "The Debian-curated collection of Certificate Authority certificates for system-wide TLS trust. Includes root and intermediate certificates from major CAs, updated quarterly to reflect industry trust changes and security best practices.",
+    "homepage": "https://wiki.debian.org/CA-Certificates",
+    "installation": "pkg install ca-certificates",
+    "usage": "Update system certificates: update-ca-certificates",
+    "features": [
+      "Global Trust: 250+ certificates from 150+ organizations",
+      "Auto-Update: Regular security updates via package manager",
+      "Local CAs: Ability to add custom enterprise certificates",
+      "CRL/OCSP: Support for revocation checking mechanisms",
+      "Format Support: PEM bundles for OpenSSL/GnuTLS compatibility"
+    ],
+    "gameplay": null,
+    "additional_resources": "Debian CA Certificate Management Guide",
+    "community_and_support": {
+      "forums": "Debian Security Team",
+      "GitHub": "https://salsa.debian.org/debian/ca-certificates"
+    },
+    "example_commands": {
+      "start_the_game": "openssl s_client -connect example.com:443 -showcerts",
+      "uninstall_the_game": "pkg uninstall ca-certificates"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cabextract",
+    "version": "1.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A robust utility for extracting Microsoft Cabinet (CAB) archive files, supporting multi-volume cabinets, UTF-8 filenames, and advanced compression methods including LZX and Quantum. Essential for working with Windows installer packages and legacy software distributions.",
+    "homepage": "https://www.cabextract.org.uk/",
+    "installation": "pkg install cabextract",
+    "usage": "Extract cabinet: cabextract -F '*.dll' archive.cab",
+    "features": [
+      "Multi-Volume: Handles split CAB archives seamlessly",
+      "Compression: Supports MSZIP, LZX, and Quantum algorithms",
+      "Filtering: Extract specific files using glob patterns",
+      "UTF-8: Proper handling of international filenames",
+      "Recovery: Partial extraction from damaged cabinets",
+      "Scripting: Exit codes for batch processing integration"
+    ],
+    "gameplay": null,
+    "additional_resources": "Man pages with compression algorithm details",
+    "community_and_support": {
+      "forums": "GitHub Issues and Wine Project forums",
+      "GitHub": "https://github.com/kyz/libmspack"
+    },
+    "example_commands": {
+      "start_the_game": "cabextract -d output_dir install.cab",
+      "uninstall_the_game": "pkg uninstall cabextract"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "caddy",
+    "version": "2.9.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A modern, extensible web server with automatic HTTPS, designed for simplicity and security. Combines HTTP/3 support, reverse proxying, and API gateway capabilities in a single static binary with zero-configuration TLS via Let's Encrypt.",
+    "homepage": "https://caddyserver.com/",
+    "installation": "pkg install caddy",
+    "usage": "Start server: caddy run --config Caddyfile",
+    "features": [
+      "Auto-HTTPS: Automatic TLS certificate management",
+      "HTTP/3: QUIC protocol support for low-latency delivery",
+      "Reverse Proxy: Load balancing and health checks",
+      "Extensible: Plugin architecture with 100+ official modules",
+      "Config API: Dynamic configuration via REST endpoints",
+      "Templating: Caddyfile supports environment variables"
+    ],
+    "gameplay": null,
+    "additional_resources": "Caddyfile documentation and plugin registry",
+    "community_and_support": {
+      "forums": "Caddy Community Forum",
+      "GitHub": "https://github.com/caddyserver/caddy"
+    },
+    "example_commands": {
+      "start_the_game": "caddy start --watch",
+      "uninstall_the_game": "pkg uninstall caddy"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "calcurse",
+    "version": "4.8.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A text-based calendar and scheduling application with a curses interface, offering comprehensive personal information management including appointments, todos, and recurring events. Features CalDAV synchronization and export to iCalendar format.",
+    "homepage": "https://calcurse.org/",
+    "installation": "pkg install calcurse",
+    "usage": "Launch interface: calcurse",
+    "features": [
+      "Todo Management: Priority levels and progress tracking",
+      "Recurrence: Complex repeating event patterns",
+      "Import/Export: iCalendar (.ics) compatibility",
+      "Notifications: Desktop alerts and email reminders",
+      "Color Themes: Customizable terminal interface",
+      "Scripting: Python API for automation"
+    ],
+    "gameplay": null,
+    "additional_resources": "User manual with synchronization guides",
+    "community_and_support": {
+      "forums": "GitHub Discussions",
+      "GitHub": "https://github.com/lfos/calcurse"
+    },
+    "example_commands": {
+      "start_the_game": "calcurse -D ~/.calcurse -i calendar.ics",
+      "uninstall_the_game": "pkg uninstall calcurse"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "capstone-static",
+    "version": "5.0.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Statically linked build of the Capstone disassembly framework, providing multi-architecture, multi-platform disassembly capabilities in a single binary. Used in reverse engineering tools, debuggers, and binary analysis platforms.",
+    "homepage": "https://www.capstone-engine.org/",
+    "installation": "pkg install capstone-static",
+    "usage": "Link in projects: gcc -lcapstone -static analyzer.c",
+    "features": [
+      "Multi-Arch: ARM/x86/MIPS/PowerPC/SPARC support",
+      "Detailed Output: Operand types, flags, and metadata",
+      "Bindings: Python/Java/C#/Go integrations",
+      "Safety: Memory-safe disassembly context",
+      "Cross-Platform: Linux/macOS/Windows/BSD",
+      "Performance: Optimized for large binaries"
+    ],
+    "gameplay": null,
+    "additional_resources": "API documentation with architecture-specific guides",
+    "community_and_support": {
+      "forums": "Capstone Engine Google Group",
+      "GitHub": "https://github.com/capstone-engine/capstone"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (development library)",
+      "uninstall_the_game": "pkg uninstall capstone-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "capstone",
+    "version": "5.0.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Capstone is a lightweight multi-platform, multi-architecture disassembly framework.",
+    "homepage": "https://www.capstone-engine.org/",
+    "installation": "pkg install capstone",
+    "usage": "After installing Capstone, you can use it to disassemble binary code.",
+    "features": [
+      "Multi-platform Support: Available on multiple platforms including Windows, Linux, macOS, and others.",
+      "Multi-architecture: Supports multiple architectures such as ARM, ARM64, M68K, MIPS, PPC, SPARC, SystemZ, X86, XCore, TMS320C64X, etc.",
+      "Lightweight: Designed to be lightweight and efficient."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Capstone documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to binary analysis and disassembly for support and discussions.",
+      "GitHub": "Visit the Capstone GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall capstone"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cargo-c",
+    "version": "0.10.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cargo-c is a cargo subcommand for building and installing C-ABI-compatible dynamic and static libraries.",
+    "homepage": "https://github.com/lu-zero/cargo-c",
+    "installation": "pkg install cargo-c",
+    "usage": "After installing cargo-c, you can use it to build and install C-ABI-compatible libraries.",
+    "features": [
+      "Cargo Subcommand: Extends Cargo with additional capabilities for C-ABI.",
+      "Dynamic and Static Libraries: Supports building both dynamic and static libraries.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the cargo-c documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Rust and C programming for support and discussions.",
+      "GitHub": "Visit the cargo-c GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cargo-c"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "catdoc",
+    "version": "0.95-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Catdoc is a text extractor for Microsoft Word, Excel, and PowerPoint files.",
+    "homepage": "http://www.wagner.pp.ru/~vitus/software/catdoc/",
+    "installation": "pkg install catdoc",
+    "usage": "After installing catdoc, you can use it to extract text from Microsoft Office files.",
+    "features": [
+      "Text Extraction: Extracts text from Word, Excel, and PowerPoint files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the catdoc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text extraction and document processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of catdoc to find additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall catdoc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "catgirl",
+    "version": "2.2a",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Catgirl is a terminal-based IRC client.",
+    "homepage": "https://uninformativ.de/git/catgirl/",
+    "installation": "pkg install catgirl",
+    "usage": "After installing catgirl, you can use it to connect to IRC servers and chat.",
+    "features": [
+      "Terminal-Based: Runs in the terminal, making it lightweight and efficient.",
+      "IRC Client: Supports multiple IRC servers and channels.",
+      "Customizable: Offers various customization options for appearance and behavior."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the catgirl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to IRC clients and terminal applications for support and discussions.",
+      "GitHub": "Visit the catgirl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall catgirl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "catimg",
+    "version": "2.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Catimg is a fast image printer for the terminal.",
+    "homepage": "https://github.com/posva/catimg",
+    "installation": "pkg install catimg",
+    "usage": "After installing catimg, you can use it to display images in the terminal.",
+    "features": [
+      "Fast Image Printing: Displays images quickly in the terminal.",
+      "Terminal-Based: Runs in the terminal, making it lightweight and efficient.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the catimg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal applications and image processing for support and discussions.",
+      "GitHub": "Visit the catimg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall catimg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cava",
+    "version": "0.10.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cava is a console-based audio visualizer for various audio players.",
+    "homepage": "https://github.com/karlstav/cava",
+    "installation": "pkg install cava",
+    "usage": "After installing cava, you can use it to visualize audio output in the terminal.",
+    "features": [
+      "Audio Visualization: Visualizes audio output from various players.",
+      "Console-Based: Runs in the terminal, making it lightweight and efficient.",
+      "Customizable: Offers various customization options for appearance and behavior."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the cava documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio visualization and terminal applications for support and discussions.",
+      "GitHub": "Visit the cava GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cava"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cavez-of-phear",
+    "version": "0.6.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cavez of Phear is a Boulder Dash-like game for the terminal.",
+    "homepage": "https://github.com/ozkl/cavezofphear",
+    "installation": "pkg install cavez-of-phear",
+    "usage": "After installing Cavez of Phear, you can start the game by simply typing: cavez-of-phear",
+    "features": [
+      "Boulder Dash-Like: Similar gameplay to Boulder Dash.",
+      "Terminal-Based: Runs in the terminal, making it lightweight and efficient.",
+      "Multilevel: Offers multiple levels and challenges."
+    ],
+    "gameplay": {
+      "objective": "The main objective of the game is to collect gems and avoid obstacles.",
+      "controls": "The game is controlled entirely via the keyboard, utilizing various keys for movement and actions.",
+      "environment": "The game takes place in a cave environment, with different levels and maps for a varied gameplay experience."
+    },
+    "additional_resources": "For more information, visit the Cavez of Phear documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to retro and terminal games for support and discussions.",
+      "GitHub": "Visit the Cavez of Phear GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "cavez-of-phear",
+      "uninstall_the_game": "pkg uninstall cavez-of-phear"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cavif-rs",
+    "version": "1.5.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cavif-rs is a fast AVIF image encoder.",
+    "homepage": "https://github.com/kornelski/cavif-rs",
+    "installation": "pkg install cavif-rs",
+    "usage": "After installing cavif-rs, you can use it to encode images to the AVIF format.",
+    "features": [
+      "Fast Encoding: Efficiently encodes images to the AVIF format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Compression: Provides high compression rates for images."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the cavif-rs documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and encoding for support and discussions.",
+      "GitHub": "Visit the cavif-rs GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cavif-rs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cboard",
+    "version": "0.7.5-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cboard is a terminal-based chessboard for playing and analyzing chess games.",
+    "homepage": "https://github.com/cboard-org/cboard",
+    "installation": "pkg install cboard",
+    "usage": "After installing cboard, you can use it to play and analyze chess games in the terminal.",
+    "features": [
+      "Chessboard: Provides a terminal-based interface for playing chess.",
+      "Analysis Tools: Includes tools for analyzing chess games.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": {
+      "objective": "The main objective of the game is to play and win chess matches.",
+      "controls": "The game is controlled entirely via the keyboard, utilizing various keys for movement and actions.",
+      "environment": "The game takes place on a chessboard displayed in the terminal."
+    },
+    "additional_resources": "For more information, visit the cboard documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to chess and terminal games for support and discussions.",
+      "GitHub": "Visit the cboard GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "cboard",
+      "uninstall_the_game": "pkg uninstall cboard"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cbonsai",
+    "version": "1.3.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cbonsai is a bonsai tree generator for the terminal.",
+    "homepage": "https://github.com/mkfifo/cbonsai",
+    "installation": "pkg install cbonsai",
+    "usage": "After installing cbonsai, you can use it to generate bonsai trees in the terminal.",
+    "features": [
+      "Bonsai Tree Generator: Creates bonsai tree art in the terminal.",
+      "Terminal-Based: Runs in the terminal, making it lightweight and efficient.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the cbonsai documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal art and applications for support and discussions.",
+      "GitHub": "Visit the cbonsai GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cbonsai"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cc65",
+    "version": "2.19",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cc65 is a complete cross development package for 65(C)02 systems, including a powerful macro assembler, a C compiler, linker, librarian and several other tools.",
+    "homepage": "https://cc65.github.io/",
+    "installation": "pkg install cc65",
+    "usage": "After installing cc65, you can use it to develop software for 65(C)02 systems.",
+    "features": [
+      "Cross Development: Supports development for 65(C)02 systems.",
+      "Complete Package: Includes assembler, C compiler, linker, librarian, and other tools.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the cc65 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to retro computing and cross development for support and discussions.",
+      "GitHub": "Visit the cc65 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cc65"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ccache",
+    "version": "4.10.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ccache is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again.",
+    "homepage": "https://ccache.dev/",
+    "installation": "pkg install ccache",
+    "usage": "After installing ccache, you can use it to speed up your compilation processes.",
+    "features": [
+      "Compiler Cache: Caches previous compilations to speed up recompilation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficient: Reduces compilation time and resource usage."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the ccache documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to software development and compilation for support and discussions.",
+      "GitHub": "Visit the ccache GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall ccache"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cccc",
+    "version": "3.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CCCC is a tool to analyze and visualize C++ and Java code.",
+    "homepage": "http://cccc.sourceforge.net/",
+    "installation": "pkg install cccc",
+    "usage": "After installing cccc, you can use it to analyze and visualize your C++ and Java code.",
+    "features": [
+      "Code Analysis: Analyzes C++ and Java code for various metrics.",
+      "Visualization: Provides visual representations of code metrics.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CCCC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to software development and code analysis for support and discussions.",
+      "GitHub": "Search for repositories or forks of CCCC to find additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cccc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ccextractor",
+    "version": "0.94-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CCExtractor is a closed caption extractor for MPEG and other video formats.",
+    "homepage": "https://www.ccextractor.org/",
+    "installation": "pkg install ccextractor",
+    "usage": "After installing ccextractor, you can use it to extract closed captions from video files.",
+    "features": [
+      "Closed Caption Extraction: Extracts closed captions from various video formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficient: Quickly processes video files to extract captions."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the ccextractor documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video processing and closed captioning for support and discussions.",
+      "GitHub": "Visit the ccextractor GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall ccextractor"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ccls",
+    "version": "0.20241206",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ccls is a C/C++/Objective-C language server supporting cross references, hierarchies, completion and semantic highlighting.",
+    "homepage": "https://github.com/MaskRay/ccls",
+    "installation": "pkg install ccls",
+    "usage": "After installing ccls, you can use it as a language server for C/C++ development.",
+    "features": [
+      "Language Server: Provides features like cross references, hierarchies, completion, and semantic highlighting.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated with various editors and IDEs."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the ccls documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C/C++ development and language servers for support and discussions.",
+      "GitHub": "Visit the ccls GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall ccls"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ccrypt",
+    "version": "1.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ccrypt is a utility for encrypting and decrypting files and streams.",
+    "homepage": "http://ccrypt.sourceforge.net/",
+    "installation": "pkg install ccrypt",
+    "usage": "After installing ccrypt, you can use it to encrypt and decrypt files and streams.",
+    "features": [
+      "Encryption: Provides strong encryption for files and streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the ccrypt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to encryption and security for support and discussions.",
+      "GitHub": "Search for repositories or forks of ccrypt to find additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall ccrypt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cec-client",
+    "version": "6.0.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "cec-client is a command-line application for HDMI-CEC communication.",
+    "homepage": "https://libcec.pulse-eight.com/",
+    "installation": "pkg install cec-client",
+    "usage": "After installing cec-client, you can use it for HDMI-CEC communication.",
+    "features": [
+      "HDMI-CEC Communication: Allows communication with HDMI-CEC devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the cec-client documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HDMI-CEC and home automation for support and discussions.",
+      "GitHub": "Visit the libcec GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cec-client"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ceu-lang",
+    "version": "2019.07.17-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ceu is a programming language for asynchronous reactive programming.",
+    "homepage": "http://www.ceu-lang.org/",
+    "installation": "pkg install ceu-lang",
+    "usage": "After installing ceu-lang, you can use it to write asynchronous reactive programs.",
+    "features": [
+      "Asynchronous Reactive Programming: Designed for writing reactive systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Concurrency: Provides concurrency primitives for handling asynchronous events."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Ceu documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to reactive programming and concurrency for support and discussions.",
+      "GitHub": "Visit the Ceu GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall ceu-lang"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cfengine-static",
+    "version": "1:3.25.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CFEngine is an IT automation framework for managing IT infrastructure.",
+    "homepage": "https://cfengine.com/",
+    "installation": "pkg install cfengine-static",
+    "usage": "After installing cfengine-static, you can use it to manage IT infrastructure.",
+    "features": [
+      "IT Automation: Automates the management of IT infrastructure.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Scalable: Designed to scale to manage large IT environments."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CFEngine documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to IT automation and infrastructure management for support and discussions.",
+      "GitHub": "Visit the CFEngine GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cfengine-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cfengine",
+    "version": "1:3.25.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CFEngine is an IT automation framework for managing IT infrastructure.",
+    "homepage": "https://cfengine.com/",
+    "installation": "pkg install cfengine",
+    "usage": "After installing cfengine, you can use it to manage IT infrastructure.",
+    "features": [
+      "IT Automation: Automates the management of IT infrastructure.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Scalable: Designed to scale to manage large IT environments."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CFEngine documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to IT automation and infrastructure management for support and discussions.",
+      "GitHub": "Visit the CFEngine GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cfengine"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cfm",
+    "version": "1.2.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CFM is a console file manager inspired by Midnight Commander.",
+    "homepage": "https://github.com/tsl0922/ttyd",
+    "installation": "pkg install cfm",
+    "usage": "After installing cfm, you can use it to manage files in the terminal.",
+    "features": [
+      "File Manager: Provides a console-based interface for managing files.",
+      "Terminal-Based: Runs in the terminal, making it lightweight and efficient.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the cfengine documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management and terminal applications for support and discussions.",
+      "GitHub": "Visit the cfm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cfm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cgal",
+    "version": "6.0.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "CGAL is an open-source project that provides easy access to efficient and reliable geometric algorithms.",
+    "homepage": "https://www.cgal.org/",
+    "installation": "pkg install cgal",
+    "usage": "After installing cgal, you can use it to perform geometric computations.",
+    "features": [
+      "Geometric Algorithms: Provides a wide range of geometric algorithms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Open-Source: Free and open-source software."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CGAL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to computational geometry and geometric algorithms for support and discussions.",
+      "GitHub": "Visit the CGAL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cgal"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cgdb",
+    "version": "0.8.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CGDB is a curses-based interface to the GNU Debugger (GDB).",
+    "homepage": "https://cgdb.github.io/",
+    "installation": "pkg install cgdb",
+    "usage": "After installing cgdb, you can use it as a graphical interface for GDB.",
+    "features": [
+      "GDB Interface: Provides a curses-based interface to GDB.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficient: Simplifies debugging with a graphical interface."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CGDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and software development for support and discussions.",
+      "GitHub": "Visit the CGDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cgdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cgif",
+    "version": "0.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CGif is a library for creating GIF images.",
+    "homepage": "https://github.com/dloebl/cgif",
+    "installation": "pkg install cgif",
+    "usage": "After installing cgif, you can use it to create GIF images.",
+    "features": [
+      "GIF Creation: Provides tools for creating GIF images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficient: Quickly generates GIF files."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CGif documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and GIF creation for support and discussions.",
+      "GitHub": "Visit the CGif GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cgif"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "chafa-static",
+    "version": "1.14.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Chafa is a terminal graphics library that supports a wide range of image formats.",
+    "homepage": "https://github.com/hpjansson/chafa",
+    "installation": "pkg install chafa-static",
+    "usage": "After installing chafa-static, you can use it to display images in the terminal.",
+    "features": [
+      "Terminal Graphics: Provides tools for displaying graphics in the terminal.",
+      "Wide Format Support: Supports a wide range of image formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Chafa documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal graphics and image processing for support and discussions.",
+      "GitHub": "Visit the Chafa GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall chafa-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "chafa",
+    "version": "1.14.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Chafa is a terminal graphics library that supports a wide range of image formats.",
+    "homepage": "https://github.com/hpjansson/chafa",
+    "installation": "pkg install chafa",
+    "usage": "After installing chafa, you can use it to display images in the terminal.",
+    "features": [
+      "Terminal Graphics: Provides tools for displaying graphics in the terminal.",
+      "Wide Format Support: Supports a wide range of image formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Chafa documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal graphics and image processing for support and discussions.",
+      "GitHub": "Visit the Chafa GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall chafa"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "check-static",
+    "version": "0.15.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Check is a unit testing framework for C. It features a simple interface for defining unit tests, putting little in the way of the developer.",
+    "homepage": "https://libcheck.github.io/check/",
+    "installation": "pkg install check-static",
+    "usage": "After installing check-static, you can use it to write and run unit tests for C programs.",
+    "features": [
+      "Unit Testing: Provides a framework for writing and running unit tests in C.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Check documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C programming and unit testing for support and discussions.",
+      "GitHub": "Visit the Check GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall check-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "check",
+    "version": "0.15.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Check is a unit testing framework for C. It features a simple interface for defining unit tests, putting little in the way of the developer.",
+    "homepage": "https://libcheck.github.io/check/",
+    "installation": "pkg install check",
+    "usage": "After installing check, you can use it to write and run unit tests for C programs.",
+    "features": [
+      "Unit Testing: Provides a framework for writing and running unit tests in C.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Check documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C programming and unit testing for support and discussions.",
+      "GitHub": "Visit the Check GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall check"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "chezmoi",
+    "version": "2.59.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "chezmoi helps you manage your dotfiles across multiple diverse machines, securely.",
+    "homepage": "https://www.chezmoi.io/",
+    "installation": "pkg install chezmoi",
+    "usage": "After installing chezmoi, you can use it to manage your dotfiles.",
+    "features": [
+      "Dotfile Management: Manages dotfiles across multiple machines.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Security: Provides secure management of sensitive information in dotfiles."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the chezmoi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to dotfile management and automation for support and discussions.",
+      "GitHub": "Visit the chezmoi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall chezmoi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "chicken-static",
+    "version": "5.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CHICKEN is a Scheme-to-C compiler supporting the language features and standards of the Revised^5 Report on the Algorithmic Language Scheme.",
+    "homepage": "https://call-cc.org/",
+    "installation": "pkg install chicken-static",
+    "usage": "After installing chicken-static, you can use it to compile Scheme programs to C.",
+    "features": [
+      "Scheme-to-C Compiler: Compiles Scheme programs to C.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CHICKEN documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Scheme and functional programming for support and discussions.",
+      "GitHub": "Visit the CHICKEN GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall chicken-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "chicken",
+    "version": "5.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CHICKEN is a Scheme-to-C compiler supporting the language features and standards of the Revised^5 Report on the Algorithmic Language Scheme.",
+    "homepage": "https://call-cc.org/",
+    "installation": "pkg install chicken",
+    "usage": "After installing chicken, you can use it to compile Scheme programs to C.",
+    "features": [
+      "Scheme-to-C Compiler: Compiles Scheme programs to C.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CHICKEN documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Scheme and functional programming for support and discussions.",
+      "GitHub": "Visit the CHICKEN GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall chicken"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "choose",
+    "version": "1.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Choose is a human-friendly and fast alternative to cut and (sometimes) awk.",
+    "homepage": "https://github.com/theryangeary/choose",
+    "installation": "pkg install choose",
+    "usage": "After installing choose, you can use it to extract fields from text.",
+    "features": [
+      "Field Extraction: Extracts fields from text in a human-friendly way.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Fast and Efficient: Designed to be a fast and efficient alternative to cut and awk."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the choose documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and command line tools for support and discussions.",
+      "GitHub": "Visit the choose GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall choose"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "chromaprint",
+    "version": "1.5.1-p20221217-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Chromaprint is an audio fingerprinting library used to identify songs.",
+    "homepage": "https://acoustid.org/chromaprint",
+    "installation": "pkg install chromaprint",
+    "usage": "After installing chromaprint, you can use it to generate audio fingerprints for song identification.",
+    "features": [
+      "Audio Fingerprinting: Generates fingerprints for identifying songs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated with various applications for song identification."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Chromaprint documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and fingerprinting for support and discussions.",
+      "GitHub": "Visit the Chromaprint GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall chromaprint"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "chrony",
+    "version": "4.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Chrony is a versatile implementation of the Network Time Protocol (NTP).",
+    "homepage": "https://chrony.tuxfamily.org/",
+    "installation": "pkg install chrony",
+    "usage": "After installing chrony, you can use it to synchronize your system clock with NTP servers.",
+    "features": [
+      "NTP Implementation: Synchronizes system clock with NTP servers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Designed to work well in various network conditions and environments."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Chrony documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network time synchronization and NTP for support and discussions.",
+      "GitHub": "Visit the Chrony GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall chrony"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cicada",
+    "version": "1.0.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cicada is a simple and fast shell for Unix-like systems.",
+    "homepage": "https://github.com/mitnk/cicada",
+    "installation": "pkg install cicada",
+    "usage": "After installing cicada, you can use it as your default shell.",
+    "features": [
+      "Unix-like Shell: Provides a simple and fast shell for Unix-like systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various configuration options for customization."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cicada documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shell programming and Unix-like systems for support and discussions.",
+      "GitHub": "Visit the Cicada GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cicada"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ciso",
+    "version": "1.0.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CISO is a program to compress ISO images.",
+    "homepage": "https://github.com/hrydgard/iso_tool",
+    "installation": "pkg install ciso",
+    "usage": "After installing ciso, you can use it to compress and decompress ISO images.",
+    "features": [
+      "ISO Compression: Compresses and decompresses ISO images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficient: Provides efficient compression for reducing ISO image size."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CISO documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ISO image processing and compression for support and discussions.",
+      "GitHub": "Visit the CISO GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall ciso"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ckermit",
+    "version": "9.0.302-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "C-Kermit is a combined serial and network communication software package.",
+    "homepage": "http://www.kermitproject.org/",
+    "installation": "pkg install ckermit",
+    "usage": "After installing ckermit, you can use it for serial and network communication.",
+    "features": [
+      "Communication Software: Provides tools for serial and network communication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Supports a wide range of communication protocols and devices."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the C-Kermit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to communication software and protocols for support and discussions.",
+      "GitHub": "Search for repositories or forks of C-Kermit to find additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall ckermit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "clamav-static",
+    "version": "1.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ClamAV is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.",
+    "homepage": "https://www.clamav.net/",
+    "installation": "pkg install clamav-static",
+    "usage": "After installing clamav-static, you can use it to scan for and remove malware.",
+    "features": [
+      "Antivirus Engine: Detects and removes trojans, viruses, and malware.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the ClamAV documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to antivirus and security software for support and discussions.",
+      "GitHub": "Visit the ClamAV GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall clamav-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "clamav",
+    "version": "1.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ClamAV is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.",
+    "homepage": "https://www.clamav.net/",
+    "installation": "pkg install clamav",
+    "usage": "After installing clamav, you can use it to scan for and remove malware.",
+    "features": [
+      "Antivirus Engine: Detects and removes trojans, viruses, and malware.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the ClamAV documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to antivirus and security software for support and discussions.",
+      "GitHub": "Visit the ClamAV GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall clamav"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "clang",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Clang is a compiler front end for the C, C++, and Objective-C programming languages.",
+    "homepage": "https://clang.llvm.org/",
+    "installation": "pkg install clang",
+    "usage": "After installing clang, you can use it to compile C, C++, and Objective-C programs.",
+    "features": [
+      "Compiler Front End: Supports C, C++, and Objective-C languages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "LLVM Integration: Part of the LLVM project, providing advanced compiler features."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Clang documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C, C++, and Objective-C development for support and discussions.",
+      "GitHub": "Visit the Clang GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall clang"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "clblast",
+    "version": "1.6.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CLBlast is a modern, lightweight, and fast OpenCL library providing BLAS routines.",
+    "homepage": "https://github.com/CNugteren/CLBlast",
+    "installation": "pkg install clblast",
+    "usage": "After installing clblast, you can use it to perform BLAS operations on OpenCL devices.",
+    "features": [
+      "BLAS Routines: Provides BLAS operations for OpenCL devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Performance: Designed for high performance on various OpenCL devices."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CLBlast documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to OpenCL and BLAS for support and discussions.",
+      "GitHub": "Visit the CLBlast GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall clblast"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cliaoke",
+    "version": "0.2.4-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cliaoke is a karaoke player for the terminal.",
+    "homepage": "https://github.com/cliaoke/cliaoke",
+    "installation": "pkg install cliaoke",
+    "usage": "After installing cliaoke, you can use it to play karaoke tracks in the terminal.",
+    "features": [
+      "Karaoke Player: Plays karaoke tracks in the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Terminal-Based: Runs in the terminal, making it lightweight and efficient."
+    ],
+    "gameplay": {
+      "objective": "The main objective is to sing along with the lyrics displayed in the terminal.",
+      "controls": "The player is controlled via keyboard shortcuts for play, pause, and navigation.",
+      "environment": "The karaoke tracks are displayed with synchronized lyrics in the terminal."
+    },
+    "additional_resources": "For more information, visit the Cliaoke documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to karaoke and terminal applications for support and discussions.",
+      "GitHub": "Visit the Cliaoke GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "cliaoke",
+      "uninstall_the_game": "pkg uninstall cliaoke"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "clidle",
+    "version": "2022.05.25-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Clidle is a command-line idle game.",
+    "homepage": "https://github.com/clidle/clidle",
+    "installation": "pkg install clidle",
+    "usage": "After installing clidle, you can play the idle game in the terminal.",
+    "features": [
+      "Idle Game: Provides an idle gaming experience in the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various gameplay options and configurations."
+    ],
+    "gameplay": {
+      "objective": "The main objective is to progress through the game by performing various tasks.",
+      "controls": "The game is controlled via keyboard inputs for different actions.",
+      "environment": "The game takes place in a text-based environment in the terminal."
+    },
+    "additional_resources": "For more information, visit the Clidle documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to idle games and terminal applications for support and discussions.",
+      "GitHub": "Visit the Clidle GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "clidle",
+      "uninstall_the_game": "pkg uninstall clidle"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "clifm",
+    "version": "1.23",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Clifm is a command-line file manager.",
+    "homepage": "https://github.com/leo-arch/clifm",
+    "installation": "pkg install clifm",
+    "usage": "After installing clifm, you can use it to manage files in the terminal.",
+    "features": [
+      "File Manager: Provides a command-line interface for managing files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various options for customization and scripting."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Clifm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management and terminal applications for support and discussions.",
+      "GitHub": "Visit the Clifm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall clifm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "clinfo",
+    "version": "3.0.23.01.25",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Clinfo is a simple command-line application that enumerates all available OpenCL platforms and devices, and displays detailed information about them.",
+    "homepage": "https://github.com/Oblomov/clinfo",
+    "installation": "pkg install clinfo",
+    "usage": "After installing clinfo, you can use it to gather information about OpenCL platforms and devices.",
+    "features": [
+      "OpenCL Information: Provides detailed information about OpenCL platforms and devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Clinfo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to OpenCL and parallel computing for support and discussions.",
+      "GitHub": "Visit the Clinfo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall clinfo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "clipp",
+    "version": "1.2.3-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Clipp is a simple, intuitive, and powerful command line argument parser for C++11 and beyond.",
+    "homepage": "https://github.com/muellan/clipp",
+    "installation": "pkg install clipp",
+    "usage": "After installing clipp, you can use it to parse command line arguments in your C++ programs.",
+    "features": [
+      "Command Line Argument Parsing: Provides a simple and intuitive interface for parsing command line arguments.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "C++11 Support: Designed for use with C++11 and later standards."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Clipp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ programming and command line tools for support and discussions.",
+      "GitHub": "Visit the Clipp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall clipp"
+    },
+    "isFavorite": false
+  }
+]

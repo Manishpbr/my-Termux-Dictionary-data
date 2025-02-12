@@ -1,0 +1,1083 @@
+[
+  {
+    "name": "v2ray",
+    "version": "5.24.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "V2Ray is a platform for building proxies to bypass network restrictions.",
+    "homepage": "https://www.v2ray.com/",
+    "installation": "pkg install v2ray",
+    "usage": "After installing V2Ray, you can use it to build proxies to bypass network restrictions.",
+    "features": [
+      "Proxy Platform: Provides tools for building proxies to bypass network restrictions.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official V2Ray website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network proxies for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_v2ray": "v2ray -config config.json",
+      "uninstall": "pkg uninstall v2ray"
+    }
+  },
+  {
+    "name": "valac-static",
+    "version": "0.56.17",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Valac-static provides a static binary version of the Vala compiler.",
+    "homepage": "https://wiki.gnome.org/Projects/Vala",
+    "installation": "pkg install valac-static",
+    "usage": "After installing Valac-static, you can use it to compile Vala code with a static binary.",
+    "features": [
+      "Vala Compiler: Provides a static binary version of the Vala compiler.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vala project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Vala programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_vala": "valac-static example.vala",
+      "uninstall": "pkg uninstall valac-static"
+    }
+  },
+  {
+    "name": "valac",
+    "version": "0.56.17",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Valac is the Vala compiler.",
+    "homepage": "https://wiki.gnome.org/Projects/Vala",
+    "installation": "pkg install valac",
+    "usage": "After installing Valac, you can use it to compile Vala code.",
+    "features": [
+      "Vala Compiler: Provides a compiler for the Vala programming language.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vala project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Vala programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_vala": "valac example.vala",
+      "uninstall": "pkg uninstall valac"
+    }
+  },
+  {
+    "name": "valadoc-static",
+    "version": "0.56.17",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Valadoc-static provides a static binary version of Valadoc, a documentation generator for Vala code.",
+    "homepage": "https://wiki.gnome.org/Projects/Valadoc",
+    "installation": "pkg install valadoc-static",
+    "usage": "After installing Valadoc-static, you can use it to generate documentation for Vala code with a static binary.",
+    "features": [
+      "Documentation Generator: Provides a static binary version of Valadoc for generating documentation for Vala code.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Valadoc project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Vala programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_docs": "valadoc-static example.vala",
+      "uninstall": "pkg uninstall valadoc-static"
+    }
+  },
+  {
+    "name": "valadoc",
+    "version": "0.56.17",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Valadoc is a documentation generator for Vala code.",
+    "homepage": "https://wiki.gnome.org/Projects/Valadoc",
+    "installation": "pkg install valadoc",
+    "usage": "After installing Valadoc, you can use it to generate documentation for Vala code.",
+    "features": [
+      "Documentation Generator: Provides tools for generating documentation for Vala code.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Valadoc project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Vala programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_docs": "valadoc example.vala",
+      "uninstall": "pkg uninstall valadoc"
+    }
+  },
+  {
+    "name": "vale",
+    "version": "3.9.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vale is a syntax-aware linter for prose built with speed and extensibility in mind.",
+    "homepage": "https://vale.sh/",
+    "installation": "pkg install vale",
+    "usage": "After installing Vale, you can use it to lint prose for style and grammar.",
+    "features": [
+      "Prose Linter: Provides a syntax-aware linter for prose.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vale website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to writing and editing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "lint_prose": "vale document.md",
+      "uninstall": "pkg uninstall vale"
+    }
+  },
+  {
+    "name": "vamp-plugin-sdk-static",
+    "version": "2.10-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vamp-plugin-sdk-static provides a static binary version of the Vamp Plugin SDK for audio analysis plugins.",
+    "homepage": "https://www.vamp-plugins.org/",
+    "installation": "pkg install vamp-plugin-sdk-static",
+    "usage": "After installing Vamp-plugin-sdk-static, you can use it to develop audio analysis plugins with a static binary.",
+    "features": [
+      "Audio Analysis Plugins: Provides a static binary version of the Vamp Plugin SDK for developing audio analysis plugins.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vamp Plugins website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio analysis for support and discussions.",
+      "GitHub": "Search for repositories or forks of Vamp Plugin SDK to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "develop_plugin": "vamp-plugin-sdk-static",
+      "uninstall": "pkg uninstall vamp-plugin-sdk-static"
+    }
+  },
+  {
+    "name": "vamp-plugin-sdk",
+    "version": "2.10-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vamp Plugin SDK is a software development kit for creating audio analysis plugins.",
+    "homepage": "https://www.vamp-plugins.org/",
+    "installation": "pkg install vamp-plugin-sdk",
+    "usage": "After installing Vamp Plugin SDK, you can use it to develop audio analysis plugins.",
+    "features": [
+      "Audio Analysis Plugins: Provides tools and libraries for developing audio analysis plugins.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vamp Plugins website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio analysis for support and discussions.",
+      "GitHub": "Search for repositories or forks of Vamp Plugin SDK to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "develop_plugin": "vamp-plugin-sdk",
+      "uninstall": "pkg uninstall vamp-plugin-sdk"
+    }
+  },
+  {
+    "name": "vbindiff",
+    "version": "3.0-beta5-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VBinDiff (Visual Binary Diff) is a binary file comparison tool.",
+    "homepage": "https://www.cjmweb.net/vbindiff/",
+    "installation": "pkg install vbindiff",
+    "usage": "After installing VBinDiff, you can use it to compare binary files.",
+    "features": [
+      "Binary File Comparison: Provides tools for comparing binary files.",
+      "Visual Interface: Offers a visual interface for easy comparison.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VBinDiff website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file comparison for support and discussions.",
+      "GitHub": "Search for repositories or forks of VBinDiff to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compare_files": "vbindiff file1.bin file2.bin",
+      "uninstall": "pkg uninstall vbindiff"
+    }
+  },
+  {
+    "name": "vcsh",
+    "version": "2.0.10",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "VCSH (Version Control System for $HOME) allows you to have multiple Git repositories in your home directory.",
+    "homepage": "https://github.com/RichiH/vcsh",
+    "installation": "pkg install vcsh",
+    "usage": "After installing VCSH, you can use it to manage multiple Git repositories in your home directory.",
+    "features": [
+      "Multiple Git Repositories: Allows managing multiple Git repositories in your home directory.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VCSH repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Git for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "init_repo": "vcsh init myrepo",
+      "uninstall": "pkg uninstall vcsh"
+    }
+  },
+  {
+    "name": "vde2-static",
+    "version": "2.3.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VDE2-static provides a static binary version of VDE (Virtual Distributed Ethernet), a virtual networking framework.",
+    "homepage": "https://github.com/virtualsquare/vde-2",
+    "installation": "pkg install vde2-static",
+    "usage": "After installing VDE2-static, you can use it to create virtual networks with static binaries.",
+    "features": [
+      "Virtual Networking: Provides tools for creating virtual networks with static binaries.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VDE2 repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to virtual networking for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_network": "vde_switch -s /tmp/switch",
+      "uninstall": "pkg uninstall vde2-static"
+    }
+  },
+  {
+    "name": "vde2",
+    "version": "2.3.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VDE2 (Virtual Distributed Ethernet) is a virtual networking framework.",
+    "homepage": "https://github.com/virtualsquare/vde-2",
+    "installation": "pkg install vde2",
+    "usage": "After installing VDE2, you can use it to create virtual networks.",
+    "features": [
+      "Virtual Networking: Provides tools for creating virtual networks.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VDE2 repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to virtual networking for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_network": "vde_switch -s /tmp/switch",
+      "uninstall": "pkg uninstall vde2"
+    }
+  },
+  {
+    "name": "vegeta",
+    "version": "12.12.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate.",
+    "homepage": "https://github.com/tsenart/vegeta",
+    "installation": "pkg install vegeta",
+    "usage": "After installing Vegeta, you can use it to perform HTTP load testing.",
+    "features": [
+      "Load Testing: Provides tools for HTTP load testing.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vegeta repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to load testing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "attack": "echo 'GET http://example.com' | vegeta attack -duration=10s | vegeta report",
+      "uninstall": "pkg uninstall vegeta"
+    }
+  },
+  {
+    "name": "vera",
+    "version": "1.3.0-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vera++ is a programmable tool for verification, analysis, and transformation of C++ source code.",
+    "homepage": "https://bitbucket.org/verateam/vera/",
+    "installation": "pkg install vera",
+    "usage": "After installing Vera++, you can use it to verify, analyze, and transform C++ source code.",
+    "features": [
+      "Code Verification: Provides tools for verifying C++ source code.",
+      "Code Analysis: Provides tools for analyzing C++ source code.",
+      "Code Transformation: Provides tools for transforming C++ source code.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vera++ repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C++ programming for support and discussions.",
+      "GitHub": "Search for repositories or forks of Vera++ to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "verify_code": "vera++ file.cpp",
+      "uninstall": "pkg uninstall vera"
+    }
+  },
+  {
+    "name": "vgmstream",
+    "version": "1980",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VGMStream is a library for playing a wide variety of video game music formats.",
+    "homepage": "https://github.com/vgmstream/vgmstream",
+    "installation": "pkg install vgmstream",
+    "usage": "After installing VGMStream, you can use it to play various video game music formats.",
+    "features": [
+      "Music Playback: Provides tools for playing a wide variety of video game music formats.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VGMStream repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to video game music for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_music": "vgmstream -o output.wav input.vgm",
+      "uninstall": "pkg uninstall vgmstream"
+    }
+  },
+  {
+    "name": "vgmtools",
+    "version": "2023.01.27",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VGMTools is a set of tools for manipulating video game music files.",
+    "homepage": "https://github.com/vgmtools/vgmtools",
+    "installation": "pkg install vgmtools",
+    "usage": "After installing VGMTools, you can use it to manipulate video game music files.",
+    "features": [
+      "Music Manipulation: Provides tools for manipulating video game music files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VGMTools repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to video game music for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manipulate_music": "vgmtools input.vgm output.vgm",
+      "uninstall": "pkg uninstall vgmtools"
+    }
+  },
+  {
+    "name": "viddy",
+    "version": "1.3.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Viddy is a modern watch command, with time machine and pager support.",
+    "homepage": "https://github.com/sachaos/viddy",
+    "installation": "pkg install viddy",
+    "usage": "After installing Viddy, you can use it as a modern watch command with additional features.",
+    "features": [
+      "Modern Watch Command: Provides a modern watch command with additional features.",
+      "Time Machine: Supports time machine functionality.",
+      "Pager Support: Supports pager functionality.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Viddy repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_viddy": "viddy -c 'command'",
+      "uninstall": "pkg uninstall viddy"
+    }
+  },
+  {
+    "name": "vifm",
+    "version": "0.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vifm is a ncurses-based file manager with vi-like keybindings.",
+    "homepage": "https://vifm.info/",
+    "installation": "pkg install vifm",
+    "usage": "After installing Vifm, you can use it to manage files with vi-like keybindings.",
+    "features": [
+      "File Manager: Provides a ncurses-based file manager.",
+      "Vi-like Keybindings: Uses vi-like keybindings for file management.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vifm website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_vifm": "vifm",
+      "uninstall": "pkg uninstall vifm"
+    }
+  },
+  {
+    "name": "vile",
+    "version": "9.8z",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vile (Vi Like Emacs) is a text editor that combines the best features of vi and Emacs.",
+    "homepage": "https://invisible-island.net/vile/",
+    "installation": "pkg install vile",
+    "usage": "After installing Vile, you can use it as a text editor that combines the best features of vi and Emacs.",
+    "features": [
+      "Text Editor: Provides a text editor that combines features of vi and Emacs.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vile website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Vile to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_vile": "vile",
+      "uninstall": "pkg uninstall vile"
+    }
+  },
+  {
+    "name": "vim",
+    "version": "9.1.1050",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vim is a highly configurable text editor built to enable efficient text editing.",
+    "homepage": "https://www.vim.org/",
+    "installation": "pkg install vim",
+    "usage": "After installing Vim, you can use it as a highly configurable text editor for efficient text editing.",
+    "features": [
+      "Text Editor: Provides a highly configurable text editor.",
+      "Efficient Text Editing: Built to enable efficient text editing.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vim website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_vim": "vim",
+      "uninstall": "pkg uninstall vim"
+    }
+  },
+  {
+    "name": "virglrenderer-android",
+    "version": "1.0.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Virglrenderer-android is a virtual GPU for use with QEMU and Android.",
+    "homepage": "https://gitlab.freedesktop.org/virgl/virglrenderer",
+    "installation": "pkg install virglrenderer-android",
+    "usage": "After installing Virglrenderer-android, you can use it to provide virtual GPU support for QEMU and Android.",
+    "features": [
+      "Virtual GPU: Provides a virtual GPU for use with QEMU and Android.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Virglrenderer repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to virtual GPUs for support and discussions.",
+      "GitHub": "Visit the GitLab repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_virglrenderer": "virglrenderer -s /tmp/virglrenderer",
+      "uninstall": "pkg uninstall virglrenderer-android"
+    }
+  },
+  {
+    "name": "virglrenderer",
+    "version": "1.1.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Virglrenderer is a virtual GPU for use with QEMU.",
+    "homepage": "https://gitlab.freedesktop.org/virgl/virglrenderer",
+    "installation": "pkg install virglrenderer",
+    "usage": "After installing Virglrenderer, you can use it to provide virtual GPU support for QEMU.",
+    "features": [
+      "Virtual GPU: Provides a virtual GPU for use with QEMU.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Virglrenderer repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to virtual GPUs for support and discussions.",
+      "GitHub": "Visit the GitLab repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_virglrenderer": "virglrenderer -s /tmp/virglrenderer",
+      "uninstall": "pkg uninstall virglrenderer"
+    }
+  },
+  {
+    "name": "virustotal-cli",
+    "version": "1.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VirusTotal CLI is a command-line interface for interacting with the VirusTotal API.",
+    "homepage": "https://github.com/VirusTotal/vt-cli",
+    "installation": "pkg install virustotal-cli",
+    "usage": "After installing VirusTotal CLI, you can use it to interact with the VirusTotal API for file and URL analysis.",
+    "features": [
+      "VirusTotal API: Provides a command-line interface for interacting with the VirusTotal API.",
+      "File and URL Analysis: Allows analysis of files and URLs using VirusTotal's services.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VirusTotal CLI repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cybersecurity for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "scan_file": "vt scan file <file-path>",
+      "scan_url": "vt scan url <url>",
+      "uninstall": "pkg uninstall virustotal-cli"
+    }
+  },
+  {
+    "name": "vis",
+    "version": "0.9-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vis is a modern, legacy-free, simple yet efficient vim-like editor.",
+    "homepage": "https://github.com/martanne/vis",
+    "installation": "pkg install vis",
+    "usage": "After installing Vis, you can use it as a modern, vim-like text editor.",
+    "features": [
+      "Text Editor: Provides a modern, vim-like text editor.",
+      "Legacy-Free: Designed to be simple yet efficient without legacy baggage.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vis repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_vis": "vis <file>",
+      "uninstall": "pkg uninstall vis"
+    }
+  },
+  {
+    "name": "vitetris",
+    "version": "0.59.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vitetris is a terminal-based Tetris clone.",
+    "homepage": "https://github.com/vicgeralds/vitetris",
+    "installation": "pkg install vitetris",
+    "usage": "After installing Vitetris, you can use it to play Tetris in the terminal.",
+    "features": [
+      "Tetris Clone: Provides a terminal-based Tetris game.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vitetris repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_vitetris": "vitetris",
+      "uninstall": "pkg uninstall vitetris"
+    }
+  },
+  {
+    "name": "viu",
+    "version": "1.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Viu is a small command-line application to view images from the terminal.",
+    "homepage": "https://github.com/atanunq/viu",
+    "installation": "pkg install viu",
+    "usage": "After installing Viu, you can use it to view images directly in the terminal.",
+    "features": [
+      "Image Viewer: Provides a command-line application to view images from the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Viu repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_image": "viu <image-path>",
+      "uninstall": "pkg uninstall viu"
+    }
+  },
+  {
+    "name": "vivid",
+    "version": "0.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vivid is a theme manager for the LS_COLORS environment variable.",
+    "homepage": "https://github.com/sharkdp/vivid",
+    "installation": "pkg install vivid",
+    "usage": "After installing Vivid, you can use it to manage themes for the LS_COLORS environment variable.",
+    "features": [
+      "Theme Manager: Provides a theme manager for the LS_COLORS environment variable.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vivid repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal customization for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_themes": "vivid list",
+      "apply_theme": "vivid generate <theme> > ~/.ls_colors",
+      "uninstall": "pkg uninstall vivid"
+    }
+  },
+  {
+    "name": "vlc-static",
+    "version": "3.0.21-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VLC-static provides a static binary version of VLC media player.",
+    "homepage": "https://www.videolan.org/vlc/",
+    "installation": "pkg install vlc-static",
+    "usage": "After installing VLC-static, you can use it to play multimedia files and streams with a static binary of VLC.",
+    "features": [
+      "Media Player: Provides a static binary version of VLC media player.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VLC website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to media players for support and discussions.",
+      "GitHub": "Visit the VideoLAN repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_media": "vlc-static <media-file>",
+      "uninstall": "pkg uninstall vlc-static"
+    }
+  },
+  {
+    "name": "vlc",
+    "version": "3.0.21-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VLC is a free and open-source cross-platform multimedia player and framework.",
+    "homepage": "https://www.videolan.org/vlc/",
+    "installation": "pkg install vlc",
+    "usage": "After installing VLC, you can use it to play multimedia files and streams.",
+    "features": [
+      "Media Player: Provides a cross-platform multimedia player and framework.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VLC website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to media players for support and discussions.",
+      "GitHub": "Visit the VideoLAN repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_media": "vlc <media-file>",
+      "uninstall": "pkg uninstall vlc"
+    }
+  },
+  {
+    "name": "vobsub2srt",
+    "version": "2017.12.18-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vobsub2srt is a tool to convert VobSub subtitle files (IDX/SUB) to SRT subtitles.",
+    "homepage": "https://github.com/ruediger/VobSub2SRT",
+    "installation": "pkg install vobsub2srt",
+    "usage": "After installing Vobsub2srt, you can use it to convert VobSub subtitle files to SRT subtitles.",
+    "features": [
+      "Subtitle Conversion: Provides tools to convert VobSub subtitle files to SRT subtitles.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vobsub2srt repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to subtitle conversion for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_subtitles": "vobsub2srt input.idx",
+      "uninstall": "pkg uninstall vobsub2srt"
+    }
+  },
+  {
+    "name": "vorbis-tools",
+    "version": "1.4.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vorbis-tools is a set of tools for encoding, playing, and managing Vorbis audio files.",
+    "homepage": "https://xiph.org/vorbis/",
+    "installation": "pkg install vorbis-tools",
+    "usage": "After installing Vorbis-tools, you can use it to encode, play, and manage Vorbis audio files.",
+    "features": [
+      "Audio Tools: Provides tools for encoding, playing, and managing Vorbis audio files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vorbis website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of Vorbis-tools to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_audio": "oggenc input.wav",
+      "play_audio": "ogg123 input.ogg",
+      "uninstall": "pkg uninstall vorbis-tools"
+    }
+  },
+  {
+    "name": "vtm",
+    "version": "0.9.99.61",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VTM (Virtual Terminal Manager) is a terminal multiplexer and window manager.",
+    "homepage": "https://github.com/netxs-group/VTM",
+    "installation": "pkg install vtm",
+    "usage": "After installing VTM, you can use it as a terminal multiplexer and window manager.",
+    "features": [
+      "Terminal Multiplexer: Provides tools for multiplexing terminals.",
+      "Window Manager: Offers window management features.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VTM repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_vtm": "vtm",
+      "uninstall": "pkg uninstall vtm"
+    }
+  },
+  {
+    "name": "vttest",
+    "version": "20241208",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vttest is a program to test the compatibility (i.e., the correctness) of terminal emulators.",
+    "homepage": "https://invisible-island.net/vttest/",
+    "installation": "pkg install vttest",
+    "usage": "After installing Vttest, you can use it to test the compatibility of terminal emulators.",
+    "features": [
+      "Terminal Testing: Provides tools for testing the compatibility of terminal emulators.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vttest website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal emulators for support and discussions.",
+      "GitHub": "Search for repositories or forks of Vttest to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "test_terminal": "vttest",
+      "uninstall": "pkg uninstall vttest"
+    }
+  },
+  {
+    "name": "virustotal-cli",
+    "version": "1.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VirusTotal CLI is a command-line interface for interacting with the VirusTotal API.",
+    "homepage": "https://github.com/VirusTotal/vt-cli",
+    "installation": "pkg install virustotal-cli",
+    "usage": "After installing VirusTotal CLI, you can use it to interact with the VirusTotal API for file and URL analysis.",
+    "features": [
+      "VirusTotal API: Provides a command-line interface for interacting with the VirusTotal API.",
+      "File and URL Analysis: Allows analysis of files and URLs using VirusTotal's services.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VirusTotal CLI repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cybersecurity for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "scan_file": "vt scan file <file-path>",
+      "scan_url": "vt scan url <url>",
+      "uninstall": "pkg uninstall virustotal-cli"
+    }
+  },
+  {
+    "name": "vis",
+    "version": "0.9-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vis is a modern, legacy-free, simple yet efficient vim-like editor.",
+    "homepage": "https://github.com/martanne/vis",
+    "installation": "pkg install vis",
+    "usage": "After installing Vis, you can use it as a modern, vim-like text editor.",
+    "features": [
+      "Text Editor: Provides a modern, vim-like text editor.",
+      "Legacy-Free: Designed to be simple yet efficient without legacy baggage.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vis repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_vis": "vis <file>",
+      "uninstall": "pkg uninstall vis"
+    }
+  },
+  {
+    "name": "vitetris",
+    "version": "0.59.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vitetris is a terminal-based Tetris clone.",
+    "homepage": "https://github.com/vicgeralds/vitetris",
+    "installation": "pkg install vitetris",
+    "usage": "After installing Vitetris, you can use it to play Tetris in the terminal.",
+    "features": [
+      "Tetris Clone: Provides a terminal-based Tetris game.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vitetris repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_vitetris": "vitetris",
+      "uninstall": "pkg uninstall vitetris"
+    }
+  },
+  {
+    "name": "viu",
+    "version": "1.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Viu is a small command-line application to view images from the terminal.",
+    "homepage": "https://github.com/atanunq/viu",
+    "installation": "pkg install viu",
+    "usage": "After installing Viu, you can use it to view images directly in the terminal.",
+    "features": [
+      "Image Viewer: Provides a command-line application to view images from the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Viu repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_image": "viu <image-path>",
+      "uninstall": "pkg uninstall viu"
+    }
+  },
+  {
+    "name": "vivid",
+    "version": "0.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vivid is a theme manager for the LS_COLORS environment variable.",
+    "homepage": "https://github.com/sharkdp/vivid",
+    "installation": "pkg install vivid",
+    "usage": "After installing Vivid, you can use it to manage themes for the LS_COLORS environment variable.",
+    "features": [
+      "Theme Manager: Provides a theme manager for the LS_COLORS environment variable.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vivid repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal customization for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_themes": "vivid list",
+      "apply_theme": "vivid generate <theme> > ~/.ls_colors",
+      "uninstall": "pkg uninstall vivid"
+    }
+  },
+  {
+    "name": "vlc-static",
+    "version": "3.0.21-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VLC-static provides a static binary version of VLC media player.",
+    "homepage": "https://www.videolan.org/vlc/",
+    "installation": "pkg install vlc-static",
+    "usage": "After installing VLC-static, you can use it to play multimedia files and streams with a static binary of VLC.",
+    "features": [
+      "Media Player: Provides a static binary version of VLC media player.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VLC website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to media players for support and discussions.",
+      "GitHub": "Visit the VideoLAN repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_media": "vlc-static <media-file>",
+      "uninstall": "pkg uninstall vlc-static"
+    }
+  },
+  {
+    "name": "vlc",
+    "version": "3.0.21-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VLC is a free and open-source cross-platform multimedia player and framework.",
+    "homepage": "https://www.videolan.org/vlc/",
+    "installation": "pkg install vlc",
+    "usage": "After installing VLC, you can use it to play multimedia files and streams.",
+    "features": [
+      "Media Player: Provides a cross-platform multimedia player and framework.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VLC website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to media players for support and discussions.",
+      "GitHub": "Visit the VideoLAN repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_media": "vlc <media-file>",
+      "uninstall": "pkg uninstall vlc"
+    }
+  },
+  {
+    "name": "vobsub2srt",
+    "version": "2017.12.18-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vobsub2srt is a tool to convert VobSub subtitle files (IDX/SUB) to SRT subtitles.",
+    "homepage": "https://github.com/ruediger/VobSub2SRT",
+    "installation": "pkg install vobsub2srt",
+    "usage": "After installing Vobsub2srt, you can use it to convert VobSub subtitle files to SRT subtitles.",
+    "features": [
+      "Subtitle Conversion: Provides tools to convert VobSub subtitle files to SRT subtitles.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vobsub2srt repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to subtitle conversion for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_subtitles": "vobsub2srt input.idx",
+      "uninstall": "pkg uninstall vobsub2srt"
+    }
+  },
+  {
+    "name": "vorbis-tools",
+    "version": "1.4.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vorbis-tools is a set of tools for encoding, playing, and managing Vorbis audio files.",
+    "homepage": "https://xiph.org/vorbis/",
+    "installation": "pkg install vorbis-tools",
+    "usage": "After installing Vorbis-tools, you can use it to encode, play, and manage Vorbis audio files.",
+    "features": [
+      "Audio Tools: Provides tools for encoding, playing, and managing Vorbis audio files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vorbis website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of Vorbis-tools to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_audio": "oggenc input.wav",
+      "play_audio": "ogg123 input.ogg",
+      "uninstall": "pkg uninstall vorbis-tools"
+    }
+  },
+  {
+    "name": "vtm",
+    "version": "0.9.99.61",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "VTM (Virtual Terminal Manager) is a terminal multiplexer and window manager.",
+    "homepage": "https://github.com/netxs-group/VTM",
+    "installation": "pkg install vtm",
+    "usage": "After installing VTM, you can use it as a terminal multiplexer and window manager.",
+    "features": [
+      "Terminal Multiplexer: Provides tools for multiplexing terminals.",
+      "Window Manager: Offers window management features.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official VTM repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_vtm": "vtm",
+      "uninstall": "pkg uninstall vtm"
+    }
+  },
+  {
+    "name": "vttest",
+    "version": "20241208",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Vttest is a program to test the compatibility (i.e., the correctness) of terminal emulators.",
+    "homepage": "https://invisible-island.net/vttest/",
+    "installation": "pkg install vttest",
+    "usage": "After installing Vttest, you can use it to test the compatibility of terminal emulators.",
+    "features": [
+      "Terminal Testing: Provides tools for testing the compatibility of terminal emulators.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Vttest website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal emulators for support and discussions.",
+      "GitHub": "Search for repositories or forks of Vttest to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "test_terminal": "vttest",
+      "uninstall": "pkg uninstall vttest"
+    }
+  }
+]

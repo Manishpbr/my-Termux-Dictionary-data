@@ -1,0 +1,612 @@
+[
+  {
+    "name": "x11-repo",
+    "version": "8.4-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "x11-repo is a repository of X11 packages for various Unix-like systems.",
+    "homepage": "https://x.org/",
+    "installation": "pkg install x11-repo",
+    "usage": "After installing x11-repo, you can access and install various X11 packages.",
+    "features": [
+      "X11 Packages: Provides a repository of X11 packages.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official X.Org website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to X11 for support and discussions.",
+      "GitHub": "Search for repositories or forks of x11-repo to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_package": "pkg install x11-repo",
+      "uninstall": "pkg uninstall x11-repo"
+    }
+  },
+  {
+    "name": "x264",
+    "version": "1:0.164.3191",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "x264 is a free software library and application for encoding video streams into the H.264/MPEG-4 AVC format.",
+    "homepage": "https://www.videolan.org/developers/x264.html",
+    "installation": "pkg install x264",
+    "usage": "After installing x264, you can use it to encode video streams into the H.264 format.",
+    "features": [
+      "Video Encoding: Provides tools for encoding video streams into the H.264/MPEG-4 AVC format.",
+      "High Performance: Designed for high performance and efficiency.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official VideoLAN website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to video encoding for support and discussions.",
+      "GitHub": "Search for repositories or forks of x264 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_video": "x264 input.mp4 -o output.mp4",
+      "uninstall": "pkg uninstall x264"
+    }
+  },
+  {
+    "name": "x265",
+    "version": "4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "x265 is an open-source HEVC encoder, designed to encode video into the H.265/HEVC format.",
+    "homepage": "https://x265.org/",
+    "installation": "pkg install x265",
+    "usage": "After installing x265, you can use it to encode video streams into the H.265 format.",
+    "features": [
+      "Video Encoding: Provides tools for encoding video streams into the H.265/HEVC format.",
+      "High Efficiency: Designed for high efficiency and performance.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official x265 website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to video encoding for support and discussions.",
+      "GitHub": "Search for repositories or forks of x265 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_video": "x265 input.mp4 -o output.mp4",
+      "uninstall": "pkg uninstall x265"
+    }
+  },
+  {
+    "name": "xapian-tools",
+    "version": "1.4.27",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xapian-tools provides a set of tools for the Xapian search engine library.",
+    "homepage": "https://xapian.org/",
+    "installation": "pkg install xapian-tools",
+    "usage": "After installing xapian-tools, you can use the provided tools for working with the Xapian search engine library.",
+    "features": [
+      "Search Engine: Provides tools for working with the Xapian search engine library.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Xapian website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to search engines for support and discussions.",
+      "GitHub": "Search for repositories or forks of Xapian to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_tools": "xapian-tool command",
+      "uninstall": "pkg uninstall xapian-tools"
+    }
+  },
+  {
+    "name": "xcb-proto",
+    "version": "1.17.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "xcb-proto provides the X protocol descriptions for the XCB library.",
+    "homepage": "https://xcb.freedesktop.org/",
+    "installation": "pkg install xcb-proto",
+    "usage": "After installing xcb-proto, you can use it to provide X protocol descriptions for the XCB library.",
+    "features": [
+      "X Protocol: Provides X protocol descriptions for the XCB library.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official XCB website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XCB for support and discussions.",
+      "GitHub": "Search for repositories or forks of XCB to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_xcb_proto": "Include xcb-proto in your XCB projects.",
+      "uninstall": "pkg uninstall xcb-proto"
+    }
+  },
+  {
+    "name": "xdelta3",
+    "version": "3.1.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xdelta3 is a tool for generating and applying incremental binary deltas.",
+    "homepage": "http://xdelta.org/",
+    "installation": "pkg install xdelta3",
+    "usage": "After installing xdelta3, you can use it to generate and apply incremental binary deltas.",
+    "features": [
+      "Binary Deltas: Provides tools for generating and applying incremental binary deltas.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official xdelta website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to binary deltas for support and discussions.",
+      "GitHub": "Search for repositories or forks of xdelta to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_delta": "xdelta3 -e -s oldfile newfile deltafile",
+      "apply_delta": "xdelta3 -d -s oldfile deltafile newfile",
+      "uninstall": "pkg uninstall xdelta3"
+    }
+  },
+  {
+    "name": "xh",
+    "version": "0.23.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xh is a friendly and fast tool for sending HTTP requests.",
+    "homepage": "https://github.com/ducaale/xh",
+    "installation": "pkg install xh",
+    "usage": "After installing xh, you can use it to send HTTP requests from the command line.",
+    "features": [
+      "HTTP Requests: Provides a tool for sending HTTP requests.",
+      "Friendly and Fast: Designed to be user-friendly and fast.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to HTTP tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "send_request": "xh GET https://httpbin.org/get",
+      "uninstall": "pkg uninstall xh"
+    }
+  },
+  {
+    "name": "xls2csv",
+    "version": "1.6.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xls2csv is a tool to convert Excel xls files to CSV format.",
+    "homepage": "https://sourceforge.net/projects/xls2csv/",
+    "installation": "pkg install xls2csv",
+    "usage": "After installing xls2csv, you can use it to convert Excel xls files to CSV format.",
+    "features": [
+      "File Conversion: Provides a tool for converting Excel xls files to CSV format.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file conversion for support and discussions.",
+      "GitHub": "Search for repositories or forks of xls2csv to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_file": "xls2csv file.xls > file.csv",
+      "uninstall": "pkg uninstall xls2csv"
+    }
+  },
+  {
+    "name": "xmake",
+    "version": "2.9.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xmake is a cross-platform build utility based on Lua.",
+    "homepage": "https://xmake.io/",
+    "installation": "pkg install xmake",
+    "usage": "After installing xmake, you can use it to build your projects.",
+    "features": [
+      "Build Utility: Provides a cross-platform build utility.",
+      "Lua Integration: Uses Lua for build scripts.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official xmake website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to build tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of xmake to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "build_project": "xmake",
+      "uninstall": "pkg uninstall xmake"
+    }
+  },
+  {
+    "name": "xmlsec-static",
+    "version": "1.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xmlsec-static provides a static library version of XMLSec, a library for XML security.",
+    "homepage": "https://www.aleksey.com/xmlsec/",
+    "installation": "pkg install xmlsec-static",
+    "usage": "After installing xmlsec-static, you can link it with your applications to use XMLSec functionalities.",
+    "features": [
+      "XML Security: Provides a static library for XML security.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official XMLSec website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XML security for support and discussions.",
+      "GitHub": "Search for repositories or forks of XMLSec to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lxmlsec",
+      "uninstall": "pkg uninstall xmlsec-static"
+    }
+  },
+  {
+    "name": "xmlsec",
+    "version": "1.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "XMLSec is a library for XML security.",
+    "homepage": "https://www.aleksey.com/xmlsec/",
+    "installation": "pkg install xmlsec",
+    "usage": "After installing XMLSec, you can use it to implement XML security in your applications.",
+    "features": [
+      "XML Security: Provides tools for implementing XML security.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official XMLSec website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XML security for support and discussions.",
+      "GitHub": "Search for repositories or forks of XMLSec to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_xmlsec": "Include XMLSec in your XML security projects.",
+      "uninstall": "pkg uninstall xmlsec"
+    }
+  },
+  {
+    "name": "xmlstarlet",
+    "version": "1.6.1-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xmlstarlet is a command-line XML toolkit.",
+    "homepage": "http://xmlstar.sourceforge.net/",
+    "installation": "pkg install xmlstarlet",
+    "usage": "After installing xmlstarlet, you can use it to process XML files from the command line.",
+    "features": [
+      "XML Toolkit: Provides a command-line toolkit for processing XML files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official xmlstarlet website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XML processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of xmlstarlet to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_xml": "xmlstarlet sel -t -m '//element' -v . -n file.xml",
+      "uninstall": "pkg uninstall xmlstarlet"
+    }
+  },
+  {
+    "name": "xmlto",
+    "version": "0.0.29-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xmlto is a tool for converting XML files to various formats.",
+    "homepage": "https://pagure.io/xmlto",
+    "installation": "pkg install xmlto",
+    "usage": "After installing xmlto, you can use it to convert XML files to various formats.",
+    "features": [
+      "File Conversion: Provides a tool for converting XML files to various formats.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official xmlto website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XML processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of xmlto to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_xml": "xmlto pdf file.xml",
+      "uninstall": "pkg uninstall xmlto"
+    }
+  },
+  {
+    "name": "xmppc",
+    "version": "0.1.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xmppc is a simple command-line XMPP client.",
+    "homepage": "https://github.com/xmppjs/xmppc",
+    "installation": "pkg install xmppc",
+    "usage": "After installing xmppc, you can use it to connect to XMPP servers and communicate.",
+    "features": [
+      "Command-Line XMPP Client: Provides a simple command-line interface for XMPP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XMPP for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "connect_to_server": "xmppc connect user@server",
+      "uninstall": "pkg uninstall xmppc"
+    }
+  },
+  {
+    "name": "xorg-util-macros",
+    "version": "1.20.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "xorg-util-macros provides a set of autoconf macros used by X.Org modules.",
+    "homepage": "https://www.x.org/",
+    "installation": "pkg install xorg-util-macros",
+    "usage": "After installing xorg-util-macros, you can use the provided autoconf macros for building X.Org modules.",
+    "features": [
+      "Autoconf Macros: Provides a set of autoconf macros for X.Org modules.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official X.Org website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to X.Org for support and discussions.",
+      "GitHub": "Search for repositories or forks of X.Org to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_macros": "Include xorg-util-macros in your X.Org build scripts.",
+      "uninstall": "pkg uninstall xorg-util-macros"
+    }
+  },
+  {
+    "name": "xorgproto",
+    "version": "2024.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "xorgproto provides the combined X.Org X11 protocol headers.",
+    "homepage": "https://www.x.org/",
+    "installation": "pkg install xorgproto",
+    "usage": "After installing xorgproto, you can use the provided X11 protocol headers for developing X11 applications.",
+    "features": [
+      "X11 Protocol Headers: Provides the combined X.Org X11 protocol headers.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official X.Org website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to X.Org for support and discussions.",
+      "GitHub": "Search for repositories or forks of X.Org to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_headers": "Include xorgproto in your X11 development projects.",
+      "uninstall": "pkg uninstall xorgproto"
+    }
+  },
+  {
+    "name": "xorriso",
+    "version": "1.5.7-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xorriso is a command-line tool to create, modify, and extract ISO 9660 filesystem images.",
+    "homepage": "https://www.gnu.org/software/xorriso/",
+    "installation": "pkg install xorriso",
+    "usage": "After installing xorriso, you can use it to create, modify, and extract ISO 9660 filesystem images.",
+    "features": [
+      "ISO 9660 Filesystem: Provides tools for creating, modifying, and extracting ISO 9660 filesystem images.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official xorriso website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to filesystem tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of xorriso to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_iso": "xorriso -as mkisofs -o image.iso directory/",
+      "uninstall": "pkg uninstall xorriso"
+    }
+  },
+  {
+    "name": "xpup",
+    "version": "2021.12.26-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xpup is a command-line tool for extracting content from XML documents using XPath expressions.",
+    "homepage": "https://github.com/xpup/xpup",
+    "installation": "pkg install xpup",
+    "usage": "After installing xpup, you can use it to extract content from XML documents using XPath expressions.",
+    "features": [
+      "XML Extraction: Provides tools for extracting content from XML documents using XPath expressions.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XML processing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "extract_content": "xpup 'expression' file.xml",
+      "uninstall": "pkg uninstall xpup"
+    }
+  },
+  {
+    "name": "xsltproc",
+    "version": "1.1.42-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xsltproc is a command-line tool for applying XSLT stylesheets to XML documents.",
+    "homepage": "http://xmlsoft.org/XSLT/xsltproc2.html",
+    "installation": "pkg install xsltproc",
+    "usage": "After installing xsltproc, you can use it to apply XSLT stylesheets to XML documents.",
+    "features": [
+      "XSLT Processing: Provides tools for applying XSLT stylesheets to XML documents.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official xsltproc website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XSLT processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of xsltproc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "apply_stylesheet": "xsltproc stylesheet.xsl file.xml",
+      "uninstall": "pkg uninstall xsltproc"
+    }
+  },
+  {
+    "name": "xtrans",
+    "version": "1.5.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "xtrans provides a network protocol transport layer for the X Window System.",
+    "homepage": "https://www.x.org/",
+    "installation": "pkg install xtrans",
+    "usage": "After installing xtrans, you can use it to provide network protocol transport for the X Window System.",
+    "features": [
+      "Network Protocol Transport: Provides a network protocol transport layer for the X Window System.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official X.Org website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to the X Window System for support and discussions.",
+      "GitHub": "Search for repositories or forks of X.Org to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_xtrans": "Include xtrans in your X Window System projects.",
+      "uninstall": "pkg uninstall xtrans"
+    }
+  },
+  {
+    "name": "xvidcore-static",
+    "version": "1.3.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xvidcore-static provides a static library version of Xvid, a high-performance and high-quality MPEG-4 video codec.",
+    "homepage": "https://www.xvid.com/",
+    "installation": "pkg install xvidcore-static",
+    "usage": "After installing xvidcore-static, you can link it with your applications to use Xvid functionalities.",
+    "features": [
+      "Video Codec: Provides a static library for high-performance and high-quality MPEG-4 video encoding and decoding.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Xvid website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to video codecs for support and discussions.",
+      "GitHub": "Search for repositories or forks of Xvid to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lxvidcore",
+      "uninstall": "pkg uninstall xvidcore-static"
+    }
+  },
+  {
+    "name": "xvidcore",
+    "version": "1.3.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Xvid is a high-performance and high-quality MPEG-4 video codec.",
+    "homepage": "https://www.xvid.com/",
+    "installation": "pkg install xvidcore",
+    "usage": "After installing xvidcore, you can use it to encode and decode MPEG-4 video streams.",
+    "features": [
+      "Video Codec: Provides tools for high-performance and high-quality MPEG-4 video encoding and decoding.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Xvid website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to video codecs for support and discussions.",
+      "GitHub": "Search for repositories or forks of Xvid to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_video": "xvidcore encode input.mp4 -o output.mp4",
+      "uninstall": "pkg uninstall xvidcore"
+    }
+  },
+  {
+    "name": "xxd",
+    "version": "9.1.1050",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xxd is a hexdump utility that allows you to create a hex dump of a given file or standard input.",
+    "homepage": "https://www.vim.org/",
+    "installation": "pkg install xxd",
+    "usage": "After installing xxd, you can use it to create hex dumps of files or standard input.",
+    "features": [
+      "Hexdump Utility: Provides tools for creating hex dumps of files or standard input.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Vim website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to hexdump utilities for support and discussions.",
+      "GitHub": "Search for repositories or forks of xxd to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_hexdump": "xxd file.bin",
+      "uninstall": "pkg uninstall xxd"
+    }
+  },
+  {
+    "name": "xxhash-static",
+    "version": "0.8.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xxhash-static provides a static library version of xxHash, an extremely fast non-cryptographic hash algorithm.",
+    "homepage": "https://github.com/Cyan4973/xxHash",
+    "installation": "pkg install xxhash-static",
+    "usage": "After installing xxhash-static, you can link it with your applications to use xxHash functionalities.",
+    "features": [
+      "Hash Algorithm: Provides a static library for extremely fast non-cryptographic hashing.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to hashing algorithms for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lxxhash",
+      "uninstall": "pkg uninstall xxhash-static"
+    }
+  },
+  {
+    "name": "xxhash",
+    "version": "0.8.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xxHash is an extremely fast non-cryptographic hash algorithm.",
+    "homepage": "https://github.com/Cyan4973/xxHash",
+    "installation": "pkg install xxhash",
+    "usage": "After installing xxhash, you can use it to perform fast non-cryptographic hashing.",
+    "features": [
+      "Hash Algorithm: Provides tools for extremely fast non-cryptographic hashing.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to hashing algorithms for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "perform_hashing": "xxhsum file.bin",
+      "uninstall": "pkg uninstall xxhash"
+    }
+  },
+  {
+    "name": "xz-utils",
+    "version": "5.6.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "xz-utils provides tools for compressing and decompressing files using the LZMA2 compression algorithm.",
+    "homepage": "https://tukaani.org/xz/",
+    "installation": "pkg install xz-utils",
+    "usage": "After installing xz-utils, you can use it to compress and decompress files using the LZMA2 compression algorithm.",
+    "features": [
+      "File Compression: Provides tools for compressing and decompressing files using the LZMA2 compression algorithm.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official xz-utils website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file compression for support and discussions.",
+      "GitHub": "Search for repositories or forks of xz-utils to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_file": "xz file.txt",
+      "decompress_file": "xz -d file.txt.xz",
+      "uninstall": "pkg uninstall xz-utils"
+    }
+  }
+]

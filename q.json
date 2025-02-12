@@ -1,0 +1,771 @@
+[
+  {
+    "name": "q-dns-client",
+    "version": "0.19.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "q-dns-client is a DNS client library for querying DNS servers.",
+    "homepage": "https://github.com/miroslavpejic85/q-dns-client",
+    "installation": "pkg install q-dns-client",
+    "usage": "After installing q-dns-client, you can use it to query DNS servers in your applications.",
+    "features": [
+      "DNS Client: Provides tools for querying DNS servers.",
+      "Library: Designed to be used as a library in applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to DNS for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "query_dns": "import qdns",
+      "uninstall": "pkg uninstall q-dns-client"
+    }
+  },
+  {
+    "name": "qalc-static",
+    "version": "5.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "qalc-static provides a static library version of Qalculate!, a multi-purpose desktop calculator.",
+    "homepage": "https://qalculate.github.io/",
+    "installation": "pkg install qalc-static",
+    "usage": "After installing qalc-static, you can link it with your applications to use Qalculate! functionalities.",
+    "features": [
+      "Calculator: Provides a static library for the Qalculate! desktop calculator.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Qalculate! website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to calculators for support and discussions.",
+      "GitHub": "Search for repositories or forks of Qalculate! to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lqalculate",
+      "uninstall": "pkg uninstall qalc-static"
+    }
+  },
+  {
+    "name": "qalc",
+    "version": "5.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Qalculate! is a multi-purpose desktop calculator that is simple to use but offers power and versatility.",
+    "homepage": "https://qalculate.github.io/",
+    "installation": "pkg install qalc",
+    "usage": "After installing Qalculate!, you can use it to perform various calculations by typing: qalc",
+    "features": [
+      "Desktop Calculator: Provides a powerful and versatile desktop calculator.",
+      "Multi-Purpose: Supports various types of calculations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Qalculate! website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to calculators for support and discussions.",
+      "GitHub": "Search for repositories or forks of Qalculate! to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_calculator": "qalc",
+      "uninstall": "pkg uninstall qalc"
+    }
+  },
+  {
+    "name": "qemu-common",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU is a generic and open-source machine emulator and virtualizer.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-common",
+    "usage": "After installing qemu-common, you can use it to emulate and virtualize various systems.",
+    "features": [
+      "Machine Emulator: Provides tools for emulating and virtualizing different architectures.",
+      "Open-Source: Available as open-source software.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_system": "qemu-system-x86_64",
+      "uninstall": "pkg uninstall qemu-common"
+    }
+  },
+  {
+    "name": "qemu-system-aarch64-headless",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU system emulator for aarch64 architecture in headless mode.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-system-aarch64-headless",
+    "usage": "After installing qemu-system-aarch64-headless, you can use it to emulate aarch64 systems in headless mode.",
+    "features": [
+      "System Emulator: Provides tools for emulating aarch64 architecture.",
+      "Headless Mode: Runs in headless mode without a graphical interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_aarch64": "qemu-system-aarch64",
+      "uninstall": "pkg uninstall qemu-system-aarch64-headless"
+    }
+  },
+  {
+    "name": "qemu-system-arm-headless",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU system emulator for ARM architecture in headless mode.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-system-arm-headless",
+    "usage": "After installing qemu-system-arm-headless, you can use it to emulate ARM systems in headless mode.",
+    "features": [
+      "System Emulator: Provides tools for emulating ARM architecture.",
+      "Headless Mode: Runs in headless mode without a graphical interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_arm": "qemu-system-arm",
+      "uninstall": "pkg uninstall qemu-system-arm-headless"
+    }
+  },
+  {
+    "name": "qemu-system-i386-headless",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU system emulator for i386 architecture in headless mode.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-system-i386-headless",
+    "usage": "After installing qemu-system-i386-headless, you can use it to emulate i386 systems in headless mode.",
+    "features": [
+      "System Emulator: Provides tools for emulating i386 architecture.",
+      "Headless Mode: Runs in headless mode without a graphical interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_i386": "qemu-system-i386",
+      "uninstall": "pkg uninstall qemu-system-i386-headless"
+    }
+  },
+  {
+    "name": "qemu-system-m68k-headless",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU system emulator for m68k architecture in headless mode.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-system-m68k-headless",
+    "usage": "After installing qemu-system-m68k-headless, you can use it to emulate m68k systems in headless mode.",
+    "features": [
+      "System Emulator: Provides tools for emulating m68k architecture.",
+      "Headless Mode: Runs in headless mode without a graphical interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_m68k": "qemu-system-m68k",
+      "uninstall": "pkg uninstall qemu-system-m68k-headless"
+    }
+  },
+  {
+    "name": "qemu-system-ppc-headless",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU system emulator for PowerPC architecture in headless mode.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-system-ppc-headless",
+    "usage": "After installing qemu-system-ppc-headless, you can use it to emulate PowerPC systems in headless mode.",
+    "features": [
+      "System Emulator: Provides tools for emulating PowerPC architecture.",
+      "Headless Mode: Runs in headless mode without a graphical interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_ppc": "qemu-system-ppc",
+      "uninstall": "pkg uninstall qemu-system-ppc-headless"
+    }
+  },
+  {
+    "name": "qemu-system-ppc64-headless",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU system emulator for PowerPC64 architecture in headless mode.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-system-ppc64-headless",
+    "usage": "After installing qemu-system-ppc64-headless, you can use it to emulate PowerPC64 systems in headless mode.",
+    "features": [
+      "System Emulator: Provides tools for emulating PowerPC64 architecture.",
+      "Headless Mode: Runs in headless mode without a graphical interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_ppc64": "qemu-system-ppc64",
+      "uninstall": "pkg uninstall qemu-system-ppc64-headless"
+    }
+  },
+  {
+    "name": "qemu-system-riscv32-headless",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU system emulator for RISC-V 32-bit architecture in headless mode.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-system-riscv32-headless",
+    "usage": "After installing qemu-system-riscv32-headless, you can use it to emulate RISC-V 32-bit systems in headless mode.",
+    "features": [
+      "System Emulator: Provides tools for emulating RISC-V 32-bit architecture.",
+      "Headless Mode: Runs in headless mode without a graphical interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_riscv32": "qemu-system-riscv32",
+      "uninstall": "pkg uninstall qemu-system-riscv32-headless"
+    }
+  },
+  {
+    "name": "qemu-system-riscv64-headless",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU system emulator for RISC-V 64-bit architecture in headless mode.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-system-riscv64-headless",
+    "usage": "After installing qemu-system-riscv64-headless, you can use it to emulate RISC-V 64-bit systems in headless mode.",
+    "features": [
+      "System Emulator: Provides tools for emulating RISC-V 64-bit architecture.",
+      "Headless Mode: Runs in headless mode without a graphical interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_riscv64": "qemu-system-riscv64",
+      "uninstall": "pkg uninstall qemu-system-riscv64-headless"
+    }
+  },
+  {
+    "name": "qemu-system-x86-64-headless",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU system emulator for x86-64 architecture in headless mode.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-system-x86-64-headless",
+    "usage": "After installing qemu-system-x86-64-headless, you can use it to emulate x86-64 systems in headless mode.",
+    "features": [
+      "System Emulator: Provides tools for emulating x86-64 architecture.",
+      "Headless Mode: Runs in headless mode without a graphical interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_x86_64": "qemu-system-x86_64",
+      "uninstall": "pkg uninstall qemu-system-x86-64-headless"
+    }
+  },
+  {
+    "name": "qemu-user-aarch64",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU user mode emulator for aarch64 architecture.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-user-aarch64",
+    "usage": "After installing qemu-user-aarch64, you can use it to emulate aarch64 user mode applications.",
+    "features": [
+      "User Mode Emulator: Provides tools for emulating aarch64 user mode applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_aarch64_user": "qemu-aarch64",
+      "uninstall": "pkg uninstall qemu-user-aarch64"
+    }
+  },
+  {
+    "name": "qemu-user-arm",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU user mode emulator for ARM architecture.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-user-arm",
+    "usage": "After installing qemu-user-arm, you can use it to emulate ARM user mode applications.",
+    "features": [
+      "User Mode Emulator: Provides tools for emulating ARM user mode applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_arm_user": "qemu-arm",
+      "uninstall": "pkg uninstall qemu-user-arm"
+    }
+  },
+  {
+    "name": "qemu-user-i386",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU user mode emulator for i386 architecture.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-user-i386",
+    "usage": "After installing qemu-user-i386, you can use it to emulate i386 user mode applications.",
+    "features": [
+      "User Mode Emulator: Provides tools for emulating i386 user mode applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_i386_user": "qemu-i386",
+      "uninstall": "pkg uninstall qemu-user-i386"
+    }
+  },
+  {
+    "name": "qemu-user-m68k",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU user mode emulator for m68k architecture.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-user-m68k",
+    "usage": "After installing qemu-user-m68k, you can use it to emulate m68k user mode applications.",
+    "features": [
+      "User Mode Emulator: Provides tools for emulating m68k user mode applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_m68k_user": "qemu-m68k",
+      "uninstall": "pkg uninstall qemu-user-m68k"
+    }
+  },
+  {
+    "name": "qemu-user-ppc64",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU user mode emulator for PowerPC64 architecture.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-user-ppc64",
+    "usage": "After installing qemu-user-ppc64, you can use it to emulate PowerPC64 user mode applications.",
+    "features": [
+      "User Mode Emulator: Provides tools for emulating PowerPC64 user mode applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_ppc64_user": "qemu-ppc64",
+      "uninstall": "pkg uninstall qemu-user-ppc64"
+    }
+  },
+  {
+    "name": "qemu-user-ppc",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU user mode emulator for PowerPC architecture.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-user-ppc",
+    "usage": "After installing qemu-user-ppc, you can use it to emulate PowerPC user mode applications.",
+    "features": [
+      "User Mode Emulator: Provides tools for emulating PowerPC user mode applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_ppc_user": "qemu-ppc",
+      "uninstall": "pkg uninstall qemu-user-ppc"
+    }
+  },
+  {
+    "name": "qemu-user-riscv32",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU user mode emulator for RISC-V 32-bit architecture.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-user-riscv32",
+    "usage": "After installing qemu-user-riscv32, you can use it to emulate RISC-V 32-bit user mode applications.",
+    "features": [
+      "User Mode Emulator: Provides tools for emulating RISC-V 32-bit user mode applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_riscv32_user": "qemu-riscv32",
+      "uninstall": "pkg uninstall qemu-user-riscv32"
+    }
+  },
+  {
+    "name": "qemu-user-riscv64",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU user mode emulator for RISC-V 64-bit architecture.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-user-riscv64",
+    "usage": "After installing qemu-user-riscv64, you can use it to emulate RISC-V 64-bit user mode applications.",
+    "features": [
+      "User Mode Emulator: Provides tools for emulating RISC-V 64-bit user mode applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_riscv64_user": "qemu-riscv64",
+      "uninstall": "pkg uninstall qemu-user-riscv64"
+    }
+  },
+  {
+    "name": "qemu-user-x86-64",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU user mode emulator for x86-64 architecture.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-user-x86-64",
+    "usage": "After installing qemu-user-x86-64, you can use it to emulate x86-64 user mode applications.",
+    "features": [
+      "User Mode Emulator: Provides tools for emulating x86-64 user mode applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and virtualization for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_x86_64_user": "qemu-x86_64",
+      "uninstall": "pkg uninstall qemu-user-x86-64"
+    }
+  },
+  {
+    "name": "qemu-utils",
+    "version": "1:8.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QEMU utilities for working with disk images, snapshots, and other QEMU-related tasks.",
+    "homepage": "https://www.qemu.org/",
+    "installation": "pkg install qemu-utils",
+    "usage": "After installing qemu-utils, you can use various QEMU utilities for managing disk images and snapshots.",
+    "features": [
+      "Disk Image Management: Tools for creating, converting, and managing disk images.",
+      "Snapshot Management: Tools for creating and managing snapshots.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QEMU website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to QEMU for support and discussions.",
+      "GitHub": "Search for repositories or forks of QEMU to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_disk_image": "qemu-img create -f qcow2 image.qcow2 20G",
+      "convert_disk_image": "qemu-img convert -O qcow2 source.img dest.qcow2",
+      "list_snapshots": "qemu-img snapshot -l image.qcow2",
+      "uninstall": "pkg uninstall qemu-utils"
+    }
+  },
+  {
+    "name": "qhull-static",
+    "version": "8.1-alpha3-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "qhull-static provides a static library version of Qhull, a tool for computing the convex hull, Delaunay triangulation, Voronoi diagram, and halfspace intersection.",
+    "homepage": "http://www.qhull.org/",
+    "installation": "pkg install qhull-static",
+    "usage": "After installing qhull-static, you can link it with your applications to use Qhull functionalities.",
+    "features": [
+      "Computational Geometry: Provides a static library for computational geometry tasks.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Qhull website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to computational geometry for support and discussions.",
+      "GitHub": "Search for repositories or forks of Qhull to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lqhullstatic",
+      "uninstall": "pkg uninstall qhull-static"
+    }
+  },
+  {
+    "name": "qhull",
+    "version": "8.1-alpha3-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Qhull is a tool for computing the convex hull, Delaunay triangulation, Voronoi diagram, and halfspace intersection.",
+    "homepage": "http://www.qhull.org/",
+    "installation": "pkg install qhull",
+    "usage": "After installing Qhull, you can use it to perform various computational geometry tasks.",
+    "features": [
+      "Computational Geometry: Provides tools for computing the convex hull, Delaunay triangulation, Voronoi diagram, and halfspace intersection.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Qhull website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to computational geometry for support and discussions.",
+      "GitHub": "Search for repositories or forks of Qhull to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compute_convex_hull": "qhull < input.txt",
+      "uninstall": "pkg uninstall qhull"
+    }
+  },
+  {
+    "name": "qpdf-static",
+    "version": "11.9.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "qpdf-static provides a static library version of QPDF, a tool for structural, content-preserving transformations of PDF files.",
+    "homepage": "http://qpdf.sourceforge.net/",
+    "installation": "pkg install qpdf-static",
+    "usage": "After installing qpdf-static, you can link it with your applications to use QPDF functionalities.",
+    "features": [
+      "PDF Transformation: Provides a static library for transforming PDF files while preserving their structure.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QPDF website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PDF manipulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of QPDF to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lqpdf",
+      "uninstall": "pkg uninstall qpdf-static"
+    }
+  },
+  {
+    "name": "qpdf",
+    "version": "11.9.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QPDF is a tool for structural, content-preserving transformations of PDF files.",
+    "homepage": "http://qpdf.sourceforge.net/",
+    "installation": "pkg install qpdf",
+    "usage": "After installing QPDF, you can use it to perform various transformations on PDF files.",
+    "features": [
+      "PDF Transformation: Provides tools for transforming PDF files while preserving their structure.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QPDF website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PDF manipulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of QPDF to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "linearize_pdf": "qpdf --linearize input.pdf output.pdf",
+      "uninstall": "pkg uninstall qpdf"
+    }
+  },
+  {
+    "name": "qrsspig",
+    "version": "0.8.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "qrsspig is a tool for receiving and decoding QRSS (very slow CW) signals.",
+    "homepage": "https://github.com/swharden/qrsspig",
+    "installation": "pkg install qrsspig",
+    "usage": "After installing qrsspig, you can use it to receive and decode QRSS signals.",
+    "features": [
+      "QRSS Decoding: Provides tools for receiving and decoding QRSS signals.",
+      "Signal Processing: Includes various signal processing functionalities.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to QRSS for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "decode_qrss": "qrsspig --input signal.wav --output decoded.txt",
+      "uninstall": "pkg uninstall qrsspig"
+    }
+  },
+  {
+    "name": "qrupdate-ng",
+    "version": "1.1.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "qrupdate-ng is a library for fast updates of QR and Cholesky decompositions.",
+    "homepage": "https://github.com/xianyi/OpenBLAS",
+    "installation": "pkg install qrupdate-ng",
+    "usage": "After installing qrupdate-ng, you can use it to perform fast updates of QR and Cholesky decompositions in your applications.",
+    "features": [
+      "Matrix Decomposition: Provides tools for performing fast updates of QR and Cholesky decompositions.",
+      "Library: Designed to be used as a library in applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to numerical computing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "import qrupdate",
+      "uninstall": "pkg uninstall qrupdate-ng"
+    }
+  },
+  {
+    "name": "quick-lint-js",
+    "version": "3.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "quick-lint-js is a fast linter for JavaScript.",
+    "homepage": "https://quick-lint-js.com/",
+    "installation": "pkg install quick-lint-js",
+    "usage": "After installing quick-lint-js, you can use it to lint JavaScript code.",
+    "features": [
+      "JavaScript Linting: Provides tools for linting JavaScript code.",
+      "Fast Linting: Designed for fast performance.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official quick-lint-js website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to JavaScript development for support and discussions.",
+      "GitHub": "Search for repositories or forks of quick-lint-js to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "lint_code": "quick-lint-js file.js",
+      "uninstall": "pkg uninstall quick-lint-js"
+    }
+  },
+  {
+    "name": "quickjs",
+    "version": "20240113",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "QuickJS is a small and fast JavaScript engine.",
+    "homepage": "https://bellard.org/quickjs/",
+    "installation": "pkg install quickjs",
+    "usage": "After installing quickjs, you can use it to run JavaScript code.",
+    "features": [
+      "JavaScript Engine: Provides a small and fast JavaScript engine.",
+      "ECMAScript Support: Supports the latest ECMAScript standards.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official QuickJS website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to JavaScript development for support and discussions.",
+      "GitHub": "Search for repositories or forks of QuickJS to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_js": "qjs script.js",
+      "uninstall": "pkg uninstall quickjs"
+    }
+  },
+  {
+    "name": "quilt",
+    "version": "0.68",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Quilt is a tool for managing a series of patches by keeping track of the changes each patch makes.",
+    "homepage": "https://savannah.nongnu.org/projects/quilt",
+    "installation": "pkg install quilt",
+    "usage": "After installing quilt, you can use it to manage patches for your projects.",
+    "features": [
+      "Patch Management: Provides tools for managing a series of patches.",
+      "Change Tracking: Keeps track of the changes each patch makes.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Quilt website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to patch management for support and discussions.",
+      "GitHub": "Search for repositories or forks of Quilt to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_patch": "quilt new my_patch",
+      "add_file": "quilt add file.txt",
+      "uninstall": "pkg uninstall quilt"
+    }
+  }
+]

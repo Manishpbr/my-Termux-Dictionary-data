@@ -1,0 +1,1451 @@
+[
+  {
+    "name": "libimobiledevice-glue",
+    "version": "1.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libimobiledevice-glue is a library providing common code for libraries talking to Apple devices.",
+    "homepage": "https://libimobiledevice.org/",
+    "installation": "pkg install libimobiledevice-glue",
+    "usage": "After installing libimobiledevice-glue, you can use it to interact with Apple devices in your applications.",
+    "features": [
+      "Apple Device Interaction: Provides common code for libraries talking to Apple devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for device interaction tasks.",
+      "Integration: Can be integrated into applications requiring Apple device interaction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libimobiledevice documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Apple devices and Libimobiledevice for support and discussions.",
+      "GitHub": "Visit the Libimobiledevice GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libimobiledevice_glue": "Not applicable",
+      "uninstall": "pkg uninstall libimobiledevice-glue"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libimobiledevice-static",
+    "version": "1.3.0-p20230430-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libimobiledevice is a library that talks the protocols to support iPhone, iPod Touch, and iPad devices. This is the statically linked version.",
+    "homepage": "https://libimobiledevice.org/",
+    "installation": "pkg install libimobiledevice-static",
+    "usage": "After installing libimobiledevice-static, you can use it to interact with iPhone, iPod Touch, and iPad devices in your applications.",
+    "features": [
+      "Device Interaction: Provides tools for interacting with iPhone, iPod Touch, and iPad devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for device interaction tasks.",
+      "Integration: Can be integrated into applications requiring Apple device interaction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libimobiledevice documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Apple devices and Libimobiledevice for support and discussions.",
+      "GitHub": "Visit the Libimobiledevice GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libimobiledevice": "Not applicable",
+      "uninstall": "pkg uninstall libimobiledevice-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libimobiledevice",
+    "version": "1.3.0-p20230430-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libimobiledevice is a library that talks the protocols to support iPhone, iPod Touch, and iPad devices.",
+    "homepage": "https://libimobiledevice.org/",
+    "installation": "pkg install libimobiledevice",
+    "usage": "After installing libimobiledevice, you can use it to interact with iPhone, iPod Touch, and iPad devices in your applications.",
+    "features": [
+      "Device Interaction: Provides tools for interacting with iPhone, iPod Touch, and iPad devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for device interaction tasks.",
+      "Integration: Can be integrated into applications requiring Apple device interaction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libimobiledevice documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Apple devices and Libimobiledevice for support and discussions.",
+      "GitHub": "Visit the Libimobiledevice GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libimobiledevice": "Not applicable",
+      "uninstall": "pkg uninstall libimobiledevice"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libimtui",
+    "version": "1.0.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libimtui is a library for creating text-based user interfaces (TUI) using the immediate mode GUI paradigm.",
+    "homepage": "https://github.com/ggerganov/imtui",
+    "installation": "pkg install libimtui",
+    "usage": "After installing libimtui, you can use it to create text-based user interfaces in your applications.",
+    "features": [
+      "Text-Based User Interfaces: Provides tools for creating text-based user interfaces (TUI).",
+      "Immediate Mode GUI: Uses the immediate mode GUI paradigm for user interface creation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for TUI tasks.",
+      "Integration: Can be integrated into applications requiring text-based user interfaces.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libimtui documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to TUI development and Libimtui for support and discussions.",
+      "GitHub": "Visit the Libimtui GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libimtui": "Not applicable",
+      "uninstall": "pkg uninstall libimtui"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libinih",
+    "version": "58",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libinih is a simple .INI file parser library written in C.",
+    "homepage": "https://github.com/benhoyt/inih",
+    "installation": "pkg install libinih",
+    "usage": "After installing libinih, you can use it to parse .INI files in your applications.",
+    "features": [
+      "INI File Parsing: Provides tools for parsing .INI files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for .INI parsing tasks.",
+      "Integration: Can be integrated into applications requiring .INI file parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libinih documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file parsing and Libinih for support and discussions.",
+      "GitHub": "Visit the Libinih GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libinih": "Not applicable",
+      "uninstall": "pkg uninstall libinih"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libiniparser-static",
+    "version": "4.2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libiniparser is a library for parsing .INI files. This is the statically linked version.",
+    "homepage": "https://github.com/ndevilla/iniparser",
+    "installation": "pkg install libiniparser-static",
+    "usage": "After installing libiniparser-static, you can use it to parse .INI files in your applications.",
+    "features": [
+      "INI File Parsing: Provides tools for parsing .INI files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for .INI parsing tasks.",
+      "Integration: Can be integrated into applications requiring .INI file parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libiniparser documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file parsing and Libiniparser for support and discussions.",
+      "GitHub": "Visit the Libiniparser GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libiniparser": "Not applicable",
+      "uninstall": "pkg uninstall libiniparser-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libiniparser",
+    "version": "4.2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libiniparser is a library for parsing .INI files.",
+    "homepage": "https://github.com/ndevilla/iniparser",
+    "installation": "pkg install libiniparser",
+    "usage": "After installing libiniparser, you can use it to parse .INI files in your applications.",
+    "features": [
+      "INI File Parsing: Provides tools for parsing .INI files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for .INI parsing tasks.",
+      "Integration: Can be integrated into applications requiring .INI file parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libiniparser documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file parsing and Libiniparser for support and discussions.",
+      "GitHub": "Visit the Libiniparser GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libiniparser": "Not applicable",
+      "uninstall": "pkg uninstall libiniparser"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libiodbc-static",
+    "version": "3.52.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libiodbc is an ODBC (Open Database Connectivity) driver manager. This is the statically linked version.",
+    "homepage": "https://www.iodbc.org/",
+    "installation": "pkg install libiodbc-static",
+    "usage": "After installing libiodbc-static, you can use it to manage ODBC drivers in your applications.",
+    "features": [
+      "ODBC Driver Management: Provides tools for managing ODBC drivers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for ODBC tasks.",
+      "Integration: Can be integrated into applications requiring ODBC driver management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libiodbc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database connectivity and Libiodbc for support and discussions.",
+      "GitHub": "Visit the Libiodbc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libiodbc": "Not applicable",
+      "uninstall": "pkg uninstall libiodbc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libiodbc",
+    "version": "3.52.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libiodbc is an ODBC (Open Database Connectivity) driver manager.",
+    "homepage": "https://www.iodbc.org/",
+    "installation": "pkg install libiodbc",
+    "usage": "After installing libiodbc, you can use it to manage ODBC drivers in your applications.",
+    "features": [
+      "ODBC Driver Management: Provides tools for managing ODBC drivers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for ODBC tasks.",
+      "Integration: Can be integrated into applications requiring ODBC driver management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libiodbc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database connectivity and Libiodbc for support and discussions.",
+      "GitHub": "Visit the Libiodbc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libiodbc": "Not applicable",
+      "uninstall": "pkg uninstall libiodbc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libisl-static",
+    "version": "0.26",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libisl is a library for manipulating sets and relations of integer points bounded by linear constraints. This is the statically linked version.",
+    "homepage": "http://isl.gforge.inria.fr/",
+    "installation": "pkg install libisl-static",
+    "usage": "After installing libisl-static, you can use it to manipulate sets and relations of integer points in your applications.",
+    "features": [
+      "Integer Points Manipulation: Provides tools for manipulating sets and relations of integer points bounded by linear constraints.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for integer points manipulation tasks.",
+      "Integration: Can be integrated into applications requiring integer points manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libisl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to integer points manipulation and Libisl for support and discussions.",
+      "GitHub": "Visit the Libisl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libisl": "Not applicable",
+      "uninstall": "pkg uninstall libisl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libisl",
+    "version": "0.26",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libisl is a library for manipulating sets and relations of integer points bounded by linear constraints.",
+    "homepage": "http://isl.gforge.inria.fr/",
+    "installation": "pkg install libisl",
+    "usage": "After installing libisl, you can use it to manipulate sets and relations of integer points in your applications.",
+    "features": [
+      "Integer Points Manipulation: Provides tools for manipulating sets and relations of integer points bounded by linear constraints.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for integer points manipulation tasks.",
+      "Integration: Can be integrated into applications requiring integer points manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libisl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to integer points manipulation and Libisl for support and discussions.",
+      "GitHub": "Visit the Libisl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libisl": "Not applicable",
+      "uninstall": "pkg uninstall libisl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libisoburn-static",
+    "version": "1.5.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libisoburn is a library to enable creation and expansion of ISO-9660 filesystems. This is the statically linked version.",
+    "homepage": "https://dev.lovelyhq.com/libburnia/web/wikis/home",
+    "installation": "pkg install libisoburn-static",
+    "usage": "After installing libisoburn-static, you can use it to create and expand ISO-9660 filesystems in your applications.",
+    "features": [
+      "ISO-9660 Filesystems: Provides tools for creating and expanding ISO-9660 filesystems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for filesystem tasks.",
+      "Integration: Can be integrated into applications requiring ISO-9660 filesystem handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libisoburn documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to filesystem handling and Libisoburn for support and discussions.",
+      "GitHub": "Visit the Libisoburn GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libisoburn": "Not applicable",
+      "uninstall": "pkg uninstall libisoburn-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libisoburn",
+    "version": "1.5.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libisoburn is a library to enable creation and expansion of ISO-9660 filesystems.",
+    "homepage": "https://dev.lovelyhq.com/libburnia/web/wikis/home",
+    "installation": "pkg install libisoburn",
+    "usage": "After installing libisoburn, you can use it to create and expand ISO-9660 filesystems in your applications.",
+    "features": [
+      "ISO-9660 Filesystems: Provides tools for creating and expanding ISO-9660 filesystems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for filesystem tasks.",
+      "Integration: Can be integrated into applications requiring ISO-9660 filesystem handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libisoburn documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to filesystem handling and Libisoburn for support and discussions.",
+      "GitHub": "Visit the Libisoburn GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libisoburn": "Not applicable",
+      "uninstall": "pkg uninstall libisoburn"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libisofs-static",
+    "version": "1.5.6.pl01",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libisofs is a library for creating and manipulating ISO-9660 filesystems. This is the statically linked version.",
+    "homepage": "https://dev.lovelyhq.com/libburnia/web/wikis/home",
+    "installation": "pkg install libisofs-static",
+    "usage": "After installing libisofs-static, you can use it to create and manipulate ISO-9660 filesystems in your applications.",
+    "features": [
+      "ISO-9660 Filesystems: Provides tools for creating and manipulating ISO-9660 filesystems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for filesystem tasks.",
+      "Integration: Can be integrated into applications requiring ISO-9660 filesystem handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libisofs documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to filesystem handling and Libisofs for support and discussions.",
+      "GitHub": "Visit the Libisofs GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libisofs": "Not applicable",
+      "uninstall": "pkg uninstall libisofs-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libisofs",
+    "version": "1.5.6.pl01",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libisofs is a library for creating and manipulating ISO-9660 filesystems.",
+    "homepage": "https://dev.lovelyhq.com/libburnia/web/wikis/home",
+    "installation": "pkg install libisofs",
+    "usage": "After installing libisofs, you can use it to create and manipulate ISO-9660 filesystems in your applications.",
+    "features": [
+      "ISO-9660 Filesystems: Provides tools for creating and manipulating ISO-9660 filesystems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for filesystem tasks.",
+      "Integration: Can be integrated into applications requiring ISO-9660 filesystem handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libisofs documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to filesystem handling and Libisofs for support and discussions.",
+      "GitHub": "Visit the Libisofs GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libisofs": "Not applicable",
+      "uninstall": "pkg uninstall libisofs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjanet-static",
+    "version": "1.37.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjanet is a dynamic language and runtime for the Janet programming language. This is the statically linked version.",
+    "homepage": "https://janet-lang.org/",
+    "installation": "pkg install libjanet-static",
+    "usage": "After installing libjanet-static, you can use it to run and embed the Janet programming language in your applications.",
+    "features": [
+      "Janet Language: Provides tools for running and embedding the Janet programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for language runtime tasks.",
+      "Integration: Can be integrated into applications requiring Janet language support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Janet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to the Janet programming language for support and discussions.",
+      "GitHub": "Visit the Janet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_janet": "Not applicable",
+      "uninstall": "pkg uninstall libjanet-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjanet",
+    "version": "1.37.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjanet is a dynamic language and runtime for the Janet programming language.",
+    "homepage": "https://janet-lang.org/",
+    "installation": "pkg install libjanet",
+    "usage": "After installing libjanet, you can use it to run and embed the Janet programming language in your applications.",
+    "features": [
+      "Janet Language: Provides tools for running and embedding the Janet programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for language runtime tasks.",
+      "Integration: Can be integrated into applications requiring Janet language support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Janet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to the Janet programming language for support and discussions.",
+      "GitHub": "Visit the Janet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_janet": "Not applicable",
+      "uninstall": "pkg uninstall libjanet"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjansi",
+    "version": "2.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjansi is a library that provides ANSI escape code support for Java applications.",
+    "homepage": "https://github.com/fusesource/jansi",
+    "installation": "pkg install libjansi",
+    "usage": "After installing libjansi, you can use it to add ANSI escape code support to your Java applications.",
+    "features": [
+      "ANSI Escape Codes: Provides support for ANSI escape codes in Java applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for ANSI tasks.",
+      "Integration: Can be integrated into Java applications requiring ANSI escape code support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jansi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Java development and Jansi for support and discussions.",
+      "GitHub": "Visit the Jansi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_jansi": "Not applicable",
+      "uninstall": "pkg uninstall libjansi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjansson-static",
+    "version": "2.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjansson is a C library for encoding, decoding, and manipulating JSON data. This is the statically linked version.",
+    "homepage": "https://github.com/akheron/jansson",
+    "installation": "pkg install libjansson-static",
+    "usage": "After installing libjansson-static, you can use it to handle JSON data in your applications.",
+    "features": [
+      "JSON Handling: Provides tools for encoding, decoding, and manipulating JSON data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for JSON tasks.",
+      "Integration: Can be integrated into applications requiring JSON handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jansson documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON handling and Jansson for support and discussions.",
+      "GitHub": "Visit the Jansson GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_jansson": "Not applicable",
+      "uninstall": "pkg uninstall libjansson-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjansson",
+    "version": "2.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjansson is a C library for encoding, decoding, and manipulating JSON data.",
+    "homepage": "https://github.com/akheron/jansson",
+    "installation": "pkg install libjansson",
+    "usage": "After installing libjansson, you can use it to handle JSON data in your applications.",
+    "features": [
+      "JSON Handling: Provides tools for encoding, decoding, and manipulating JSON data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for JSON tasks.",
+      "Integration: Can be integrated into applications requiring JSON handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jansson documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON handling and Jansson for support and discussions.",
+      "GitHub": "Visit the Jansson GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_jansson": "Not applicable",
+      "uninstall": "pkg uninstall libjansson"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjasper-utils",
+    "version": "4.2.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjasper-utils is a collection of utilities for working with JPEG-2000 images using the JasPer library.",
+    "homepage": "https://github.com/jasper-software/jasper",
+    "installation": "pkg install libjasper-utils",
+    "usage": "After installing libjasper-utils, you can use it to work with JPEG-2000 images in your applications.",
+    "features": [
+      "JPEG-2000 Image Handling: Provides tools for working with JPEG-2000 images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image handling tasks.",
+      "Integration: Can be integrated into applications requiring JPEG-2000 image handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JasPer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and JasPer for support and discussions.",
+      "GitHub": "Visit the JasPer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_jasper_utils": "Not applicable",
+      "uninstall": "pkg uninstall libjasper-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjasper",
+    "version": "4.2.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjasper is a library for working with JPEG-2000 images using the JasPer library.",
+    "homepage": "https://github.com/jasper-software/jasper",
+    "installation": "pkg install libjasper",
+    "usage": "After installing libjasper, you can use it to work with JPEG-2000 images in your applications.",
+    "features": [
+      "JPEG-2000 Image Handling: Provides tools for working with JPEG-2000 images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image handling tasks.",
+      "Integration: Can be integrated into applications requiring JPEG-2000 image handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JasPer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and JasPer for support and discussions.",
+      "GitHub": "Visit the JasPer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_jasper": "Not applicable",
+      "uninstall": "pkg uninstall libjasper"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjpeg-turbo-progs",
+    "version": "3.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjpeg-turbo-progs is a collection of programs for handling JPEG images using the libjpeg-turbo library.",
+    "homepage": "https://libjpeg-turbo.org/",
+    "installation": "pkg install libjpeg-turbo-progs",
+    "usage": "After installing libjpeg-turbo-progs, you can use it to handle JPEG images in your applications.",
+    "features": [
+      "JPEG Handling: Provides programs for handling JPEG images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image handling tasks.",
+      "Integration: Can be integrated into applications requiring JPEG image handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libjpeg-turbo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libjpeg-turbo for support and discussions.",
+      "GitHub": "Visit the Libjpeg-turbo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libjpeg_turbo_progs": "Not applicable",
+      "uninstall": "pkg uninstall libjpeg-turbo-progs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjpeg-turbo-static",
+    "version": "3.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjpeg-turbo-static is a library for handling JPEG images using the libjpeg-turbo library. This is the statically linked version.",
+    "homepage": "https://libjpeg-turbo.org/",
+    "installation": "pkg install libjpeg-turbo-static",
+    "usage": "After installing libjpeg-turbo-static, you can use it to handle JPEG images in your applications.",
+    "features": [
+      "JPEG Handling: Provides tools for handling JPEG images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for image handling tasks.",
+      "Integration: Can be integrated into applications requiring JPEG image handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libjpeg-turbo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libjpeg-turbo for support and discussions.",
+      "GitHub": "Visit the Libjpeg-turbo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libjpeg_turbo": "Not applicable",
+      "uninstall": "pkg uninstall libjpeg-turbo-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjpeg-turbo",
+    "version": "3.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjpeg-turbo is a library for handling JPEG images using the libjpeg-turbo library.",
+    "homepage": "https://libjpeg-turbo.org/",
+    "installation": "pkg install libjpeg-turbo",
+    "usage": "After installing libjpeg-turbo, you can use it to handle JPEG images in your applications.",
+    "features": [
+      "JPEG Handling: Provides tools for handling JPEG images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image handling tasks.",
+      "Integration: Can be integrated into applications requiring JPEG image handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libjpeg-turbo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libjpeg-turbo for support and discussions.",
+      "GitHub": "Visit the Libjpeg-turbo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libjpeg_turbo": "Not applicable",
+      "uninstall": "pkg uninstall libjpeg-turbo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjxl-progs",
+    "version": "0.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjxl-progs is a collection of programs for handling JPEG XL images using the libjxl library.",
+    "homepage": "https://github.com/libjxl/libjxl",
+    "installation": "pkg install libjxl-progs",
+    "usage": "After installing libjxl-progs, you can use it to handle JPEG XL images in your applications.",
+    "features": [
+      "JPEG XL Handling: Provides programs for handling JPEG XL images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image handling tasks.",
+      "Integration: Can be integrated into applications requiring JPEG XL image handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libjxl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libjxl for support and discussions.",
+      "GitHub": "Visit the Libjxl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libjxl_progs": "Not applicable",
+      "uninstall": "pkg uninstall libjxl-progs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libjxl",
+    "version": "0.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libjxl is a library for handling JPEG XL images.",
+    "homepage": "https://github.com/libjxl/libjxl",
+    "installation": "pkg install libjxl",
+    "usage": "After installing libjxl, you can use it to handle JPEG XL images in your applications.",
+    "features": [
+      "JPEG XL Handling: Provides tools for handling JPEG XL images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image handling tasks.",
+      "Integration: Can be integrated into applications requiring JPEG XL image handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libjxl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libjxl for support and discussions.",
+      "GitHub": "Visit the Libjxl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libjxl": "Not applicable",
+      "uninstall": "pkg uninstall libjxl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libkiwix",
+    "version": "13.1.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libkiwix is a library for offline Wikipedia and other web content access.",
+    "homepage": "https://kiwix.org/",
+    "installation": "pkg install libkiwix",
+    "usage": "After installing libkiwix, you can use it to access offline Wikipedia and other web content in your applications.",
+    "features": [
+      "Offline Content Access: Provides tools for accessing offline Wikipedia and other web content.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for content access tasks.",
+      "Integration: Can be integrated into applications requiring offline content access.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kiwix documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to offline content access and Kiwix for support and discussions.",
+      "GitHub": "Visit the Kiwix GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libkiwix": "Not applicable",
+      "uninstall": "pkg uninstall libkiwix"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libknot-static",
+    "version": "3.2.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libknot is a DNS library for Knot DNS, a high-performance authoritative DNS server. This is the statically linked version.",
+    "homepage": "https://www.knot-dns.cz/",
+    "installation": "pkg install libknot-static",
+    "usage": "After installing libknot-static, you can use it to implement DNS functionalities in your applications.",
+    "features": [
+      "DNS Functionality: Provides tools for implementing DNS functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for DNS tasks.",
+      "Integration: Can be integrated into applications requiring DNS functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Knot DNS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS and Knot DNS for support and discussions.",
+      "GitHub": "Visit the Knot DNS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libknot": "Not applicable",
+      "uninstall": "pkg uninstall libknot-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libknot",
+    "version": "3.2.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libknot is a DNS library for Knot DNS, a high-performance authoritative DNS server.",
+    "homepage": "https://www.knot-dns.cz/",
+    "installation": "pkg install libknot",
+    "usage": "After installing libknot, you can use it to implement DNS functionalities in your applications.",
+    "features": [
+      "DNS Functionality: Provides tools for implementing DNS functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for DNS tasks.",
+      "Integration: Can be integrated into applications requiring DNS functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Knot DNS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS and Knot DNS for support and discussions.",
+      "GitHub": "Visit the Knot DNS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libknot": "Not applicable",
+      "uninstall": "pkg uninstall libknot"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libkokkos",
+    "version": "4.5.01",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libkokkos is a library for parallel programming in C++.",
+    "homepage": "https://github.com/kokkos/kokkos",
+    "installation": "pkg install libkokkos",
+    "usage": "After installing libkokkos, you can use it to implement parallel programming in your C++ applications.",
+    "features": [
+      "Parallel Programming: Provides tools for parallel programming in C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for parallel programming tasks.",
+      "Integration: Can be integrated into applications requiring parallel programming.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kokkos documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to parallel programming and Kokkos for support and discussions.",
+      "GitHub": "Visit the Kokkos GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libkokkos": "Not applicable",
+      "uninstall": "pkg uninstall libkokkos"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libksba-static",
+    "version": "1.6.7-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libksba is a library for working with X.509 certificates, CMS data, and related objects. This is the statically linked version.",
+    "homepage": "https://www.gnupg.org/software/libksba/index.html",
+    "installation": "pkg install libksba-static",
+    "usage": "After installing libksba-static, you can use it to handle X.509 certificates and CMS data in your applications.",
+    "features": [
+      "X.509 Certificates: Provides tools for working with X.509 certificates.",
+      "CMS Data: Provides tools for working with CMS data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for certificate and CMS tasks.",
+      "Integration: Can be integrated into applications requiring X.509 certificates and CMS data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libksba documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libksba for support and discussions.",
+      "GitHub": "Visit the Libksba GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libksba": "Not applicable",
+      "uninstall": "pkg uninstall libksba-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libksba",
+    "version": "1.6.7-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libksba is a library for working with X.509 certificates, CMS data, and related objects.",
+    "homepage": "https://www.gnupg.org/software/libksba/index.html",
+    "installation": "pkg install libksba",
+    "usage": "After installing libksba, you can use it to handle X.509 certificates and CMS data in your applications.",
+    "features": [
+      "X.509 Certificates: Provides tools for working with X.509 certificates.",
+      "CMS Data: Provides tools for working with CMS data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for certificate and CMS tasks.",
+      "Integration: Can be integrated into applications requiring X.509 certificates and CMS data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libksba documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libksba for support and discussions.",
+      "GitHub": "Visit the Libksba GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libksba": "Not applicable",
+      "uninstall": "pkg uninstall libksba"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblightning-static",
+    "version": "2.2.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblightning is a library for generating assembly code at runtime. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/lightning/",
+    "installation": "pkg install liblightning-static",
+    "usage": "After installing liblightning-static, you can use it to generate assembly code at runtime in your applications.",
+    "features": [
+      "Runtime Assembly Code: Provides tools for generating assembly code at runtime.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for assembly code generation tasks.",
+      "Integration: Can be integrated into applications requiring runtime assembly code generation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liblightning documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to assembly code generation and Liblightning for support and discussions.",
+      "GitHub": "Visit the Liblightning GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblightning": "Not applicable",
+      "uninstall": "pkg uninstall liblightning-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblightning",
+    "version": "2.2.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblightning is a library for generating assembly code at runtime.",
+    "homepage": "https://www.gnu.org/software/lightning/",
+    "installation": "pkg install liblightning",
+    "usage": "After installing liblightning, you can use it to generate assembly code at runtime in your applications.",
+    "features": [
+      "Runtime Assembly Code: Provides tools for generating assembly code at runtime.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for assembly code generation tasks.",
+      "Integration: Can be integrated into applications requiring runtime assembly code generation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liblightning documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to assembly code generation and Liblightning for support and discussions.",
+      "GitHub": "Visit the Liblightning GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblightning": "Not applicable",
+      "uninstall": "pkg uninstall liblightning"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libliquid-dsp-static",
+    "version": "1.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libliquid-dsp is a library for digital signal processing (DSP) applications. This is the statically linked version.",
+    "homepage": "https://github.com/jgaeddert/liquid-dsp",
+    "installation": "pkg install libliquid-dsp-static",
+    "usage": "After installing libliquid-dsp-static, you can use it to implement DSP functionalities in your applications.",
+    "features": [
+      "Digital Signal Processing: Provides tools for digital signal processing (DSP) applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for DSP tasks.",
+      "Integration: Can be integrated into applications requiring DSP functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liquid-DSP documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to signal processing and Liquid-DSP for support and discussions.",
+      "GitHub": "Visit the Liquid-DSP GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liquid_dsp": "Not applicable",
+      "uninstall": "pkg uninstall libliquid-dsp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libliquid-dsp",
+    "version": "1.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libliquid-dsp is a library for digital signal processing (DSP) applications.",
+    "homepage": "https://github.com/jgaeddert/liquid-dsp",
+    "installation": "pkg install libliquid-dsp",
+    "usage": "After installing libliquid-dsp, you can use it to implement DSP functionalities in your applications.",
+    "features": [
+      "Digital Signal Processing: Provides tools for digital signal processing (DSP) applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for DSP tasks.",
+      "Integration: Can be integrated into applications requiring DSP functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liquid-DSP documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to signal processing and Liquid-DSP for support and discussions.",
+      "GitHub": "Visit the Liquid-DSP GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liquid_dsp": "Not applicable",
+      "uninstall": "pkg uninstall libliquid-dsp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libllvm-static",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libllvm is a collection of modular and reusable compiler and toolchain technologies. This is the statically linked version.",
+    "homepage": "https://llvm.org/",
+    "installation": "pkg install libllvm-static",
+    "usage": "After installing libllvm-static, you can use it to leverage LLVM technologies in your applications.",
+    "features": [
+      "Compiler and Toolchain: Provides modular and reusable compiler and toolchain technologies.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for compiler and toolchain tasks.",
+      "Integration: Can be integrated into applications requiring LLVM functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLVM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compiler technologies and LLVM for support and discussions.",
+      "GitHub": "Visit the LLVM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_llvm": "Not applicable",
+      "uninstall": "pkg uninstall libllvm-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libllvm",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libllvm is a collection of modular and reusable compiler and toolchain technologies.",
+    "homepage": "https://llvm.org/",
+    "installation": "pkg install libllvm",
+    "usage": "After installing libllvm, you can use it to leverage LLVM technologies in your applications.",
+    "features": [
+      "Compiler and Toolchain: Provides modular and reusable compiler and toolchain technologies.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for compiler and toolchain tasks.",
+      "Integration: Can be integrated into applications requiring LLVM functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLVM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compiler technologies and LLVM for support and discussions.",
+      "GitHub": "Visit the LLVM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_llvm": "Not applicable",
+      "uninstall": "pkg uninstall libllvm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblmdb-static",
+    "version": "0.9.33",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblmdb is a fast memory-mapped key-value database. This is the statically linked version.",
+    "homepage": "https://symas.com/lmdb/",
+    "installation": "pkg install liblmdb-static",
+    "usage": "After installing liblmdb-static, you can use it to implement fast key-value storage in your applications.",
+    "features": [
+      "Key-Value Database: Provides tools for implementing fast memory-mapped key-value storage.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring key-value storage.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LMDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database technologies and LMDB for support and discussions.",
+      "GitHub": "Visit the LMDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lmdb": "Not applicable",
+      "uninstall": "pkg uninstall liblmdb-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblmdb",
+    "version": "0.9.33",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblmdb is a fast memory-mapped key-value database.",
+    "homepage": "https://symas.com/lmdb/",
+    "installation": "pkg install liblmdb",
+    "usage": "After installing liblmdb, you can use it to implement fast key-value storage in your applications.",
+    "features": [
+      "Key-Value Database: Provides tools for implementing fast memory-mapped key-value storage.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring key-value storage.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LMDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database technologies and LMDB for support and discussions.",
+      "GitHub": "Visit the LMDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lmdb": "Not applicable",
+      "uninstall": "pkg uninstall liblmdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblo-static",
+    "version": "0.32",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblo is a lightweight library for the Open Sound Control (OSC) protocol. This is the statically linked version.",
+    "homepage": "http://liblo.sourceforge.net/",
+    "installation": "pkg install liblo-static",
+    "usage": "After installing liblo-static, you can use it to implement OSC functionalities in your applications.",
+    "features": [
+      "Open Sound Control: Provides tools for implementing the Open Sound Control (OSC) protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for OSC tasks.",
+      "Integration: Can be integrated into applications requiring OSC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liblo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to sound processing and Liblo for support and discussions.",
+      "GitHub": "Visit the Liblo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblo": "Not applicable",
+      "uninstall": "pkg uninstall liblo-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblo",
+    "version": "0.32",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblo is a lightweight library for the Open Sound Control (OSC) protocol.",
+    "homepage": "http://liblo.sourceforge.net/",
+    "installation": "pkg install liblo",
+    "usage": "After installing liblo, you can use it to implement OSC functionalities in your applications.",
+    "features": [
+      "Open Sound Control: Provides tools for implementing the Open Sound Control (OSC) protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for OSC tasks.",
+      "Integration: Can be integrated into applications requiring OSC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liblo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to sound processing and Liblo for support and discussions.",
+      "GitHub": "Visit the Liblo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblo": "Not applicable",
+      "uninstall": "pkg uninstall liblo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblog4c-static",
+    "version": "1.2.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblog4c is a library for logging in C applications. This is the statically linked version.",
+    "homepage": "http://log4c.sourceforge.net/",
+    "installation": "pkg install liblog4c-static",
+    "usage": "After installing liblog4c-static, you can use it to implement logging in your C applications.",
+    "features": [
+      "Logging: Provides tools for implementing logging in C applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for logging tasks.",
+      "Integration: Can be integrated into applications requiring logging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Log4c documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to logging and Log4c for support and discussions.",
+      "GitHub": "Visit the Log4c GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_log4c": "Not applicable",
+      "uninstall": "pkg uninstall liblog4c-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblog4c",
+    "version": "1.2.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblog4c is a library for logging in C applications.",
+    "homepage": "http://log4c.sourceforge.net/",
+    "installation": "pkg install liblog4c",
+    "usage": "After installing liblog4c, you can use it to implement logging in your C applications.",
+    "features": [
+      "Logging: Provides tools for implementing logging in C applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for logging tasks.",
+      "Integration: Can be integrated into applications requiring logging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Log4c documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to logging and Log4c for support and discussions.",
+      "GitHub": "Visit the Log4c GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_log4c": "Not applicable",
+      "uninstall": "pkg uninstall liblog4c"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblog4cxx",
+    "version": "1.0.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblog4cxx is a library for logging in C++ applications.",
+    "homepage": "https://logging.apache.org/log4cxx/",
+    "installation": "pkg install liblog4cxx",
+    "usage": "After installing liblog4cxx, you can use it to implement logging in your C++ applications.",
+    "features": [
+      "Logging: Provides tools for implementing logging in C++ applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for logging tasks.",
+      "Integration: Can be integrated into applications requiring logging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Log4cxx documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to logging and Log4cxx for support and discussions.",
+      "GitHub": "Visit the Log4cxx GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_log4cxx": "Not applicable",
+      "uninstall": "pkg uninstall liblog4cxx"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblqr-static",
+    "version": "0.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblqr is a seam carving library for content-aware image resizing. This is the statically linked version.",
+    "homepage": "https://liblqr.wikidot.com/",
+    "installation": "pkg install liblqr-static",
+    "usage": "After installing liblqr-static, you can use it to perform seam carving in your applications.",
+    "features": [
+      "Seam Carving: Provides tools for content-aware image resizing using seam carving.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for seam carving tasks.",
+      "Integration: Can be integrated into applications requiring content-aware image resizing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liblqr documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Liblqr for support and discussions.",
+      "GitHub": "Visit the Liblqr GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblqr": "Not applicable",
+      "uninstall": "pkg uninstall liblqr-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblqr",
+    "version": "0.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblqr is a seam carving library for content-aware image resizing.",
+    "homepage": "https://liblqr.wikidot.com/",
+    "installation": "pkg install liblqr",
+    "usage": "After installing liblqr, you can use it to perform seam carving in your applications.",
+    "features": [
+      "Seam Carving: Provides tools for content-aware image resizing using seam carving.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for seam carving tasks.",
+      "Integration: Can be integrated into applications requiring content-aware image resizing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liblqr documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Liblqr for support and discussions.",
+      "GitHub": "Visit the Liblqr GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblqr": "Not applicable",
+      "uninstall": "pkg uninstall liblqr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblrdf-static",
+    "version": "0.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblrdf is a library for handling RDF (Resource Description Framework) data. This is the statically linked version.",
+    "homepage": "https://github.com/swh/LRDF",
+    "installation": "pkg install liblrdf-static",
+    "usage": "After installing liblrdf-static, you can use it to handle RDF data in your applications.",
+    "features": [
+      "RDF Handling: Provides tools for handling RDF (Resource Description Framework) data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for RDF tasks.",
+      "Integration: Can be integrated into applications requiring RDF data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liblrdf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RDF handling and Liblrdf for support and discussions.",
+      "GitHub": "Visit the Liblrdf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblrdf": "Not applicable",
+      "uninstall": "pkg uninstall liblrdf-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblrdf",
+    "version": "0.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblrdf is a library for handling RDF (Resource Description Framework) data.",
+    "homepage": "https://github.com/swh/LRDF",
+    "installation": "pkg install liblrdf",
+    "usage": "After installing liblrdf, you can use it to handle RDF data in your applications.",
+    "features": [
+      "RDF Handling: Provides tools for handling RDF (Resource Description Framework) data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for RDF tasks.",
+      "Integration: Can be integrated into applications requiring RDF data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liblrdf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RDF handling and Liblrdf for support and discussions.",
+      "GitHub": "Visit the Liblrdf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblrdf": "Not applicable",
+      "uninstall": "pkg uninstall liblrdf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libltdl",
+    "version": "2.5.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libltdl is a system-independent dlopen wrapper for GNU libtool.",
+    "homepage": "https://www.gnu.org/software/libtool/",
+    "installation": "pkg install libltdl",
+    "usage": "After installing libltdl, you can use it to dynamically load shared libraries in your applications.",
+    "features": [
+      "Dynamic Loading: Provides tools for dynamically loading shared libraries.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for dynamic loading tasks.",
+      "Integration: Can be integrated into applications requiring dynamic library loading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libltdl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to dynamic loading and Libltdl for support and discussions.",
+      "GitHub": "Visit the Libltdl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libltdl": "Not applicable",
+      "uninstall": "pkg uninstall libltdl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblua51-static",
+    "version": "5.1.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblua51 is a library for the Lua 5.1 programming language. This is the statically linked version.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install liblua51-static",
+    "usage": "After installing liblua51-static, you can use it to embed Lua 5.1 in your applications.",
+    "features": [
+      "Lua 5.1: Provides tools for embedding the Lua 5.1 programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Lua tasks.",
+      "Integration: Can be integrated into applications requiring Lua scripting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua programming and Liblua for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblua51": "Not applicable",
+      "uninstall": "pkg uninstall liblua51-static"
+    },
+    "isFavorite": false
+  }
+]

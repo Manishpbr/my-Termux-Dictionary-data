@@ -1,0 +1,1279 @@
+[
+  {
+    "name": "snapcast-server",
+    "version": "0.30.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Snapcast Server is the server component of Snapcast, a multi-room audio player.",
+    "homepage": "https://github.com/badaix/snapcast",
+    "installation": "pkg install snapcast-server",
+    "usage": "After installing Snapcast Server, you can use it to stream synchronized audio to multiple clients.",
+    "features": [
+      "Multi-Room Audio: Provides a server for Snapcast, enabling synchronized audio playback across multiple devices.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to multi-room audio for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "snapserver",
+      "uninstall": "pkg uninstall snapcast-server"
+    }
+  },
+  {
+    "name": "snmptt",
+    "version": "1.5",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "SNMPTT (SNMP Trap Translator) is an SNMP trap handler written in Perl.",
+    "homepage": "http://snmptt.sourceforge.net/",
+    "installation": "pkg install snmptt",
+    "usage": "After installing SNMPTT, you can use it to translate SNMP traps into a human-readable format.",
+    "features": [
+      "SNMP Trap Handling: Provides tools for handling and translating SNMP traps.",
+      "Perl-Based: Written in Perl for flexibility and ease of modification.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SNMPTT website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SNMP for support and discussions.",
+      "GitHub": "Search for repositories or forks of SNMPTT to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_snmptt": "snmptt --daemon",
+      "uninstall": "pkg uninstall snmptt"
+    }
+  },
+  {
+    "name": "snowflake-client",
+    "version": "2.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Snowflake Client is a client for the Snowflake proxy, which provides access to the Tor network.",
+    "homepage": "https://snowflake.torproject.org/",
+    "installation": "pkg install snowflake-client",
+    "usage": "After installing Snowflake Client, you can use it to connect to the Tor network via the Snowflake proxy.",
+    "features": [
+      "Tor Network Access: Provides access to the Tor network via the Snowflake proxy.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Snowflake website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tor for support and discussions.",
+      "GitHub": "Search for repositories or forks of Snowflake to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "snowflake-client",
+      "uninstall": "pkg uninstall snowflake-client"
+    }
+  },
+  {
+    "name": "snowflake-proxy",
+    "version": "2.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Snowflake Proxy is a proxy for the Snowflake system, which provides access to the Tor network.",
+    "homepage": "https://snowflake.torproject.org/",
+    "installation": "pkg install snowflake-proxy",
+    "usage": "After installing Snowflake Proxy, you can use it to run a proxy for the Snowflake system.",
+    "features": [
+      "Tor Network Access: Provides a proxy for the Snowflake system to access the Tor network.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Snowflake website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tor for support and discussions.",
+      "GitHub": "Search for repositories or forks of Snowflake to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_proxy": "snowflake-proxy",
+      "uninstall": "pkg uninstall snowflake-proxy"
+    }
+  },
+  {
+    "name": "snowflake",
+    "version": "2.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Snowflake is a system that provides access to the Tor network through proxies.",
+    "homepage": "https://snowflake.torproject.org/",
+    "installation": "pkg install snowflake",
+    "usage": "After installing Snowflake, you can use it to access the Tor network through proxies.",
+    "features": [
+      "Tor Network Access: Provides access to the Tor network through proxies.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Snowflake website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tor for support and discussions.",
+      "GitHub": "Search for repositories or forks of Snowflake to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_snowflake": "snowflake",
+      "uninstall": "pkg uninstall snowflake"
+    }
+  },
+  {
+    "name": "socat",
+    "version": "1.8.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Socat is a command line based utility that establishes two bidirectional byte streams and transfers data between them.",
+    "homepage": "http://www.dest-unreach.org/socat/",
+    "installation": "pkg install socat",
+    "usage": "After installing socat, you can use it to transfer data between two bidirectional byte streams.",
+    "features": [
+      "Data Transfer: Provides tools for transferring data between two bidirectional byte streams.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official socat website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network utilities for support and discussions.",
+      "GitHub": "Search for repositories or forks of socat to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_tunnel": "socat TCP-LISTEN:1234,fork TCP:remotehost:5678",
+      "uninstall": "pkg uninstall socat"
+    }
+  },
+  {
+    "name": "softether-vpn",
+    "version": "5.02.5180-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SoftEther VPN is an open-source, cross-platform, multi-protocol VPN software.",
+    "homepage": "https://www.softether.org/",
+    "installation": "pkg install softether-vpn",
+    "usage": "After installing SoftEther VPN, you can use it to set up and manage a VPN server.",
+    "features": [
+      "VPN Software: Provides tools for setting up and managing a VPN server.",
+      "Multi-Protocol: Supports multiple VPN protocols.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SoftEther VPN website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to VPN for support and discussions.",
+      "GitHub": "Search for repositories or forks of SoftEther VPN to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "vpnserver start",
+      "uninstall": "pkg uninstall softether-vpn"
+    }
+  },
+  {
+    "name": "soju",
+    "version": "0.8.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Soju is a user-friendly IRC bouncer.",
+    "homepage": "https://soju.im/",
+    "installation": "pkg install soju",
+    "usage": "After installing soju, you can use it to manage IRC connections and stay connected to IRC servers.",
+    "features": [
+      "IRC Bouncer: Provides tools for managing IRC connections.",
+      "User-Friendly: Designed to be user-friendly and easy to use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official soju website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to IRC for support and discussions.",
+      "GitHub": "Search for repositories or forks of soju to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_soju": "soju start",
+      "uninstall": "pkg uninstall soju"
+    }
+  },
+  {
+    "name": "solidity",
+    "version": "0.8.28",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Solidity is a contract-oriented, high-level programming language for implementing smart contracts.",
+    "homepage": "https://soliditylang.org/",
+    "installation": "pkg install solidity",
+    "usage": "After installing solidity, you can use it to write and deploy smart contracts on the Ethereum blockchain.",
+    "features": [
+      "Smart Contracts: Provides tools for writing and deploying smart contracts.",
+      "Contract-Oriented: Designed specifically for contract-oriented programming.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Solidity website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to blockchain development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Solidity to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_contract": "solc --optimize --bin source.sol",
+      "uninstall": "pkg uninstall solidity"
+    }
+  },
+  {
+    "name": "sops",
+    "version": "3.9.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SOPS (Secrets OPerationS) is an editor of encrypted files that supports YAML, JSON, ENV, and INI formats.",
+    "homepage": "https://github.com/mozilla/sops",
+    "installation": "pkg install sops",
+    "usage": "After installing sops, you can use it to manage secrets in encrypted files.",
+    "features": [
+      "Encrypted File Editor: Provides tools for editing encrypted files.",
+      "Supports Multiple Formats: Supports YAML, JSON, ENV, and INI formats.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to encryption for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "edit_file": "sops file.yaml",
+      "uninstall": "pkg uninstall sops"
+    }
+  },
+  {
+    "name": "sord",
+    "version": "0.16.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sord is a lightweight C library for storing RDF data in memory.",
+    "homepage": "https://drobilla.net/software/sord/",
+    "installation": "pkg install sord",
+    "usage": "After installing sord, you can use it to store and manage RDF data in memory.",
+    "features": [
+      "RDF Data Storage: Provides tools for storing RDF data in memory.",
+      "Lightweight: Designed to be lightweight and efficient.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Sord website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to RDF for support and discussions.",
+      "GitHub": "Search for repositories or forks of Sord to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "store_rdf_data": "Include sord in your C projects for RDF data storage.",
+      "uninstall": "pkg uninstall sord"
+    }
+  },
+  {
+    "name": "sox-static",
+    "version": "14.4.2-27",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sox-static provides a static binary version of SoX (Sound eXchange), a command line utility for audio processing.",
+    "homepage": "http://sox.sourceforge.net/",
+    "installation": "pkg install sox-static",
+    "usage": "After installing sox-static, you can use it to manipulate audio files in various formats.",
+    "features": [
+      "Audio Processing: Provides tools for manipulating audio files.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SoX website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of SoX to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_audio": "sox input.wav output.mp3",
+      "uninstall": "pkg uninstall sox-static"
+    }
+  },
+  {
+    "name": "sox",
+    "version": "14.4.2-27",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SoX (Sound eXchange) is a command line utility for audio processing.",
+    "homepage": "http://sox.sourceforge.net/",
+    "installation": "pkg install sox",
+    "usage": "After installing SoX, you can use it to manipulate audio files in various formats.",
+    "features": [
+      "Audio Processing: Provides tools for manipulating audio files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SoX website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of SoX to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_audio": "sox input.wav output.mp3",
+      "uninstall": "pkg uninstall sox"
+    }
+  },
+  {
+    "name": "spatialite-tools",
+    "version": "5.0.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SpatiaLite Tools is a set of tools for managing and manipulating geospatial data in SQLite databases.",
+    "homepage": "https://www.gaia-gis.it/fossil/spatialite-tools",
+    "installation": "pkg install spatialite-tools",
+    "usage": "After installing SpatiaLite Tools, you can use it to manage and manipulate geospatial data within SQLite databases.",
+    "features": [
+      "Geospatial Data Management: Provides tools for managing and manipulating geospatial data.",
+      "SQLite Integration: Designed to work with SQLite databases.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official SpatiaLite Tools website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to geospatial data for support and discussions.",
+      "GitHub": "Search for repositories or forks of SpatiaLite Tools to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "load_geospatial_data": "spatialite_tool -i input_data",
+      "uninstall": "pkg uninstall spatialite-tools"
+    }
+  },
+  {
+    "name": "speechd-data",
+    "version": "0.11.5-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Speech Dispatcher Data provides data files for the Speech Dispatcher text-to-speech system.",
+    "homepage": "https://github.com/brailcom/speechd",
+    "installation": "pkg install speechd-data",
+    "usage": "After installing speechd-data, you can use it to support text-to-speech functionalities provided by Speech Dispatcher.",
+    "features": [
+      "Text-to-Speech Data: Provides data files required for text-to-speech functionalities.",
+      "Speech Dispatcher Integration: Designed to work with the Speech Dispatcher system.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text-to-speech for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_speechd_data": "Include speechd-data in your text-to-speech projects.",
+      "uninstall": "pkg uninstall speechd-data"
+    }
+  },
+  {
+    "name": "speechd",
+    "version": "0.11.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Speech Dispatcher is a high-level device-independent layer for access to speech synthesis.",
+    "homepage": "https://github.com/brailcom/speechd",
+    "installation": "pkg install speechd",
+    "usage": "After installing Speech Dispatcher, you can use it to provide text-to-speech functionalities in your applications.",
+    "features": [
+      "Text-to-Speech: Provides a high-level interface for speech synthesis.",
+      "Device-Independent: Designed to be device-independent.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text-to-speech for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_speechd": "speech-dispatcher",
+      "uninstall": "pkg uninstall speechd"
+    }
+  },
+  {
+    "name": "speedtest-go",
+    "version": "1.7.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Speedtest-go is a command-line tool for testing internet bandwidth using speedtest.net.",
+    "homepage": "https://github.com/showwin/speedtest-go",
+    "installation": "pkg install speedtest-go",
+    "usage": "After installing speedtest-go, you can use it to test your internet bandwidth from the command line.",
+    "features": [
+      "Internet Bandwidth Testing: Provides tools for testing internet bandwidth.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to internet speed testing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "test_bandwidth": "speedtest-go",
+      "uninstall": "pkg uninstall speedtest-go"
+    }
+  },
+  {
+    "name": "speex-utils",
+    "version": "1.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Speex-utils provides utilities for manipulating Speex audio files.",
+    "homepage": "https://www.speex.org/",
+    "installation": "pkg install speex-utils",
+    "usage": "After installing speex-utils, you can use it to encode, decode, and manipulate Speex audio files.",
+    "features": [
+      "Audio Manipulation: Provides tools for manipulating Speex audio files.",
+      "Speex Support: Designed specifically for Speex audio format.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Speex website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Speex to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_audio": "speexenc input.wav output.spx",
+      "uninstall": "pkg uninstall speex-utils"
+    }
+  },
+  {
+    "name": "speexdsp-static",
+    "version": "1.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SpeexDSP-static provides a static binary version of the SpeexDSP library for audio processing.",
+    "homepage": "https://www.speex.org/",
+    "installation": "pkg install speexdsp-static",
+    "usage": "After installing speexdsp-static, you can link the static library with your audio processing applications.",
+    "features": [
+      "Audio Processing: Provides a static binary version of the SpeexDSP library.",
+      "Static Library: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Speex website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Speex to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lspeexdsp",
+      "uninstall": "pkg uninstall speexdsp-static"
+    }
+  },
+  {
+    "name": "speexdsp",
+    "version": "1.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SpeexDSP is a library for audio processing, including features such as echo cancellation, noise suppression, and AGC.",
+    "homepage": "https://www.speex.org/",
+    "installation": "pkg install speexdsp",
+    "usage": "After installing speexdsp, you can use it to perform various audio processing tasks.",
+    "features": [
+      "Audio Processing: Provides tools for echo cancellation, noise suppression, and AGC.",
+      "Speex Support: Designed specifically for Speex audio format.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Speex website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Speex to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_audio": "Include speexdsp in your audio processing projects.",
+      "uninstall": "pkg uninstall speexdsp"
+    }
+  },
+  {
+    "name": "spglib",
+    "version": "2.5.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Spglib is a library for finding and handling crystal symmetries in materials science.",
+    "homepage": "https://spglib.github.io/spglib/",
+    "installation": "pkg install spglib",
+    "usage": "After installing spglib, you can use it to analyze and handle crystal symmetries in materials science.",
+    "features": [
+      "Crystal Symmetry: Provides tools for finding and handling crystal symmetries.",
+      "Materials Science: Designed specifically for materials science applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Spglib website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to materials science for support and discussions.",
+      "GitHub": "Search for repositories or forks of Spglib to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "analyze_symmetry": "Include spglib in your materials science projects.",
+      "uninstall": "pkg uninstall spglib"
+    }
+  },
+  {
+    "name": "spiped",
+    "version": "1.6.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Spiped is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.",
+    "homepage": "https://www.tarsnap.com/spiped.html",
+    "installation": "pkg install spiped",
+    "usage": "After installing spiped, you can use it to create encrypted and authenticated pipes between socket addresses.",
+    "features": [
+      "Encrypted Pipes: Provides tools for creating symmetrically encrypted and authenticated pipes.",
+      "Socket Addresses: Designed to work with socket addresses.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Spiped website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to encryption for support and discussions.",
+      "GitHub": "Search for repositories or forks of Spiped to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_pipe": "spiped -e -s [source] -t [target] -k [keyfile]",
+      "uninstall": "pkg uninstall spiped"
+    }
+  },
+  {
+    "name": "spirv-headers",
+    "version": "1.4.304.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "SPIRV-Headers is a collection of headers for the SPIR-V intermediate language.",
+    "homepage": "https://github.com/KhronosGroup/SPIRV-Headers",
+    "installation": "pkg install spirv-headers",
+    "usage": "After installing spirv-headers, you can use it to develop applications that use the SPIR-V intermediate language.",
+    "features": [
+      "SPIR-V Headers: Provides headers for the SPIR-V intermediate language.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SPIR-V for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_headers": "Include spirv-headers in your SPIR-V projects.",
+      "uninstall": "pkg uninstall spirv-headers"
+    }
+  },
+  {
+    "name": "spirv-tools",
+    "version": "1.4.304.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SPIRV-Tools is a collection of tools for processing SPIR-V intermediate language.",
+    "homepage": "https://github.com/KhronosGroup/SPIRV-Tools",
+    "installation": "pkg install spirv-tools",
+    "usage": "After installing spirv-tools, you can use it to process and manipulate SPIR-V intermediate language.",
+    "features": [
+      "SPIR-V Tools: Provides tools for processing SPIR-V intermediate language.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SPIR-V for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_spirv": "spirv-as input.spv -o output.spv",
+      "uninstall": "pkg uninstall spirv-tools"
+    }
+  },
+  {
+    "name": "sqlcipher-static",
+    "version": "4.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SQLCipher-static provides a static binary version of SQLCipher, an extension to SQLite that provides transparent 256-bit AES encryption.",
+    "homepage": "https://www.zetetic.net/sqlcipher/",
+    "installation": "pkg install sqlcipher-static",
+    "usage": "After installing sqlcipher-static, you can link the static library with your applications to use encrypted SQLite databases.",
+    "features": [
+      "Encrypted SQLite: Provides a static binary version of SQLCipher for encrypted SQLite databases.",
+      "Static Library: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SQLCipher website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to database encryption for support and discussions.",
+      "GitHub": "Search for repositories or forks of SQLCipher to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lsqlcipher",
+      "uninstall": "pkg uninstall sqlcipher-static"
+    }
+  },
+  {
+    "name": "sqlcipher",
+    "version": "4.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SQLCipher is an extension to SQLite that provides transparent 256-bit AES encryption of database files.",
+    "homepage": "https://www.zetetic.net/sqlcipher/",
+    "installation": "pkg install sqlcipher",
+    "usage": "After installing SQLCipher, you can use it to create and manage encrypted SQLite databases.",
+    "features": [
+      "Encrypted SQLite: Provides transparent 256-bit AES encryption for SQLite databases.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SQLCipher website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to database encryption for support and discussions.",
+      "GitHub": "Search for repositories or forks of SQLCipher to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_encrypted_db": "sqlcipher mydatabase.db",
+      "uninstall": "pkg uninstall sqlcipher"
+    }
+  },
+  {
+    "name": "sqlite",
+    "version": "3.48.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SQLite is a C library that provides a lightweight, disk-based database.",
+    "homepage": "https://www.sqlite.org/",
+    "installation": "pkg install sqlite",
+    "usage": "After installing SQLite, you can use it to manage lightweight, disk-based databases.",
+    "features": [
+      "Disk-Based Database: Provides a lightweight, disk-based database.",
+      "C Library: Designed as a C library for easy integration.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SQLite website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SQLite for support and discussions.",
+      "GitHub": "Search for repositories or forks of SQLite to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_database": "sqlite3 mydatabase.db",
+      "uninstall": "pkg uninstall sqlite"
+    }
+  },
+  {
+    "name": "squashfs-tools-ng-static",
+    "version": "1.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SquashFS Tools NG Static is a static binary version of SquashFS Tools NG for creating and extracting SquashFS filesystems.",
+    "homepage": "https://github.com/AgentD/squashfs-tools-ng",
+    "installation": "pkg install squashfs-tools-ng-static",
+    "usage": "After installing SquashFS Tools NG Static, you can use it to create and extract SquashFS filesystems.",
+    "features": [
+      "Filesystem Tools: Provides tools for creating and extracting SquashFS filesystems.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to filesystems for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_filesystem": "mksquashfs source_dir filesystem.sfs",
+      "extract_filesystem": "unsquashfs filesystem.sfs",
+      "uninstall": "pkg uninstall squashfs-tools-ng-static"
+    }
+  },
+  {
+    "name": "squashfs-tools-ng",
+    "version": "1.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SquashFS Tools NG is a suite of tools for creating and extracting SquashFS filesystems.",
+    "homepage": "https://github.com/AgentD/squashfs-tools-ng",
+    "installation": "pkg install squashfs-tools-ng",
+    "usage": "After installing SquashFS Tools NG, you can use it to create and extract SquashFS filesystems.",
+    "features": [
+      "Filesystem Tools: Provides tools for creating and extracting SquashFS filesystems.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to filesystems for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_filesystem": "mksquashfs source_dir filesystem.sfs",
+      "extract_filesystem": "unsquashfs filesystem.sfs",
+      "uninstall": "pkg uninstall squashfs-tools-ng"
+    }
+  },
+  {
+    "name": "squeezelite",
+    "version": "2.0.0.1517",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Squeezelite is a small headless Logitech Media Server client.",
+    "homepage": "https://github.com/ralph-irving/squeezelite",
+    "installation": "pkg install squeezelite",
+    "usage": "After installing Squeezelite, you can use it to stream audio from a Logitech Media Server.",
+    "features": [
+      "Audio Streaming: Provides tools for streaming audio from a Logitech Media Server.",
+      "Headless Client: Designed as a small headless client.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio streaming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_squeezelite": "squeezelite -o output_device",
+      "uninstall": "pkg uninstall squeezelite"
+    }
+  },
+  {
+    "name": "squid",
+    "version": "6.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Squid is a caching and forwarding HTTP web proxy.",
+    "homepage": "http://www.squid-cache.org/",
+    "installation": "pkg install squid",
+    "usage": "After installing Squid, you can use it to set up a caching and forwarding HTTP web proxy.",
+    "features": [
+      "Web Proxy: Provides tools for setting up a caching and forwarding HTTP web proxy.",
+      "Caching: Designed to cache web content for improved performance.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Squid website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to web proxies for support and discussions.",
+      "GitHub": "Search for repositories or forks of Squid to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_squid": "squid -N",
+      "uninstall": "pkg uninstall squid"
+    }
+  },
+  {
+    "name": "sratom",
+    "version": "0.6.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sratom is a library for serializing LV2 atoms to and from Turtle.",
+    "homepage": "https://drobilla.net/software/sratom/",
+    "installation": "pkg install sratom",
+    "usage": "After installing Sratom, you can use it to serialize and deserialize LV2 atoms.",
+    "features": [
+      "LV2 Atom Serialization: Provides tools for serializing LV2 atoms to and from Turtle.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Sratom website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to LV2 for support and discussions.",
+      "GitHub": "Search for repositories or forks of Sratom to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "serialize_atom": "Include sratom in your LV2 projects for atom serialization.",
+      "uninstall": "pkg uninstall sratom"
+    }
+  },
+  {
+    "name": "srelay",
+    "version": "0.4.8p3-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Srelay is a simple, stable, small, and secure SOCKS proxy server.",
+    "homepage": "http://socks-relay.sourceforge.net/",
+    "installation": "pkg install srelay",
+    "usage": "After installing srelay, you can use it to set up a SOCKS proxy server.",
+    "features": [
+      "SOCKS Proxy Server: Provides tools for setting up a SOCKS proxy server.",
+      "Simple and Secure: Designed to be simple, stable, small, and secure.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official srelay website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to proxy servers for support and discussions.",
+      "GitHub": "Search for repositories or forks of srelay to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_srelay": "srelay -f /etc/srelay.conf",
+      "uninstall": "pkg uninstall srelay"
+    }
+  },
+  {
+    "name": "srt-tools",
+    "version": "1.5.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SRT Tools is a set of command-line tools for managing SRT (Secure Reliable Transport) streams.",
+    "homepage": "https://github.com/Haivision/srt",
+    "installation": "pkg install srt-tools",
+    "usage": "After installing SRT Tools, you can use it to manage SRT streams.",
+    "features": [
+      "SRT Streams: Provides tools for managing SRT (Secure Reliable Transport) streams.",
+      "Command-Line Tools: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SRT for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_srt": "srt-live-transmit input.srt output.srt",
+      "uninstall": "pkg uninstall srt-tools"
+    }
+  },
+  {
+    "name": "srt2vobsub",
+    "version": "1.0-4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "srt2vobsub is a tool for converting SRT subtitles to VobSub format.",
+    "homepage": "https://github.com/username/srt2vobsub",
+    "installation": "pkg install srt2vobsub",
+    "usage": "After installing srt2vobsub, you can use it to convert SRT subtitles to VobSub format.",
+    "features": [
+      "Subtitle Conversion: Provides tools for converting SRT subtitles to VobSub format.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to subtitles for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_subtitles": "srt2vobsub input.srt output.idx",
+      "uninstall": "pkg uninstall srt2vobsub"
+    }
+  },
+  {
+    "name": "ssdb",
+    "version": "1.9.9-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SSDB is a high-performance NoSQL database supporting many data structures.",
+    "homepage": "https://ssdb.io/",
+    "installation": "pkg install ssdb",
+    "usage": "After installing SSDB, you can use it to manage high-performance NoSQL databases.",
+    "features": [
+      "NoSQL Database: Provides a high-performance NoSQL database.",
+      "Multiple Data Structures: Supports many data structures including KV, Map, List, and ZSet.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SSDB website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to NoSQL databases for support and discussions.",
+      "GitHub": "Search for repositories or forks of SSDB to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_ssdb": "ssdb-server ssdb.conf",
+      "uninstall": "pkg uninstall ssdb"
+    }
+  },
+  {
+    "name": "ssdeep-static",
+    "version": "2.14.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ssdeep-static provides a static binary version of ssdeep, a tool for computing context-triggered piecewise hashes (fuzzy hashes).",
+    "homepage": "https://ssdeep-project.github.io/ssdeep/",
+    "installation": "pkg install ssdeep-static",
+    "usage": "After installing ssdeep-static, you can use it to compute fuzzy hashes for files.",
+    "features": [
+      "Fuzzy Hashing: Provides a static binary version of ssdeep for computing context-triggered piecewise hashes.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official ssdeep website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to hashing for support and discussions.",
+      "GitHub": "Search for repositories or forks of ssdeep to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compute_hash": "ssdeep input_file",
+      "uninstall": "pkg uninstall ssdeep-static"
+    }
+  },
+  {
+    "name": "ssdeep",
+    "version": "2.14.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ssdeep is a tool for computing context-triggered piecewise hashes (fuzzy hashes).",
+    "homepage": "https://ssdeep-project.github.io/ssdeep/",
+    "installation": "pkg install ssdeep",
+    "usage": "After installing ssdeep, you can use it to compute fuzzy hashes for files.",
+    "features": [
+      "Fuzzy Hashing: Provides tools for computing context-triggered piecewise hashes.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official ssdeep website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to hashing for support and discussions.",
+      "GitHub": "Search for repositories or forks of ssdeep to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compute_hash": "ssdeep input_file",
+      "uninstall": "pkg uninstall ssdeep"
+    }
+  },
+  {
+    "name": "sse2neon",
+    "version": "1.8.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "SSE2NEON is a C/C++ header file that translates Intel SSE intrinsics to ARM NEON intrinsics.",
+    "homepage": "https://github.com/DLTcollab/sse2neon",
+    "installation": "pkg install sse2neon",
+    "usage": "After installing sse2neon, you can use it to translate Intel SSE intrinsics to ARM NEON intrinsics.",
+    "features": [
+      "Intrinsic Translation: Provides a header file for translating Intel SSE intrinsics to ARM NEON intrinsics.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SIMD for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_header": "#include <sse2neon.h>",
+      "uninstall": "pkg uninstall sse2neon"
+    }
+  },
+  {
+    "name": "sshpass",
+    "version": "1.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "sshpass is a tool for non-interactively performing password authentication with SSH.",
+    "homepage": "https://sourceforge.net/projects/sshpass/",
+    "installation": "pkg install sshpass",
+    "usage": "After installing sshpass, you can use it to automate SSH login with password authentication.",
+    "features": [
+      "Password Authentication: Provides tools for non-interactively performing password authentication with SSH.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official sshpass website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SSH for support and discussions.",
+      "GitHub": "Search for repositories or forks of sshpass to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "ssh_with_password": "sshpass -p 'password' ssh user@host",
+      "uninstall": "pkg uninstall sshpass"
+    }
+  },
+  {
+    "name": "sshping",
+    "version": "0.1.4-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "sshping is a tool to measure SSH connection setup time.",
+    "homepage": "https://github.com/spook/sshping",
+    "installation": "pkg install sshping",
+    "usage": "After installing sshping, you can use it to measure the time it takes to establish an SSH connection.",
+    "features": [
+      "Connection Measurement: Provides tools for measuring SSH connection setup time.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SSH for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "measure_ssh_time": "sshping user@host",
+      "uninstall": "pkg uninstall sshping"
+    }
+  },
+  {
+    "name": "sslscan",
+    "version": "2.1.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "sslscan is a tool to test SSL/TLS services for supported ciphers, protocols, and vulnerabilities.",
+    "homepage": "https://github.com/rbsec/sslscan",
+    "installation": "pkg install sslscan",
+    "usage": "After installing sslscan, you can use it to test SSL/TLS services for supported ciphers, protocols, and vulnerabilities.",
+    "features": [
+      "SSL/TLS Testing: Provides tools for testing SSL/TLS services.",
+      "Vulnerability Detection: Capable of detecting supported ciphers, protocols, and vulnerabilities.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SSL/TLS for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "scan_ssl": "sslscan example.com",
+      "uninstall": "pkg uninstall sslscan"
+    }
+  },
+  {
+    "name": "sssnake",
+    "version": "0.3.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "sssnake is a simple command-line snake game.",
+    "homepage": "https://github.com/username/sssnake",
+    "installation": "pkg install sssnake",
+    "usage": "After installing sssnake, you can play the classic snake game in the terminal.",
+    "features": [
+      "Terminal Game: Provides a simple command-line snake game.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_sssnake": "sssnake",
+      "uninstall": "pkg uninstall sssnake"
+    }
+  },
+  {
+    "name": "ssss",
+    "version": "0.5.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ssss (Shamir's Secret Sharing Scheme) is a tool to split a secret into multiple shares and reconstruct it.",
+    "homepage": "https://point-at-infinity.org/ssss/",
+    "installation": "pkg install ssss",
+    "usage": "After installing ssss, you can use it to split a secret into multiple shares and reconstruct it.",
+    "features": [
+      "Secret Sharing: Provides tools for splitting and reconstructing secrets using Shamir's Secret Sharing Scheme.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official ssss website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cryptography for support and discussions.",
+      "GitHub": "Search for repositories or forks of ssss to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "split_secret": "ssss-split -t 3 -n 5",
+      "reconstruct_secret": "ssss-combine -t 3",
+      "uninstall": "pkg uninstall ssss"
+    }
+  },
+  {
+    "name": "stag",
+    "version": "1.0.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Stag is a static site generator built with Go.",
+    "homepage": "https://github.com/username/stag",
+    "installation": "pkg install stag",
+    "usage": "After installing Stag, you can use it to generate static websites.",
+    "features": [
+      "Static Site Generation: Provides tools for generating static websites.",
+      "Built with Go: Utilizes the Go programming language for performance and simplicity.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to static site generation for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_site": "stag build",
+      "uninstall": "pkg uninstall stag"
+    }
+  },
+  {
+    "name": "starship",
+    "version": "1.22.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Starship is a minimal, blazing-fast, and infinitely customizable prompt for any shell.",
+    "homepage": "https://starship.rs/",
+    "installation": "pkg install starship",
+    "usage": "After installing Starship, you can use it to customize your shell prompt.",
+    "features": [
+      "Shell Prompt: Provides a minimal and customizable prompt for any shell.",
+      "High Performance: Designed to be blazing-fast.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Starship website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell customization for support and discussions.",
+      "GitHub": "Search for repositories or forks of Starship to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "configure_prompt": "starship preset",
+      "uninstall": "pkg uninstall starship"
+    }
+  },
+  {
+    "name": "stdman",
+    "version": "2022.07.30",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Stdman provides man pages for the C++ standard library.",
+    "homepage": "https://github.com/jefftrull/stdman",
+    "installation": "pkg install stdman",
+    "usage": "After installing stdman, you can use it to access man pages for the C++ standard library.",
+    "features": [
+      "C++ Standard Library: Provides man pages for the C++ standard library.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C++ for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_man_page": "man std::vector",
+      "uninstall": "pkg uninstall stdman"
+    }
+  },
+  {
+    "name": "stdoutisatty",
+    "version": "1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "stdoutisatty is a simple tool to check if stdout is a terminal.",
+    "homepage": "https://github.com/username/stdoutisatty",
+    "installation": "pkg install stdoutisatty",
+    "usage": "After installing stdoutisatty, you can use it to check if stdout is a terminal.",
+    "features": [
+      "Terminal Check: Provides a tool to check if stdout is a terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "check_stdout": "stdoutisatty",
+      "uninstall": "pkg uninstall stdoutisatty"
+    }
+  },
+  {
+    "name": "steghide",
+    "version": "0.5.1-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Steghide is a steganography tool that allows you to hide data in various kinds of image and audio files.",
+    "homepage": "https://github.com/StefanoDeVuono/steghide",
+    "installation": "pkg install steghide",
+    "usage": "After installing steghide, you can use it to hide data in image and audio files.",
+    "features": [
+      "Steganography: Provides tools for hiding data in image and audio files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to steganography for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "hide_data": "steghide embed -cf image.jpg -ef secret.txt",
+      "extract_data": "steghide extract -sf image.jpg",
+      "uninstall": "pkg uninstall steghide"
+    }
+  },
+  {
+    "name": "stemwords",
+    "version": "2.2.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Stemwords is a tool for stemming words to their base or root form.",
+    "homepage": "https://github.com/username/stemwords",
+    "installation": "pkg install stemwords",
+    "usage": "After installing stemwords, you can use it to stem words to their base or root form.",
+    "features": [
+      "Word Stemming: Provides tools for stemming words to their base or root form.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to natural language processing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "stem_word": "stemwords 'running'",
+      "uninstall": "pkg uninstall stemwords"
+    }
+  },
+  {
+    "name": "step-cli",
+    "version": "0.28.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Step CLI is a zero trust swiss army knife for working with X.509, OAuth, JWT, OATH OTP, etc.",
+    "homepage": "https://github.com/smallstep/cli",
+    "installation": "pkg install step-cli",
+    "usage": "After installing step-cli, you can use it to work with X.509, OAuth, JWT, OATH OTP, and more.",
+    "features": [
+      "Zero Trust: Provides tools for working with various authentication and encryption standards.",
+      "Swiss Army Knife: Designed to be a versatile tool for security tasks.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to security for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_cert": "step certificate create foo.local foo.crt foo.key",
+      "uninstall": "pkg uninstall step-cli"
+    }
+  },
+  {
+    "name": "stfl-static",
+    "version": "0.24-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "STFL-static provides a static binary version of STFL, a library for creating text-based user interfaces.",
+    "homepage": "https://www.clifford.at/stfl/",
+    "installation": "pkg install stfl-static",
+    "usage": "After installing stfl-static, you can link the static library with your applications to create text-based user interfaces.",
+    "features": [
+      "Text-Based UI: Provides a static binary version of the STFL library for creating text-based user interfaces.",
+      "Static Library: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official STFL website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text-based user interfaces for support and discussions.",
+      "GitHub": "Search for repositories or forks of STFL to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lstfl",
+      "uninstall": "pkg uninstall stfl-static"
+    }
+  }
+]
+

@@ -1,0 +1,1579 @@
+[
+  {
+    "name": "taglib",
+    "version": "1.13.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TagLib is a library for reading and editing the metadata of several popular audio formats.",
+    "homepage": "https://taglib.org/",
+    "installation": "pkg install taglib",
+    "usage": "After installing TagLib, you can use it to read and edit the metadata of audio files.",
+    "features": [
+      "Metadata Editing: Provides tools for reading and editing the metadata of audio files.",
+      "Supported Formats: Supports several popular audio formats including MP3, Ogg Vorbis, and FLAC.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official TagLib website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio metadata for support and discussions.",
+      "GitHub": "Search for repositories or forks of TagLib to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "edit_metadata": "taglib-edit file.mp3",
+      "uninstall": "pkg uninstall taglib"
+    }
+  },
+  {
+    "name": "taplo",
+    "version": "0.9.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Taplo is a fast and easy-to-use TOML parser and toolkit.",
+    "homepage": "https://github.com/tamasfe/taplo",
+    "installation": "pkg install taplo",
+    "usage": "After installing Taplo, you can use it to parse and manipulate TOML files.",
+    "features": [
+      "TOML Parsing: Provides tools for parsing and manipulating TOML files.",
+      "High Performance: Designed to be fast and easy to use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TOML for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_toml": "taplo parse config.toml",
+      "uninstall": "pkg uninstall taplo"
+    }
+  },
+  {
+    "name": "tar",
+    "version": "1.35-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tar is an archiving utility that packs and unpacks tar archives.",
+    "homepage": "https://www.gnu.org/software/tar/",
+    "installation": "pkg install tar",
+    "usage": "After installing Tar, you can use it to create and extract tar archives.",
+    "features": [
+      "Archiving Utility: Provides tools for creating and extracting tar archives.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Tar website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to archiving for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Tar to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_archive": "tar -cvf archive.tar directory/",
+      "extract_archive": "tar -xvf archive.tar",
+      "uninstall": "pkg uninstall tar"
+    }
+  },
+  {
+    "name": "task-spooler",
+    "version": "1.0.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Task Spooler is a Unix batch system where the tasks spooled run one after the other.",
+    "homepage": "https://vicerveza.homeunix.net/~viric/soft/ts/",
+    "installation": "pkg install task-spooler",
+    "usage": "After installing Task Spooler, you can use it to manage and queue tasks to be run sequentially.",
+    "features": [
+      "Batch System: Provides tools for spooling and running tasks sequentially.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Task Spooler website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Unix batch systems for support and discussions.",
+      "GitHub": "Search for repositories or forks of Task Spooler to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "queue_task": "ts task_command",
+      "list_tasks": "ts -l",
+      "uninstall": "pkg uninstall task-spooler"
+    }
+  },
+  {
+    "name": "tasksh",
+    "version": "1.2.0-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tasksh is an interactive shell for Taskwarrior.",
+    "homepage": "https://taskwarrior.org/docs/tasksh/",
+    "installation": "pkg install tasksh",
+    "usage": "After installing Tasksh, you can use it to interactively manage tasks using Taskwarrior.",
+    "features": [
+      "Interactive Shell: Provides an interactive shell for managing tasks with Taskwarrior.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Tasksh website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Taskwarrior for support and discussions.",
+      "GitHub": "Search for repositories or forks of Tasksh to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_tasksh": "tasksh",
+      "uninstall": "pkg uninstall tasksh"
+    }
+  },
+  {
+    "name": "taskwarrior",
+    "version": "3.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Taskwarrior is a command-line task management tool.",
+    "homepage": "https://taskwarrior.org/",
+    "installation": "pkg install taskwarrior",
+    "usage": "After installing Taskwarrior, you can use it to manage tasks from the command line.",
+    "features": [
+      "Task Management: Provides tools for managing tasks from the command line.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Taskwarrior website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to task management for support and discussions.",
+      "GitHub": "Search for repositories or forks of Taskwarrior to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_task": "task add Buy milk",
+      "list_tasks": "task list",
+      "uninstall": "pkg uninstall taskwarrior"
+    }
+  },
+  {
+    "name": "tcc",
+    "version": "0.9.27-p20230415-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TCC (Tiny C Compiler) is a small and fast C compiler.",
+    "homepage": "https://bellard.org/tcc/",
+    "installation": "pkg install tcc",
+    "usage": "After installing TCC, you can use it to compile C programs.",
+    "features": [
+      "C Compiler: Provides a small and fast C compiler.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official TCC website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C programming for support and discussions.",
+      "GitHub": "Search for repositories or forks of TCC to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_program": "tcc -o program program.c",
+      "uninstall": "pkg uninstall tcc"
+    }
+  },
+  {
+    "name": "tcl",
+    "version": "8.6.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tcl (Tool Command Language) is a dynamic programming language.",
+    "homepage": "https://www.tcl.tk/",
+    "installation": "pkg install tcl",
+    "usage": "After installing Tcl, you can use it to develop and run Tcl scripts.",
+    "features": [
+      "Dynamic Programming: Provides a dynamic programming language for developing scripts.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Tcl website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tcl for support and discussions.",
+      "GitHub": "Search for repositories or forks of Tcl to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "tclsh script.tcl",
+      "uninstall": "pkg uninstall tcl"
+    }
+  },
+  {
+    "name": "tcllib",
+    "version": "2.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Tcllib is a collection of utility modules for Tcl.",
+    "homepage": "https://core.tcl-lang.org/tcllib/",
+    "installation": "pkg install tcllib",
+    "usage": "After installing Tcllib, you can use its utility modules in your Tcl scripts.",
+    "features": [
+      "Utility Modules: Provides a collection of utility modules for Tcl.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Tcllib website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tcl for support and discussions.",
+      "GitHub": "Search for repositories or forks of Tcllib to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_module": "package require module_name",
+      "uninstall": "pkg uninstall tcllib"
+    }
+  },
+  {
+    "name": "tcsh",
+    "version": "6.24.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tcsh is an enhanced version of the Berkeley C shell (csh).",
+    "homepage": "https://www.tcsh.org/",
+    "installation": "pkg install tcsh",
+    "usage": "After installing Tcsh, you can use it as an enhanced version of the C shell.",
+    "features": [
+      "Enhanced C Shell: Provides an enhanced version of the Berkeley C shell.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Tcsh website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell scripting for support and discussions.",
+      "GitHub": "Search for repositories or forks of Tcsh to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_tcsh": "tcsh",
+      "uninstall": "pkg uninstall tcsh"
+    }
+  },
+  {
+    "name": "tdb-tools",
+    "version": "1.4.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TDB Tools is a set of tools for managing TDB databases.",
+    "homepage": "https://tdb.samba.org/",
+    "installation": "pkg install tdb-tools",
+    "usage": "After installing TDB Tools, you can use it to manage TDB databases.",
+    "features": [
+      "Database Management: Provides tools for managing TDB databases.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official TDB website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to database management for support and discussions.",
+      "GitHub": "Search for repositories or forks of TDB Tools to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_database": "tdbtool database.tdb",
+      "uninstall": "pkg uninstall tdb-tools"
+    }
+  },
+  {
+    "name": "tdl",
+    "version": "0.18.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TDL is a command-line to-do list manager.",
+    "homepage": "https://github.com/username/tdl",
+    "installation": "pkg install tdl",
+    "usage": "After installing TDL, you can use it to manage your to-do list from the command line.",
+    "features": [
+      "To-Do List Management: Provides tools for managing a to-do list from the command line.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to task management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_task": "tdl add Buy milk",
+      "list_tasks": "tdl list",
+      "uninstall": "pkg uninstall tdl"
+    }
+  },
+  {
+    "name": "tea",
+    "version": "0.9.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TEA is a text editor that provides a lightweight and versatile interface.",
+    "homepage": "https://tea-editor.github.io/",
+    "installation": "pkg install tea",
+    "usage": "After installing TEA, you can use it to edit text files with a lightweight and versatile interface.",
+    "features": [
+      "Text Editor: Provides a lightweight and versatile text editor.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official TEA website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editing for support and discussions.",
+      "GitHub": "Search for repositories or forks of TEA to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "edit_file": "tea filename.txt",
+      "uninstall": "pkg uninstall tea"
+    }
+  },
+  {
+    "name": "tealdeer",
+    "version": "1.7.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tealdeer is a fast, user-friendly, and easy-to-install tldr client.",
+    "homepage": "https://dbrgn.github.io/tealdeer/",
+    "installation": "pkg install tealdeer",
+    "usage": "After installing Tealdeer, you can use it to access tldr pages for simplified man pages.",
+    "features": [
+      "TLDR Client: Provides a fast and user-friendly client for tldr pages.",
+      "Cross-Platform: Works on various operating systems.",
+      "Easy Installation: Simple to install and use.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tealdeer website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to tldr pages for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_tldr": "tldr tar",
+      "uninstall": "pkg uninstall tealdeer"
+    }
+  },
+  {
+    "name": "teckit-static",
+    "version": "2.5.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TECkit-static provides a static binary version of TECkit, a toolkit for encoding conversions.",
+    "homepage": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=teckit",
+    "installation": "pkg install teckit-static",
+    "usage": "After installing TECkit-static, you can use it for encoding conversions.",
+    "features": [
+      "Encoding Conversions: Provides tools for encoding conversions.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official TECkit website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to encoding for support and discussions.",
+      "GitHub": "Search for repositories or forks of TECkit to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_encoding": "teckit_compile input.map output.tec",
+      "uninstall": "pkg uninstall teckit-static"
+    }
+  },
+  {
+    "name": "teckit",
+    "version": "2.5.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TECkit is a toolkit for encoding conversions.",
+    "homepage": "http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=teckit",
+    "installation": "pkg install teckit",
+    "usage": "After installing TECkit, you can use it for encoding conversions.",
+    "features": [
+      "Encoding Conversions: Provides tools for encoding conversions.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official TECkit website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to encoding for support and discussions.",
+      "GitHub": "Search for repositories or forks of TECkit to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_encoding": "teckit_compile input.map output.tec",
+      "uninstall": "pkg uninstall teckit"
+    }
+  },
+  {
+    "name": "tectonic",
+    "version": "0.15.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tectonic is a modernized, complete, self-contained TeX/LaTeX engine.",
+    "homepage": "https://tectonic-typesetting.github.io/",
+    "installation": "pkg install tectonic",
+    "usage": "After installing Tectonic, you can use it to compile TeX/LaTeX documents.",
+    "features": [
+      "TeX/LaTeX Engine: Provides a modernized, complete, self-contained TeX/LaTeX engine.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tectonic website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TeX/LaTeX for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_document": "tectonic document.tex",
+      "uninstall": "pkg uninstall tectonic"
+    }
+  },
+  {
+    "name": "telegram-bot-api",
+    "version": "20241031",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Telegram Bot API is an API for creating Telegram bots.",
+    "homepage": "https://core.telegram.org/bots/api",
+    "installation": "pkg install telegram-bot-api",
+    "usage": "After installing Telegram Bot API, you can use it to create and manage Telegram bots.",
+    "features": [
+      "Bot API: Provides an API for creating and managing Telegram bots.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Telegram Bot API website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Telegram bots for support and discussions.",
+      "GitHub": "Search for repositories or forks of Telegram Bot API to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_bot": "telegram-bot-api",
+      "uninstall": "pkg uninstall telegram-bot-api"
+    }
+  },
+  {
+    "name": "telegram-cli",
+    "version": "1.4.1-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Telegram CLI is a command-line interface for Telegram.",
+    "homepage": "https://github.com/vysheng/tg",
+    "installation": "pkg install telegram-cli",
+    "usage": "After installing Telegram CLI, you can use it to interact with Telegram from the command line.",
+    "features": [
+      "Command-Line Interface: Provides a command-line interface for Telegram.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Telegram for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_cli": "telegram-cli",
+      "uninstall": "pkg uninstall telegram-cli"
+    }
+  },
+  {
+    "name": "teleport-tsh",
+    "version": "17.1.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Teleport TSH is a secure access tool for remote infrastructure.",
+    "homepage": "https://goteleport.com/",
+    "installation": "pkg install teleport-tsh",
+    "usage": "After installing Teleport TSH, you can use it to securely access remote infrastructure.",
+    "features": [
+      "Secure Access: Provides tools for secure access to remote infrastructure.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Teleport website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to remote access for support and discussions.",
+      "GitHub": "Search for repositories or forks of Teleport TSH to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "access_remote": "tsh login --proxy=proxy.example.com",
+      "uninstall": "pkg uninstall teleport-tsh"
+    }
+  },
+  {
+    "name": "tenki-php",
+    "version": "2022.05.26",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Tenki PHP is a simple weather forecast script for PHP.",
+    "homepage": "https://github.com/username/tenki-php",
+    "installation": "pkg install tenki-php",
+    "usage": "After installing Tenki PHP, you can use it to display weather forecasts on your website.",
+    "features": [
+      "Weather Forecast: Provides a simple weather forecast script for PHP.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to weather forecasting for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "display_forecast": "Include Tenki PHP script in your website.",
+      "uninstall": "pkg uninstall tenki-php"
+    }
+  },
+  {
+    "name": "tere",
+    "version": "1.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tere is a terminal file explorer.",
+    "homepage": "https://github.com/mgunyho/tere",
+    "installation": "pkg install tere",
+    "usage": "After installing Tere, you can use it to explore files in the terminal.",
+    "features": [
+      "File Explorer: Provides a terminal file explorer.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "explore_files": "tere",
+      "uninstall": "pkg uninstall tere"
+    }
+  },
+  {
+    "name": "tergent",
+    "version": "1.0.0-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tergent is a terminal-based todo list manager.",
+    "homepage": "https://github.com/username/tergent",
+    "installation": "pkg install tergent",
+    "usage": "After installing Tergent, you can use it to manage your todo list from the terminal.",
+    "features": [
+      "Todo List Manager: Provides a terminal-based todo list manager.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to task management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_task": "tergent add 'Task description'",
+      "list_tasks": "tergent list",
+      "uninstall": "pkg uninstall tergent"
+    }
+  },
+  {
+    "name": "termimage",
+    "version": "1.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Termimage is a tool for displaying images in the terminal.",
+    "homepage": "https://github.com/username/termimage",
+    "installation": "pkg install termimage",
+    "usage": "After installing Termimage, you can use it to display images in the terminal.",
+    "features": [
+      "Image Display: Provides tools for displaying images in the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "display_image": "termimage picture.png",
+      "uninstall": "pkg uninstall termimage"
+    }
+  },
+  {
+    "name": "termplay",
+    "version": "2.0.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Termplay is a terminal-based media player.",
+    "homepage": "https://github.com/username/termplay",
+    "installation": "pkg install termplay",
+    "usage": "After installing Termplay, you can use it to play media files in the terminal.",
+    "features": [
+      "Media Player: Provides a terminal-based media player.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_media": "termplay video.mp4",
+      "uninstall": "pkg uninstall termplay"
+    }
+  },
+  {
+    "name": "termux-am",
+    "version": "0.8.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Termux-am is a wrapper for the Android 'am' command to start activities and send broadcast intents.",
+    "homepage": "https://github.com/termux/termux-am",
+    "installation": "pkg install termux-am",
+    "usage": "After installing Termux-am, you can use it to start activities and send broadcast intents in Android.",
+    "features": [
+      "Android Wrapper: Provides a wrapper for the Android 'am' command.",
+      "Activity Management: Allows starting activities and sending broadcast intents.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_activity": "termux-am start -a android.intent.action.VIEW -d 'http://example.com'",
+      "send_broadcast": "termux-am broadcast -a android.intent.action.BOOT_COMPLETED",
+      "uninstall": "pkg uninstall termux-am"
+    }
+  },
+  {
+    "name": "termux-api-static",
+    "version": "0.58.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Termux-API-static provides a static binary version of Termux API, allowing access to various Android functionalities.",
+    "homepage": "https://github.com/termux/termux-api",
+    "installation": "pkg install termux-api-static",
+    "usage": "After installing Termux-API-static, you can use it to access Android functionalities from the command line.",
+    "features": [
+      "Android API Access: Provides access to various Android functionalities.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux API repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "battery_status": "termux-battery-status",
+      "uninstall": "pkg uninstall termux-api-static"
+    }
+  },
+  {
+    "name": "termux-api",
+    "version": "0.58.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Termux API provides commands to call various Android API methods from the command line.",
+    "homepage": "https://github.com/termux/termux-api",
+    "installation": "pkg install termux-api",
+    "usage": "After installing Termux API, you can use it to access Android functionalities from the command line.",
+    "features": [
+      "Android API Access: Provides commands to call various Android API methods.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux API repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "battery_status": "termux-battery-status",
+      "uninstall": "pkg uninstall termux-api"
+    }
+  },
+  {
+    "name": "termux-apt-repo",
+    "version": "0.5-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Termux-apt-repo is a tool for creating Termux APT repositories.",
+    "homepage": "https://github.com/termux/termux-apt-repo",
+    "installation": "pkg install termux-apt-repo",
+    "usage": "After installing Termux-apt-repo, you can use it to create and manage APT repositories for Termux.",
+    "features": [
+      "APT Repository Management: Provides tools for creating and managing APT repositories.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-apt-repo repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_repo": "termux-apt-repo create myrepo",
+      "uninstall": "pkg uninstall termux-apt-repo"
+    }
+  },
+  {
+    "name": "termux-auth",
+    "version": "1.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Termux-auth is a tool for managing authentication in Termux.",
+    "homepage": "https://github.com/termux/termux-auth",
+    "installation": "pkg install termux-auth",
+    "usage": "After installing Termux-auth, you can use it to manage authentication in Termux.",
+    "features": [
+      "Authentication Management: Provides tools for managing authentication.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-auth repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_user": "termux-auth add user",
+      "uninstall": "pkg uninstall termux-auth"
+    }
+  },
+  {
+    "name": "termux-create-package",
+    "version": "0.12.0-2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Termux-create-package is a tool for creating Termux packages.",
+    "homepage": "https://github.com/termux/termux-create-package",
+    "installation": "pkg install termux-create-package",
+    "usage": "After installing Termux-create-package, you can use it to create packages for Termux.",
+    "features": [
+      "Package Creation: Provides tools for creating Termux packages.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-create-package repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_package": "termux-create-package mypackage",
+      "uninstall": "pkg uninstall termux-create-package"
+    }
+  },
+  {
+    "name": "termux-elf-cleaner",
+    "version": "3.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Termux-elf-cleaner is a tool for cleaning ELF headers in binaries.",
+    "homepage": "https://github.com/termux/termux-elf-cleaner",
+    "installation": "pkg install termux-elf-cleaner",
+    "usage": "After installing Termux-elf-cleaner, you can use it to clean ELF headers in binaries.",
+    "features": [
+      "ELF Header Cleaning: Provides tools for cleaning ELF headers in binaries.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-elf-cleaner repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "clean_elf": "termux-elf-cleaner binary",
+      "uninstall": "pkg uninstall termux-elf-cleaner"
+    }
+  },
+  {
+    "name": "termux-exec",
+    "version": "1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Termux-exec is a tool that allows running scripts with Termux-specific executables.",
+    "homepage": "https://github.com/termux/termux-exec",
+    "installation": "pkg install termux-exec",
+    "usage": "After installing Termux-exec, you can use it to run scripts with Termux-specific executables.",
+    "features": [
+      "Script Execution: Provides tools for running scripts with Termux-specific executables.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-exec repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "termux-exec script.sh",
+      "uninstall": "pkg uninstall termux-exec"
+    }
+  },
+  {
+    "name": "termux-gui-bash",
+    "version": "0.1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Termux-gui-bash provides a GUI toolkit for Bash scripts in Termux.",
+    "homepage": "https://github.com/termux/termux-gui-bash",
+    "installation": "pkg install termux-gui-bash",
+    "usage": "After installing Termux-gui-bash, you can use it to create GUI applications with Bash scripts.",
+    "features": [
+      "GUI Toolkit: Provides a GUI toolkit for Bash scripts.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-gui-bash repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_gui": "termux-gui-bash script.sh",
+      "uninstall": "pkg uninstall termux-gui-bash"
+    }
+  },
+  {
+    "name": "termux-gui-c",
+    "version": "0.1.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Termux-gui-c provides a GUI toolkit for C programs in Termux.",
+    "homepage": "https://github.com/termux/termux-gui-c",
+    "installation": "pkg install termux-gui-c",
+    "usage": "After installing Termux-gui-c, you can use it to create GUI applications with C programs.",
+    "features": [
+      "GUI Toolkit: Provides a GUI toolkit for C programs.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-gui-c repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_gui": "termux-gui-c program.c",
+      "uninstall": "pkg uninstall termux-gui-c"
+    }
+  },
+  {
+    "name": "termux-gui-package",
+    "version": "0.1.6-2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Termux-gui-package provides a GUI toolkit for Termux packages.",
+    "homepage": "https://github.com/termux/termux-gui-package",
+    "installation": "pkg install termux-gui-package",
+    "usage": "After installing Termux-gui-package, you can use it to create GUI applications for Termux packages.",
+    "features": [
+      "GUI Toolkit: Provides a GUI toolkit for Termux packages.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-gui-package repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_gui": "termux-gui-package create",
+      "uninstall": "pkg uninstall termux-gui-package"
+    }
+  },
+  {
+    "name": "termux-gui-pm",
+    "version": "1.0.0-2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Termux-gui-pm provides a graphical package manager for Termux.",
+    "homepage": "https://github.com/termux/termux-gui-pm",
+    "installation": "pkg install termux-gui-pm",
+    "usage": "After installing Termux-gui-pm, you can use it to manage packages graphically in Termux.",
+    "features": [
+      "Graphical Package Manager: Provides a graphical package manager for Termux.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-gui-pm repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_packages": "termux-gui-pm",
+      "uninstall": "pkg uninstall termux-gui-pm"
+    }
+  },
+  {
+    "name": "termux-keyring",
+    "version": "3.15",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Termux-keyring provides the keyring for Termux package management.",
+    "homepage": "https://github.com/termux/termux-keyring",
+    "installation": "pkg install termux-keyring",
+    "usage": "After installing Termux-keyring, you can use it to manage keys for Termux package management.",
+    "features": [
+      "Keyring Management: Provides the keyring for Termux package management.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-keyring repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_keys": "termux-keyring",
+      "uninstall": "pkg uninstall termux-keyring"
+    }
+  },
+  {
+    "name": "termux-licenses",
+    "version": "2.0-4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Termux-licenses provides the licenses for Termux packages.",
+    "homepage": "https://github.com/termux/termux-licenses",
+    "installation": "pkg install termux-licenses",
+    "usage": "After installing Termux-licenses, you can view the licenses for Termux packages.",
+    "features": [
+      "License Management: Provides the licenses for Termux packages.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-licenses repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_licenses": "termux-licenses",
+      "uninstall": "pkg uninstall termux-licenses"
+    }
+  },
+  {
+    "name": "termux-services",
+    "version": "0.13-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Termux-services provides a simple way to run services in Termux.",
+    "homepage": "https://github.com/termux/termux-services",
+    "installation": "pkg install termux-services",
+    "usage": "After installing termux-services, you can manage services in Termux.",
+    "features": [
+      "Service Management: Provides tools for managing services in Termux.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-services repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_service": "termux-services start service_name",
+      "stop_service": "termux-services stop service_name",
+      "uninstall": "pkg uninstall termux-services"
+    }
+  },
+  {
+    "name": "termux-tools",
+    "version": "3.0.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Termux-tools provides a collection of essential tools for Termux.",
+    "homepage": "https://github.com/termux/termux-tools",
+    "installation": "pkg install termux-tools",
+    "usage": "After installing termux-tools, you can use a variety of essential tools in Termux.",
+    "features": [
+      "Essential Tools: Provides a collection of essential tools for Termux.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux-tools repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_tool": "tool_name options",
+      "uninstall": "pkg uninstall termux-tools"
+    }
+  },
+  {
+    "name": "teseq",
+    "version": "1.1.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Teseq is a tool for analyzing control sequences in terminal output.",
+    "homepage": "http://www.gnu.org/software/teseq/",
+    "installation": "pkg install teseq",
+    "usage": "After installing teseq, you can use it to analyze control sequences in terminal output.",
+    "features": [
+      "Control Sequence Analysis: Provides tools for analyzing control sequences in terminal output.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Teseq website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of Teseq to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "analyze_output": "teseq < input_file > output_file",
+      "uninstall": "pkg uninstall teseq"
+    }
+  },
+  {
+    "name": "tesseract",
+    "version": "5.5.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tesseract is an open-source Optical Character Recognition (OCR) engine.",
+    "homepage": "https://github.com/tesseract-ocr/tesseract",
+    "installation": "pkg install tesseract",
+    "usage": "After installing Tesseract, you can use it to perform OCR on images.",
+    "features": [
+      "OCR Engine: Provides an open-source OCR engine.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tesseract repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to OCR for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "perform_ocr": "tesseract image.png output",
+      "uninstall": "pkg uninstall tesseract"
+    }
+  },
+  {
+    "name": "testssl-sh",
+    "version": "3.0.9",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Testssl.sh is a tool to test SSL/TLS services for supported ciphers, protocols, and vulnerabilities.",
+    "homepage": "https://testssl.sh/",
+    "installation": "pkg install testssl-sh",
+    "usage": "After installing testssl.sh, you can use it to test SSL/TLS services.",
+    "features": [
+      "SSL/TLS Testing: Provides tools to test SSL/TLS services for supported ciphers, protocols, and vulnerabilities.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Testssl.sh website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SSL/TLS testing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "test_ssl": "testssl.sh example.com",
+      "uninstall": "pkg uninstall testssl-sh"
+    }
+  },
+  {
+    "name": "tex-gyre",
+    "version": "2.501-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "TeX-Gyre is a collection of scalable fonts for use with TeX and LaTeX.",
+    "homepage": "https://www.gust.org.pl/projects/e-foundry/tex-gyre/",
+    "installation": "pkg install tex-gyre",
+    "usage": "After installing TeX-Gyre, you can use the scalable fonts with TeX and LaTeX.",
+    "features": [
+      "Scalable Fonts: Provides a collection of scalable fonts for use with TeX and LaTeX.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TeX-Gyre website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TeX and LaTeX for support and discussions.",
+      "GitHub": "Search for repositories or forks of TeX-Gyre to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_font": "Include TeX-Gyre fonts in your TeX/LaTeX documents.",
+      "uninstall": "pkg uninstall tex-gyre"
+    }
+  },
+  {
+    "name": "texinfo",
+    "version": "7.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Texinfo is the official documentation system of the GNU project.",
+    "homepage": "https://www.gnu.org/software/texinfo/",
+    "installation": "pkg install texinfo",
+    "usage": "After installing Texinfo, you can use it to create and read documentation in the Texinfo format.",
+    "features": [
+      "Documentation System: Provides tools for creating and reading documentation in the Texinfo format.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Texinfo website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to GNU documentation for support and discussions.",
+      "GitHub": "Search for repositories or forks of Texinfo to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_document": "texi2pdf document.texi",
+      "uninstall": "pkg uninstall texinfo"
+    }
+  },
+  {
+    "name": "texlab",
+    "version": "5.21.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Texlab is a cross-platform implementation of the Language Server Protocol for LaTeX.",
+    "homepage": "https://texlab.netlify.app/",
+    "installation": "pkg install texlab",
+    "usage": "After installing Texlab, you can use it to provide language server features for LaTeX editors.",
+    "features": [
+      "Language Server Protocol: Provides implementation of the Language Server Protocol for LaTeX.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Texlab website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to LaTeX for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "texlab",
+      "uninstall": "pkg uninstall texlab"
+    }
+  },
+  {
+    "name": "texlive-bin-static",
+    "version": "20240310-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TeX Live Bin Static provides a static binary version of the TeX Live binaries.",
+    "homepage": "https://www.tug.org/texlive/",
+    "installation": "pkg install texlive-bin-static",
+    "usage": "After installing TeX Live Bin Static, you can use the TeX Live binaries for typesetting.",
+    "features": [
+      "TeX Live Binaries: Provides a static binary version of the TeX Live binaries.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official TeX Live website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TeX and LaTeX for support and discussions.",
+      "GitHub": "Search for repositories or forks of TeX Live to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_tex": "pdflatex document.tex",
+      "uninstall": "pkg uninstall texlive-bin-static"
+    }
+  },
+  {
+    "name": "texlive-bin",
+    "version": "20240310-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TeX Live Bin provides the binaries for the TeX Live distribution.",
+    "homepage": "https://www.tug.org/texlive/",
+    "installation": "pkg install texlive-bin",
+    "usage": "After installing TeX Live Bin, you can use the TeX Live binaries for typesetting.",
+    "features": [
+      "TeX Live Binaries: Provides the binaries for the TeX Live distribution.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official TeX Live website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TeX and LaTeX for support and discussions.",
+      "GitHub": "Search for repositories or forks of TeX Live to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_tex": "pdflatex document.tex",
+      "uninstall": "pkg uninstall texlive-bin"
+    }
+  },
+  {
+    "name": "texlive-installer",
+    "version": "20240310-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "TeX Live Installer is a script to install the TeX Live distribution.",
+    "homepage": "https://www.tug.org/texlive/",
+    "installation": "pkg install texlive-installer",
+    "usage": "After installing TeX Live Installer, you can use it to install the TeX Live distribution.",
+    "features": [
+      "TeX Live Installation: Provides a script to install the TeX Live distribution.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official TeX Live website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TeX and LaTeX for support and discussions.",
+      "GitHub": "Search for repositories or forks of TeX Live to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_texlive": "texlive-installer",
+      "uninstall": "pkg uninstall texlive-installer"
+    }
+  },
+  {
+    "name": "thrift",
+    "version": "0.21.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Thrift is a software framework for scalable cross-language services development.",
+    "homepage": "https://thrift.apache.org/",
+    "installation": "pkg install thrift",
+    "usage": "After installing Thrift, you can use it to develop cross-language services.",
+    "features": [
+      "Cross-Language Services: Provides a framework for scalable cross-language services development.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Thrift website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Thrift for support and discussions.",
+      "GitHub": "Search for repositories or forks of Thrift to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_thrift": "thrift --gen cpp service.thrift",
+      "uninstall": "pkg uninstall thrift"
+    }
+  },
+  {
+    "name": "tidy-static",
+    "version": "5.9.14-next-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tidy-static provides a static binary version of HTML Tidy, a tool for checking and cleaning up HTML documents.",
+    "homepage": "https://github.com/htacg/tidy-html5",
+    "installation": "pkg install tidy-static",
+    "usage": "After installing Tidy-static, you can use it to check and clean up HTML documents.",
+    "features": [
+      "HTML Checking: Provides a static binary version of HTML Tidy for checking and cleaning up HTML documents.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official HTML Tidy repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to HTML for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "check_html": "tidy-static input.html",
+      "uninstall": "pkg uninstall tidy-static"
+    }
+  },
+  {
+    "name": "tidy",
+    "version": "5.9.14-next-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tidy is a tool for checking and cleaning up HTML documents.",
+    "homepage": "https://github.com/htacg/tidy-html5",
+    "installation": "pkg install tidy",
+    "usage": "After installing Tidy, you can use it to check and clean up HTML documents.",
+    "features": [
+      "HTML Checking: Provides tools for checking and cleaning up HTML documents.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official HTML Tidy repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to HTML for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "check_html": "tidy input.html",
+      "uninstall": "pkg uninstall tidy"
+    }
+  },
+  {
+    "name": "tig",
+    "version": "2.5.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tig is a text-mode interface for Git.",
+    "homepage": "https://jonas.github.io/tig/",
+    "installation": "pkg install tig",
+    "usage": "After installing Tig, you can use it to interact with Git repositories from the terminal.",
+    "features": [
+      "Text-Mode Interface: Provides a text-mode interface for Git.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tig website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Git for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_tig": "tig",
+      "uninstall": "pkg uninstall tig"
+    }
+  },
+  {
+    "name": "tilde",
+    "version": "1.1.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tilde is a text editor for the terminal.",
+    "homepage": "https://os.ghalkes.nl/tilde/",
+    "installation": "pkg install tilde",
+    "usage": "After installing Tilde, you can use it to edit text files in the terminal.",
+    "features": [
+      "Text Editor: Provides a text editor for the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tilde website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "edit_file": "tilde filename.txt",
+      "uninstall": "pkg uninstall tilde"
+    }
+  },
+  {
+    "name": "time",
+    "version": "1.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Time is a command-line utility for measuring the duration of command execution.",
+    "homepage": "https://www.gnu.org/software/time/",
+    "installation": "pkg install time",
+    "usage": "After installing Time, you can use it to measure the duration of command execution.",
+    "features": [
+      "Duration Measurement: Provides tools for measuring the duration of command execution.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official GNU Time website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Time to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "measure_time": "time command",
+      "uninstall": "pkg uninstall time"
+    }
+  },
+  {
+    "name": "timewarrior",
+    "version": "1.7.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Timewarrior is a command-line time tracking application.",
+    "homepage": "https://timewarrior.net/",
+    "installation": "pkg install timewarrior",
+    "usage": "After installing Timewarrior, you can use it to track your time on various tasks.",
+    "features": [
+      "Time Tracking: Provides a command-line time tracking application.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Timewarrior website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to time tracking for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_tracking": "timew start project",
+      "stop_tracking": "timew stop",
+      "uninstall": "pkg uninstall timewarrior"
+    }
+  },
+  {
+    "name": "timg",
+    "version": "1.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Timg is a terminal image viewer.",
+    "homepage": "https://github.com/hzeller/timg",
+    "installation": "pkg install timg",
+    "usage": "After installing Timg, you can use it to display images in the terminal.",
+    "features": [
+      "Image Viewer: Provides a terminal image viewer.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Timg repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_image": "timg picture.png",
+      "uninstall": "pkg uninstall timg"
+    }
+  },
+  {
+    "name": "timidity++",
+    "version": "2.15.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TiMidity++ is a software synthesizer and MIDI player.",
+    "homepage": "http://timidity.sourceforge.net/",
+    "installation": "pkg install timidity++",
+    "usage": "After installing TiMidity++, you can use it to play MIDI files.",
+    "features": [
+      "MIDI Player: Provides a software synthesizer and MIDI player.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TiMidity++ website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MIDI for support and discussions.",
+      "GitHub": "Search for repositories or forks of TiMidity++ to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_midi": "timidity++ file.mid",
+      "uninstall": "pkg uninstall timidity++"
+    }
+  },
+  {
+    "name": "tin-summer",
+    "version": "1.21.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tin-summer is a simple and lightweight text editor for the terminal.",
+    "homepage": "https://github.com/username/tin-summer",
+    "installation": "pkg install tin-summer",
+    "usage": "After installing Tin-summer, you can use it to edit text files in the terminal.",
+    "features": [
+      "Text Editor: Provides a simple and lightweight text editor for the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tin-summer repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "edit_file": "tin-summer filename.txt",
+      "uninstall": "pkg uninstall tin-summer"
+    }
+  },
+  {
+    "name": "tintin++",
+    "version": "2.02.42",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TinTin++ is a client for MUDs (Multi-User Dungeons).",
+    "homepage": "https://tintin.sourceforge.io/",
+    "installation": "pkg install tintin++",
+    "usage": "After installing TinTin++, you can use it to connect to and play MUDs.",
+    "features": [
+      "MUD Client: Provides a client for connecting to and playing MUDs.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TinTin++ website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MUDs for support and discussions.",
+      "GitHub": "Search for repositories or forks of TinTin++ to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "connect_mud": "tintin++",
+      "uninstall": "pkg uninstall tintin++"
+    }
+  },
+  {
+    "name": "tinyfugue",
+    "version": "5.0b8-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TinyFugue is a MUD client for Unix-like systems.",
+    "homepage": "http://tinyfugue.sourceforge.net/",
+    "installation": "pkg install tinyfugue",
+    "usage": "After installing TinyFugue, you can use it to connect to and play MUDs.",
+    "features": [
+      "MUD Client: Provides a client for connecting to and playing MUDs.",
+      "Cross-Platform: Works on various Unix-like systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TinyFugue website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MUDs for support and discussions.",
+      "GitHub": "Search for repositories or forks of TinyFugue to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "connect_mud": "tf",
+      "uninstall": "pkg uninstall tinyfugue"
+    }
+  },
+  {
+    "name": "tinygo-common",
+    "version": "0.35.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "TinyGo-common provides common files for TinyGo, a Go compiler for small places.",
+    "homepage": "https://tinygo.org/",
+    "installation": "pkg install tinygo-common",
+    "usage": "After installing TinyGo-common, you can use it as part of the TinyGo toolchain.",
+    "features": [
+      "Common Files: Provides common files for the TinyGo compiler.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TinyGo website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TinyGo for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_tinygo": "Include TinyGo-common as part of your TinyGo toolchain.",
+      "uninstall": "pkg uninstall tinygo-common"
+    }
+  },
+  {
+    "name": "tinygo",
+    "version": "0.35.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TinyGo is a Go compiler for small places, bringing the Go programming language to microcontrollers and WebAssembly.",
+    "homepage": "https://tinygo.org/",
+    "installation": "pkg install tinygo",
+    "usage": "After installing TinyGo, you can use it to compile Go code for microcontrollers and WebAssembly.",
+    "features": [
+      "Go Compiler: Provides a Go compiler for small places.",
+      "Microcontroller Support: Designed to bring Go to microcontrollers and WebAssembly.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TinyGo website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TinyGo for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_go": "tinygo build -o output.wasm -target wasm example.go",
+      "uninstall": "pkg uninstall tinygo"
+    }
+  },
+  {
+    "name": "tinymist",
+    "version": "0.12.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tinymist is a lightweight and fast HTTP server.",
+    "homepage": "https://github.com/username/tinymist",
+    "installation": "pkg install tinymist",
+    "usage": "After installing Tinymist, you can use it to serve HTTP requests.",
+    "features": [
+      "HTTP Server: Provides a lightweight and fast HTTP server.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tinymist repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to HTTP servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "tinymist",
+      "uninstall": "pkg uninstall tinymist"
+    }
+  }
+]

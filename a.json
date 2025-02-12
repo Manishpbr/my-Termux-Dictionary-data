@@ -1,0 +1,1429 @@
+[
+  {
+    "name": "0verkill",
+    "version": "0.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "0verkill is a bloody 2D action deathmatch-like game in ASCII-art, intended for people who want to play bloody games but do not want to use SVGALIB or X11. It uses a TCP/IP network for multiplayer games.",
+    "homepage": "Not available in the package listing.",
+    "installation": "pkg install overkill",
+    "usage": "After installing 0verkill, you can start the game by simply typing: overkill",
+    "features": [
+      "Multiplayer Support: Play with your friends over a TCP/IP network.",
+      "ASCII Graphics: The game uses ASCII-art for its graphics, making it lightweight and runnable on almost any terminal.",
+      "No GUI Requirement: Unlike many other games, it does not require SVGALIB or X11, making it suitable for environments without a graphical user interface."
+    ],
+    "gameplay": {
+      "objective": "The main objective of the game is to eliminate other players in a deathmatch-style combat.",
+      "controls": "The game is controlled entirely via the keyboard, utilizing various keys for movement, shooting, and other actions.",
+      "environment": "The game takes place in an ASCII-art rendered environment, with different levels and maps for a varied gameplay experience."
+    },
+    "additional_resources": "While the official homepage is not available in the package listing, you can often find more information and community discussions on platforms such as GitHub, Reddit, or gaming forums.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to retro and ASCII games for support and discussions.",
+      "GitHub": "Search for repositories or forks of 0verkill to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_the_game": "overkill",
+      "uninstall_the_game": "pkg uninstall overkill"
+    }
+  },
+  {
+    "name": "2048-c",
+    "version": "1:1.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "2048-c is a console version of the popular 2048 game. The game is played on a 4x4 grid by merging tiles with the same number to create larger numbers, aiming to reach the 2048 tile.",
+    "homepage": "https://github.com/mevdschee/2048.c",
+    "installation": "pkg install 2048-c",
+    "usage": "After installing 2048-c, you can start the game by simply typing: 2048-c",
+    "features": [
+      "Classic 2048 Gameplay: Enjoy the same addictive gameplay experience as the original 2048 game.",
+      "Console-Based: Play the game directly in your terminal without the need for a graphical interface.",
+      "Lightweight: The game is lightweight and runs efficiently on almost any terminal."
+    ],
+    "gameplay": {
+      "objective": "Combine tiles with the same number to create larger numbers, aiming to reach the 2048 tile.",
+      "controls": "Use the arrow keys to move the tiles in the desired direction. When two tiles with the same number touch, they merge into one.",
+      "environment": "The game is played on a 4x4 grid in the terminal."
+    },
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_the_game": "2048-c",
+      "uninstall_the_game": "pkg uninstall 2048-c"
+    }
+  },
+  {
+    "name": "2ping",
+    "version": "4.5.1-4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "2ping is a bi-directional ping utility that helps detect packet loss in both directions and measure round-trip time. It is useful for diagnosing network issues by showing packet loss and delays from both ends.",
+    "homepage": "https://github.com/rfinnie/2ping",
+    "installation": "pkg install 2ping",
+    "usage": "After installing 2ping, you can use it by simply typing: 2ping <options> <destination>",
+    "features": [
+      "Bi-Directional Ping: Measures packet loss and round-trip time in both directions.",
+      "Network Diagnostics: Useful for diagnosing network issues and performance.",
+      "Flexible Options: Supports various options for customization and specific use cases."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network diagnostics for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_ping": "2ping <options> <destination>",
+      "uninstall_the_utility": "pkg uninstall 2ping"
+    }
+  },
+  {
+    "name": "6tunnel",
+    "version": "0.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "6tunnel allows you to connect to services using IPv6 from applications that only support IPv4. It acts as a proxy between IPv4 and IPv6 networks, enabling IPv4-only applications to communicate over IPv6 and vice versa.",
+    "homepage": "Not available in the package listing.",
+    "installation": "pkg install 6tunnel",
+    "usage": "After installing 6tunnel, you can use it by simply typing: 6tunnel <options> <parameters>",
+    "features": [
+      "IPv4 to IPv6 Proxy: Connect IPv4-only applications to IPv6 services.",
+      "IPv6 to IPv4 Proxy: Connect IPv6 applications to IPv4 services.",
+      "Network Flexibility: Provides flexibility in network configurations and compatibility."
+    ],
+    "additional_resources": "While the official homepage is not available in the package listing, you can often find more information and community discussions on platforms such as GitHub, Reddit, or networking forums.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network proxies and IPv6 for support and discussions.",
+      "GitHub": "Search for repositories or forks of 6tunnel to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_proxy": "6tunnel <options> <parameters>",
+      "uninstall_the_utility": "pkg uninstall 6tunnel"
+    }
+  },
+  {
+    "name": "7zip",
+    "version": "24.09",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "7zip is a file archiver with a high compression ratio, supporting various file formats including 7z, ZIP, RAR, and more.",
+    "homepage": "https://www.7-zip.org/",
+    "installation": "pkg install 7zip",
+    "usage": "After installing 7zip, you can start using it by typing: 7z [options] [archive] [file...]",
+    "features": [
+      "High Compression: Provides high compression ratios for various file formats.",
+      "Multi-Format Support: Supports 7z, ZIP, RAR, TAR, GZIP, BZIP2, and more.",
+      "Command-Line Tool: Can be used directly from the terminal for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "You can find more information, updates, and community discussions on the official website and GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file compression and archiving for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_the_game": "7z a archive.7z file1 file2",
+      "uninstall_the_game": "pkg uninstall 7zip"
+    }
+  },
+  {
+    "name": "8086tiny",
+    "version": "1.25-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "8086tiny is a tiny, open-source 8086 emulator for educational purposes. It can run old DOS programs and games on modern systems.",
+    "homepage": "https://github.com/adriancable/8086tiny",
+    "installation": "pkg install 8086tiny",
+    "usage": "After installing 8086tiny, you can start the emulator by typing: 8086tiny [options] [disk image]",
+    "features": [
+      "Tiny Emulator: A minimalistic 8086 emulator for educational purposes.",
+      "DOS Program Support: Can run old DOS programs and games.",
+      "Open Source: Source code is available for modification and learning."
+    ],
+    "gameplay": null,
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to emulation and retro computing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_the_game": "8086tiny disk.img",
+      "uninstall_the_game": "pkg uninstall 8086tiny"
+    }
+  },
+  {
+    "name": "a52dec",
+    "version": "0.8.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "a52dec is a free ATSC A/52 stream decoder. It is used for decoding audio streams encoded in the AC-3 format.",
+    "homepage": "http://liba52.sourceforge.net/",
+    "installation": "pkg install a52dec",
+    "usage": "After installing a52dec, you can start decoding audio streams by typing: a52dec [options] [file]",
+    "features": [
+      "AC-3 Decoding: Decodes audio streams encoded in the AC-3 format.",
+      "Free and Open Source: Available for modification and redistribution.",
+      "Command-Line Tool: Can be used directly from the terminal for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing and decoding for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_the_game": "a52dec audio.ac3",
+      "uninstall_the_game": "pkg uninstall a52dec"
+    }
+  },
+  {
+    "name": "aalib-static",
+    "version": "1.4rc5-12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "aalib-static is a static library for AAlib, which is an ASCII art library that allows graphics to be rendered as ASCII art.",
+    "homepage": "https://aa-project.sourceforge.net/aalib/",
+    "installation": "pkg install aalib-static",
+    "usage": "After installing aalib-static, you can link it with your applications to render graphics as ASCII art.",
+    "features": [
+      "ASCII Art Rendering: Converts graphics into ASCII art.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems and terminals."
+    ],
+    "gameplay": null,
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ASCII art and graphics for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_the_game": "gcc -o myapp myapp.c -laalib",
+      "uninstall_the_game": "pkg uninstall aalib-static"
+    }
+  },
+  {
+    "name": "aalib",
+    "version": "1.4rc5-12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "aalib is an ASCII art library that allows graphics to be rendered as ASCII art. It can be used in various applications to provide text-based graphics.",
+    "homepage": "https://aa-project.sourceforge.net/aalib/",
+    "installation": "pkg install aalib",
+    "usage": "After installing aalib, you can use it in your applications to render graphics as ASCII art.",
+    "features": [
+      "ASCII Art Rendering: Converts graphics into ASCII art.",
+      "Library: Can be used in various applications.",
+      "Cross-Platform: Works on various operating systems and terminals."
+    ],
+    "gameplay": null,
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ASCII art and graphics for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_the_game": "gcc -o myapp myapp.c -laalib",
+      "uninstall_the_game": "pkg uninstall aalib"
+    }
+  },
+  {
+    "name": "aapt2",
+    "version": "13.0.0.6-16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "aapt2 (Android Asset Packaging Tool 2) is a tool that builds and processes Android application resources. It is used in the Android build process to compile and package resources.",
+    "homepage": "https://developer.android.com/studio/command-line/aapt2",
+    "installation": "pkg install aapt2",
+    "usage": "After installing aapt2, you can start using it by typing: aapt2 [command] [options]",
+    "features": [
+      "Resource Compilation: Compiles Android application resources.",
+      "Packaging: Packages resources into APKs and other formats.",
+      "Command-Line Tool: Can be used directly from the terminal for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Android development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_the_game": "aapt2 compile -o output.apk input.res",
+      "uninstall_the_game": "pkg uninstall aapt2"
+    }
+  },
+  {
+    "name": "aapt",
+    "version": "13.0.0.6-16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Android Asset Packaging Tool (aapt) is part of the Android SDK, used for compiling and packaging Android application resources into APK files.",
+    "homepage": "https://developer.android.com/studio/command-line/aapt2",
+    "installation": "pkg install aapt",
+    "usage": "Run with command: aapt [options]",
+    "features": [
+      "Resource Compilation: Compiles Android app resources into binary assets.",
+      "APK Management: Creates, updates, and inspects APK files containing app resources.",
+      "Platform Integration: Designed to work with the Android platform tools and SDK."
+    ],
+    "additional_resources": "Official Android developer documentation provides detailed usage and options.",
+    "community_and_support": {
+      "forums": "Android developer forums and Stack Overflow are common places for support.",
+      "GitHub": "Part of the Android Open Source Project (AOSP), resources can be found on the official AOSP repository."
+    },
+    "example_commands": {
+      "run_tool": "aapt",
+      "uninstall_package": "pkg uninstall aapt"
+    }
+  },
+  {
+    "name": "abduco",
+    "version": "0.6-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "abduco is a terminal session management tool that allows users to detach and reattach to persistent sessions, similar to screen or tmux.",
+    "homepage": "https://github.com/martinpitt/abduco",
+    "installation": "pkg install abduco",
+    "usage": "Start a session with: abduco -c session_name",
+    "features": [
+      "Session Management: Create and manage multiple terminal sessions that can be detached and reattached.",
+      "Lightweight: Minimal resource usage compared to more complex alternatives like tmux or screen.",
+      "Simple Interface: Easy-to-use commands for session handling without unnecessary features."
+    ],
+    "additional_resources": "The GitHub repository provides documentation and source code.",
+    "community_and_support": {
+      "forums": "Unix/Linux terminal and tool forums may offer support and tips.",
+      "GitHub": "Visit the GitHub repository for issues, contributions, and updates."
+    },
+    "example_commands": {
+      "start_session": "abduco -c mysession",
+      "uninstall_package": "pkg uninstall abduco"
+    }
+  },
+  {
+    "name": "abook",
+    "version": "0.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "abook is a text-based address book program designed for managing contacts efficiently from the command line.",
+    "homepage": "http://abook.sourceforge.net/",
+    "installation": "pkg install abook",
+    "usage": "Launch the address book by typing: abook",
+    "features": [
+      "Contact Management: Add, edit, delete, and search contacts in a simple interface.",
+      "Import/Export: Supports importing and exporting contacts in various formats.",
+      "Lightweight: Runs entirely in the terminal with minimal dependencies."
+    ],
+    "additional_resources": "The SourceForge project page and man pages provide comprehensive documentation.",
+    "community_and_support": {
+      "forums": "Look for discussions on Linux utility forums and mailing lists.",
+      "GitHub": "Check the project's SourceForge page for updates and resources."
+    },
+    "example_commands": {
+      "launch_abook": "abook",
+      "uninstall_package": "pkg uninstall abook"
+    }
+  },
+  {
+    "name": "abootimg",
+    "version": "0.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "abootimg is a utility for manipulating Android boot images, allowing users to unpack, modify, and repack boot.img files.",
+    "homepage": "https://github.com/ggrandou/abootimg",
+    "installation": "pkg install abootimg",
+    "usage": "Use abootimg with commands like unpack, repack, and info. Example: abootimg -i boot.img",
+    "features": [
+      "Boot Image Manipulation: Unpack and repack Android boot images for customization.",
+      "Kernel and Ramdisk Handling: Extract or replace kernel and ramdisk components within the boot image.",
+      "Compatibility: Works with various Android device boot image formats."
+    ],
+    "additional_resources": "The GitHub repository contains usage examples and documentation.",
+    "community_and_support": {
+      "forums": "Android development and modding communities often discuss abootimg usage.",
+      "GitHub": "Visit the repository for source code and issue tracking."
+    },
+    "example_commands": {
+      "inspect_boot_image": "abootimg -i boot.img",
+      "uninstall_package": "pkg uninstall abootimg"
+    }
+  },
+  {
+    "name": "abseil-cpp",
+    "version": "20240116.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Abseil C++ Common Libraries (abseil-cpp) is a collection of C++ library code designed to augment the C++ standard library, developed by Google.",
+    "homepage": "https://abseil.io/",
+    "installation": "pkg install abseil-cpp",
+    "usage": "Include Abseil headers in C++ projects and link against the libraries during compilation.",
+    "features": [
+      "Standard Library Enhancements: Provides components complementing C++ standard library features.",
+      "Cross-Platform: Works across various platforms and compilers.",
+      "Performance Focused: Optimized for efficiency and suitable for high-performance applications."
+    ],
+    "additional_resources": "The official website offers extensive documentation and guides.",
+    "community_and_support": {
+      "forums": "C++ developer communities and forums discuss Abseil usage.",
+      "GitHub": "Contributions and issues are managed on the GitHub repository."
+    },
+    "example_commands": {
+      "develop_with_abseil": "g++ -labsl myprogram.cpp",
+      "uninstall_package": "pkg uninstall abseil-cpp"
+    }
+  },
+  {
+    "name": "ack-grep",
+    "version": "3.8.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "ack-grep is a code-searching tool designed for programmers, offering faster and more user-friendly alternatives to traditional grep.",
+    "homepage": "https://beyondgrep.com/",
+    "installation": "pkg install ack-grep",
+    "usage": "Search code with: ack-grep [pattern]",
+    "features": [
+      "Code-Optimized Search: Recognizes file types and ignores version control directories.",
+      "Syntax Highlighting: Supports colored output for better readability.",
+      "Portable: Runs on multiple platforms and integrates with various editors."
+    ],
+    "additional_resources": "The official website and man pages provide detailed usage instructions.",
+    "community_and_support": {
+      "forums": "Developer forums and Q&A sites like Stack Overflow offer support.",
+      "GitHub": "Check the repository for updates and community contributions."
+    },
+    "example_commands": {
+      "search_code": "ack-grep 'function_name'",
+      "uninstall_package": "pkg uninstall ack-grep"
+    }
+  },
+  {
+    "name": "acr",
+    "version": "2.1.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "acr is a configuration tool that automates generating build scripts (like configure) to simplify software configuration.",
+    "homepage": "http://www.nongnu.org/acr/",
+    "installation": "pkg install acr",
+    "usage": "Run acr in a project directory to generate configure scripts: acr",
+    "features": [
+      "Automated Configuration: Generates configure scripts based on project metadata.",
+      "Simplified Workflow: Reduces manual setup for build systems.",
+      "Lightweight: Minimal dependencies and easy integration into projects."
+    ],
+    "additional_resources": "The official website and project documentation provide usage examples.",
+    "community_and_support": {
+      "forums": "Discussions on build systems and development tools may offer insights.",
+      "GitHub": "Check the repository for updates and community contributions.",
+      "Mailing Lists": "Check project channels for support and updates."
+    },
+    "example_commands": {
+      "generate_configure": "acr",
+      "uninstall_package": "pkg uninstall acr"
+    }
+  },
+  {
+    "name": "adms",
+    "version": "2.3.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ADMS (Automatic Device Model Synthesizer) is a code generator for Verilog-A, used in electronic circuit simulation and modeling.",
+    "homepage": "http://mot-adms.sourceforge.net/",
+    "installation": "pkg install adms",
+    "usage": "Use adms to generate simulation code from Verilog-A models: admsXml [input]",
+    "features": [
+      "Verilog-A Code Generation: Transforms Verilog-A models into simulator-specific code.",
+      "Simulation Compatibility: Supports output for SPICE and other circuit simulators.",
+      "Extensible: Plugins allow integration with various simulation tools."
+    ],
+    "additional_resources": "The SourceForge project page and documentation provide technical details.",
+    "community_and_support": {
+      "forums": "Electronics and EDA (Electronic Design Automation) communities discuss ADMS usage.",
+      "GitHub": "Check the repository for updates and community contributions.",
+      "SourceForge": "Project updates and resources are available on the SourceForge page."
+    },
+    "example_commands": {
+      "generate_code": "admsXml example.va",
+      "uninstall_package": "pkg uninstall adms"
+    }
+  },
+  {
+    "name": "aerc",
+    "version": "0.20.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "aerc is a modern email client for the terminal, offering efficient email management with support for multiple accounts and protocols.",
+    "homepage": "https://aerc-mail.org/",
+    "installation": "pkg install aerc",
+    "usage": "Launch the email client with: aerc",
+    "features": [
+      "Terminal-Based Interface: Full-featured email client within the terminal.",
+      "Multiple Protocols: Supports IMAP, SMTP, and notmuch for email handling.",
+      "Customizable: Highly configurable with keybindings and modular design."
+    ],
+    "additional_resources": "The official website and GitHub repository provide extensive documentation.",
+    "community_and_support": {
+      "forums": "Email client and Linux terminal tool communities offer support.",
+      "GitHub": "Visit the repository for contributions and issue tracking."
+    },
+    "example_commands": {
+      "start_email_client": "aerc",
+      "uninstall_package": "pkg uninstall aerc"
+    }
+  },
+  {
+    "name": "agate",
+    "version": "3.3.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "agate is a simple Gemini protocol server designed to serve static files over the Gemini network, a lightweight alternative to HTTP.",
+    "homepage": "https://github.com/mbrubeck/agate",
+    "installation": "pkg install agate",
+    "usage": "Start the server with: agate --content /path/to/content/",
+    "features": [
+      "Gemini Protocol Support: Serves content over the Gemini network.",
+      "Simplicity: Minimal setup required to host static files.",
+      "Security: Supports TLS encryption for secure connections."
+    ],
+    "additional_resources": "The GitHub repository includes configuration examples and documentation.",
+    "community_and_support": {
+      "forums": "Gemini protocol communities and forums discuss server setup and usage.",
+      "GitHub": "Check the repository for updates and community contributions."
+    },
+    "example_commands": {
+      "start_server": "agate --content ~/gemini/",
+      "uninstall_package": "pkg uninstall agate"
+    }
+  },
+  {
+    "name": "age",
+    "version": "1:1.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A simple, modern, and secure file encryption tool.",
+    "homepage": "https://github.com/FiloSottile/age",
+    "installation": "pkg install age",
+    "usage": "Encrypt/decrypt files using age keys.",
+    "features": [
+      "Supports asymmetric encryption via X25519",
+      "Lightweight CLI with no dependencies",
+      "Backward-compatible with OpenSSH keys"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and man pages",
+    "community_and_support": {
+      "forums": "GitHub Discussions",
+      "GitHub": "https://github.com/FiloSottile/age"
+    },
+    "example_commands": {
+      "start_the_game": "age -e -r public_key file.txt > file.age",
+      "uninstall_the_game": "pkg uninstall age"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "agg",
+    "version": "1.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Anti-Grain Geometry (AGG) rendering library for 2D graphics.",
+    "homepage": "http://www.antigrain.com/",
+    "installation": "pkg install agg",
+    "usage": "Used as a graphics backend in applications.",
+    "features": [
+      "High-quality anti-aliased rendering",
+      "Modular design for custom pipelines",
+      "Supports SVG and other vector formats"
+    ],
+    "gameplay": null,
+    "additional_resources": "Official documentation and examples",
+    "community_and_support": {
+      "forums": "SourceForge forums (archived)",
+      "GitHub": "https://github.com/ghaerr/agg-2.6"
+    },
+    "example_commands": {
+      "start_the_game": "agg_example",
+      "uninstall_the_game": "pkg uninstall agg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aha",
+    "version": "0.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Convert ANSI terminal output to HTML.",
+    "homepage": "https://github.com/theZiz/aha",
+    "installation": "pkg install aha",
+    "usage": "Pipe terminal output to generate HTML.",
+    "features": [
+      "Supports ANSI color codes",
+      "Lightweight and script-friendly",
+      "No dependencies"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub README and man pages",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/theZiz/aha"
+    },
+    "example_commands": {
+      "start_the_game": "ls --color | aha > output.html",
+      "uninstall_the_game": "pkg uninstall aha"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aichat",
+    "version": "0.27.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CLI tool for interacting with ChatGPT and other LLMs.",
+    "homepage": "https://github.com/sigoden/aichat",
+    "installation": "pkg install aichat",
+    "usage": "Chat with AI models from the terminal.",
+    "features": [
+      "Supports OpenAI, Gemini, and local models",
+      "Markdown rendering",
+      "Session persistence"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub documentation",
+    "community_and_support": {
+      "forums": "GitHub Discussions",
+      "GitHub": "https://github.com/sigoden/aichat"
+    },
+    "example_commands": {
+      "start_the_game": "aichat",
+      "uninstall_the_game": "pkg uninstall aichat"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aidl",
+    "version": "13.0.0.6-16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Android Interface Definition Language compiler.",
+    "homepage": "https://developer.android.com/guide/components/aidl",
+    "installation": "pkg install aidl",
+    "usage": "Compile AIDL interfaces for Android IPC.",
+    "features": [
+      "Generates Java/Binder interfaces",
+      "Supports Android SDK workflows",
+      "Part of Android build tools"
+    ],
+    "gameplay": null,
+    "additional_resources": "Android Developer Documentation",
+    "community_and_support": {
+      "forums": "Stack Overflow",
+      "GitHub": "https://android.googlesource.com/platform/system/tools/aidl"
+    },
+    "example_commands": {
+      "start_the_game": "aidl --help",
+      "uninstall_the_game": "pkg uninstall aidl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "alass",
+    "version": "2.0.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Automatically synchronize subtitles to audio.",
+    "homepage": "https://github.com/kaegi/alass",
+    "installation": "pkg install alass",
+    "usage": "Fix subtitle timing mismatches.",
+    "features": [
+      "Audio fingerprint alignment",
+      "Batch processing support",
+      "FFmpeg integration"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub Wiki",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/kaegi/alass"
+    },
+    "example_commands": {
+      "start_the_game": "alass correct.srt incorrect.srt fixed.srt",
+      "uninstall_the_game": "pkg uninstall alass"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "alembic",
+    "version": "1.8.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Database migration tool for SQLAlchemy.",
+    "homepage": "https://alembic.sqlalchemy.org/",
+    "installation": "pkg install alembic",
+    "usage": "Manage SQL database schema migrations.",
+    "features": [
+      "Autogenerate migration scripts",
+      "Transactional DDL support",
+      "SQLAlchemy integration"
+    ],
+    "gameplay": null,
+    "additional_resources": "Official documentation",
+    "community_and_support": {
+      "forums": "SQLAlchemy Discourse",
+      "GitHub": "https://github.com/sqlalchemy/alembic"
+    },
+    "example_commands": {
+      "start_the_game": "alembic upgrade head",
+      "uninstall_the_game": "pkg uninstall alembic"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "algernon",
+    "version": "1.17.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Self-contained web server with Lua scripting.",
+    "homepage": "https://algernon.roboticoverlords.org/",
+    "installation": "pkg install algernon",
+    "usage": "Serve static/dynamic web content.",
+    "features": [
+      "HTTP/2 and HTTPS support",
+      "Built-in Markdown rendering",
+      "Live reload for development"
+    ],
+    "gameplay": null,
+    "additional_resources": "Official website examples",
+    "community_and_support": {
+      "forums": "GitHub Discussions",
+      "GitHub": "https://github.com/xyproto/algernon"
+    },
+    "example_commands": {
+      "start_the_game": "algernon --dev",
+      "uninstall_the_game": "pkg uninstall algernon"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "alist",
+    "version": "3.42.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "File list/management tool supporting multiple protocols.",
+    "homepage": "https://alist.nn.ci/",
+    "installation": "pkg install alist",
+    "usage": "Manage cloud storage from CLI.",
+    "features": [
+      "WebDAV/S3/FTP support",
+      "Password protection",
+      "Themable web interface"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub Wiki",
+    "community_and_support": {
+      "forums": "GitHub Discussions",
+      "GitHub": "https://github.com/alist-org/alist"
+    },
+    "example_commands": {
+      "start_the_game": "alist server",
+      "uninstall_the_game": "pkg uninstall alist"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "alpine",
+    "version": "2.26",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Terminal-based email client.",
+    "homepage": "https://alpine.x10host.com/",
+    "installation": "pkg install alpine",
+    "usage": "Read/send emails in the terminal.",
+    "features": [
+      "IMAP/POP3 support",
+      "Threaded message view",
+      "GPG integration"
+    ],
+    "gameplay": null,
+    "additional_resources": "Project FAQ and man pages",
+    "community_and_support": {
+      "forums": "Alpine mailing list",
+      "GitHub": "https://repo.or.cz/alpine.git"
+    },
+    "example_commands": {
+      "start_the_game": "alpine",
+      "uninstall_the_game": "pkg uninstall alpine"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "alsa-lib",
+    "version": "1.2.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Advanced Linux Sound Architecture library.",
+    "homepage": "https://www.alsa-project.org/",
+    "installation": "pkg install alsa-lib",
+    "usage": "Low-level audio API for developers.",
+    "features": [
+      "PCM and MIDI support",
+      "Plugin architecture",
+      "Hardware mixing"
+    ],
+    "gameplay": null,
+    "additional_resources": "ALSA Project documentation",
+    "community_and_support": {
+      "forums": "ALSA mailing list",
+      "GitHub": "https://github.com/alsa-project/alsa-lib"
+    },
+    "example_commands": {
+      "start_the_game": "aplay example.wav",
+      "uninstall_the_game": "pkg uninstall alsa-lib"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "alsa-plugins",
+    "version": "1.2.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ALSA compatibility and utility plugins.",
+    "homepage": "https://www.alsa-project.org/",
+    "installation": "pkg install alsa-plugins",
+    "usage": "Extend ALSA functionality.",
+    "features": [
+      "PulseAudio compatibility",
+      "Upmix/downmix plugins",
+      "Rate conversion"
+    ],
+    "gameplay": null,
+    "additional_resources": "ALSA Wiki",
+    "community_and_support": {
+      "forums": "ALSA mailing list",
+      "GitHub": "https://github.com/alsa-project/alsa-plugins"
+    },
+    "example_commands": {
+      "start_the_game": "alsactl restore",
+      "uninstall_the_game": "pkg uninstall alsa-plugins"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "alsa-utils-static",
+    "version": "1.2.13-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Statically linked ALSA utilities.",
+    "homepage": "https://www.alsa-project.org/",
+    "installation": "pkg install alsa-utils-static",
+    "usage": "Control ALSA audio without shared libs.",
+    "features": [
+      "Static binaries for amixer/aplay",
+      "Embedded system friendly",
+      "No runtime dependencies"
+    ],
+    "gameplay": null,
+    "additional_resources": "ALSA Project documentation",
+    "community_and_support": {
+      "forums": "ALSA mailing list",
+      "GitHub": "https://github.com/alsa-project/alsa-utils"
+    },
+    "example_commands": {
+      "start_the_game": "amixer set Master 50%",
+      "uninstall_the_game": "pkg uninstall alsa-utils-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "alsa-utils",
+    "version": "1.2.13-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ALSA audio control utilities.",
+    "homepage": "https://www.alsa-project.org/",
+    "installation": "pkg install alsa-utils",
+    "usage": "Configure and test audio hardware.",
+    "features": [
+      "alsamixer for volume control",
+      "Speaker test tools",
+      "MIDI sequencer access"
+    ],
+    "gameplay": null,
+    "additional_resources": "ALSA Wiki",
+    "community_and_support": {
+      "forums": "ALSA mailing list",
+      "GitHub": "https://github.com/alsa-project/alsa-utils"
+    },
+    "example_commands": {
+      "start_the_game": "alsamixer",
+      "uninstall_the_game": "pkg uninstall alsa-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "amber",
+    "version": "0.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Static site generator with live reload.",
+    "homepage": "https://amber.rubyforge.org/",
+    "installation": "pkg install amber",
+    "usage": "Generate static websites from Markdown.",
+    "features": [
+      "Live reload server",
+      "SASS/SCSS support",
+      "Template inheritance"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/amber-docs/amber"
+    },
+    "example_commands": {
+      "start_the_game": "amber watch",
+      "uninstall_the_game": "pkg uninstall amber"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "amfora",
+    "version": "1.10.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Terminal Gemini protocol client.",
+    "homepage": "https://github.com/makeworld-the-better-one/amfora",
+    "installation": "pkg install amfora",
+    "usage": "Browse Gemini capsules.",
+    "features": [
+      "TLS support",
+      "Bookmarks and history",
+      "Themable interface"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub Wiki",
+    "community_and_support": {
+      "forums": "Gemini community forums",
+      "GitHub": "https://github.com/makeworld-the-better-one/amfora"
+    },
+    "example_commands": {
+      "start_the_game": "amfora gemini://example.com",
+      "uninstall_the_game": "pkg uninstall amfora"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "android-tools",
+    "version": "35.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Android platform tools (ADB/Fastboot).",
+    "homepage": "https://developer.android.com/studio/releases/platform-tools",
+    "installation": "pkg install android-tools",
+    "usage": "Debug Android devices via CLI.",
+    "features": [
+      "ADB for device communication",
+      "Fastboot for firmware flashing",
+      "Systrace performance analysis"
+    ],
+    "gameplay": null,
+    "additional_resources": "Android Developer Docs",
+    "community_and_support": {
+      "forums": "XDA Developers",
+      "GitHub": "https://android.googlesource.com/platform/system/core"
+    },
+    "example_commands": {
+      "start_the_game": "adb devices",
+      "uninstall_the_game": "pkg uninstall android-tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "anewer",
+    "version": "0.1.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Process only newer files in scripts.",
+    "homepage": "https://github.com/tjanez/anewer",
+    "installation": "pkg install anewer",
+    "usage": "Conditional file processing based on timestamps.",
+    "features": [
+      "Compare mtime/ctime",
+      "Exit codes for scripting",
+      "Recursive directory support"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub README",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/tjanez/anewer"
+    },
+    "example_commands": {
+      "start_the_game": "anewer reference.txt input.txt",
+      "uninstall_the_game": "pkg uninstall anewer"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "angband",
+    "version": "4.2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Roguelike dungeon exploration game.",
+    "homepage": "https://rephial.org/",
+    "installation": "pkg install angband",
+    "usage": "Play the classic Angband roguelike.",
+    "features": [
+      "Procedural dungeon generation",
+      "Multiple character classes",
+      "Permadeath mechanics"
+    ],
+    "gameplay": {
+      "objective": "Descend through dungeon levels to defeat Morgoth.",
+      "controls": "Vi keys or arrow keys for movement",
+      "environment": "ASCII-based dungeon with monsters and loot"
+    },
+    "additional_resources": "Official game manual",
+    "community_and_support": {
+      "forums": "Official Angband forums",
+      "GitHub": "https://github.com/angband/angband"
+    },
+    "example_commands": {
+      "start_the_game": "angband",
+      "uninstall_the_game": "pkg uninstall angband"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "angle-android",
+    "version": "2.1.24755-91985374-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenGL ES to Vulkan translation layer for Android.",
+    "homepage": "https://github.com/google/angle",
+    "installation": "pkg install angle-android",
+    "usage": "Enable Vulkan-backed OpenGL ES in Android apps.",
+    "features": [
+      "Vulkan compliance testing",
+      "Performance optimizations",
+      "EGL/GLES2/GLES3 support"
+    ],
+    "gameplay": null,
+    "additional_resources": "ANGLE GitHub Wiki",
+    "community_and_support": {
+      "forums": "ANGLE GitHub Discussions",
+      "GitHub": "https://github.com/google/angle"
+    },
+    "example_commands": {
+      "start_the_game": "ANGLE_DEFAULT_PLATFORM=vulkan app",
+      "uninstall_the_game": "pkg uninstall angle-android"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "angle-grinder",
+    "version": "0.19.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A high-performance log and telemetry analytics tool for slicing, dicing, and analyzing data in real-time. Designed for operators and developers to query structured and unstructured data.",
+    "homepage": "https://github.com/rcoh/angle-grinder",
+    "installation": "pkg install angle-grinder",
+    "usage": "Analyze logs or streams with SQL-like queries: agrind 'parse \"*\" | json | filter level=\"error\"'",
+    "features": [
+      "Real-Time Analysis: Query live data streams or static logs",
+      "JQ-like Syntax: Supports JSON parsing and transformations",
+      "Aggregation Functions: Count, sum, avg, and histogram operations",
+      "Multi-Threaded: Optimized for parallel processing"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository includes query examples and benchmarks",
+    "community_and_support": {
+      "forums": "GitHub Discussions and DevOps communities",
+      "GitHub": "https://github.com/rcoh/angle-grinder"
+    },
+    "example_commands": {
+      "start_the_game": "agrind -f logfile.log 'count by level'",
+      "uninstall_the_game": "pkg uninstall angle-grinder"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ani-cli",
+    "version": "4.9",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "A command-line tool to stream and download anime episodes from multiple sources, with support for subtitles and quality selection. Ideal for terminal enthusiasts.",
+    "homepage": "https://github.com/pystardust/ani-cli",
+    "installation": "pkg install ani-cli",
+    "usage": "Search and stream anime: ani-cli -q 1080p 'Attack on Titan'",
+    "features": [
+      "Multi-Source Support: Fetches from Gogoanime, Zoro, etc.",
+      "Quality Selection: 360p to 1080p resolutions",
+      "Offline Viewing: Download episodes for later playback",
+      "Subtitles: Embedded or external subtitle support"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub README includes keybindings and configuration tips",
+    "community_and_support": {
+      "forums": "Reddit r/animepiracy",
+      "GitHub": "https://github.com/pystardust/ani-cli"
+    },
+    "example_commands": {
+      "start_the_game": "ani-cli -d ~/Downloads 'Jujutsu Kaisen'",
+      "uninstall_the_game": "pkg uninstall ani-cli"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ansifilter",
+    "version": "2.21-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A robust tool to remove or transform ANSI escape codes in text files, logs, or terminal output. Converts ANSI-colored text to HTML, LaTeX, or plain text.",
+    "homepage": "http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php",
+    "installation": "pkg install ansifilter",
+    "usage": "Convert terminal output to HTML: ansifilter -H input.txt > output.html",
+    "features": [
+      "Format Conversion: HTML, LaTeX, RTF, and plain text",
+      "Syntax Highlighting: Integrates with code snippets",
+      "Batch Processing: Recursive directory handling",
+      "Custom Styles: Define CSS classes for HTML output"
+    ],
+    "gameplay": null,
+    "additional_resources": "Official documentation includes regex customization guides",
+    "community_and_support": {
+      "forums": "GitHub Issues and Stack Overflow",
+      "GitHub": "https://github.com/andre-simon/ansifilter"
+    },
+    "example_commands": {
+      "start_the_game": "ansifilter -i server.log -o clean.log",
+      "uninstall_the_game": "pkg uninstall ansifilter"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ant",
+    "version": "1.10.15",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Apache Ant is a Java-based build tool for automating software compilation, testing, and deployment. Uses XML-based configuration for complex workflows.",
+    "homepage": "https://ant.apache.org/",
+    "installation": "pkg install ant",
+    "usage": "Run build scripts: ant compile",
+    "features": [
+      "Cross-Platform: Works on Java-supported OSes",
+      "Task Automation: Compile, JAR, test, and deploy",
+      "Extensible: Custom tasks via Java classes",
+      "Dependency Management: Integrates with Ivy"
+    ],
+    "gameplay": null,
+    "additional_resources": "Apache Ant Manual and tutorial guides",
+    "community_and_support": {
+      "forums": "Apache Ant mailing lists",
+      "GitHub": "https://github.com/apache/ant"
+    },
+    "example_commands": {
+      "start_the_game": "ant -f build.xml deploy",
+      "uninstall_the_game": "pkg uninstall ant"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "antibody",
+    "version": "6.1.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A lightning-fast shell plugin manager for Zsh, Bash, and Fish. Streamlines plugin management with parallel loading and caching.",
+    "homepage": "https://getantibody.github.io/",
+    "installation": "pkg install antibody",
+    "usage": "Bundle plugins: antibody bundle < ~/.zsh_plugins.txt",
+    "features": [
+      "Parallel Loading: Reduces shell startup time",
+      "GitHub Integration: Directly reference plugins",
+      "Cache System: Precompiles plugins for speed",
+      "Multi-Shell: Supports Zsh, Bash, and Fish"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository includes benchmark data",
+    "community_and_support": {
+      "forums": "GitHub Discussions and r/zsh",
+      "GitHub": "https://github.com/getantibody/antibody"
+    },
+    "example_commands": {
+      "start_the_game": "antibody update",
+      "uninstall_the_game": "pkg uninstall antibody"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "antiword",
+    "version": "0.37-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A tool to extract text and metadata from Microsoft Word documents (.doc) in terminal environments. Preserves basic formatting and tables.",
+    "homepage": "http://www.winfield.demon.nl/",
+    "installation": "pkg install antiword",
+    "usage": "Convert Word docs to text: antiword document.doc",
+    "features": [
+      "Legacy Support: Handles Word 2.0 to 97 formats",
+      "Batch Processing: Convert multiple files recursively",
+      "Metadata Extraction: Author, revision dates, etc.",
+      "UTF-8 Output: Supports international characters"
+    ],
+    "gameplay": null,
+    "additional_resources": "Man pages include format conversion flags",
+    "community_and_support": {
+      "forums": "Arch Linux Wiki and mailing lists",
+      "GitHub": "Community forks on GitHub"
+    },
+    "example_commands": {
+      "start_the_game": "antiword -m UTF-8.txt report.doc > output.txt",
+      "uninstall_the_game": "pkg uninstall antiword"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aom-tools",
+    "version": "3.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "AV1 video codec utilities for encoding, decoding, and analyzing AOMedia Video 1 (AV1) streams. Includes aomenc, aomdec, and aomanalyzer.",
+    "homepage": "https://aomedia.org/",
+    "installation": "pkg install aom-tools",
+    "usage": "Encode video: aomenc --ivf -o output.ivf input.y4m",
+    "features": [
+      "Advanced Encoding: 10/12-bit depth, HDR support",
+      "Real-Time Analysis: Bitrate graphs, frame inspection",
+      "Multi-Threaded: Optimized for modern CPUs",
+      "Streaming Ready: Supports DASH and WebM"
+    ],
+    "gameplay": null,
+    "additional_resources": "AV1 specification and encoder tuning guides",
+    "community_and_support": {
+      "forums": "AOMedia Community Forum",
+      "GitHub": "https://github.com/AOMediaCodec/libavif"
+    },
+    "example_commands": {
+      "start_the_game": "aomdec -o output.yuv input.ivf",
+      "uninstall_the_game": "pkg uninstall aom-tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apache-orc",
+    "version": "2.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Optimized Row Columnar (ORC) file format for Hadoop ecosystems. Provides efficient storage and fast querying of structured data.",
+    "homepage": "https://orc.apache.org/",
+    "installation": "pkg install apache-orc",
+    "usage": "Read ORC files: orc-tools meta data.orc",
+    "features": [
+      "Columnar Storage: Reduces I/O for analytics",
+      "ACID Compliance: Supports transactions in Hive",
+      "Compression: Zlib, Snappy, and ZSTD algorithms",
+      "Type Evolution: Schema changes without rewriting data"
+    ],
+    "gameplay": null,
+    "additional_resources": "ORC specification and Hive integration docs",
+    "community_and_support": {
+      "forums": "Apache ORC mailing lists",
+      "GitHub": "https://github.com/apache/orc"
+    },
+    "example_commands": {
+      "start_the_game": "orc-tools data data.orc",
+      "uninstall_the_game": "pkg uninstall apache-orc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apache2",
+    "version": "1:2.4.63",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The Apache HTTP Server, a widely-used open-source web server. Supports modules for dynamic content, SSL/TLS, and load balancing.",
+    "homepage": "https://httpd.apache.org/",
+    "installation": "pkg install apache2",
+    "usage": "Start the server: apachectl start",
+    "features": [
+      "Modular Architecture: Load modules for PHP, proxy, etc.",
+      ".htaccess Overrides: Per-directory configuration",
+      "IPv6 Support: Native IPv6 listening",
+      "Logging: Custom log formats and rotation"
+    ],
+    "gameplay": null,
+    "additional_resources": "Apache HTTP Server Documentation",
+    "community_and_support": {
+      "forums": "Apache Users mailing list",
+      "GitHub": "https://github.com/apache/httpd"
+    },
+    "example_commands": {
+      "start_the_game": "apachectl restart",
+      "uninstall_the_game": "pkg uninstall apache2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apkeep",
+    "version": "0.17.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A CLI tool to download APK files from Google Play Store and other sources. Useful for offline backups or analysis.",
+    "homepage": "https://github.com/andriusvelykis/apkeep",
+    "installation": "pkg install apkeep",
+    "usage": "Download APK: apkeep -d com.spotify.music",
+    "features": [
+      "Multi-Source: Google Play, APKPure, etc.",
+      "Batch Downloads: Fetch multiple apps at once",
+      "Credential Support: Google account integration",
+      "Metadata Extraction: Version codes, permissions"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository includes auth guides",
+    "community_and_support": {
+      "forums": "XDA Developers forums",
+      "GitHub": "https://github.com/andriusvelykis/apkeep"
+    },
+    "example_commands": {
+      "start_the_game": "apkeep -a credentials.json com.whatsapp",
+      "uninstall_the_game": "pkg uninstall apkeep"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apksigner",
+    "version": "33.0.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Android APK signing and verification tool from the Android SDK. Ensures APK integrity and alignment for Play Store submission.",
+    "homepage": "https://developer.android.com/studio/command-line/apksigner",
+    "installation": "pkg install apksigner",
+    "usage": "Sign an APK: apksigner sign --ks my.keystore app.apk",
+    "features": [
+      "v1/v2/v3 Signing: Supports all Android signing schemes",
+      "Verification: Check APK integrity post-signing",
+      "Keystore Management: Integrates with Java keystores",
+      "ZIP Alignment: Optimizes APK structure"
+    ],
+    "gameplay": null,
+    "additional_resources": "Android Developers documentation",
+    "community_and_support": {
+      "forums": "Stack Overflow (android tag)",
+      "GitHub": "Part of Android SDK sources"
+    },
+    "example_commands": {
+      "start_the_game": "apksigner verify --verbose app.apk",
+      "uninstall_the_game": "pkg uninstall apksigner"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "appstream",
+    "version": "1.0.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A metadata aggregator for Linux software, providing standardized AppStream data for package managers and software centers.",
+    "homepage": "https://www.freedesktop.org/wiki/Distributions/AppStream/",
+    "installation": "pkg install appstream",
+    "usage": "Generate metadata: appstreamcli refresh",
+    "features": [
+      "XML Validation: Verify AppStream compliance",
+      "Icon Caching: Stores application icons",
+      "GNOME/KDE Integration: Powers software centers",
+      "Cross-Distro: Works with RPM, DEB, and others"
+    ],
+    "gameplay": null,
+    "additional_resources": "AppStream specification docs",
+    "community_and_support": {
+      "forums": "Freedesktop mailing lists",
+      "GitHub": "https://github.com/ximion/appstream"
+    },
+    "example_commands": {
+      "start_the_game": "appstreamcli status",
+      "uninstall_the_game": "pkg uninstall appstream"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apr-static",
+    "version": "1.7.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Apache Portable Runtime (APR) static libraries for building self-contained applications. Provides OS abstraction for networking, I/O, and threading.",
+    "homepage": "https://apr.apache.org/",
+    "installation": "pkg install apr-static",
+    "usage": "Link statically: gcc -lapr-1 myapp.c",
+    "features": [
+      "Portability: Uniform API across OSes",
+      "Performance: Optimized memory pools",
+      "Static Linking: No runtime dependencies",
+      "Networking: Cross-platform sockets"
+    ],
+    "gameplay": null,
+    "additional_resources": "APR Developer Documentation",
+    "community_and_support": {
+      "forums": "Apache APR mailing lists",
+      "GitHub": "https://github.com/apache/apr"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (development library)",
+      "uninstall_the_game": "pkg uninstall apr-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apr-util-static",
+    "version": "1.6.3-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Static libraries for APR-util, providing additional utilities like database connectors, XML parsing, and cryptography.",
+    "homepage": "https://apr.apache.org/",
+    "installation": "pkg install apr-util-static",
+    "usage": "Link with APR extensions: gcc -laprutil-1 mydbapp.c",
+    "features": [
+      "Database Support: MySQL, PostgreSQL, SQLite",
+      "XML Parsing: Expat-based parser",
+      "Hashing: MD5, SHA1, crypt()",
+      "LDAP Integration: Lightweight Directory Access"
+    ],
+    "gameplay": null,
+    "additional_resources": "APR-Util API documentation",
+    "community_and_support": {
+      "forums": "Apache APR mailing lists",
+      "GitHub": "https://github.com/apache/apr-util"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (development library)",
+      "uninstall_the_game": "pkg uninstall apr-util-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apr-util",
+    "version": "1.6.3-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Apache Portable Runtime Utilities, extending APR with database, XML, and cryptographic functionality. Dynamically linked.",
+    "homepage": "https://apr.apache.org/",
+    "installation": "pkg install apr-util",
+    "usage": "Required by Apache HTTP Server and Subversion",
+    "features": [
+      "Shared Libraries: Dynamic linking for flexibility",
+      "DBD Framework: Database driver abstraction",
+      "LDAP Support: Built-in LDAP client",
+      "UUID Generation: OS-agnostic UUIDs"
+    ],
+    "gameplay": null,
+    "additional_resources": "APR-Util configuration guides",
+    "community_and_support": {
+      "forums": "Apache APR mailing lists",
+      "GitHub": "https://github.com/apache/apr-util"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (runtime dependency)",
+      "uninstall_the_game": "pkg uninstall apr-util"
+    },
+    "isFavorite": false
+  }
+]

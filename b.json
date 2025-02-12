@@ -1,0 +1,1768 @@
+[
+  {
+    "name": "b3sum",
+    "version": "1.5.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "B3sum is a command-line tool for calculating BLAKE3 hashes.",
+    "homepage": "https://github.com/BLAKE3-team/BLAKE3",
+    "installation": "pkg install b3sum",
+    "usage": "After installing, use b3sum to calculate BLAKE3 hashes for files.",
+    "features": [
+      "BLAKE3 Hashing: Calculate BLAKE3 hashes for files.",
+      "Command-Line Tool: Use b3sum from the command line for efficient hashing.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the B3sum documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to hashing tools for support and discussions.",
+      "GitHub": "Visit the BLAKE3 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall b3sum"
+    }
+  },
+  {
+    "name": "babl",
+    "version": "0.1.110",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Babl is a dynamic, any-to-any pixel format conversion library. It allows conversion of pixels between different color models and data types.",
+    "homepage": "http://gegl.org/babl/",
+    "installation": "pkg install babl",
+    "usage": "After installing, use babl to convert pixel formats in your image processing applications.",
+    "features": [
+      "Pixel Format Conversion: Convert pixels between different color models and data types.",
+      "Dynamic Library: Provides dynamic conversion capabilities.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Babl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing for support and discussions.",
+      "GitHub": "Visit the Babl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall babl"
+    }
+  },
+  {
+    "name": "bacula-fd-static",
+    "version": "15.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A statically linked version of the Bacula File Daemon (FD), part of the Bacula backup suite. Designed for environments where dynamic linking is not feasible, such as embedded systems or minimal Linux installations.",
+    "homepage": "https://www.bacula.org/",
+    "installation": "pkg install bacula-fd-static",
+    "usage": "Run the Bacula File Daemon: bacula-fd -c /etc/bacula/bacula-fd.conf",
+    "features": [
+      "Self-Contained: No external dependencies required",
+      "Backup Flexibility: Supports full, incremental, and differential backups",
+      "Encryption: AES-256 encryption for secure data transfer",
+      "Cross-Platform: Works with Bacula Director on any supported OS",
+      "Low Resource Usage: Optimized for minimal memory and CPU consumption"
+    ],
+    "gameplay": null,
+    "additional_resources": "Bacula User Manual and configuration guides",
+    "community_and_support": {
+      "forums": "Bacula mailing lists and community forums",
+      "GitHub": "https://github.com/bacula/bacula"
+    },
+    "example_commands": {
+      "start_the_game": "bacula-fd -c /etc/bacula/bacula-fd.conf",
+      "uninstall_the_game": "pkg uninstall bacula-fd-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bacula-fd",
+    "version": "15.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The Bacula File Daemon (FD) is a client component of the Bacula backup system. It communicates with the Bacula Director to perform file-level backups and restores.",
+    "homepage": "https://www.bacula.org/",
+    "installation": "pkg install bacula-fd",
+    "usage": "Start the Bacula File Daemon: bacula-fd -c /etc/bacula/bacula-fd.conf",
+    "features": [
+      "File-Level Backup: Granular control over backup sets",
+      "Compression: Built-in Zlib and LZO compression",
+      "Scheduling: Integrates with Bacula Director for automated backups",
+      "Restore Capabilities: Point-in-time recovery and file-level restores",
+      "Cross-Platform: Compatible with Linux, Windows, and macOS"
+    ],
+    "gameplay": null,
+    "additional_resources": "Bacula documentation and troubleshooting guides",
+    "community_and_support": {
+      "forums": "Bacula community forums and Stack Overflow",
+      "GitHub": "https://github.com/bacula/bacula"
+    },
+    "example_commands": {
+      "start_the_game": "bacula-fd -c /etc/bacula/bacula-fd.conf",
+      "uninstall_the_game": "pkg uninstall bacula-fd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "badvpn-udpgw",
+    "version": "1.999.130",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A lightweight UDP gateway for tunneling UDP traffic over TCP, commonly used in VPN setups to bypass firewalls or NAT restrictions.",
+    "homepage": "https://github.com/ambrop72/badvpn",
+    "installation": "pkg install badvpn-udpgw",
+    "usage": "Start the UDP gateway: badvpn-udpgw --listen-addr 127.0.0.1:7300",
+    "features": [
+      "UDP over TCP: Encapsulates UDP packets in TCP streams",
+      "Firewall Bypass: Works in restrictive network environments",
+      "Low Latency: Optimized for real-time applications like VoIP",
+      "Cross-Platform: Runs on Linux, BSD, and macOS",
+      "Configuration: Supports custom listen addresses and ports"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and usage examples",
+    "community_and_support": {
+      "forums": "GitHub Issues and OpenVPN community forums",
+      "GitHub": "https://github.com/ambrop72/badvpn"
+    },
+    "example_commands": {
+      "start_the_game": "badvpn-udpgw --listen-addr 127.0.0.1:7300",
+      "uninstall_the_game": "pkg uninstall badvpn-udpgw"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "barcode",
+    "version": "0.99-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A command-line tool for generating barcodes in various formats, including Code 39, Code 128, and EAN-13. Supports output as PNG, EPS, and SVG.",
+    "homepage": "https://www.gnu.org/software/barcode/",
+    "installation": "pkg install barcode",
+    "usage": "Generate a barcode: barcode -o output.png -e code128 -b '123456789'",
+    "features": [
+      "Multiple Formats: Supports over 10 barcode symbologies",
+      "Output Formats: PNG, EPS, SVG, and ASCII art",
+      "Customization: Adjust size, margins, and colors",
+      "Batch Processing: Generate multiple barcodes in one command",
+      "Library Integration: Use as a library in C programs"
+    ],
+    "gameplay": null,
+    "additional_resources": "GNU Barcode manual and examples",
+    "community_and_support": {
+      "forums": "GNU mailing lists and Stack Overflow",
+      "GitHub": "https://github.com/rdoeffinger/barcode"
+    },
+    "example_commands": {
+      "start_the_game": "barcode -o barcode.png -e ean13 -b '978020137962'",
+      "uninstall_the_game": "pkg uninstall barcode"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "base16384",
+    "version": "2.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A high-efficiency binary-to-text encoding tool using the Base16384 encoding scheme. Designed for compact representation of binary data in text formats.",
+    "homepage": "https://github.com/fumiama/base16384",
+    "installation": "pkg install base16384",
+    "usage": "Encode a file: base16384 -e input.bin output.txt",
+    "features": [
+      "High Efficiency: Encodes 14 bits per character",
+      "Unicode Support: Uses UTF-16 for encoding",
+      "Streaming: Handles large files efficiently",
+      "Cross-Platform: Works on Linux, Windows, and macOS",
+      "Error Detection: Built-in checksum verification"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and encoding specifications",
+    "community_and_support": {
+      "forums": "GitHub Issues and encoding communities",
+      "GitHub": "https://github.com/fumiama/base16384"
+    },
+    "example_commands": {
+      "start_the_game": "base16384 -e input.bin output.txt",
+      "uninstall_the_game": "pkg uninstall base16384"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bash-completion",
+    "version": "2.16.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Programmable completion for the Bash shell, enabling intelligent tab-completion for commands, options, and arguments. Includes predefined completions for common tools like git, ssh, and apt.",
+    "homepage": "https://github.com/scop/bash-completion",
+    "installation": "pkg install bash-completion",
+    "usage": "Enable completion: source /etc/bash_completion",
+    "features": [
+      "Customizable: Add completions for custom scripts",
+      "Dynamic Loading: Load completions on-demand",
+      "Wide Coverage: Supports over 500 commands",
+      "Performance: Optimized for fast completion",
+      "Cross-Shell: Compatible with Zsh and other shells"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and user guide",
+    "community_and_support": {
+      "forums": "GitHub Issues and Bash mailing lists",
+      "GitHub": "https://github.com/scop/bash-completion"
+    },
+    "example_commands": {
+      "start_the_game": "source /etc/bash_completion",
+      "uninstall_the_game": "pkg uninstall bash-completion"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bash",
+    "version": "5.2.37",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The Bourne-Again SHell (Bash) is a widely-used Unix shell and command language. It provides a powerful scripting environment and interactive command-line interface.",
+    "homepage": "https://www.gnu.org/software/bash/",
+    "installation": "pkg install bash",
+    "usage": "Run a script: bash script.sh",
+    "features": [
+      "Scripting: Full-featured scripting language",
+      "Command Editing: Readline support for history and editing",
+      "Job Control: Background and foreground process management",
+      "Customization: Configurable prompts and aliases",
+      "Compatibility: POSIX-compliant with extensions"
+    ],
+    "gameplay": null,
+    "additional_resources": "GNU Bash manual and scripting guides",
+    "community_and_support": {
+      "forums": "GNU mailing lists and Stack Overflow",
+      "GitHub": "https://github.com/bminor/bash"
+    },
+    "example_commands": {
+      "start_the_game": "bash -c 'echo Hello, World!'",
+      "uninstall_the_game": "pkg uninstall bash"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bastet",
+    "version": "0.43.2-10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A terminal-based Tetris clone with a twist: the game deliberately gives you the worst possible piece to challenge your skills.",
+    "homepage": "https://fph.altervista.org/prog/bastet.html",
+    "installation": "pkg install bastet",
+    "usage": "Start the game: bastet",
+    "features": [
+      "AI Opponent: Delivers the most challenging pieces",
+      "High Scores: Track your best performances",
+      "Customizable: Adjust game speed and controls",
+      "Minimalist: Runs in any terminal emulator",
+      "Open Source: Free and modifiable"
+    ],
+    "gameplay": {
+      "objective": "Survive as long as possible while clearing lines",
+      "controls": "Arrow keys for movement, space to drop",
+      "environment": "ASCII-based terminal interface"
+    },
+    "additional_resources": "Game manual and online leaderboards",
+    "community_and_support": {
+      "forums": "GitHub Issues and retro gaming communities",
+      "GitHub": "https://github.com/fph/bastet"
+    },
+    "example_commands": {
+      "start_the_game": "bastet",
+      "uninstall_the_game": "pkg uninstall bastet"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bat",
+    "version": "0.25.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A cat clone with syntax highlighting and Git integration. Designed for viewing and navigating code files in the terminal.",
+    "homepage": "https://github.com/sharkdp/bat",
+    "installation": "pkg install bat",
+    "usage": "View a file: bat README.md",
+    "features": [
+      "Syntax Highlighting: Supports over 200 languages",
+      "Git Integration: Shows line modifications",
+      "Paging: Integrates with less for navigation",
+      "Themes: Customize highlighting styles",
+      "Cross-Platform: Works on Linux, macOS, and Windows"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and user guide",
+    "community_and_support": {
+      "forums": "GitHub Issues and r/commandline subreddit",
+      "GitHub": "https://github.com/sharkdp/bat"
+    },
+    "example_commands": {
+      "start_the_game": "bat --theme=TwoDark script.py",
+      "uninstall_the_game": "pkg uninstall bat"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bc-gh",
+    "version": "7.0.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A GNU-compatible implementation of the bc arbitrary-precision calculator language, extended with additional mathematical functions and features. Ideal for complex calculations and scripting.",
+    "homepage": "https://github.com/gavinhoward/bc",
+    "installation": "pkg install bc-gh",
+    "usage": "Run calculations interactively: bc-gh",
+    "features": [
+      "Arbitrary Precision: Supports unlimited digit precision",
+      "Extended Math: Includes trigonometric, logarithmic, and statistical functions",
+      "Scripting: Write reusable scripts for calculations",
+      "Interactive Mode: Real-time evaluation of expressions",
+      "Compatibility: Fully compatible with POSIX bc"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and user manual",
+    "community_and_support": {
+      "forums": "GitHub Issues and math tool communities",
+      "GitHub": "https://github.com/gavinhoward/bc"
+    },
+    "example_commands": {
+      "start_the_game": "bc-gh -l",
+      "uninstall_the_game": "pkg uninstall bc-gh"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bc",
+    "version": "1.07.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The standard bc arbitrary-precision calculator language, providing a simple yet powerful tool for performing mathematical calculations in scripts or interactively.",
+    "homepage": "https://www.gnu.org/software/bc/",
+    "installation": "pkg install bc",
+    "usage": "Perform calculations: echo '2 + 2' | bc",
+    "features": [
+      "Basic Arithmetic: Addition, subtraction, multiplication, division",
+      "Variables: Store and reuse intermediate results",
+      "Functions: Define custom functions for repeated calculations",
+      "Interactive Mode: Evaluate expressions in real-time",
+      "POSIX Compliance: Adheres to POSIX standards for portability"
+    ],
+    "gameplay": null,
+    "additional_resources": "GNU bc manual and examples",
+    "community_and_support": {
+      "forums": "GNU mailing lists and Stack Overflow",
+      "GitHub": "https://github.com/coreutils/coreutils"
+    },
+    "example_commands": {
+      "start_the_game": "bc -q",
+      "uninstall_the_game": "pkg uninstall bc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bcal",
+    "version": "2.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A command-line utility for storage and memory capacity calculations. Converts between decimal and binary units, calculates RAID configurations, and more.",
+    "homepage": "https://github.com/jarun/bcal",
+    "installation": "pkg install bcal",
+    "usage": "Convert storage units: bcal 1GiB MiB",
+    "features": [
+      "Unit Conversion: Converts between KiB, MiB, GiB, TiB, etc.",
+      "RAID Calculations: Determines usable storage for RAID arrays",
+      "Memory Addressing: Calculates memory offsets and addresses",
+      "Interactive Mode: Real-time evaluation of expressions",
+      "Cross-Platform: Works on Linux, macOS, and Windows"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and usage examples",
+    "community_and_support": {
+      "forums": "GitHub Issues and sysadmin communities",
+      "GitHub": "https://github.com/jarun/bcal"
+    },
+    "example_commands": {
+      "start_the_game": "bcal 1TB GiB",
+      "uninstall_the_game": "pkg uninstall bcal"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bdsup2sub",
+    "version": "4.0.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "A tool for converting and editing Blu-ray subtitle files (SUP) to other formats like SUB/IDX, VobSub, and more. Supports frame rate conversion and color adjustments.",
+    "homepage": "https://github.com/mjuhasz/BDSup2Sub",
+    "installation": "pkg install bdsup2sub",
+    "usage": "Convert subtitles: bdsup2sub -o output.sub input.sup",
+    "features": [
+      "Format Conversion: SUP to SUB/IDX, VobSub, etc.",
+      "Frame Rate Adjustment: Sync subtitles to video frame rates",
+      "Color Customization: Modify subtitle colors and transparency",
+      "Batch Processing: Convert multiple files in one go",
+      "Cross-Platform: Runs on Linux, macOS, and Windows"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and user guide",
+    "community_and_support": {
+      "forums": "GitHub Issues and video editing communities",
+      "GitHub": "https://github.com/mjuhasz/BDSup2Sub"
+    },
+    "example_commands": {
+      "start_the_game": "bdsup2sub -o output.sub input.sup",
+      "uninstall_the_game": "pkg uninstall bdsup2sub"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "beanshell",
+    "version": "2.1.1-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "A lightweight Java scripting engine that interprets Java code dynamically. Ideal for embedding Java scripting capabilities into applications or for rapid prototyping.",
+    "homepage": "https://github.com/beanshell/beanshell",
+    "installation": "pkg install beanshell",
+    "usage": "Run a script: bsh script.bsh",
+    "features": [
+      "Java Compatibility: Executes standard Java syntax",
+      "Scripting: Write reusable scripts for automation",
+      "Embeddable: Integrates with Java applications",
+      "Interactive Shell: Evaluate Java code in real-time",
+      "Cross-Platform: Runs on any JVM-supported OS"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and user manual",
+    "community_and_support": {
+      "forums": "GitHub Issues and Java communities",
+      "GitHub": "https://github.com/beanshell/beanshell"
+    },
+    "example_commands": {
+      "start_the_game": "bsh",
+      "uninstall_the_game": "pkg uninstall beanshell"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bed",
+    "version": "0.2.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A binary editor for viewing and modifying binary files. Provides a hex view, search functionality, and support for large files.",
+    "homepage": "https://github.com/itchyny/bed",
+    "installation": "pkg install bed",
+    "usage": "Edit a binary file: bed file.bin",
+    "features": [
+      "Hex View: Display binary data in hexadecimal format",
+      "Search: Find patterns in binary files",
+      "Large File Support: Efficiently handles files of any size",
+      "Undo/Redo: Revert changes during editing",
+      "Cross-Platform: Runs on Linux, macOS, and Windows"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and user guide",
+    "community_and_support": {
+      "forums": "GitHub Issues and binary editing communities",
+      "GitHub": "https://github.com/itchyny/bed"
+    },
+    "example_commands": {
+      "start_the_game": "bed file.bin",
+      "uninstall_the_game": "pkg uninstall bed"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "below",
+    "version": "0.8.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A system monitoring tool for Linux, providing detailed insights into CPU, memory, disk, and network usage. Designed for debugging and performance analysis.",
+    "homepage": "https://github.com/facebookincubator/below",
+    "installation": "pkg install below",
+    "usage": "Monitor system resources: below",
+    "features": [
+      "Real-Time Monitoring: Live updates of system metrics",
+      "Historical Data: Store and analyze past performance",
+      "Custom Dashboards: Tailor views to specific needs",
+      "Low Overhead: Minimal impact on system performance",
+      "Cross-Platform: Works on Linux and BSD"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues and sysadmin communities",
+      "GitHub": "https://github.com/facebookincubator/below"
+    },
+    "example_commands": {
+      "start_the_game": "below",
+      "uninstall_the_game": "pkg uninstall below"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bftpd",
+    "version": "6.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A lightweight FTP server designed for simplicity and security. Suitable for embedded systems and environments with limited resources.",
+    "homepage": "https://bftpd.sourceforge.io/",
+    "installation": "pkg install bftpd",
+    "usage": "Start the FTP server: bftpd -d",
+    "features": [
+      "Minimal Footprint: Low memory and CPU usage",
+      "Security: Supports SSL/TLS encryption",
+      "Virtual Users: Configure user-specific permissions",
+      "IPv6 Support: Works with modern network stacks",
+      "Cross-Platform: Runs on Linux, BSD, and macOS"
+    ],
+    "gameplay": null,
+    "additional_resources": "Official documentation and configuration examples",
+    "community_and_support": {
+      "forums": "SourceForge forums and FTP communities",
+      "GitHub": "https://github.com/turbo/bftpd"
+    },
+    "example_commands": {
+      "start_the_game": "bftpd -d",
+      "uninstall_the_game": "pkg uninstall bftpd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bgrep",
+    "version": "1.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A binary grep utility for searching binary files for specific patterns. Ideal for reverse engineering and debugging.",
+    "homepage": "https://github.com/tmbinc/bgrep",
+    "installation": "pkg install bgrep",
+    "usage": "Search a binary file: bgrep 'pattern' file.bin",
+    "features": [
+      "Pattern Matching: Search for hex or ASCII patterns",
+      "Large File Support: Efficiently handles files of any size",
+      "Offset Output: Displays byte offsets of matches",
+      "Cross-Platform: Runs on Linux, macOS, and Windows",
+      "Minimal Dependencies: Standalone binary with no external requirements"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and usage examples",
+    "community_and_support": {
+      "forums": "GitHub Issues and reverse engineering communities",
+      "GitHub": "https://github.com/tmbinc/bgrep"
+    },
+    "example_commands": {
+      "start_the_game": "bgrep 'DEADBEEF' file.bin",
+      "uninstall_the_game": "pkg uninstall bgrep"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "binaryen",
+    "version": "121",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A compiler and toolchain infrastructure library for WebAssembly, designed to optimize and manipulate WebAssembly modules. Used by Emscripten and other WebAssembly tools.",
+    "homepage": "https://github.com/WebAssembly/binaryen",
+    "installation": "pkg install binaryen",
+    "usage": "Optimize a WebAssembly module: wasm-opt -O3 module.wasm -o optimized.wasm",
+    "features": [
+      "Optimization: Reduces WebAssembly module size and improves performance",
+      "Validation: Ensures WebAssembly modules are valid",
+      "Tooling: Includes wasm-opt, wasm-as, and wasm-dis",
+      "Cross-Platform: Works on Linux, macOS, and Windows",
+      "Integration: Compatible with Emscripten and LLVM"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository and WebAssembly documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues and WebAssembly communities",
+      "GitHub": "https://github.com/WebAssembly/binaryen"
+    },
+    "example_commands": {
+      "start_the_game": "wasm-opt -O3 input.wasm -o output.wasm",
+      "uninstall_the_game": "pkg uninstall binaryen"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "binutils-bin",
+    "version": "2.43.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A collection of binary utilities for manipulating object files, including tools like ld (linker), as (assembler), and objdump. Essential for software development and debugging.",
+    "homepage": "https://www.gnu.org/software/binutils/",
+    "installation": "pkg install binutils-bin",
+    "usage": "Disassemble a binary: objdump -d program",
+    "features": [
+      "Object File Manipulation: Create, modify, and analyze object files",
+      "Cross-Platform: Supports multiple architectures and formats",
+      "Debugging: Includes tools like objdump and readelf",
+      "Linker Scripts: Customize linking behavior with scripts",
+      "Performance: Optimized for large-scale projects"
+    ],
+    "gameplay": null,
+    "additional_resources": "GNU Binutils manual and examples",
+    "community_and_support": {
+      "forums": "GNU mailing lists and Stack Overflow",
+      "GitHub": "https://github.com/bminor/binutils-gdb"
+    },
+    "example_commands": {
+      "start_the_game": "objdump -d program",
+      "uninstall_the_game": "pkg uninstall binutils-bin"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "binutils-cross",
+    "version": "2.43.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cross-compilation utilities from the GNU Binutils suite, enabling compilation and linking for foreign architectures (e.g., ARM, MIPS) on an aarch64 host. Essential for embedded systems development and cross-platform toolchains.",
+    "homepage": "https://www.gnu.org/software/binutils/",
+    "installation": "pkg install binutils-cross",
+    "usage": "Cross-compile for ARM: aarch64-linux-gnu-ld -o output.elf input.o",
+    "features": [
+      "Multi-Arch Support: Build binaries for ARM, x86, RISC-V, etc.",
+      "Toolchain Components: Includes cross-linker (ld), cross-assembler (as)",
+      "ELF Manipulation: objcopy, strip, and readelf for foreign binaries",
+      "Debugging: Cross-architecture GDB integration",
+      "Performance: Optimized for large-scale embedded projects"
+    ],
+    "gameplay": null,
+    "additional_resources": "GNU Binutils Manual and Cross-Compilation Guides",
+    "community_and_support": {
+      "forums": "GNU Toolchain Mailing Lists",
+      "GitHub": "https://github.com/bminor/binutils-gdb"
+    },
+    "example_commands": {
+      "start_the_game": "aarch64-linux-gnu-objdump -d binary.elf",
+      "uninstall_the_game": "pkg uninstall binutils-cross"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "binutils-gold",
+    "version": "2.43.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The GNU Gold linker, a high-performance alternative to the traditional GNU ld linker. Optimized for speed and memory efficiency in large-scale C/C++ projects.",
+    "homepage": "https://www.gnu.org/software/binutils/",
+    "installation": "pkg install binutils-gold",
+    "usage": "Link with Gold: ld.gold -o program *.o",
+    "features": [
+      "Incremental Linking: Faster rebuilds during development",
+      "Threaded Code: Parallelizes linking for multi-core systems",
+      "ELF Optimization: Advanced section layout for performance",
+      "Plugin Support: Integrates with LLVM LTO (Link-Time Optimization)",
+      "Compatibility: Drop-in replacement for GNU ld"
+    ],
+    "gameplay": null,
+    "additional_resources": "Gold Linker Documentation and Benchmarks",
+    "community_and_support": {
+      "forums": "GNU Binutils Bug Tracker",
+      "GitHub": "https://github.com/bminor/binutils-gdb"
+    },
+    "example_commands": {
+      "start_the_game": "ld.gold --thread-count=4 -o app main.o lib.o",
+      "uninstall_the_game": "pkg uninstall binutils-gold"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "binutils-is-llvm",
+    "version": "0.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A compatibility layer allowing LLVM tools (lld, llvm-objdump) to replace GNU Binutils components. Integrates LLVM's linker and object utilities into traditional workflows.",
+    "homepage": "https://llvm.org/",
+    "installation": "pkg install binutils-is-llvm",
+    "usage": "Use lld as system linker: export LD=ld.lld",
+    "features": [
+      "LLVM Integration: Replace ld/as with lld/llvm-as",
+      "Performance: Leverage LLVM's faster linker/assembler",
+      "DWARF Support: Advanced debugging format handling",
+      "Cross-Platform: Works with Linux/BSD toolchains",
+      "Compatibility Shims: Maintains GNU command-line interface"
+    ],
+    "gameplay": null,
+    "additional_resources": "LLVM Compatibility Documentation",
+    "community_and_support": {
+      "forums": "LLVM Discourse",
+      "GitHub": "https://github.com/llvm/llvm-project"
+    },
+    "example_commands": {
+      "start_the_game": "ld.lld -flavor gnu -o program *.o",
+      "uninstall_the_game": "pkg uninstall binutils-is-llvm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "binutils-libs",
+    "version": "2.43.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Shared libraries required by GNU Binutils tools (ld, as, objdump). Provides low-level binary manipulation APIs for development of custom toolchain utilities.",
+    "homepage": "https://www.gnu.org/software/binutils/",
+    "installation": "pkg install binutils-libs",
+    "usage": "Link against libbfd: gcc -lbfd my_tool.c",
+    "features": [
+      "Core Libraries: libbfd (Binary File Descriptor), libopcodes",
+      "Plugin Development: Create custom linker/analyzer plugins",
+      "ABI Stability: Versioned symbols for long-term compatibility",
+      "Debugging: Integration with libiberty for memory management",
+      "Cross-Compile: Supports foreign architecture inspection"
+    ],
+    "gameplay": null,
+    "additional_resources": "Binutils Internals Documentation",
+    "community_and_support": {
+      "forums": "GNU Toolchain Mailing Lists",
+      "GitHub": "https://github.com/bminor/binutils-gdb"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (runtime dependency)",
+      "uninstall_the_game": "pkg uninstall binutils-libs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "binutils",
+    "version": "2.43.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The GNU Binary Utilities, a collection of tools for creating, analyzing, and manipulating binary files. Core components include the linker (ld), assembler (as), and objdump.",
+    "homepage": "https://www.gnu.org/software/binutils/",
+    "installation": "pkg install binutils",
+    "usage": "Disassemble a binary: objdump -d program",
+    "features": [
+      "Core Tools: as, ld, ar, nm, objcopy, strip",
+      "Format Support: ELF, COFF, Mach-O, PE",
+      "Debugging: readelf, addr2line, and size utilities",
+      "Scripting: Linker scripts for custom binary layouts",
+      "Performance: Optimized for modern multi-core CPUs"
+    ],
+    "gameplay": null,
+    "additional_resources": "GNU Binutils Manual",
+    "community_and_support": {
+      "forums": "GNU Binutils Bug Tracker",
+      "GitHub": "https://github.com/bminor/binutils-gdb"
+    },
+    "example_commands": {
+      "start_the_game": "objdump -M intel -D program",
+      "uninstall_the_game": "pkg uninstall binutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bison-static",
+    "version": "3.8.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Statically linked GNU Bison parser generator for embedding in projects without runtime dependencies. Generates LALR(1) parsers from grammar specifications.",
+    "homepage": "https://www.gnu.org/software/bison/",
+    "installation": "pkg install bison-static",
+    "usage": "Generate parser: bison -d grammar.y",
+    "features": [
+      "Standalone Builds: No libbison required at runtime",
+      "Grammar Flexibility: Supports %glr-parser for ambiguous grammars",
+      "Output Control: Custom C/C++ skeleton files",
+      "Error Recovery: Advanced syntax error handling",
+      "Compatibility: Backwards-compatible with Yacc"
+    ],
+    "gameplay": null,
+    "additional_resources": "Bison Manual and Grammar Examples",
+    "community_and_support": {
+      "forums": "GNU Bison Mailing List",
+      "GitHub": "https://github.com/akimd/bison"
+    },
+    "example_commands": {
+      "start_the_game": "bison -v -o parser.c grammar.y",
+      "uninstall_the_game": "pkg uninstall bison-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bison",
+    "version": "3.8.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Bison, a general-purpose parser generator converting annotated context-free grammars into parsers. Integral to compiler and interpreter development.",
+    "homepage": "https://www.gnu.org/software/bison/",
+    "installation": "pkg install bison",
+    "usage": "Generate parser code: bison grammar.y",
+    "features": [
+      "LALR(1) Parsing: Efficient bottom-up parsing algorithm",
+      "GLR Support: Generalized LR for ambiguous grammars",
+      "Diagnostics: Detailed syntax error reports",
+      "Integration: Works with Flex-generated lexers",
+      "Multi-Language: Outputs C, C++, or Java code"
+    ],
+    "gameplay": null,
+    "additional_resources": "Bison Manual and Tutorials",
+    "community_and_support": {
+      "forums": "GNU Project Compiler Tools",
+      "GitHub": "https://github.com/akimd/bison"
+    },
+    "example_commands": {
+      "start_the_game": "bison --defines=tokens.h grammar.y",
+      "uninstall_the_game": "pkg uninstall bison"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bitcoin",
+    "version": "28.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The Bitcoin Core full node implementation, providing a complete validation of the Bitcoin blockchain. Enables participation in the peer-to-peer network and wallet functionality.",
+    "homepage": "https://bitcoin.org/",
+    "installation": "pkg install bitcoin",
+    "usage": "Start a node: bitcoind -daemon -conf=/etc/bitcoin.conf",
+    "features": [
+      "Full Validation: Verifies all blockchain rules",
+      "Wallet Support: Hierarchical Deterministic (HD) wallets",
+      "Privacy: CoinJoin and Tor integration",
+      "RPC Interface: JSON-RPC API for programmatic control",
+      "Network Security: SPV client support and BIPs compliance"
+    ],
+    "gameplay": null,
+    "additional_resources": "Bitcoin Developer Documentation",
+    "community_and_support": {
+      "forums": "Bitcoin Stack Exchange",
+      "GitHub": "https://github.com/bitcoin/bitcoin"
+    },
+    "example_commands": {
+      "start_the_game": "bitcoin-cli getblockchaininfo",
+      "uninstall_the_game": "pkg uninstall bitcoin"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bitlbee",
+    "version": "3.6-1-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "An IRC-to-IM gateway allowing communication with multiple chat networks (XMPP, Slack, Discord) via IRC clients. Runs as a daemon for persistent connections.",
+    "homepage": "https://www.bitlbee.org/",
+    "installation": "pkg install bitlbee",
+    "usage": "Start server: bitlbee -D -n -v -u bitlbee",
+    "features": [
+      "Multi-Protocol: Supports XMPP, Matrix, Telegram, etc.",
+      "Privacy: OTR encryption and Tor support",
+      "Plugin System: Extend with Python/Perl scripts",
+      "User Management: Virtual users with per-service accounts",
+      "Logging: Persistent chat history storage"
+    ],
+    "gameplay": null,
+    "additional_resources": "BitlBee User Guide and Plugin Docs",
+    "community_and_support": {
+      "forums": "BitlBee GitHub Discussions",
+      "GitHub": "https://github.com/bitlbee/bitlbee"
+    },
+    "example_commands": {
+      "start_the_game": "bitlbee -F",
+      "uninstall_the_game": "pkg uninstall bitlbee"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "bk",
+    "version": "0.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A modern distributed version control system emphasizing performance and simplicity. Designed as a Git alternative with a focus on large repositories.",
+    "homepage": "https://bkbits.net/",
+    "installation": "pkg install bk",
+    "usage": "Clone a repository: bk clone https://example.com/repo",
+    "features": [
+      "Distributed Workflow: Full repository history offline",
+      "Performance: Optimized for monorepos and binary files",
+      "Conflict Resolution: Advanced merge algorithms",
+      "Plugins: Extend with Python/Go modules",
+      "Security: Signed commits and tamper-proof history"
+    ],
+    "gameplay": null,
+    "additional_resources": "BitKeeper Documentation",
+    "community_and_support": {
+      "forums": "BitKeeper Community Forums",
+      "GitHub": "https://github.com/bitkeeper-scm/bitkeeper"
+    },
+    "example_commands": {
+      "start_the_game": "bk commit -m 'Initial commit'",
+      "uninstall_the_game": "pkg uninstall bk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "blackbox",
+    "version": "1.20220610",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "A terminal-based window manager for Linux, providing tiling and stacking window management with minimal resource usage. Integrates with X11 and Wayland.",
+    "homepage": "https://github.com/blackboxwm/blackbox",
+    "installation": "pkg install blackbox",
+    "usage": "Start session: blackbox -display :0",
+    "features": [
+      "Tiling Layouts: Automatic window arrangement",
+      "Custom Themes: XML-based style configurations",
+      "Keyboard-Driven: Vim-like keybindings",
+      "Multi-Monitor: Supports complex display setups",
+      "Extensible: Lua scripting for custom behaviors"
+    ],
+    "gameplay": null,
+    "additional_resources": "Blackbox Configuration Manual",
+    "community_and_support": {
+      "forums": "GitHub Discussions",
+      "GitHub": "https://github.com/blackboxwm/blackbox"
+    },
+    "example_commands": {
+      "start_the_game": "blackbox -rc ~/.blackboxrc",
+      "uninstall_the_game": "pkg uninstall blackbox"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "blade",
+    "version": "0.0.86",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A high-performance build system for C/C++ projects, emphasizing dependency tracking and parallel compilation. Designed as a modern alternative to Make.",
+    "homepage": "https://github.com/blade-build/blade",
+    "installation": "pkg install blade",
+    "usage": "Build project: blade build",
+    "features": [
+      "Dependency Analysis: Automatic header tracking",
+      "Parallel Builds: Utilizes all CPU cores",
+      "Cross-Platform: Linux/macOS/Windows support",
+      "Syntax: Python-like BUILD files",
+      "Integration: Works with CMake and Autotools"
+    ],
+    "gameplay": null,
+    "additional_resources": "Blade Build Documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/blade-build/blade"
+    },
+    "example_commands": {
+      "start_the_game": "blade test --jobs=8",
+      "uninstall_the_game": "pkg uninstall blade"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "blas-openblas",
+    "version": "0.3.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenBLAS is an optimized BLAS (Basic Linear Algebra Subprograms) library that provides high-performance implementations of linear algebra operations.",
+    "homepage": "https://www.openblas.net/",
+    "installation": "pkg install blas-openblas",
+    "usage": "After installing, link OpenBLAS in your applications to leverage high-performance linear algebra computations.",
+    "features": [
+      "High Performance: Optimized for various CPU architectures to provide fast linear algebra computations.",
+      "Wide Coverage: Implements a wide range of BLAS operations for dense and sparse matrices.",
+      "Parallel Computing: Supports multi-threading to utilize multiple CPU cores efficiently."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the OpenBLAS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out scientific computing forums for support and discussions.",
+      "GitHub": "Visit the OpenBLAS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall blas-openblas"
+    }
+  },
+  {
+    "name": "blink",
+    "version": "1.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Blink is a small, simple, and fast interpreter for a subset of the x86-64 instruction set, useful for running small programs and scripts.",
+    "homepage": "https://blink.sh/",
+    "installation": "pkg install blink",
+    "usage": "After installing, use blink to run small programs and scripts written for the x86-64 architecture.",
+    "features": [
+      "Lightweight Interpreter: Run a subset of x86-64 instructions without a full emulator or virtual machine.",
+      "Fast Execution: Designed for speed and efficiency, making it suitable for small programs and scripts.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Blink documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to low-level programming for support and discussions.",
+      "GitHub": "Visit the Blink GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall blink"
+    }
+  },
+  {
+    "name": "blk-utils",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Blk-utils is a collection of utilities for managing block devices, including tools for partitioning, resizing, and checking filesystems.",
+    "homepage": "https://github.com/karelzak/util-linux",
+    "installation": "pkg install blk-utils",
+    "usage": "After installing, use blk-utils to manage block devices on your system.",
+    "features": [
+      "Partition Management: Create, delete, and modify partitions on block devices.",
+      "Filesystem Utilities: Check, repair, and resize filesystems on block devices.",
+      "Device Information: Retrieve detailed information about block devices."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the blk-utils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system administration for support and discussions.",
+      "GitHub": "Visit the util-linux GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall blk-utils"
+    }
+  },
+  {
+    "name": "blogc",
+    "version": "0.20.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Blogc is a static blog generator that converts blog posts written in Markdown into static HTML files.",
+    "homepage": "https://blogc.rgm.io/",
+    "installation": "pkg install blogc",
+    "usage": "After installing, use blogc to generate static HTML files from Markdown blog posts.",
+    "features": [
+      "Markdown Conversion: Convert blog posts written in Markdown into static HTML files.",
+      "Template Support: Use templates to customize the appearance of generated HTML files.",
+      "Lightweight: Minimal dependencies and fast execution make it suitable for small and medium-sized blogs."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Blogc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to static site generators for support and discussions.",
+      "GitHub": "Visit the Blogc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall blogc"
+    }
+  },
+  {
+    "name": "bmon",
+    "version": "4.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Bmon is a bandwidth monitor and network debugging tool that provides detailed information about network interfaces and traffic.",
+    "homepage": "https://github.com/tgraf/bmon",
+    "installation": "pkg install bmon",
+    "usage": "After installing, use bmon to monitor network interfaces and traffic in real-time.",
+    "features": [
+      "Bandwidth Monitoring: Monitor bandwidth usage on network interfaces.",
+      "Real-Time Data: Display real-time statistics and graphs for network traffic.",
+      "Network Debugging: Identify and troubleshoot network issues with detailed interface information."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Bmon documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network monitoring for support and discussions.",
+      "GitHub": "Visit the Bmon GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall bmon"
+    }
+  },
+  {
+    "name": "boinc",
+    "version": "8.0.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "BOINC (Berkeley Open Infrastructure for Network Computing) is an open-source platform for volunteer computing and grid computing.",
+    "homepage": "https://boinc.berkeley.edu/",
+    "installation": "pkg install boinc",
+    "usage": "After installing, use BOINC to participate in distributed computing projects.",
+    "features": [
+      "Volunteer Computing: Contribute your computer's processing power to scientific research projects.",
+      "Grid Computing: Support distributed computing across multiple devices and platforms.",
+      "Project Management: Join and manage multiple computing projects from a single interface."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the BOINC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to distributed computing for support and discussions.",
+      "GitHub": "Visit the BOINC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall boinc"
+    }
+  },
+  {
+    "name": "boinctui",
+    "version": "2.7.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Boinctui is a terminal user interface for managing BOINC (Berkeley Open Infrastructure for Network Computing) projects.",
+    "homepage": "https://github.com/crypto-group/boinctui",
+    "installation": "pkg install boinctui",
+    "usage": "After installing, use boinctui to manage BOINC projects from the terminal.",
+    "features": [
+      "Terminal Interface: Manage BOINC projects from a text-based terminal interface.",
+      "Project Management: Join, monitor, and control multiple BOINC projects.",
+      "Resource Allocation: Allocate computing resources to different BOINC projects."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Boinctui documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to distributed computing for support and discussions.",
+      "GitHub": "Visit the Boinctui GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall boinctui"
+    }
+  },
+  {
+    "name": "bombadillo",
+    "version": "2.4.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Bombadillo is a non-web browser for the terminal, supporting protocols like Gopher, Gemini, and Finger.",
+    "homepage": "https://bombadillo.colorfield.space/",
+    "installation": "pkg install bombadillo",
+    "usage": "After installing, use bombadillo to browse Gopher, Gemini, and Finger protocols from the terminal.",
+    "features": [
+      "Non-Web Browsing: Browse Gopher, Gemini, and Finger protocols without a graphical web browser.",
+      "Text-Based Interface: Navigate and view content from a terminal interface.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Bombadillo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to alternative browsing for support and discussions.",
+      "GitHub": "Visit the Bombadillo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall bombadillo"
+    }
+  },
+  {
+    "name": "boost-headers",
+    "version": "1:1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Boost Headers provides the header files of the Boost libraries, which are a collection of peer-reviewed, portable C++ source libraries.",
+    "homepage": "https://www.boost.org/",
+    "installation": "pkg install boost-headers",
+    "usage": "After installing, include Boost headers in your C++ projects to leverage the Boost libraries.",
+    "features": [
+      "Header Files: Provides the header files for all Boost libraries.",
+      "Portable Libraries: Use Boost libraries across different platforms and compilers.",
+      "Peer-Reviewed: High-quality, peer-reviewed libraries for C++ development."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Boost documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development for support and discussions.",
+      "GitHub": "Visit the Boost GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall boost-headers"
+    }
+  },
+  {
+    "name": "boost-static",
+    "version": "1:1.84.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Boost Static provides the static libraries of the Boost libraries, which are a collection of peer-reviewed, portable C++ source libraries.",
+    "homepage": "https://www.boost.org/",
+    "installation": "pkg install boost-static",
+    "usage": "After installing, link Boost static libraries in your C++ projects to leverage the Boost libraries.",
+    "features": [
+      "Static Libraries: Provides the static libraries for all Boost libraries.",
+      "Portable Libraries: Use Boost libraries across different platforms and compilers.",
+      "Peer-Reviewed: High-quality, peer-reviewed libraries for C++ development."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Boost documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development for support and discussions.",
+      "GitHub": "Visit the Boost GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall boost-static"
+    }
+  },
+  {
+    "name": "boost",
+    "version": "1:1.84.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Boost provides a collection of peer-reviewed, portable C++ source libraries that work well with the C++ Standard Library.",
+    "homepage": "https://www.boost.org/",
+    "installation": "pkg install boost",
+    "usage": "After installing, link Boost libraries in your C++ projects to leverage the Boost libraries.",
+    "features": [
+      "Comprehensive Libraries: Provides a wide range of libraries for various functionalities.",
+      "Portable Libraries: Use Boost libraries across different platforms and compilers.",
+      "Peer-Reviewed: High-quality, peer-reviewed libraries for C++ development."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Boost documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development for support and discussions.",
+      "GitHub": "Visit the Boost GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall boost"
+    }
+  },
+  {
+    "name": "bore",
+    "version": "0.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Bore is a lightweight and fast tunnel proxy that helps you expose local servers to the internet securely.",
+    "homepage": "https://github.com/ekzhang/bore",
+    "installation": "pkg install bore",
+    "usage": "After installing, use bore to expose local servers to the internet securely.",
+    "features": [
+      "Tunnel Proxy: Expose local servers to the internet through a secure tunnel.",
+      "Lightweight: Minimal overhead and fast performance.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Bore documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to networking tools for support and discussions.",
+      "GitHub": "Visit the Bore GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall bore"
+    }
+  },
+  {
+    "name": "borgbackup",
+    "version": "1.4.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "BorgBackup (short: Borg) is a deduplicating backup program that also supports compression and authenticated encryption.",
+    "homepage": "https://www.borgbackup.org/",
+    "installation": "pkg install borgbackup",
+    "usage": "After installing, use BorgBackup to create and manage deduplicated, compressed, and encrypted backups.",
+    "features": [
+      "Deduplication: Reduce storage usage by eliminating duplicate data.",
+      "Compression: Save storage space by compressing backup data.",
+      "Encryption: Protect your backups with authenticated encryption."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the BorgBackup documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to backup solutions for support and discussions.",
+      "GitHub": "Visit the BorgBackup GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall borgbackup"
+    }
+  },
+  {
+    "name": "botan3-static",
+    "version": "3.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Botan is a cryptography library written in C++. This version provides static libraries for cryptographic operations, ensuring that all necessary components are bundled within your application.",
+    "homepage": "https://botan.randombit.net/",
+    "installation": "pkg install botan3-static",
+    "usage": "After installing, link the static Botan libraries in your projects for cryptographic operations.",
+    "features": [
+      "Static Linking: All necessary components are bundled within your application, ensuring portability.",
+      "Wide Algorithm Support: Supports a variety of cryptographic algorithms including AES, RSA, and ECC.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the Botan documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography for support and discussions.",
+      "GitHub": "Visit the Botan GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_with_botan": "g++ myapp.cpp -o myapp -lbotan-3",
+      "uninstall_the_library": "pkg uninstall botan3-static"
+    }
+  },
+  {
+    "name": "botan3",
+    "version": "3.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Botan is a cryptography library written in C++. This version provides dynamic libraries for cryptographic operations, allowing for shared usage across applications.",
+    "homepage": "https://botan.randombit.net/",
+    "installation": "pkg install botan3",
+    "usage": "After installing, link the dynamic Botan libraries in your projects for cryptographic operations.",
+    "features": [
+      "Dynamic Linking: Shared libraries can be used by multiple applications, reducing memory usage.",
+      "Wide Algorithm Support: Supports a variety of cryptographic algorithms including AES, RSA, and ECC.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the Botan documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography for support and discussions.",
+      "GitHub": "Visit the Botan GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_with_botan": "g++ myapp.cpp -o myapp -lbotan-3",
+      "uninstall_the_library": "pkg uninstall botan3"
+    }
+  },
+  {
+    "name": "boxes",
+    "version": "2.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Boxes is a command-line tool that draws ASCII art boxes around text. It is useful for creating visually appealing text decorations in terminal output.",
+    "homepage": "http://boxes.thomasjensen.com/",
+    "installation": "pkg install boxes",
+    "usage": "After installing, use boxes to decorate your text with ASCII art boxes.",
+    "features": [
+      "ASCII Art: Create visually appealing boxes around text using ASCII art.",
+      "Customizable: Supports various box styles and configurations.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the Boxes documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line tools for support and discussions.",
+      "GitHub": "Visit the Boxes GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_box": "echo 'Hello, World!' | boxes",
+      "uninstall_the_tool": "pkg uninstall boxes"
+    }
+  },
+  {
+    "name": "brainfuck-static",
+    "version": "2.7.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Brainfuck is an esoteric programming language known for its minimalist design. This version provides a static interpreter for Brainfuck programs.",
+    "homepage": "https://esolangs.org/wiki/Brainfuck",
+    "installation": "pkg install brainfuck-static",
+    "usage": "After installing, use the Brainfuck static interpreter to run Brainfuck programs.",
+    "features": [
+      "Esoteric Language: Brainfuck is known for its minimalist and challenging syntax.",
+      "Static Interpreter: Provides a self-contained interpreter for running Brainfuck programs.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the Brainfuck documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to esoteric programming languages for support and discussions.",
+      "GitHub": "Search for repositories or forks of Brainfuck interpreters for additional resources and updates."
+    },
+    "example_commands": {
+      "run_brainfuck_program": "brainfuck-static hello.bf",
+      "uninstall_the_interpreter": "pkg uninstall brainfuck-static"
+    }
+  },
+  {
+    "name": "brainfuck",
+    "version": "2.7.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Brainfuck is an esoteric programming language known for its minimalist design. This version provides a dynamic interpreter for Brainfuck programs.",
+    "homepage": "https://esolangs.org/wiki/Brainfuck",
+    "installation": "pkg install brainfuck",
+    "usage": "After installing, use the Brainfuck interpreter to run Brainfuck programs.",
+    "features": [
+      "Esoteric Language: Brainfuck is known for its minimalist and challenging syntax.",
+      "Dynamic Interpreter: Provides an interpreter for running Brainfuck programs.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the Brainfuck documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to esoteric programming languages for support and discussions.",
+      "GitHub": "Search for repositories or forks of Brainfuck interpreters for additional resources and updates."
+    },
+    "example_commands": {
+      "run_brainfuck_program": "brainfuck hello.bf",
+      "uninstall_the_interpreter": "pkg uninstall brainfuck"
+    }
+  },
+  {
+    "name": "brogue",
+    "version": "1.14.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Brogue is a roguelike game known for its simplicity and depth. It features permadeath, procedurally generated levels, and a focus on exploration and strategy.",
+    "homepage": "https://sites.google.com/site/broguegame/",
+    "installation": "pkg install brogue",
+    "usage": "After installing, start Brogue from the command line to begin your adventure.",
+    "features": [
+      "Roguelike Gameplay: Experience permadeath, procedurally generated levels, and turn-based strategy.",
+      "Simple Controls: Easy to learn controls make the game accessible to new players.",
+      "Depth and Complexity: Despite its simplicity, Brogue offers a deep and challenging experience."
+    ],
+    "gameplay": {
+      "objective": "Explore the dungeon, defeat monsters, and find the Amulet of Yendor.",
+      "controls": "Use the keyboard for movement, combat, and interacting with the environment.",
+      "environment": "Explore procedurally generated dungeons filled with monsters, traps, and treasures."
+    },
+    "additional_resources": "For more information, visit the Brogue documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to roguelike games for support and discussions.",
+      "GitHub": "Visit the Brogue GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "brogue",
+      "uninstall_the_game": "pkg uninstall brogue"
+    }
+  },
+  {
+    "name": "brook",
+    "version": "20250202",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Brook is a cross-platform, lightweight, and fast proxy tool that helps you bypass network restrictions and protect your privacy.",
+    "homepage": "https://github.com/txthinking/brook",
+    "installation": "pkg install brook",
+    "usage": "After installing, use brook to set up a proxy server or client to bypass network restrictions.",
+    "features": [
+      "Proxy Tool: Bypass network restrictions and protect your privacy with Brook.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, macOS, and mobile platforms.",
+      "Lightweight and Fast: Designed for speed and efficiency, making it suitable for various network environments."
+    ],
+    "additional_resources": "For more information, visit the Brook documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to networking tools for support and discussions.",
+      "GitHub": "Visit the Brook GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_proxy_server": "brook server -l :9999 -p password",
+      "uninstall_the_tool": "pkg uninstall brook"
+    }
+  },
+  {
+    "name": "broot",
+    "version": "1.44.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Broot is a new way to see and navigate directory trees, providing a more efficient and user-friendly alternative to traditional file managers.",
+    "homepage": "https://dystroy.org/broot/",
+    "installation": "pkg install broot",
+    "usage": "After installing, use broot to explore and manage your file system efficiently.",
+    "features": [
+      "Directory Navigation: Quickly navigate large directory trees with an intuitive interface.",
+      "File Management: Perform file operations such as move, copy, and delete directly from broot.",
+      "Customizable: Configure broot to suit your workflow with various options and plugins."
+    ],
+    "additional_resources": "For more information, visit the Broot documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management tools for support and discussions.",
+      "GitHub": "Visit the Broot GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_broot": "broot",
+      "uninstall_the_tool": "pkg uninstall broot"
+    }
+  },
+  {
+    "name": "brotli",
+    "version": "1.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Brotli is a high-performance, lossless compression algorithm that provides better compression ratios than other commonly used algorithms.",
+    "homepage": "https://github.com/google/brotli",
+    "installation": "pkg install brotli",
+    "usage": "After installing, use brotli to compress and decompress files.",
+    "features": [
+      "High Compression Ratio: Achieve better compression ratios than many other algorithms.",
+      "Lossless Compression: Compress files without any loss of data.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the Brotli documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression tools for support and discussions.",
+      "GitHub": "Visit the Brotli GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compress_file": "brotli input.txt -o output.br",
+      "uninstall_the_tool": "pkg uninstall brotli"
+    }
+  },
+  {
+    "name": "bsd-finger",
+    "version": "0.17-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "BSD Finger is a user information lookup program that displays information about users logged into a system.",
+    "homepage": "https://github.com/freebsd/freebsd-src/tree/main/usr.bin/finger",
+    "installation": "pkg install bsd-finger",
+    "usage": "After installing, use bsd-finger to display information about users logged into a system.",
+    "features": [
+      "User Lookup: Display information about users logged into a system.",
+      "Simple Interface: Provides a straightforward command-line interface for user information lookup.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the BSD Finger documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system administration for support and discussions.",
+      "GitHub": "Visit the FreeBSD GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "lookup_user": "finger username",
+      "uninstall_the_tool": "pkg uninstall bsd-finger"
+    }
+  },
+  {
+    "name": "bsd-games",
+    "version": "3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "BSD Games is a collection of classic text-based games that were originally included in the BSD Unix operating system.",
+    "homepage": "https://github.com/freebsd/freebsd-src/tree/main/games",
+    "installation": "pkg install bsd-games",
+    "usage": "After installing, use bsd-games to play classic text-based games from the command line.",
+    "features": [
+      "Classic Games: Enjoy a collection of classic text-based games.",
+      "Text-Based: Play games directly from the command line.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": {
+      "objective": "Various objectives depending on the game, such as solving puzzles, achieving high scores, or exploring text-based worlds.",
+      "controls": "Use the keyboard for game controls, with specific keys varying by game.",
+      "environment": "Text-based environments with simple ASCII graphics."
+    },
+    "additional_resources": "For more information, visit the BSD Games documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to retro gaming for support and discussions.",
+      "GitHub": "Visit the FreeBSD GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_game": "wumpus",
+      "uninstall_the_games": "pkg uninstall bsd-games"
+    }
+  },
+  {
+    "name": "bsdtar",
+    "version": "3.7.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "BSDTar is an implementation of the tar command that is part of the libarchive project. It provides full support for various archive formats.",
+    "homepage": "https://www.libarchive.org/",
+    "installation": "pkg install bsdtar",
+    "usage": "After installing, use bsdtar to create, extract, and manage archive files.",
+    "features": [
+      "Archive Management: Create, extract, and manage archive files.",
+      "Multiple Formats: Supports various archive formats including tar, pax, cpio, and zip.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the BSDTar documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file archiving tools for support and discussions.",
+      "GitHub": "Visit the libarchive GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_archive": "bsdtar -cvf archive.tar file1 file2",
+      "uninstall_the_tool": "pkg uninstall bsdtar"
+    }
+  },
+  {
+    "name": "btfs2",
+    "version": "3.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "BTFS2 (BitTorrent File System 2) is a distributed file system based on the BitTorrent protocol, allowing for decentralized and efficient file storage and sharing.",
+    "homepage": "https://btfs.io/",
+    "installation": "pkg install btfs2",
+    "usage": "After installing, use btfs2 to create and manage decentralized file storage and sharing.",
+    "features": [
+      "Decentralized Storage: Store and share files using a decentralized network based on BitTorrent.",
+      "Efficient Sharing: Leverage the BitTorrent protocol for efficient and scalable file sharing.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the BTFS2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to decentralized storage for support and discussions.",
+      "GitHub": "Visit the BTFS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_btfs": "btfs init",
+      "uninstall_the_tool": "pkg uninstall btfs2"
+    }
+  },
+  {
+    "name": "buf",
+    "version": "1.50.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Buf is a tool for working with Protocol Buffers, providing features such as linting, breaking change detection, and generation of code from .proto files.",
+    "homepage": "https://buf.build/",
+    "installation": "pkg install buf",
+    "usage": "After installing, use buf to manage and generate code from Protocol Buffer definitions.",
+    "features": [
+      "Protocol Buffers: Work with Protocol Buffers for serialization and communication.",
+      "Linting: Ensure your .proto files adhere to best practices with linting.",
+      "Breaking Change Detection: Detect breaking changes in your Protocol Buffers definitions."
+    ],
+    "additional_resources": "For more information, visit the Buf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Protocol Buffers for support and discussions.",
+      "GitHub": "Visit the Buf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_code": "buf generate",
+      "uninstall_the_tool": "pkg uninstall buf"
+    }
+  },
+  {
+    "name": "build-essential",
+    "version": "4.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Build-essential is a package that includes a list of packages considered essential for building Debian packages. This includes the GNU C and C++ compilers, make, and other development tools.",
+    "homepage": "https://packages.debian.org/stable/build-essential",
+    "installation": "pkg install build-essential",
+    "usage": "After installing, you can use the included tools to compile and build software from source.",
+    "features": [
+      "Comprehensive Development Tools: Includes essential tools for compiling and building software.",
+      "GNU Compilers: Contains the GNU C and C++ compilers.",
+      "Make: Includes make, an essential tool for managing the build process of software projects."
+    ],
+    "additional_resources": "For more information, visit the Debian Build-essential documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to software development and Debian packaging for support and discussions.",
+      "GitHub": "Visit the Debian GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_building": "gcc -o myprogram myprogram.c",
+      "uninstall_the_package": "pkg uninstall build-essential"
+    }
+  },
+  {
+    "name": "busybox",
+    "version": "1.36.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "BusyBox combines tiny versions of many common UNIX utilities into a single small executable. It provides a minimalist alternative to the larger GNU Core Utilities.",
+    "homepage": "https://www.busybox.net/",
+    "installation": "pkg install busybox",
+    "usage": "After installing, use BusyBox to perform various system administration tasks with its compact set of utilities.",
+    "features": [
+      "Compact Utilities: Includes tiny versions of many common UNIX utilities.",
+      "Single Executable: Combines all utilities into a single small executable.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the BusyBox documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system administration and embedded systems for support and discussions.",
+      "GitHub": "Visit the BusyBox GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_busybox": "busybox ls",
+      "uninstall_the_package": "pkg uninstall busybox"
+    }
+  },
+  {
+    "name": "bvi",
+    "version": "1.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Bvi (Binary VIsual editor) is a screen-oriented editor for binary files, based on the vi text editor.",
+    "homepage": "https://bvi.sourceforge.net/",
+    "installation": "pkg install bvi",
+    "usage": "After installing, use bvi to edit binary files in a visual, screen-oriented manner.",
+    "features": [
+      "Binary Editing: Edit binary files with a visual, screen-oriented interface.",
+      "Vi-Based: Familiar vi-like interface for users comfortable with vi or vim.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the Bvi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editors and binary file editing for support and discussions.",
+      "GitHub": "Visit the Bvi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_bvi": "bvi myfile.bin",
+      "uninstall_the_editor": "pkg uninstall bvi"
+    }
+  },
+  {
+    "name": "byacc",
+    "version": "20241231",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Byacc (Berkeley Yacc) is a public domain LALR(1) parser generator that serves as a replacement for yacc.",
+    "homepage": "https://invisible-island.net/byacc/",
+    "installation": "pkg install byacc",
+    "usage": "After installing, use byacc to generate a parser for your programming language grammar.",
+    "features": [
+      "Parser Generation: Generate LALR(1) parsers from grammar specifications.",
+      "Yacc Replacement: Serves as a replacement for the traditional yacc parser generator.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the Byacc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compiler construction and parser generators for support and discussions.",
+      "GitHub": "Visit the Byacc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_parser": "byacc -d mygrammar.y",
+      "uninstall_the_tool": "pkg uninstall byacc"
+    }
+  },
+  {
+    "name": "byobu",
+    "version": "6.12",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Byobu is an enhancement for the GNU Screen and tmux terminal multiplexers, providing a more user-friendly and powerful interface.",
+    "homepage": "https://byobu.org/",
+    "installation": "pkg install byobu",
+    "usage": "After installing, use byobu to manage multiple terminal sessions within a single window.",
+    "features": [
+      "Enhanced Terminal Multiplexing: Provides a user-friendly interface for managing multiple terminal sessions.",
+      "Integration with Screen and tmux: Works as an enhancement for GNU Screen and tmux.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the Byobu documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal multiplexers and system administration for support and discussions.",
+      "GitHub": "Visit the Byobu GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_byobu": "byobu",
+      "uninstall_the_tool": "pkg uninstall byobu"
+    }
+  },
+  {
+    "name": "bzip2",
+    "version": "1.0.8-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Bzip2 is a high-quality data compressor that provides better compression ratios than many other compression algorithms.",
+    "homepage": "http://www.bzip.org/",
+    "installation": "pkg install bzip2",
+    "usage": "After installing, use bzip2 to compress and decompress files.",
+    "features": [
+      "High Compression Ratio: Achieve better compression ratios than many other algorithms.",
+      "Lossless Compression: Compress files without any loss of data.",
+      "Cross-Platform: Available for multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "additional_resources": "For more information, visit the Bzip2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression tools for support and discussions.",
+      "GitHub": "Visit the Bzip2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compress_file": "bzip2 input.txt",
+      "decompress_file": "bzip2 -d input.txt.bz2",
+      "uninstall_the_tool": "pkg uninstall bzip2"
+    }
+  }
+]

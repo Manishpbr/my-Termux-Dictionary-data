@@ -1,0 +1,1039 @@
+[
+  {
+    "name": "w3m",
+    "version": "0.5.3.20230121",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "w3m is a text-based web browser and pager.",
+    "homepage": "http://w3m.sourceforge.net/",
+    "installation": "pkg install w3m",
+    "usage": "After installing w3m, you can use it to browse the web from the terminal.",
+    "features": [
+      "Text-Based Browser: Provides a text-based web browser.",
+      "Pager: Can also be used as a pager.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text-based web browsers for support and discussions.",
+      "GitHub": "Search for repositories or forks of w3m to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "browse_web": "w3m http://example.com",
+      "uninstall": "pkg uninstall w3m"
+    }
+  },
+  {
+    "name": "wabt",
+    "version": "1.0.36",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wabt (WebAssembly Binary Toolkit) is a suite of tools for WebAssembly.",
+    "homepage": "https://github.com/WebAssembly/wabt",
+    "installation": "pkg install wabt",
+    "usage": "After installing wabt, you can use it to work with WebAssembly binaries.",
+    "features": [
+      "WebAssembly Tools: Provides a suite of tools for working with WebAssembly.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WebAssembly for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "assemble_wat": "wat2wasm file.wat",
+      "disassemble_wasm": "wasm2wat file.wasm",
+      "uninstall": "pkg uninstall wabt"
+    }
+  },
+  {
+    "name": "wakatime-cli",
+    "version": "1.112.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wakatime-cli is the command-line interface for WakaTime, a time tracking tool for developers.",
+    "homepage": "https://wakatime.com/",
+    "installation": "pkg install wakatime-cli",
+    "usage": "After installing wakatime-cli, you can use it to track your coding activity.",
+    "features": [
+      "Time Tracking: Provides tools for tracking coding activity.",
+      "Command-Line Interface: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official WakaTime website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to developer tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of wakatime-cli to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "track_time": "wakatime-cli --project my_project",
+      "uninstall": "pkg uninstall wakatime-cli"
+    }
+  },
+  {
+    "name": "walk",
+    "version": "1.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "walk is a command-line tool for walking the file tree.",
+    "homepage": "https://github.com/benbjohnson/walk",
+    "installation": "pkg install walk",
+    "usage": "After installing walk, you can use it to traverse directories and files.",
+    "features": [
+      "File Tree Traversal: Provides tools for walking the file tree.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "walk_directory": "walk /path/to/directory",
+      "uninstall": "pkg uninstall walk"
+    }
+  },
+  {
+    "name": "wasi-libc",
+    "version": "25",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "wasi-libc is a C library for WebAssembly System Interface (WASI).",
+    "homepage": "https://github.com/WebAssembly/wasi-libc",
+    "installation": "pkg install wasi-libc",
+    "usage": "After installing wasi-libc, you can use it to develop applications for WASI.",
+    "features": [
+      "WASI Support: Provides a C library for WebAssembly System Interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WebAssembly for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_wasi": "clang --target=wasm32-wasi --sysroot=$(wasi-libc-sysroot) -o app.wasm app.c",
+      "uninstall": "pkg uninstall wasi-libc"
+    }
+  },
+  {
+    "name": "wasm-component-ld",
+    "version": "0.5.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wasm-component-ld is a linker for WebAssembly components.",
+    "homepage": "https://github.com/WebAssembly/component-model",
+    "installation": "pkg install wasm-component-ld",
+    "usage": "After installing wasm-component-ld, you can use it to link WebAssembly components.",
+    "features": [
+      "Linker: Provides tools for linking WebAssembly components.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WebAssembly for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_components": "wasm-component-ld -o output.wasm input1.wasm input2.wasm",
+      "uninstall": "pkg uninstall wasm-component-ld"
+    }
+  },
+  {
+    "name": "wasmedge",
+    "version": "0.14.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wasmedge is a high-performance WebAssembly runtime optimized for edge computing.",
+    "homepage": "https://wasmedge.org/",
+    "installation": "pkg install wasmedge",
+    "usage": "After installing wasmedge, you can use it to run WebAssembly applications on edge devices.",
+    "features": [
+      "WebAssembly Runtime: Provides a high-performance WebAssembly runtime.",
+      "Edge Computing: Optimized for edge computing environments.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official wasmedge website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WebAssembly for support and discussions.",
+      "GitHub": "Search for repositories or forks of wasmedge to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_wasm": "wasmedge app.wasm",
+      "uninstall": "pkg uninstall wasmedge"
+    }
+  },
+  {
+    "name": "wasmer",
+    "version": "5.0.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wasmer is a fast and secure WebAssembly runtime that enables super lightweight containers to run anywhere.",
+    "homepage": "https://wasmer.io/",
+    "installation": "pkg install wasmer",
+    "usage": "After installing wasmer, you can use it to run WebAssembly applications.",
+    "features": [
+      "WebAssembly Runtime: Provides a fast and secure WebAssembly runtime.",
+      "Lightweight Containers: Enables super lightweight containers.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official wasmer website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WebAssembly for support and discussions.",
+      "GitHub": "Search for repositories or forks of wasmer to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_wasm": "wasmer run app.wasm",
+      "uninstall": "pkg uninstall wasmer"
+    }
+  },
+  {
+    "name": "wasmtime",
+    "version": "29.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wasmtime is a standalone JIT-style runtime for WebAssembly, using the Cranelift code generator.",
+    "homepage": "https://wasmtime.dev/",
+    "installation": "pkg install wasmtime",
+    "usage": "After installing wasmtime, you can use it to run WebAssembly applications with JIT compilation.",
+    "features": [
+      "WebAssembly Runtime: Provides a standalone JIT-style runtime for WebAssembly.",
+      "JIT Compilation: Uses the Cranelift code generator for JIT compilation.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official wasmtime website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WebAssembly for support and discussions.",
+      "GitHub": "Search for repositories or forks of wasmtime to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_wasm": "wasmtime run app.wasm",
+      "uninstall": "pkg uninstall wasmtime"
+    }
+  },
+  {
+    "name": "watchexec",
+    "version": "2.1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "watchexec is a simple, standalone tool that watches a path and runs a command whenever it detects modifications.",
+    "homepage": "https://github.com/watchexec/watchexec",
+    "installation": "pkg install watchexec",
+    "usage": "After installing watchexec, you can use it to watch a directory and execute commands on file changes.",
+    "features": [
+      "File Watcher: Provides tools for watching directories and executing commands on file changes.",
+      "Standalone Tool: Designed to be simple and standalone.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file watching for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "watch_directory": "watchexec -w /path/to/directory -- command_to_run",
+      "uninstall": "pkg uninstall watchexec"
+    }
+  },
+  {
+    "name": "wavpack",
+    "version": "5.8.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "WavPack is a completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode.",
+    "homepage": "https://www.wavpack.com/",
+    "installation": "pkg install wavpack",
+    "usage": "After installing WavPack, you can use it to compress and decompress audio files.",
+    "features": [
+      "Audio Compression: Provides tools for lossless, high-quality lossy, and hybrid audio compression.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official WavPack website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio compression for support and discussions.",
+      "GitHub": "Search for repositories or forks of WavPack to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_audio": "wavpack input.wav",
+      "decompress_audio": "wvunpack input.wv",
+      "uninstall": "pkg uninstall wavpack"
+    }
+  },
+  {
+    "name": "waypipe",
+    "version": "0.10.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "waypipe is a network transparency tool for Wayland, allowing remote applications to display on a local Wayland compositor.",
+    "homepage": "https://gitlab.freedesktop.org/mstoeckl/waypipe",
+    "installation": "pkg install waypipe",
+    "usage": "After installing waypipe, you can use it to display remote Wayland applications on a local compositor.",
+    "features": [
+      "Network Transparency: Provides tools for displaying remote Wayland applications on a local compositor.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitLab repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Wayland for support and discussions.",
+      "GitHub": "Visit the GitLab repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_remote_app": "waypipe ssh user@remote_host app",
+      "uninstall": "pkg uninstall waypipe"
+    }
+  },
+  {
+    "name": "wcalc",
+    "version": "2.5-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wcalc is a simple command-line calculator with support for units.",
+    "homepage": "https://github.com/svenax/wcalc",
+    "installation": "pkg install wcalc",
+    "usage": "After installing wcalc, you can use it to perform calculations with support for units.",
+    "features": [
+      "Command-Line Calculator: Provides a simple command-line calculator.",
+      "Units Support: Supports calculations with units.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to calculators for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "perform_calculation": "wcalc '5 + 3 * 2'",
+      "uninstall": "pkg uninstall wcalc"
+    }
+  },
+  {
+    "name": "wdiff",
+    "version": "1.2.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wdiff is a front-end to diff for comparing files on a word-by-word basis.",
+    "homepage": "https://www.gnu.org/software/wdiff/",
+    "installation": "pkg install wdiff",
+    "usage": "After installing wdiff, you can use it to compare files on a word-by-word basis.",
+    "features": [
+      "Word-Based Comparison: Provides a front-end to diff for word-by-word comparison.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official wdiff website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to diff tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of wdiff to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compare_files": "wdiff file1.txt file2.txt",
+      "uninstall": "pkg uninstall wdiff"
+    }
+  },
+  {
+    "name": "webp-pixbuf-loader",
+    "version": "0.2.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "webp-pixbuf-loader is a GdkPixbuf loader for WebP images.",
+    "homepage": "https://github.com/aruiz/webp-pixbuf-loader",
+    "installation": "pkg install webp-pixbuf-loader",
+    "usage": "After installing webp-pixbuf-loader, you can use it to load WebP images in applications that use GdkPixbuf.",
+    "features": [
+      "WebP Image Loading: Provides a GdkPixbuf loader for WebP images.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to image processing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_loader": "Include webp-pixbuf-loader in your GdkPixbuf applications.",
+      "uninstall": "pkg uninstall webp-pixbuf-loader"
+    }
+  },
+  {
+    "name": "websocat",
+    "version": "1.14.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "websocat is a versatile WebSocket client, server, and proxy.",
+    "homepage": "https://github.com/vi/websocat",
+    "installation": "pkg install websocat",
+    "usage": "After installing websocat, you can use it as a WebSocket client, server, or proxy.",
+    "features": [
+      "WebSocket Tools: Provides versatile tools for WebSocket communication.",
+      "Client, Server, Proxy: Can be used as a WebSocket client, server, or proxy.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WebSocket for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "websocat ws://echo.websocket.org",
+      "start_server": "websocat -s 8080",
+      "uninstall": "pkg uninstall websocat"
+    }
+  },
+  {
+    "name": "websocketd",
+    "version": "0.4.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "websocketd is a WebSocket server that converts any application output to WebSocket messages.",
+    "homepage": "https://github.com/joewalnes/websocketd",
+    "installation": "pkg install websocketd",
+    "usage": "After installing websocketd, you can use it to convert application output to WebSocket messages.",
+    "features": [
+      "WebSocket Server: Provides a WebSocket server that converts application output to WebSocket messages.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WebSocket for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "websocketd --port=8080 myapp",
+      "uninstall": "pkg uninstall websocketd"
+    }
+  },
+  {
+    "name": "weechat-lua-plugin",
+    "version": "4.5.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "weechat-lua-plugin provides Lua scripting support for WeeChat.",
+    "homepage": "https://weechat.org/",
+    "installation": "pkg install weechat-lua-plugin",
+    "usage": "After installing weechat-lua-plugin, you can use Lua scripts in WeeChat.",
+    "features": [
+      "Lua Scripting: Provides Lua scripting support for WeeChat.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official WeeChat website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WeeChat for support and discussions.",
+      "GitHub": "Search for repositories or forks of WeeChat to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "load_script": "/script load myscript.lua",
+      "uninstall": "pkg uninstall weechat-lua-plugin"
+    }
+  },
+  {
+    "name": "weechat-matrix-rs",
+    "version": "2022.10.04-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "weechat-matrix-rs is a Matrix protocol plugin for WeeChat written in Rust.",
+    "homepage": "https://github.com/poljar/weechat-matrix-rs",
+    "installation": "pkg install weechat-matrix-rs",
+    "usage": "After installing weechat-matrix-rs, you can use it to connect to Matrix networks in WeeChat.",
+    "features": [
+      "Matrix Protocol: Provides a Matrix protocol plugin for WeeChat.",
+      "Written in Rust: Built with Rust for performance and safety.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Matrix for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "connect_matrix": "/matrix connect",
+      "uninstall": "pkg uninstall weechat-matrix-rs"
+    }
+  },
+  {
+    "name": "weechat-perl-plugin",
+    "version": "4.5.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "weechat-perl-plugin provides Perl scripting support for WeeChat.",
+    "homepage": "https://weechat.org/",
+    "installation": "pkg install weechat-perl-plugin",
+    "usage": "After installing weechat-perl-plugin, you can use Perl scripts in WeeChat.",
+    "features": [
+      "Perl Scripting: Provides Perl scripting support for WeeChat.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official WeeChat website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WeeChat for support and discussions.",
+      "GitHub": "Search for repositories or forks of WeeChat to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "load_script": "/script load myscript.pl",
+      "uninstall": "pkg uninstall weechat-perl-plugin"
+    }
+  },
+  {
+    "name": "weechat-python-plugin",
+    "version": "4.5.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "weechat-python-plugin provides Python scripting support for WeeChat.",
+    "homepage": "https://weechat.org/",
+    "installation": "pkg install weechat-python-plugin",
+    "usage": "After installing weechat-python-plugin, you can use Python scripts in WeeChat.",
+    "features": [
+      "Python Scripting: Provides Python scripting support for WeeChat.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official WeeChat website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WeeChat for support and discussions.",
+      "GitHub": "Search for repositories or forks of WeeChat to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "load_script": "/script load myscript.py",
+      "uninstall": "pkg uninstall weechat-python-plugin"
+    }
+  },
+  {
+    "name": "weechat-ruby-plugin",
+    "version": "4.5.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "weechat-ruby-plugin provides Ruby scripting support for WeeChat.",
+    "homepage": "https://weechat.org/",
+    "installation": "pkg install weechat-ruby-plugin",
+    "usage": "After installing weechat-ruby-plugin, you can use Ruby scripts in WeeChat.",
+    "features": [
+      "Ruby Scripting: Provides Ruby scripting support for WeeChat.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official WeeChat website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WeeChat for support and discussions.",
+      "GitHub": "Search for repositories or forks of WeeChat to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "load_script": "/script load myscript.rb",
+      "uninstall": "pkg uninstall weechat-ruby-plugin"
+    }
+  },
+  {
+    "name": "weechat",
+    "version": "4.5.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "WeeChat is a fast, light, and extensible chat client.",
+    "homepage": "https://weechat.org/",
+    "installation": "pkg install weechat",
+    "usage": "After installing WeeChat, you can use it as a chat client for various protocols.",
+    "features": [
+      "Chat Client: Provides a fast, light, and extensible chat client.",
+      "Extensible: Supports various protocols and scripting languages.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official WeeChat website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WeeChat for support and discussions.",
+      "GitHub": "Search for repositories or forks of WeeChat to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_weechat": "weechat",
+      "uninstall": "pkg uninstall weechat"
+    }
+  },
+  {
+    "name": "weggli",
+    "version": "0.2.4-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "weggli is a fast and flexible semantic search tool for C and C++ codebases.",
+    "homepage": "https://github.com/googleprojectzero/weggli",
+    "installation": "pkg install weggli",
+    "usage": "After installing weggli, you can use it to perform semantic searches in C and C++ codebases.",
+    "features": [
+      "Semantic Search: Provides tools for fast and flexible semantic searches in C and C++ codebases.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to code analysis for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_code": "weggli 'search query' /path/to/codebase",
+      "uninstall": "pkg uninstall weggli"
+    }
+  },
+  {
+    "name": "wego",
+    "version": "2.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wego is a weather client for the terminal.",
+    "homepage": "https://github.com/schachmat/wego",
+    "installation": "pkg install wego",
+    "usage": "After installing wego, you can use it to display weather information in the terminal.",
+    "features": [
+      "Weather Client: Provides a weather client for the terminal.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to weather tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "display_weather": "wego",
+      "uninstall": "pkg uninstall wego"
+    }
+  },
+  {
+    "name": "wget2-static",
+    "version": "2.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wget2-static provides a static binary version of Wget2, a file retrieval utility.",
+    "homepage": "https://gitlab.com/gnuwget/wget2",
+    "installation": "pkg install wget2-static",
+    "usage": "After installing wget2-static, you can use it to retrieve files from the web.",
+    "features": [
+      "File Retrieval: Provides a static binary for retrieving files from the web.",
+      "High Performance: Designed for high performance and efficiency.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Wget2 website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file retrieval for support and discussions.",
+      "GitHub": "Search for repositories or forks of Wget2 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "retrieve_file": "wget2 https://example.com/file",
+      "uninstall": "pkg uninstall wget2-static"
+    }
+  },
+  {
+    "name": "wget2",
+    "version": "2.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Wget2 is a file retrieval utility and successor of Wget.",
+    "homepage": "https://gitlab.com/gnuwget/wget2",
+    "installation": "pkg install wget2",
+    "usage": "After installing wget2, you can use it to retrieve files from the web with improved performance.",
+    "features": [
+      "File Retrieval: Provides tools for retrieving files from the web.",
+      "High Performance: Designed for high performance and efficiency.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Wget2 website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file retrieval for support and discussions.",
+      "GitHub": "Search for repositories or forks of Wget2 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "retrieve_file": "wget2 https://example.com/file",
+      "uninstall": "pkg uninstall wget2"
+    }
+  },
+  {
+    "name": "wget",
+    "version": "1.25.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Wget is a free utility for non-interactive download of files from the web.",
+    "homepage": "https://www.gnu.org/software/wget/",
+    "installation": "pkg install wget",
+    "usage": "After installing wget, you can use it to download files from the web.",
+    "features": [
+      "File Retrieval: Provides tools for downloading files from the web.",
+      "Non-Interactive: Designed for non-interactive usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Wget website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file retrieval for support and discussions.",
+      "GitHub": "Search for repositories or forks of Wget to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "download_file": "wget https://example.com/file",
+      "uninstall": "pkg uninstall wget"
+    }
+  },
+  {
+    "name": "wgetpaste",
+    "version": "2.34",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "wgetpaste is a command-line utility to upload text to a pastebin service.",
+    "homepage": "https://github.com/zlin/wgetpaste",
+    "installation": "pkg install wgetpaste",
+    "usage": "After installing wgetpaste, you can use it to upload text or files to a pastebin service.",
+    "features": [
+      "Pastebin Utility: Provides tools for uploading text or files to a pastebin service.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to pastebin services for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "upload_text": "echo 'Hello, world!' | wgetpaste",
+      "uninstall": "pkg uninstall wgetpaste"
+    }
+  },
+  {
+    "name": "which",
+    "version": "2.21",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "which is a utility to locate a command and display its pathname or alias.",
+    "homepage": "https://savannah.gnu.org/projects/which/",
+    "installation": "pkg install which",
+    "usage": "After installing which, you can use it to find the location of a command.",
+    "features": [
+      "Command Locator: Provides tools to locate a command and display its pathname or alias.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official which website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of which to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "locate_command": "which ls",
+      "uninstall": "pkg uninstall which"
+    }
+  },
+  {
+    "name": "whiptail",
+    "version": "0.52.24",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "whiptail is a dialog box program that uses the newt programming library.",
+    "homepage": "https://savannah.gnu.org/projects/dialog/",
+    "installation": "pkg install whiptail",
+    "usage": "After installing whiptail, you can use it to create dialog boxes in shell scripts.",
+    "features": [
+      "Dialog Boxes: Provides tools for creating dialog boxes in shell scripts.",
+      "Newt Library: Uses the newt programming library.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official whiptail website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell scripting for support and discussions.",
+      "GitHub": "Search for repositories or forks of whiptail to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_dialog": "whiptail --title 'Test Dialog' --msgbox 'This is a test dialog.' 8 78",
+      "uninstall": "pkg uninstall whiptail"
+    }
+  },
+  {
+    "name": "whitebox-tools",
+    "version": "2.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "whitebox-tools is an advanced geospatial data analysis platform.",
+    "homepage": "https://www.whiteboxgeo.com/",
+    "installation": "pkg install whitebox-tools",
+    "usage": "After installing whitebox-tools, you can use it for geospatial data analysis.",
+    "features": [
+      "Geospatial Analysis: Provides tools for advanced geospatial data analysis.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Whitebox Tools website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to geospatial analysis for support and discussions.",
+      "GitHub": "Search for repositories or forks of whitebox-tools to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "analyze_data": "whitebox-tools -r=tool_name --input=input_file --output=output_file",
+      "uninstall": "pkg uninstall whitebox-tools"
+    }
+  },
+  {
+    "name": "whois",
+    "version": "5.5.23",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "whois is a utility for querying domain name information.",
+    "homepage": "https://github.com/rfc1036/whois",
+    "installation": "pkg install whois",
+    "usage": "After installing whois, you can use it to query domain name information.",
+    "features": [
+      "Domain Query: Provides tools for querying domain name information.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to domain queries for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "query_domain": "whois example.com",
+      "uninstall": "pkg uninstall whois"
+    }
+  },
+  {
+    "name": "wireguard-tools",
+    "version": "1.0.20210914-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wireguard-tools provides tools for configuring WireGuard VPN tunnels.",
+    "homepage": "https://www.wireguard.com/",
+    "installation": "pkg install wireguard-tools",
+    "usage": "After installing wireguard-tools, you can use it to configure WireGuard VPN tunnels.",
+    "features": [
+      "VPN Configuration: Provides tools for configuring WireGuard VPN tunnels.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official WireGuard website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to VPNs for support and discussions.",
+      "GitHub": "Search for repositories or forks of WireGuard to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "configure_vpn": "wg-quick up wg0",
+      "uninstall": "pkg uninstall wireguard-tools"
+    }
+  },
+  {
+    "name": "wireproxy",
+    "version": "1.0.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wireproxy is a WireGuard client that runs as a proxy server.",
+    "homepage": "https://github.com/octeep/wireproxy",
+    "installation": "pkg install wireproxy",
+    "usage": "After installing wireproxy, you can use it to run a WireGuard client as a proxy server.",
+    "features": [
+      "Proxy Server: Provides a WireGuard client that runs as a proxy server.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to VPNs for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_proxy": "wireproxy -c config.toml",
+      "uninstall": "pkg uninstall wireproxy"
+    }
+  },
+  {
+    "name": "wiz",
+    "version": "2022.06.02",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wiz is a lightweight static site generator.",
+    "homepage": "https://github.com/wiztools/wiz",
+    "installation": "pkg install wiz",
+    "usage": "After installing wiz, you can use it to generate static sites.",
+    "features": [
+      "Static Site Generation: Provides tools for generating static sites.",
+      "Lightweight: Designed to be lightweight and simple.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to static site generation for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_site": "wiz build",
+      "uninstall": "pkg uninstall wiz"
+    }
+  },
+  {
+    "name": "woff2",
+    "version": "1.0.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "woff2 is a Web Open Font Format (WOFF) 2.0 encoder and decoder.",
+    "homepage": "https://github.com/google/woff2",
+    "installation": "pkg install woff2",
+    "usage": "After installing woff2, you can use it to encode and decode WOFF 2.0 font files.",
+    "features": [
+      "WOFF 2.0: Provides tools for encoding and decoding Web Open Font Format (WOFF) 2.0 files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to web fonts for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_font": "woff2_compress font.ttf",
+      "decode_font": "woff2_decompress font.woff2",
+      "uninstall": "pkg uninstall woff2"
+    }
+  },
+  {
+    "name": "wol",
+    "version": "0.7.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wol is a command-line utility to wake up computers using Wake-on-LAN (WOL).",
+    "homepage": "https://github.com/jpoliv/wakeonlan",
+    "installation": "pkg install wol",
+    "usage": "After installing wol, you can use it to send Wake-on-LAN packets to wake up computers on the network.",
+    "features": [
+      "Wake-on-LAN: Provides tools for waking up computers using Wake-on-LAN packets.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "wake_up_computer": "wol AA:BB:CC:DD:EE:FF",
+      "uninstall": "pkg uninstall wol"
+    }
+  },
+  {
+    "name": "wordgrinder",
+    "version": "0.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "WordGrinder is a simple, Unicode-aware word processor that runs in a terminal.",
+    "homepage": "https://cowlark.com/wordgrinder/",
+    "installation": "pkg install wordgrinder",
+    "usage": "After installing WordGrinder, you can use it to write and edit documents in a terminal.",
+    "features": [
+      "Word Processor: Provides a simple, Unicode-aware word processor.",
+      "Terminal-Based: Runs in a terminal.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official WordGrinder website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to word processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of WordGrinder to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_wordgrinder": "wordgrinder",
+      "uninstall": "pkg uninstall wordgrinder"
+    }
+  },
+  {
+    "name": "wren",
+    "version": "0.4.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Wren is a small, fast, class-based scripting language.",
+    "homepage": "https://wren.io/",
+    "installation": "pkg install wren",
+    "usage": "After installing Wren, you can use it to write and run scripts.",
+    "features": [
+      "Scripting Language: Provides a small, fast, class-based scripting language.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Wren website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to scripting languages for support and discussions.",
+      "GitHub": "Search for repositories or forks of Wren to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "wren script.wren",
+      "uninstall": "pkg uninstall wren"
+    }
+  },
+  {
+    "name": "wrk",
+    "version": "4.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wrk is a modern HTTP benchmarking tool capable of generating significant load.",
+    "homepage": "https://github.com/wg/wrk",
+    "installation": "pkg install wrk",
+    "usage": "After installing wrk, you can use it to benchmark HTTP servers.",
+    "features": [
+      "HTTP Benchmarking: Provides tools for generating load and benchmarking HTTP servers.",
+      "High Performance: Designed for high performance and efficiency.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to benchmarking tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "benchmark_server": "wrk -t12 -c400 -d30s http://example.com",
+      "uninstall": "pkg uninstall wrk"
+    }
+  },
+  {
+    "name": "wtfutil",
+    "version": "0.43.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wtfutil is the personal information dashboard for your terminal.",
+    "homepage": "https://wtfutil.com/",
+    "installation": "pkg install wtfutil",
+    "usage": "After installing wtfutil, you can use it to display various information in your terminal.",
+    "features": [
+      "Information Dashboard: Provides a personal information dashboard for your terminal.",
+      "Customizable: Highly customizable with various modules.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official wtfutil website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of wtfutil to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_dashboard": "wtfutil",
+      "uninstall": "pkg uninstall wtfutil"
+    }
+  },
+  {
+    "name": "wuzz",
+    "version": "0.5.0-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wuzz is an interactive command-line HTTP inspector.",
+    "homepage": "https://github.com/asciimoo/wuzz",
+    "installation": "pkg install wuzz",
+    "usage": "After installing wuzz, you can use it to inspect HTTP requests and responses interactively.",
+    "features": [
+      "HTTP Inspector: Provides an interactive command-line tool for inspecting HTTP requests and responses.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to HTTP tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "inspect_http": "wuzz",
+      "uninstall": "pkg uninstall wuzz"
+    }
+  },
+  {
+    "name": "wv-tools",
+    "version": "1.2.9-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "wv-tools is a set of utilities to access Microsoft Word files.",
+    "homepage": "http://wvware.sourceforge.net/",
+    "installation": "pkg install wv-tools",
+    "usage": "After installing wv-tools, you can use it to access and convert Microsoft Word files.",
+    "features": [
+      "Word File Access: Provides tools for accessing and converting Microsoft Word files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file conversion for support and discussions.",
+      "GitHub": "Search for repositories or forks of wv-tools to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_doc": "wvWare -x output.xml input.doc",
+      "uninstall": "pkg uninstall wv-tools"
+    }
+  }
+]

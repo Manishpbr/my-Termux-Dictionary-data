@@ -1,0 +1,1565 @@
+[
+  {
+    "name": "p11-kit",
+    "version": "0.25.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "p11-kit provides a way to load and enumerate PKCS#11 modules, as well as a standard configuration setup.",
+    "homepage": "https://p11-glue.freedesktop.org/p11-kit.html",
+    "installation": "pkg install p11-kit",
+    "usage": "After installing p11-kit, you can manage PKCS#11 modules by using the provided command-line tools.",
+    "features": [
+      "PKCS#11 Module Management: Provides tools for loading and enumerating PKCS#11 modules.",
+      "Standard Configuration: Offers a standard configuration setup for PKCS#11 modules.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PKCS#11 for support and discussions.",
+      "GitHub": "Search for repositories or forks of p11-kit to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_modules": "p11-kit list-modules",
+      "uninstall": "pkg uninstall p11-kit"
+    }
+  },
+  {
+    "name": "p7zip",
+    "version": "17.06",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "p7zip is a port of the popular 7za file archiver to Unix-like systems.",
+    "homepage": "https://sourceforge.net/projects/p7zip/",
+    "installation": "pkg install p7zip",
+    "usage": "After installing p7zip, you can compress and decompress files using the 7za command.",
+    "features": [
+      "File Archiver: Provides a tool for compressing and decompressing files.",
+      "7za Command: Uses the 7za command-line tool for file archiving.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file archiving for support and discussions.",
+      "GitHub": "Search for repositories or forks of p7zip to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_file": "7za a archive.7z file.txt",
+      "decompress_file": "7za e archive.7z",
+      "uninstall": "pkg uninstall p7zip"
+    }
+  },
+  {
+    "name": "pacman4console",
+    "version": "1.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pacman4console is a console-based version of the classic Pac-Man game.",
+    "homepage": "https://sourceforge.net/projects/pacman4console/",
+    "installation": "pkg install pacman4console",
+    "usage": "After installing pacman4console, you can start the game by typing: pacman4console",
+    "features": [
+      "Console Game: Provides a console-based version of the classic Pac-Man game.",
+      "Simple Controls: Designed to be played with simple keyboard controls.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to console games for support and discussions.",
+      "GitHub": "Search for repositories or forks of pacman4console to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "pacman4console",
+      "uninstall": "pkg uninstall pacman4console"
+    }
+  },
+  {
+    "name": "pacman",
+    "version": "7.0.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pacman is a package manager utility for Arch Linux and its derivatives, providing an easy way to manage packages.",
+    "homepage": "https://archlinux.org/pacman/",
+    "installation": "pkg install pacman",
+    "usage": "After installing pacman, you can manage packages by typing: pacman",
+    "features": [
+      "Package Management: Provides a utility for managing packages on Arch Linux and its derivatives.",
+      "Easy to Use: Designed to be easy to use with simple commands.",
+      "Cross-Platform: Primarily for Arch Linux, but can work on other Unix-like systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to package management for support and discussions.",
+      "GitHub": "Search for repositories or forks of pacman to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_package": "pacman -S package_name",
+      "remove_package": "pacman -R package_name",
+      "uninstall": "pkg uninstall pacman"
+    }
+  },
+  {
+    "name": "panda3d-samples",
+    "version": "1.10.15",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "panda3d-samples provides sample applications and demos for Panda3D, a game engine and framework for 3D rendering and game development.",
+    "homepage": "https://www.panda3d.org/",
+    "installation": "pkg install panda3d-samples",
+    "usage": "After installing panda3d-samples, you can explore the sample applications and demos provided.",
+    "features": [
+      "Sample Applications: Provides sample applications and demos for Panda3D.",
+      "Game Development: Designed to help users learn and explore Panda3D features.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to game development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Panda3D to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_sample": "Navigate to the sample directory and run the provided scripts.",
+      "uninstall": "pkg uninstall panda3d-samples"
+    }
+  },
+  {
+    "name": "panda3d-static",
+    "version": "1.10.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "panda3d-static provides a static library version of Panda3D, a game engine and framework for 3D rendering and game development.",
+    "homepage": "https://www.panda3d.org/",
+    "installation": "pkg install panda3d-static",
+    "usage": "After installing panda3d-static, you can link it with your applications to use Panda3D functionalities.",
+    "features": [
+      "3D Game Engine: Provides a static library for 3D rendering and game development.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to game development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Panda3D to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpanda3d",
+      "uninstall": "pkg uninstall panda3d-static"
+    }
+  },
+  {
+    "name": "panda3d",
+    "version": "1.10.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Panda3D is a game engine and framework for 3D rendering and game development.",
+    "homepage": "https://www.panda3d.org/",
+    "installation": "pkg install panda3d",
+    "usage": "After installing Panda3D, you can use it to develop 3D games and applications.",
+    "features": [
+      "3D Game Engine: Provides a framework for 3D rendering and game development.",
+      "Cross-Platform: Works on various operating systems.",
+      "Python Integration: Easily integrates with Python for scripting."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to game development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Panda3D to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_game": "python mygame.py",
+      "uninstall": "pkg uninstall panda3d"
+    }
+  },
+  {
+    "name": "pandoc",
+    "version": "3.1.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Pandoc is a universal document converter that converts files from one markup format to another.",
+    "homepage": "https://pandoc.org/",
+    "installation": "pkg install pandoc",
+    "usage": "After installing Pandoc, you can convert documents by typing: pandoc",
+    "features": [
+      "Document Converter: Provides a tool for converting files from one markup format to another.",
+      "Wide Format Support: Supports a wide range of markup formats.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to document conversion for support and discussions.",
+      "GitHub": "Search for repositories or forks of Pandoc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_document": "pandoc -o output.pdf input.md",
+      "uninstall": "pkg uninstall pandoc"
+    }
+  },
+  {
+    "name": "pango",
+    "version": "1.56.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Pango is a library for laying out and rendering text, with an emphasis on internationalization.",
+    "homepage": "https://www.pango.org/",
+    "installation": "pkg install pango",
+    "usage": "After installing Pango, you can use it in your applications to handle text layout and rendering.",
+    "features": [
+      "Text Layout: Provides a library for laying out and rendering text.",
+      "Internationalization: Designed with an emphasis on internationalization.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text rendering for support and discussions.",
+      "GitHub": "Search for repositories or forks of Pango to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include Pango in your text rendering projects.",
+      "uninstall": "pkg uninstall pango"
+    }
+  },
+  {
+    "name": "paperkey",
+    "version": "1.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Paperkey is a tool for extracting just the secret information out of OpenPGP secret keys and exporting it to a format that can be printed on paper.",
+    "homepage": "https://www.jabberwocky.com/software/paperkey/",
+    "installation": "pkg install paperkey",
+    "usage": "After installing paperkey, you can extract and export secret key information by typing: paperkey",
+    "features": [
+      "Key Extraction: Provides a tool for extracting secret information from OpenPGP secret keys.",
+      "Export to Paper: Exports the extracted information to a printable format.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to OpenPGP for support and discussions.",
+      "GitHub": "Search for repositories or forks of paperkey to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "extract_key": "gpg --export-secret-key keyid | paperkey --output paperkey.asc",
+      "uninstall": "pkg uninstall paperkey"
+    }
+  },
+  {
+    "name": "par2",
+    "version": "0.8.1-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "par2 is a tool for creating and using PAR2 files, which are used for error detection and correction in data files.",
+    "homepage": "https://github.com/Parchive/par2cmdline",
+    "installation": "pkg install par2",
+    "usage": "After installing par2, you can create and use PAR2 files by typing: par2",
+    "features": [
+      "Error Detection: Provides a tool for creating and using PAR2 files for error detection.",
+      "Error Correction: Uses PAR2 files for error correction in data files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data integrity for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_par2": "par2 create archive.par2 files",
+      "verify_par2": "par2 verify archive.par2",
+      "uninstall": "pkg uninstall par2"
+    }
+  },
+  {
+    "name": "parallel",
+    "version": "20241222",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more computers.",
+    "homepage": "https://www.gnu.org/software/parallel/",
+    "installation": "pkg install parallel",
+    "usage": "After installing parallel, you can execute jobs in parallel by typing: parallel",
+    "features": [
+      "Parallel Execution: Provides a tool for executing jobs in parallel.",
+      "Shell Tool: Designed to be used from the shell.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to parallel computing for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Parallel to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_parallel_jobs": "cat jobs.txt | parallel",
+      "uninstall": "pkg uninstall parallel"
+    }
+  },
+  {
+    "name": "pari-static",
+    "version": "2.17.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pari-static provides a static library version of PARI/GP, a computer algebra system designed for fast computations in number theory.",
+    "homepage": "https://pari.math.u-bordeaux.fr/",
+    "installation": "pkg install pari-static",
+    "usage": "After installing pari-static, you can link it with your applications to use PARI/GP functionalities.",
+    "features": [
+      "Computer Algebra: Provides a static library for fast computations in number theory.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to number theory for support and discussions.",
+      "GitHub": "Search for repositories or forks of PARI/GP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpari",
+      "uninstall": "pkg uninstall pari-static"
+    }
+  },
+  {
+    "name": "pari",
+    "version": "2.17.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PARI/GP is a computer algebra system designed for fast computations in number theory.",
+    "homepage": "https://pari.math.u-bordeaux.fr/",
+    "installation": "pkg install pari",
+    "usage": "After installing PARI/GP, you can start the application by typing: gp",
+    "features": [
+      "Computer Algebra: Provides tools for fast computations in number theory.",
+      "Interactive Shell: Includes an interactive shell for mathematical computations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to number theory for support and discussions.",
+      "GitHub": "Search for repositories or forks of PARI/GP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_shell": "gp",
+      "uninstall": "pkg uninstall pari"
+    }
+  },
+  {
+    "name": "parted-static",
+    "version": "3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "parted-static provides a static library version of GNU Parted, a partition editor for manipulating partition tables.",
+    "homepage": "https://www.gnu.org/software/parted/",
+    "installation": "pkg install parted-static",
+    "usage": "After installing parted-static, you can link it with your applications to use partition editing functionalities.",
+    "features": [
+      "Partition Editor: Provides a static library for manipulating partition tables.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to partition management for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Parted to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lparted",
+      "uninstall": "pkg uninstall parted-static"
+    }
+  },
+  {
+    "name": "parted",
+    "version": "3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Parted is a partition editor for creating, destroying, resizing, checking, and copying partitions and the file systems on them.",
+    "homepage": "https://www.gnu.org/software/parted/",
+    "installation": "pkg install parted",
+    "usage": "After installing GNU Parted, you can manage partitions by typing: parted",
+    "features": [
+      "Partition Editor: Provides tools for managing disk partitions.",
+      "Command Line Interface: Includes a command line interface for partition management.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to partition management for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Parted to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_editor": "parted",
+      "uninstall": "pkg uninstall parted"
+    }
+  },
+  {
+    "name": "paruz",
+    "version": "1.1.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "paruz is a script for downloading and installing packages from the AUR (Arch User Repository).",
+    "homepage": "https://github.com/axelravens/paz",
+    "installation": "pkg install paruz",
+    "usage": "After installing paruz, you can use it to download and install AUR packages by typing: paruz",
+    "features": [
+      "AUR Support: Provides a script for managing AUR packages.",
+      "Easy to Use: Designed to be easy to use with simple commands.",
+      "Cross-Platform: Primarily for Arch Linux, but can work on other Unix-like systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to AUR for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_package": "paruz -S package_name",
+      "uninstall": "pkg uninstall paruz"
+    }
+  },
+  {
+    "name": "pass-otp",
+    "version": "1.2.0-3",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "pass-otp is an extension for the pass password manager that generates one-time passwords (OTPs) compatible with Google Authenticator.",
+    "homepage": "https://github.com/tadfisher/pass-otp",
+    "installation": "pkg install pass-otp",
+    "usage": "After installing pass-otp, you can use it with pass to generate OTPs.",
+    "features": [
+      "OTP Generation: Provides an extension for generating one-time passwords.",
+      "Google Authenticator Compatibility: Generates OTPs compatible with Google Authenticator.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to password management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_otp": "pass otp code",
+      "uninstall": "pkg uninstall pass-otp"
+    }
+  },
+  {
+    "name": "pass",
+    "version": "1.7.4-4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "pass is a simple password manager that uses GPG for encryption and a simple directory structure for storage.",
+    "homepage": "https://www.passwordstore.org/",
+    "installation": "pkg install pass",
+    "usage": "After installing pass, you can manage passwords by typing: pass",
+    "features": [
+      "Password Management: Provides a simple password manager.",
+      "GPG Encryption: Uses GPG for encryption.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to password management for support and discussions.",
+      "GitHub": "Search for repositories or forks of pass to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_password": "pass insert mypassword",
+      "uninstall": "pkg uninstall pass"
+    }
+  },
+  {
+    "name": "passphrase2pgp",
+    "version": "1.3.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "passphrase2pgp is a tool for generating PGP keys from a passphrase.",
+    "homepage": "https://github.com/jedisct1/passphrase2pgp",
+    "installation": "pkg install passphrase2pgp",
+    "usage": "After installing passphrase2pgp, you can generate PGP keys by typing: passphrase2pgp",
+    "features": [
+      "PGP Key Generation: Provides a tool for generating PGP keys from a passphrase.",
+      "Secure: Designed to securely generate PGP keys.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PGP for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_key": "passphrase2pgp mypassphrase",
+      "uninstall": "pkg uninstall passphrase2pgp"
+    }
+  },
+  {
+    "name": "pastebinit",
+    "version": "1.5.1-2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "pastebinit is a command-line tool that allows you to paste the contents of a file to a pastebin service and get a URL in return.",
+    "homepage": "https://launchpad.net/pastebinit",
+    "installation": "pkg install pastebinit",
+    "usage": "After installing pastebinit, you can upload files to pastebin by typing: pastebinit",
+    "features": [
+      "Pastebin Upload: Provides a tool for uploading files to pastebin services.",
+      "Command Line Tool: Use the command line to upload files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the Launchpad page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to pastebin services for support and discussions.",
+      "GitHub": "Search for repositories or forks of pastebinit to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "upload_file": "pastebinit file.txt",
+      "uninstall": "pkg uninstall pastebinit"
+    }
+  },
+  {
+    "name": "pastel",
+    "version": "0.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pastel is a command-line tool to generate, analyze, convert, and manipulate colors.",
+    "homepage": "https://github.com/sharkdp/pastel",
+    "installation": "pkg install pastel",
+    "usage": "After installing pastel, you can manipulate colors by typing: pastel",
+    "features": [
+      "Color Manipulation: Provides tools for generating, analyzing, converting, and manipulating colors.",
+      "Command Line Tool: Use the command line to perform color operations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to color manipulation for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_color": "pastel color '#ff0000'",
+      "uninstall": "pkg uninstall pastel"
+    }
+  },
+  {
+    "name": "patch",
+    "version": "2.7.6-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "patch is a command-line tool that applies changes to files based on differences between versions.",
+    "homepage": "https://www.gnu.org/software/patch/",
+    "installation": "pkg install patch",
+    "usage": "After installing patch, you can apply patches to files by typing: patch",
+    "features": [
+      "File Patching: Provides a tool for applying changes to files.",
+      "Command Line Tool: Use the command line to apply patches.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file versioning for support and discussions.",
+      "GitHub": "Search for repositories or forks of patch to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "apply_patch": "patch < changes.patch",
+      "uninstall": "pkg uninstall patch"
+    }
+  },
+  {
+    "name": "patchelf",
+    "version": "0.18.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "patchelf is a utility for modifying the dynamic linker and RPATH of ELF executables.",
+    "homepage": "https://github.com/NixOS/patchelf",
+    "installation": "pkg install patchelf",
+    "usage": "After installing patchelf, you can modify ELF executables by typing: patchelf",
+    "features": [
+      "ELF Modification: Provides a utility for modifying ELF executables.",
+      "Dynamic Linker: Allows changing the dynamic linker and RPATH of ELF files.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ELF file manipulation for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "modify_rpath": "patchelf --set-rpath /new/path executable",
+      "uninstall": "pkg uninstall patchelf"
+    }
+  },
+  {
+    "name": "pathpicker",
+    "version": "0.9.5-2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "pathpicker is a command-line tool that helps you select files out of bash output.",
+    "homepage": "https://facebook.github.io/PathPicker/",
+    "installation": "pkg install pathpicker",
+    "usage": "After installing pathpicker, you can select files by typing: fpp",
+    "features": [
+      "File Selection: Provides a tool for selecting files from bash output.",
+      "Command Line Tool: Use the command line to select files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "select_files": "git status | fpp",
+      "uninstall": "pkg uninstall pathpicker"
+    }
+  },
+  {
+    "name": "pb",
+    "version": "2022.11.03-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "pb is a terminal-based pastebin client that allows you to upload text or code to various pastebin services.",
+    "homepage": "https://github.com/ptpb/pb",
+    "installation": "pkg install pb",
+    "usage": "After installing pb, you can upload text or code to pastebin by typing: pb",
+    "features": [
+      "Pastebin Client: Provides a terminal-based client for uploading text or code to pastebin services.",
+      "Command Line Tool: Use the command line to upload text or code.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to pastebin services for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "upload_text": "echo 'Hello, world!' | pb",
+      "uninstall": "pkg uninstall pb"
+    }
+  },
+  {
+    "name": "pcal",
+    "version": "4.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pcal is a program that generates PostScript calendars.",
+    "homepage": "http://pcal.sourceforge.net/",
+    "installation": "pkg install pcal",
+    "usage": "After installing pcal, you can generate calendars by typing: pcal",
+    "features": [
+      "Calendar Generation: Provides a tool for generating PostScript calendars.",
+      "Customizable: Allows customization of calendar formats and styles.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to calendar tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of pcal to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_calendar": "pcal -o calendar.ps",
+      "uninstall": "pkg uninstall pcal"
+    }
+  },
+  {
+    "name": "pcaudiolib-static",
+    "version": "1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pcaudiolib-static provides a static library version of pcaudiolib, a library for audio functionalities.",
+    "homepage": "https://github.com/PortAudio/portaudio",
+    "installation": "pkg install pcaudiolib-static",
+    "usage": "After installing pcaudiolib-static, you can link it with your applications to use audio functionalities.",
+    "features": [
+      "Audio Library: Provides a static library for audio functionalities.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpcaudio",
+      "uninstall": "pkg uninstall pcaudiolib-static"
+    }
+  },
+  {
+    "name": "pcaudiolib",
+    "version": "1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pcaudiolib is a library for audio functionalities, providing an interface for audio input and output.",
+    "homepage": "https://github.com/PortAudio/portaudio",
+    "installation": "pkg install pcaudiolib",
+    "usage": "After installing pcaudiolib, you can use it in your applications to handle audio input and output.",
+    "features": [
+      "Audio Library: Provides a library for audio functionalities.",
+      "Audio Input/Output: Facilitates audio input and output operations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include pcaudiolib in your audio projects.",
+      "uninstall": "pkg uninstall pcaudiolib"
+    }
+  },
+  {
+    "name": "pcre-static",
+    "version": "8.45-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pcre-static provides a static library version of PCRE (Perl Compatible Regular Expressions).",
+    "homepage": "https://www.pcre.org/",
+    "installation": "pkg install pcre-static",
+    "usage": "After installing pcre-static, you can link it with your applications to use regular expression functionalities.",
+    "features": [
+      "Regular Expressions: Provides a static library for Perl compatible regular expressions.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to regular expressions for support and discussions.",
+      "GitHub": "Search for repositories or forks of PCRE to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpcre",
+      "uninstall": "pkg uninstall pcre-static"
+    }
+  },
+  {
+    "name": "pcre2-static",
+    "version": "10.44",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pcre2-static provides a static library version of PCRE2 (Perl Compatible Regular Expressions, version 2).",
+    "homepage": "https://www.pcre.org/",
+    "installation": "pkg install pcre2-static",
+    "usage": "After installing pcre2-static, you can link it with your applications to use regular expression functionalities.",
+    "features": [
+      "Regular Expressions: Provides a static library for Perl compatible regular expressions.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to regular expressions for support and discussions.",
+      "GitHub": "Search for repositories or forks of PCRE2 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpcre2",
+      "uninstall": "pkg uninstall pcre2-static"
+    }
+  },
+  {
+    "name": "pcre2",
+    "version": "10.44",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PCRE2 (Perl Compatible Regular Expressions, version 2) is a library for implementing regular expression pattern matching.",
+    "homepage": "https://www.pcre.org/",
+    "installation": "pkg install pcre2",
+    "usage": "After installing PCRE2, you can use it in your applications to handle regular expressions.",
+    "features": [
+      "Regular Expressions: Provides a library for Perl compatible regular expressions.",
+      "Pattern Matching: Facilitates regular expression pattern matching.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to regular expressions for support and discussions.",
+      "GitHub": "Search for repositories or forks of PCRE2 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include PCRE2 in your regular expression projects.",
+      "uninstall": "pkg uninstall pcre2"
+    }
+  },
+  {
+    "name": "pcre2grep",
+    "version": "10.44",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pcre2grep is a command-line tool that uses the PCRE2 library to search files for patterns specified by regular expressions.",
+    "homepage": "https://www.pcre.org/",
+    "installation": "pkg install pcre2grep",
+    "usage": "After installing pcre2grep, you can search files for patterns by typing: pcre2grep",
+    "features": [
+      "Pattern Search: Provides a tool for searching files for patterns specified by regular expressions.",
+      "Regular Expressions: Uses the PCRE2 library for pattern matching.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to regular expressions for support and discussions.",
+      "GitHub": "Search for repositories or forks of PCRE2 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_pattern": "pcre2grep 'pattern' file.txt",
+      "uninstall": "pkg uninstall pcre2grep"
+    }
+  },
+  {
+    "name": "pcre",
+    "version": "8.45-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PCRE (Perl Compatible Regular Expressions) is a library for implementing regular expression pattern matching.",
+    "homepage": "https://www.pcre.org/",
+    "installation": "pkg install pcre",
+    "usage": "After installing PCRE, you can use it in your applications to handle regular expressions.",
+    "features": [
+      "Regular Expressions: Provides a library for Perl compatible regular expressions.",
+      "Pattern Matching: Facilitates regular expression pattern matching.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to regular expressions for support and discussions.",
+      "GitHub": "Search for repositories or forks of PCRE to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include PCRE in your regular expression projects.",
+      "uninstall": "pkg uninstall pcre"
+    }
+  },
+  {
+    "name": "pcregrep",
+    "version": "8.45-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pcregrep is a command-line tool that uses the PCRE library to search files for patterns specified by regular expressions.",
+    "homepage": "https://www.pcre.org/",
+    "installation": "pkg install pcregrep",
+    "usage": "After installing pcregrep, you can search files for patterns by typing: pcregrep",
+    "features": [
+      "Pattern Search: Provides a tool for searching files for patterns specified by regular expressions.",
+      "Regular Expressions: Uses the PCRE library for pattern matching.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to regular expressions for support and discussions.",
+      "GitHub": "Search for repositories or forks of PCRE to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_pattern": "pcregrep 'pattern' file.txt",
+      "uninstall": "pkg uninstall pcregrep"
+    }
+  },
+  {
+    "name": "pdf2djvu",
+    "version": "0.9.19-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pdf2djvu is a command-line tool that converts PDF files to DjVu format.",
+    "homepage": "https://pdf2djvu.sourceforge.io/",
+    "installation": "pkg install pdf2djvu",
+    "usage": "After installing pdf2djvu, you can convert PDF files to DjVu by typing: pdf2djvu",
+    "features": [
+      "File Conversion: Provides a tool for converting PDF files to DjVu format.",
+      "Command Line Tool: Use the command line to perform conversions.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file conversion for support and discussions.",
+      "GitHub": "Search for repositories or forks of pdf2djvu to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_file": "pdf2djvu -o output.djvu input.pdf",
+      "uninstall": "pkg uninstall pdf2djvu"
+    }
+  },
+  {
+    "name": "pdf2svg",
+    "version": "0.2.3-11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pdf2svg is a command-line tool that converts PDF files to SVG format.",
+    "homepage": "https://github.com/dawbarton/pdf2svg",
+    "installation": "pkg install pdf2svg",
+    "usage": "After installing pdf2svg, you can convert PDF files to SVG by typing: pdf2svg",
+    "features": [
+      "File Conversion: Provides a tool for converting PDF files to SVG format.",
+      "Command Line Tool: Use the command line to perform conversions.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file conversion for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_file": "pdf2svg input.pdf output.svg",
+      "uninstall": "pkg uninstall pdf2svg"
+    }
+  },
+  {
+    "name": "pdfcpu",
+    "version": "0.9.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pdfcpu is a command-line tool for PDF processing and manipulation.",
+    "homepage": "https://pdfcpu.io/",
+    "installation": "pkg install pdfcpu",
+    "usage": "After installing pdfcpu, you can process and manipulate PDF files by typing: pdfcpu",
+    "features": [
+      "PDF Processing: Provides tools for processing and manipulating PDF files.",
+      "Command Line Tool: Use the command line to perform PDF operations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PDF processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of pdfcpu to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "merge_pdfs": "pdfcpu merge output.pdf input1.pdf input2.pdf",
+      "uninstall": "pkg uninstall pdfcpu"
+    }
+  },
+  {
+    "name": "pdfgrep",
+    "version": "2.2.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pdfgrep is a command-line tool that searches PDF files for patterns specified by regular expressions.",
+    "homepage": "https://pdfgrep.org/",
+    "installation": "pkg install pdfgrep",
+    "usage": "After installing pdfgrep, you can search PDF files for patterns by typing: pdfgrep",
+    "features": [
+      "Pattern Search: Provides a tool for searching PDF files for patterns specified by regular expressions.",
+      "Regular Expressions: Uses regular expressions for pattern matching.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PDF processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of pdfgrep to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_pattern": "pdfgrep 'pattern' file.pdf",
+      "uninstall": "pkg uninstall pdfgrep"
+    }
+  },
+  {
+    "name": "pdftk",
+    "version": "3.3.3-2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "pdftk is a tool for manipulating PDF documents, allowing merging, splitting, and other operations.",
+    "homepage": "https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/",
+    "installation": "pkg install pdftk",
+    "usage": "After installing pdftk, you can manipulate PDF files by typing: pdftk",
+    "features": [
+      "PDF Manipulation: Provides tools for merging, splitting, and manipulating PDF documents.",
+      "Command Line Tool: Use the command line to perform PDF operations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PDF tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of pdftk to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "merge_pdfs": "pdftk file1.pdf file2.pdf cat output combined.pdf",
+      "uninstall": "pkg uninstall pdftk"
+    }
+  },
+  {
+    "name": "peaclock",
+    "version": "0.4.3-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "peaclock is a simple and customizable clock widget for the terminal.",
+    "homepage": "https://github.com/octobanana/peaclock",
+    "installation": "pkg install peaclock",
+    "usage": "After installing peaclock, you can display the clock by typing: peaclock",
+    "features": [
+      "Clock Widget: Provides a simple and customizable clock widget for the terminal.",
+      "Customizable: Allows customization of the clock's appearance.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "display_clock": "peaclock",
+      "uninstall": "pkg uninstall peaclock"
+    }
+  },
+  {
+    "name": "peco",
+    "version": "0.5.11-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "peco is a simple interactive filtering tool for the command line.",
+    "homepage": "https://github.com/peco/peco",
+    "installation": "pkg install peco",
+    "usage": "After installing peco, you can filter text interactively by typing: peco",
+    "features": [
+      "Interactive Filtering: Provides a tool for interactive filtering of text.",
+      "Command Line Tool: Use the command line to perform filtering operations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command line tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "filter_text": "cat file.txt | peco",
+      "uninstall": "pkg uninstall peco"
+    }
+  },
+  {
+    "name": "perl-rename",
+    "version": "1.14",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "perl-rename is a Perl script for renaming multiple files using Perl expressions.",
+    "homepage": "https://metacpan.org/release/File-Rename",
+    "installation": "pkg install perl-rename",
+    "usage": "After installing perl-rename, you can rename files by typing: rename",
+    "features": [
+      "File Renaming: Provides a script for renaming multiple files using Perl expressions.",
+      "Perl Integration: Uses Perl expressions for flexible renaming.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the MetaCPAN page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Perl for support and discussions.",
+      "GitHub": "Search for repositories or forks of perl-rename to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "rename_files": "rename 's/old/new/' *.txt",
+      "uninstall": "pkg uninstall perl-rename"
+    }
+  },
+  {
+    "name": "perl",
+    "version": "5.38.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Perl is a highly capable, feature-rich programming language with over 30 years of development.",
+    "homepage": "https://www.perl.org/",
+    "installation": "pkg install perl",
+    "usage": "After installing Perl, you can run Perl scripts by typing: perl",
+    "features": [
+      "Programming Language: Provides a highly capable and feature-rich programming language.",
+      "Extensive Libraries: Offers a wide range of libraries and modules.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Perl for support and discussions.",
+      "GitHub": "Search for repositories or forks of Perl to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "perl script.pl",
+      "uninstall": "pkg uninstall perl"
+    }
+  },
+  {
+    "name": "pet",
+    "version": "1.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pet is a command-line snippet manager inspired by memo and percol.",
+    "homepage": "https://github.com/knqyf263/pet",
+    "installation": "pkg install pet",
+    "usage": "After installing pet, you can manage command-line snippets by typing: pet",
+    "features": [
+      "Snippet Manager: Provides a tool for managing command-line snippets.",
+      "Command Line Tool: Use the command line to manage snippets.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_snippet": "pet new",
+      "uninstall": "pkg uninstall pet"
+    }
+  },
+  {
+    "name": "pforth",
+    "version": "2.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pForth is a portable Forth implementation written in ANSI C.",
+    "homepage": "http://pfort.sourceforge.net/",
+    "installation": "pkg install pforth",
+    "usage": "After installing pForth, you can start the Forth interpreter by typing: pforth",
+    "features": [
+      "Forth Interpreter: Provides a portable Forth implementation.",
+      "ANSI C: Written in ANSI C for portability.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Forth for support and discussions.",
+      "GitHub": "Search for repositories or forks of pForth to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_interpreter": "pforth",
+      "uninstall": "pkg uninstall pforth"
+    }
+  },
+  {
+    "name": "pgroonga",
+    "version": "3.2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PGroonga is a PostgreSQL extension that uses Groonga for full-text search.",
+    "homepage": "https://pgroonga.github.io/",
+    "installation": "pkg install pgroonga",
+    "usage": "After installing PGroonga, you can use it to enable full-text search in PostgreSQL.",
+    "features": [
+      "Full-Text Search: Provides full-text search capabilities for PostgreSQL.",
+      "Groonga Integration: Uses Groonga for high-speed full-text search.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PostgreSQL for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "CREATE EXTENSION pgroonga;",
+      "uninstall": "pkg uninstall pgroonga"
+    }
+  },
+  {
+    "name": "photon-rss",
+    "version": "2023.02.02-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Photon RSS is a simple and lightweight RSS feed reader.",
+    "homepage": "https://github.com/AladW/photon-rss",
+    "installation": "pkg install photon-rss",
+    "usage": "After installing Photon RSS, you can start the feed reader by typing: photon-rss",
+    "features": [
+      "RSS Feed Reader: Provides a simple and lightweight RSS feed reader.",
+      "Cross-Platform: Works on various operating systems.",
+      "Easy to Use: Designed to be easy to use with a simple interface."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to RSS readers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_reader": "photon-rss",
+      "uninstall": "pkg uninstall photon-rss"
+    }
+  },
+  {
+    "name": "php-apache-ldap",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-apache-ldap is a PHP extension for LDAP support when using Apache as the web server.",
+    "homepage": "https://www.php.net/manual/en/book.ldap.php",
+    "installation": "pkg install php-apache-ldap",
+    "usage": "After installing php-apache-ldap, you can use LDAP functionalities in your PHP applications.",
+    "features": [
+      "LDAP Support: Provides LDAP support for PHP applications using Apache.",
+      "PHP Extension: Integrates LDAP functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and LDAP for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-apache-ldap to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the LDAP extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-apache-ldap"
+    }
+  },
+  {
+    "name": "php-apache-opcache",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-apache-opcache is a PHP extension for OPcache support when using Apache as the web server.",
+    "homepage": "https://www.php.net/manual/en/book.opcache.php",
+    "installation": "pkg install php-apache-opcache",
+    "usage": "After installing php-apache-opcache, you can use OPcache functionalities in your PHP applications.",
+    "features": [
+      "OPcache Support: Provides OPcache support for PHP applications using Apache.",
+      "PHP Extension: Integrates OPcache functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and OPcache for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-apache-opcache to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the OPcache extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-apache-opcache"
+    }
+  },
+  {
+    "name": "php-apache-pgsql",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-apache-pgsql is a PHP extension for PostgreSQL support when using Apache as the web server.",
+    "homepage": "https://www.php.net/manual/en/book.pgsql.php",
+    "installation": "pkg install php-apache-pgsql",
+    "usage": "After installing php-apache-pgsql, you can use PostgreSQL functionalities in your PHP applications.",
+    "features": [
+      "PostgreSQL Support: Provides PostgreSQL support for PHP applications using Apache.",
+      "PHP Extension: Integrates PostgreSQL functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and PostgreSQL for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-apache-pgsql to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the PostgreSQL extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-apache-pgsql"
+    }
+  },
+  {
+    "name": "php-apache-sodium",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-apache-sodium is a PHP extension for Sodium (libsodium) support when using Apache as the web server.",
+    "homepage": "https://www.php.net/manual/en/book.sodium.php",
+    "installation": "pkg install php-apache-sodium",
+    "usage": "After installing php-apache-sodium, you can use Sodium functionalities in your PHP applications.",
+    "features": [
+      "Sodium Support: Provides Sodium (libsodium) support for PHP applications using Apache.",
+      "PHP Extension: Integrates Sodium functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and Sodium for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-apache-sodium to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Sodium extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-apache-sodium"
+    }
+  },
+  {
+    "name": "php-apache",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-apache is a PHP extension for integrating PHP with the Apache web server.",
+    "homepage": "https://www.php.net/manual/en/book.apache.php",
+    "installation": "pkg install php-apache",
+    "usage": "After installing php-apache, you can use PHP with the Apache web server.",
+    "features": [
+      "Apache Integration: Provides integration of PHP with the Apache web server.",
+      "PHP Extension: Integrates PHP functionalities into Apache.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and Apache for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-apache to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Apache module to your httpd.conf file.",
+      "uninstall": "pkg uninstall php-apache"
+    }
+  },
+  {
+    "name": "php-apcu",
+    "version": "5.1.24",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-apcu is a PHP extension that provides high-performance user data caching.",
+    "homepage": "https://www.php.net/manual/en/book.apcu.php",
+    "installation": "pkg install php-apcu",
+    "usage": "After installing php-apcu, you can use APCu caching in your PHP applications.",
+    "features": [
+      "User Data Caching: Provides high-performance user data caching.",
+      "PHP Extension: Integrates APCu caching functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and caching for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-apcu to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the APCu extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-apcu"
+    }
+  },
+  {
+    "name": "php-fpm",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-fpm is a PHP FastCGI Process Manager, which provides a high-performance and flexible PHP implementation.",
+    "homepage": "https://www.php.net/manual/en/install.fpm.php",
+    "installation": "pkg install php-fpm",
+    "usage": "After installing php-fpm, you can manage PHP processes by typing: php-fpm",
+    "features": [
+      "FastCGI Process Manager: Provides a high-performance and flexible PHP implementation.",
+      "PHP Extension: Integrates PHP functionalities into FastCGI.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and FastCGI for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-fpm to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_fpm": "php-fpm",
+      "uninstall": "pkg uninstall php-fpm"
+    }
+  },
+  {
+    "name": "php-gd",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-gd is a PHP extension for the GD graphics library, which provides image manipulation functionalities.",
+    "homepage": "https://www.php.net/manual/en/book.image.php",
+    "installation": "pkg install php-gd",
+    "usage": "After installing php-gd, you can use GD library functionalities in your PHP applications.",
+    "features": [
+      "Image Manipulation: Provides image manipulation functionalities using the GD library.",
+      "PHP Extension: Integrates GD library functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and image manipulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-gd to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the GD extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-gd"
+    }
+  },
+  {
+    "name": "php-imagick",
+    "version": "3.7.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-imagick is a PHP extension for the ImageMagick library, which provides advanced image manipulation functionalities.",
+    "homepage": "https://www.php.net/manual/en/book.imagick.php",
+    "installation": "pkg install php-imagick",
+    "usage": "After installing php-imagick, you can use ImageMagick functionalities in your PHP applications.",
+    "features": [
+      "Image Manipulation: Provides advanced image manipulation functionalities using the ImageMagick library.",
+      "PHP Extension: Integrates ImageMagick functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and image manipulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-imagick to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Imagick extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-imagick"
+    }
+  },
+  {
+    "name": "php-ldap",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-ldap is a PHP extension for LDAP support, enabling PHP applications to interact with LDAP directories.",
+    "homepage": "https://www.php.net/manual/en/book.ldap.php",
+    "installation": "pkg install php-ldap",
+    "usage": "After installing php-ldap, you can use LDAP functionalities in your PHP applications.",
+    "features": [
+      "LDAP Support: Provides LDAP support for PHP applications.",
+      "PHP Extension: Integrates LDAP functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and LDAP for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-ldap to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the LDAP extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-ldap"
+    }
+  },
+  {
+    "name": "php-pgsql",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-pgsql is a PHP extension for PostgreSQL support, enabling PHP applications to interact with PostgreSQL databases.",
+    "homepage": "https://www.php.net/manual/en/book.pgsql.php",
+    "installation": "pkg install php-pgsql",
+    "usage": "After installing php-pgsql, you can use PostgreSQL functionalities in your PHP applications.",
+    "features": [
+      "PostgreSQL Support: Provides PostgreSQL support for PHP applications.",
+      "PHP Extension: Integrates PostgreSQL functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and PostgreSQL for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-pgsql to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the PostgreSQL extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-pgsql"
+    }
+  },
+  {
+    "name": "php-psr",
+    "version": "1.2.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-psr is a PHP extension that provides the interfaces for the PSR standards (PHP Standard Recommendations).",
+    "homepage": "https://www.php-fig.org/psr/",
+    "installation": "pkg install php-psr",
+    "usage": "After installing php-psr, you can use PSR interfaces in your PHP applications.",
+    "features": [
+      "PSR Standards: Provides interfaces for the PSR standards (PHP Standard Recommendations).",
+      "PHP Extension: Integrates PSR functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP-FIG website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and PSR for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-psr to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the PSR extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-psr"
+    }
+  },
+  {
+    "name": "php-redis",
+    "version": "6.1.0RC2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-redis is a PHP extension for Redis support, enabling PHP applications to interact with Redis databases.",
+    "homepage": "https://github.com/phpredis/phpredis",
+    "installation": "pkg install php-redis",
+    "usage": "After installing php-redis, you can use Redis functionalities in your PHP applications.",
+    "features": [
+      "Redis Support: Provides Redis support for PHP applications.",
+      "PHP Extension: Integrates Redis functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and Redis for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Redis extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-redis"
+    }
+  },
+  {
+    "name": "php-sodium",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-sodium is a PHP extension for Sodium (libsodium) support, providing modern cryptographic functionalities.",
+    "homepage": "https://www.php.net/manual/en/book.sodium.php",
+    "installation": "pkg install php-sodium",
+    "usage": "After installing php-sodium, you can use Sodium functionalities in your PHP applications.",
+    "features": [
+      "Sodium Support: Provides Sodium (libsodium) support for PHP applications.",
+      "PHP Extension: Integrates Sodium functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and Sodium for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-sodium to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Sodium extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-sodium"
+    }
+  },
+  {
+    "name": "php-zephir-parser",
+    "version": "1.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-zephir-parser is a PHP extension that provides a parser for the Zephir language.",
+    "homepage": "https://github.com/phalcon/php-zephir-parser",
+    "installation": "pkg install php-zephir-parser",
+    "usage": "After installing php-zephir-parser, you can use it to parse Zephir code.",
+    "features": [
+      "Zephir Parser: Provides a parser for the Zephir language.",
+      "PHP Extension: Integrates Zephir parsing functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Zephir for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Zephir parser extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-zephir-parser"
+    }
+  },
+  {
+    "name": "php",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PHP is a popular general-purpose scripting language that is especially suited to web development.",
+    "homepage": "https://www.php.net/",
+    "installation": "pkg install php",
+    "usage": "After installing PHP, you can run PHP scripts by typing: php",
+    "features": [
+      "Scripting Language: Provides a popular general-purpose scripting language.",
+      "Web Development: Especially suited to web development.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP for support and discussions.",
+      "GitHub": "Search for repositories or forks of PHP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "php script.php",
+      "uninstall": "pkg uninstall php"
+    }
+  },
+  {
+    "name": "phpmyadmin",
+    "version": "5.2.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web.",
+    "homepage": "https://www.phpmyadmin.net/",
+    "installation": "pkg install phpmyadmin",
+    "usage": "After installing phpMyAdmin, you can manage MySQL databases via a web interface.",
+    "features": [
+      "MySQL Administration: Provides a tool for managing MySQL databases over the web.",
+      "Web Interface: Offers a web-based interface for database management.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MySQL and phpMyAdmin for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "access_interface": "Navigate to the phpMyAdmin URL in your web browser.",
+      "uninstall": "pkg uninstall phpmyadmin"
+    }
+  }
+]

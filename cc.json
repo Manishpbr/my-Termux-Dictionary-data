@@ -1,0 +1,1470 @@
+[
+  {
+    "name": "cloneit",
+    "version": "20240728",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cloneit is a simple tool to clone repositories.",
+    "homepage": "https://github.com/cloneit/cloneit",
+    "installation": "pkg install cloneit",
+    "usage": "After installing cloneit, you can use it to clone repositories from various version control systems.",
+    "features": [
+      "Repository Cloning: Supports cloning repositories from various version control systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cloneit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to version control and repository management for support and discussions.",
+      "GitHub": "Visit the Cloneit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cloneit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cloudflared",
+    "version": "2025.1.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cloudflared is a command-line tool for interacting with Cloudflare services.",
+    "homepage": "https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation",
+    "installation": "pkg install cloudflared",
+    "usage": "After installing cloudflared, you can use it to interact with Cloudflare services.",
+    "features": [
+      "Cloudflare Integration: Provides command-line access to Cloudflare services.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Secure: Designed with security in mind, providing secure access to Cloudflare services."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cloudflared documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Cloudflare services and network infrastructure for support and discussions.",
+      "GitHub": "Visit the Cloudflared GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cloudflared"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "clpeak",
+    "version": "1.1.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Clpeak is a tool to measure peak capabilities of OpenCL devices.",
+    "homepage": "https://github.com/krrishnarraj/clpeak",
+    "installation": "pkg install clpeak",
+    "usage": "After installing clpeak, you can use it to benchmark OpenCL devices.",
+    "features": [
+      "Benchmarking: Measures peak capabilities of OpenCL devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Clpeak documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to OpenCL and benchmarking for support and discussions.",
+      "GitHub": "Visit the Clpeak GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall clpeak"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "clvk",
+    "version": "0.0.20250121.215854",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Clvk is an OpenCL implementation on top of Vulkan.",
+    "homepage": "https://github.com/kpet/clvk",
+    "installation": "pkg install clvk",
+    "usage": "After installing clvk, you can use it to run OpenCL programs on Vulkan.",
+    "features": [
+      "OpenCL on Vulkan: Runs OpenCL programs using Vulkan.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated with various OpenCL tools and applications."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Clvk documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to OpenCL, Vulkan, and graphics programming for support and discussions.",
+      "GitHub": "Visit the Clvk GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall clvk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cmake-curses-gui",
+    "version": "3.31.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CMake Curses GUI is a curses-based user interface for CMake.",
+    "homepage": "https://cmake.org/",
+    "installation": "pkg install cmake-curses-gui",
+    "usage": "After installing cmake-curses-gui, you can use it to configure CMake projects in the terminal.",
+    "features": [
+      "CMake Configuration: Provides a curses-based interface for configuring CMake projects.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Terminal-Based: Runs in the terminal, making it lightweight and efficient."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CMake documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CMake and build systems for support and discussions.",
+      "GitHub": "Visit the CMake GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cmake-curses-gui"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cmake",
+    "version": "3.31.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CMake is an open-source, cross-platform family of tools designed to build, test and package software.",
+    "homepage": "https://cmake.org/",
+    "installation": "pkg install cmake",
+    "usage": "After installing cmake, you can use it to configure and generate build files for your projects.",
+    "features": [
+      "Build System: Configures and generates build files for various platforms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated with various IDEs and tools for software development."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CMake documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CMake and build systems for support and discussions.",
+      "GitHub": "Visit the CMake GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cmake"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cmark-static",
+    "version": "0.31.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cmark is the C reference implementation of CommonMark, a rationalized version of Markdown syntax.",
+    "homepage": "https://commonmark.org/",
+    "installation": "pkg install cmark-static",
+    "usage": "After installing cmark-static, you can use it to convert CommonMark documents to HTML.",
+    "features": [
+      "Markdown Parser: Converts CommonMark documents to HTML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cmark documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Markdown and document processing for support and discussions.",
+      "GitHub": "Visit the Cmark GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cmark-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cmark",
+    "version": "0.31.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cmark is the C reference implementation of CommonMark, a rationalized version of Markdown syntax.",
+    "homepage": "https://commonmark.org/",
+    "installation": "pkg install cmark",
+    "usage": "After installing cmark, you can use it to convert CommonMark documents to HTML.",
+    "features": [
+      "Markdown Parser: Converts CommonMark documents to HTML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cmark documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Markdown and document processing for support and discussions.",
+      "GitHub": "Visit the Cmark GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cmark"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cmatrix",
+    "version": "2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CMatrix is a screen saver that simulates the display from 'The Matrix'.",
+    "homepage": "https://github.com/abishekvashok/cmatrix",
+    "installation": "pkg install cmatrix",
+    "usage": "After installing cmatrix, you can run it to simulate the Matrix display.",
+    "features": [
+      "Screen Saver: Simulates the display from 'The Matrix'.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various options for customizing the display."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CMatrix documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to screen savers and terminal applications for support and discussions.",
+      "GitHub": "Visit the CMatrix GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "cmatrix",
+      "uninstall_the_game": "pkg uninstall cmatrix"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cmocka",
+    "version": "1.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cmocka is a unit testing framework for C with support for mock objects.",
+    "homepage": "https://cmocka.org/",
+    "installation": "pkg install cmocka",
+    "usage": "After installing cmocka, you can use it to write and run unit tests for C programs.",
+    "features": [
+      "Unit Testing: Provides a framework for writing and running unit tests in C.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Mock Objects: Supports the use of mock objects in unit tests."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cmocka documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C programming and unit testing for support and discussions.",
+      "GitHub": "Visit the Cmocka GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cmocka"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cmus",
+    "version": "2.12.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cmus is a small, fast and powerful console music player.",
+    "homepage": "https://cmus.github.io/",
+    "installation": "pkg install cmus",
+    "usage": "After installing cmus, you can use it to play music in the terminal.",
+    "features": [
+      "Music Player: Provides a console-based music player.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various options for customizing the player."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cmus documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to music players and terminal applications for support and discussions.",
+      "GitHub": "Visit the Cmus GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "cmus",
+      "uninstall_the_game": "pkg uninstall cmus"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cmusfm",
+    "version": "0.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cmusfm is a cmus scrobbler for last.fm.",
+    "homepage": "https://github.com/Arkq/cmusfm",
+    "installation": "pkg install cmusfm",
+    "usage": "After installing cmusfm, you can use it to scrobble your cmus plays to last.fm.",
+    "features": [
+      "Scrobbler: Scrobbles your cmus plays to last.fm.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Designed to work seamlessly with cmus."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cmusfm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to music players and last.fm for support and discussions.",
+      "GitHub": "Visit the Cmusfm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cmusfm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "codecrypt",
+    "version": "1.8-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Codecrypt is a post-quantum cryptography tool using the McEliece and NTRU algorithms.",
+    "homepage": "https://github.com/exaexa/codecrypt",
+    "installation": "pkg install codecrypt",
+    "usage": "After installing codecrypt, you can use it for post-quantum cryptography.",
+    "features": [
+      "Post-Quantum Cryptography: Implements McEliece and NTRU algorithms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Codecrypt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and security for support and discussions.",
+      "GitHub": "Visit the Codecrypt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall codecrypt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "coinor-cbc-static",
+    "version": "2.10.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cbc (Coin-or branch and cut) is an open-source mixed integer programming solver written in C++.",
+    "homepage": "https://github.com/coin-or/Cbc",
+    "installation": "pkg install coinor-cbc-static",
+    "usage": "After installing coinor-cbc-static, you can use it to solve mixed integer programming problems.",
+    "features": [
+      "Mixed Integer Programming: Solves mixed integer programming problems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cbc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optimization and mathematical programming for support and discussions.",
+      "GitHub": "Visit the Cbc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall coinor-cbc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "coinor-cbc",
+    "version": "2.10.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cbc (Coin-or branch and cut) is an open-source mixed integer programming solver written in C++.",
+    "homepage": "https://github.com/coin-or/Cbc",
+    "installation": "pkg install coinor-cbc",
+    "usage": "After installing coinor-cbc, you can use it to solve mixed integer programming problems.",
+    "features": [
+      "Mixed Integer Programming: Solves mixed integer programming problems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cbc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optimization and mathematical programming for support and discussions.",
+      "GitHub": "Visit the Cbc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall coinor-cbc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "coinor-clp-static",
+    "version": "1.17.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Clp (Coin-or linear programming) is an open-source linear programming solver written in C++.",
+    "homepage": "https://github.com/coin-or/Clp",
+    "installation": "pkg install coinor-clp-static",
+    "usage": "After installing coinor-clp-static, you can use it to solve linear programming problems.",
+    "features": [
+      "Linear Programming: Solves linear programming problems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Clp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optimization and mathematical programming for support and discussions.",
+      "GitHub": "Visit the Clp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall coinor-clp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "coinor-clp",
+    "version": "1.17.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Clp (Coin-or linear programming) is an open-source linear programming solver written in C++.",
+    "homepage": "https://github.com/coin-or/Clp",
+    "installation": "pkg install coinor-clp",
+    "usage": "After installing coinor-clp, you can use it to solve linear programming problems.",
+    "features": [
+      "Linear Programming: Solves linear programming problems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Clp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optimization and mathematical programming for support and discussions.",
+      "GitHub": "Visit the Clp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall coinor-clp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cointop",
+    "version": "1.6.10-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cointop is a fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.",
+    "homepage": "https://github.com/miguelmota/cointop",
+    "installation": "pkg install cointop",
+    "usage": "After installing cointop, you can use it to track cryptocurrency prices and market data.",
+    "features": [
+      "Cryptocurrency Tracking: Provides a terminal-based UI for tracking cryptocurrency prices and market data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Interactive: Offers an interactive interface for real-time data updates."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cointop documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptocurrencies and financial markets for support and discussions.",
+      "GitHub": "Visit the Cointop GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "cointop",
+      "uninstall_the_game": "pkg uninstall cointop"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "colm-static",
+    "version": "0.14.7-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Colm is a programming language designed for the analysis and transformation of computer languages.",
+    "homepage": "https://www.colm.net/",
+    "installation": "pkg install colm-static",
+    "usage": "After installing colm-static, you can use it for language analysis and transformation tasks.",
+    "features": [
+      "Language Analysis: Designed for the analysis and transformation of computer languages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Colm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to programming languages and language analysis for support and discussions.",
+      "GitHub": "Visit the Colm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall colm-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "colm",
+    "version": "0.14.7-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Colm is a programming language designed for the analysis and transformation of computer languages.",
+    "homepage": "https://www.colm.net/",
+    "installation": "pkg install colm",
+    "usage": "After installing colm, you can use it for language analysis and transformation tasks.",
+    "features": [
+      "Language Analysis: Designed for the analysis and transformation of computer languages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficient: Designed to be efficient in handling large codebases."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Colm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to programming languages and language analysis for support and discussions.",
+      "GitHub": "Visit the Colm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall colm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "colordiff",
+    "version": "1.0.21",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Colordiff is a wrapper for diff that produces the same output but with pretty syntax highlighting.",
+    "homepage": "https://www.colordiff.org/",
+    "installation": "pkg install colordiff",
+    "usage": "After installing colordiff, you can use it to view diff outputs with syntax highlighting.",
+    "features": [
+      "Syntax Highlighting: Provides syntax highlighting for diff outputs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customization: Offers various options for customizing the appearance of diff outputs."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Colordiff documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to version control and diff tools for support and discussions.",
+      "GitHub": "Visit the Colordiff GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall colordiff"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "command-not-found",
+    "version": "2.4.0-60",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Command-not-found advises on installing programs when a command is not recognized.",
+    "homepage": "https://github.com/termux/command-not-found",
+    "installation": "pkg install command-not-found",
+    "usage": "After installing command-not-found, you can use it to get installation advice for unrecognized commands.",
+    "features": [
+      "Installation Advice: Provides suggestions for installing programs when a command is not recognized.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Upgradable: Can be upgraded to get the latest command suggestions."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Command-not-found documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal utilities for support and discussions.",
+      "GitHub": "Visit the Command-not-found GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall command-not-found"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "composer",
+    "version": "2.8.4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Composer is a dependency manager for PHP.",
+    "homepage": "https://getcomposer.org/",
+    "installation": "pkg install composer",
+    "usage": "After installing composer, you can use it to manage dependencies in your PHP projects.",
+    "features": [
+      "Dependency Management: Manages dependencies for PHP projects.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Provides a simple and intuitive interface for managing dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Composer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to PHP development and dependency management for support and discussions.",
+      "GitHub": "Visit the Composer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall composer"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "console-bridge",
+    "version": "1.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Console-bridge is a lightweight library to record messages for debugging and general console output.",
+    "homepage": "https://github.com/ros/console_bridge",
+    "installation": "pkg install console-bridge",
+    "usage": "After installing console-bridge, you can use it to record messages for debugging.",
+    "features": [
+      "Message Recording: Records messages for debugging and console output.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Lightweight: Designed to be lightweight and efficient."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Console-bridge documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and console output for support and discussions.",
+      "GitHub": "Visit the Console-bridge GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall console-bridge"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "convertlit",
+    "version": "1.8-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ConvertLIT is a tool to convert Microsoft Reader format eBooks (.lit) into open format files.",
+    "homepage": "http://www.convertlit.com/",
+    "installation": "pkg install convertlit",
+    "usage": "After installing convertlit, you can use it to convert .lit files to open formats.",
+    "features": [
+      "eBook Conversion: Converts Microsoft Reader format eBooks to open formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the ConvertLIT documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to eBook conversion and digital formats for support and discussions.",
+      "GitHub": "Search for repositories or forks of ConvertLIT to find additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall convertlit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cookcli",
+    "version": "0.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CookCLI is a command line tool for managing recipes and meal plans.",
+    "homepage": "https://github.com/cookcli/cookcli",
+    "installation": "pkg install cookcli",
+    "usage": "After installing cookcli, you can use it to manage recipes and meal plans from the terminal.",
+    "features": [
+      "Recipe Management: Provides tools for managing recipes and meal plans.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various options for customization and integration with other tools."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CookCLI documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cooking and recipe management for support and discussions.",
+      "GitHub": "Visit the CookCLI GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cookcli"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "coreutils",
+    "version": "9.5-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Coreutils is a package of GNU core utilities.",
+    "homepage": "https://www.gnu.org/software/coreutils/",
+    "installation": "pkg install coreutils",
+    "usage": "After installing coreutils, you can use it to perform various basic file, shell and text manipulation operations.",
+    "features": [
+      "Core Utilities: Includes basic file, shell, and text manipulation utilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Essential Tools: Provides essential tools for everyday computing tasks."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Coreutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GNU utilities and command line tools for support and discussions.",
+      "GitHub": "Visit the Coreutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall coreutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "corgi",
+    "version": "0.2.4-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Corgi is a command line tool for managing bookmarks.",
+    "homepage": "https://github.com/corgi/corgi",
+    "installation": "pkg install corgi",
+    "usage": "After installing corgi, you can use it to manage bookmarks from the terminal.",
+    "features": [
+      "Bookmark Management: Provides tools for managing bookmarks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various options for customization and integration with other tools."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Corgi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to bookmark management and productivity tools for support and discussions.",
+      "GitHub": "Visit the Corgi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall corgi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "corkscrew",
+    "version": "2.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Corkscrew is a tool for tunneling SSH through HTTP proxies.",
+    "homepage": "https://github.com/bryanpkc/corkscrew",
+    "installation": "pkg install corkscrew",
+    "usage": "After installing corkscrew, you can use it to tunnel SSH connections through HTTP proxies.",
+    "features": [
+      "SSH Tunneling: Tunnels SSH connections through HTTP proxies.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Corkscrew documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SSH and network tunneling for support and discussions.",
+      "GitHub": "Visit the Corkscrew GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall corkscrew"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cowsay",
+    "version": "3.8.4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Cowsay is a configurable talking cow, originally written in Perl.",
+    "homepage": "https://github.com/schacon/cowsay",
+    "installation": "pkg install cowsay",
+    "usage": "After installing cowsay, you can use it to create ASCII art of a talking cow with customizable messages.",
+    "features": [
+      "ASCII Art: Creates customizable ASCII art of a talking cow.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various options for customizing the cow and message."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cowsay documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ASCII art and terminal fun for support and discussions.",
+      "GitHub": "Visit the Cowsay GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "cowsay 'Hello, world!'",
+      "uninstall_the_game": "pkg uninstall cowsay"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cpio",
+    "version": "2.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cpio copies files to and from archives.",
+    "homepage": "https://www.gnu.org/software/cpio/",
+    "installation": "pkg install cpio",
+    "usage": "After installing cpio, you can use it to create and extract archives.",
+    "features": [
+      "Archive Management: Copies files to and from archives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cpio documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to archive management and file compression for support and discussions.",
+      "GitHub": "Visit the Cpio GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cpio"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cppcheck",
+    "version": "2.16.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cppcheck is a static analysis tool for C/C++ code.",
+    "homepage": "http://cppcheck.sourceforge.net/",
+    "installation": "pkg install cppcheck",
+    "usage": "After installing cppcheck, you can use it to analyze C/C++ code for bugs and potential issues.",
+    "features": [
+      "Static Analysis: Analyzes C/C++ code for bugs and potential issues.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cppcheck documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C/C++ development and static analysis for support and discussions.",
+      "GitHub": "Visit the Cppcheck GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cppcheck"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cppi",
+    "version": "1.18-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cppi is a tool that adjusts the indentation of C/C++ programs.",
+    "homepage": "https://www.gnu.org/software/cppi/",
+    "installation": "pkg install cppi",
+    "usage": "After installing cppi, you can use it to adjust the indentation of C/C++ programs.",
+    "features": [
+      "Indentation Adjustment: Adjusts the indentation of C/C++ programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cppi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C/C++ development and code formatting for support and discussions.",
+      "GitHub": "Visit the Cppi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cppi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cpufetch",
+    "version": "1.06",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cpufetch is a simple yet fancy CPU architecture fetching tool.",
+    "homepage": "https://github.com/Dr-Noob/cpufetch",
+    "installation": "pkg install cpufetch",
+    "usage": "After installing cpufetch, you can use it to fetch and display CPU architecture information.",
+    "features": [
+      "CPU Information: Fetches and displays CPU architecture information.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Fancy Display: Provides a visually appealing display of CPU information."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cpufetch documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system information and hardware for support and discussions.",
+      "GitHub": "Visit the Cpufetch GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "cpufetch",
+      "uninstall_the_game": "pkg uninstall cpufetch"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cpulimit",
+    "version": "0.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cpulimit is a tool to limit the CPU usage of a process.",
+    "homepage": "https://github.com/opsengine/cpulimit",
+    "installation": "pkg install cpulimit",
+    "usage": "After installing cpulimit, you can use it to limit the CPU usage of a process.",
+    "features": [
+      "CPU Limiting: Limits the CPU usage of a process.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cpulimit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system performance and resource management for support and discussions.",
+      "GitHub": "Visit the Cpulimit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cpulimit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "crawl",
+    "version": "0.32.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Crawl is a fun, free-to-play roguelike game of exploration and treasure-hunting.",
+    "homepage": "https://crawl.develz.org/",
+    "installation": "pkg install crawl",
+    "usage": "After installing crawl, you can play the game by running the crawl command.",
+    "features": [
+      "Roguelike Game: Provides a fun and challenging roguelike experience.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Exploration and Treasure-Hunting: Focuses on exploration and treasure-hunting gameplay."
+    ],
+    "gameplay": {
+      "objective": "The main objective is to explore dungeons, collect treasures, and defeat enemies.",
+      "controls": "The game is controlled via keyboard inputs for movement and actions.",
+      "environment": "The game takes place in procedurally generated dungeons with various levels and challenges."
+    },
+    "additional_resources": "For more information, visit the Crawl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to roguelike games and dungeon crawlers for support and discussions.",
+      "GitHub": "Visit the Crawl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "crawl",
+      "uninstall_the_game": "pkg uninstall crawl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "croc",
+    "version": "1:10.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Croc is a tool that allows any two computers to simply and securely transfer files and folders.",
+    "homepage": "https://schollz.com/software/croc/",
+    "installation": "pkg install croc",
+    "usage": "After installing croc, you can use it to securely transfer files and folders between computers.",
+    "features": [
+      "File Transfer: Allows secure transfer of files and folders between computers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Provides a simple and intuitive interface for file transfers."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Croc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file transfer and networking for support and discussions.",
+      "GitHub": "Visit the Croc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "croc send <file>",
+      "uninstall_the_game": "pkg uninstall croc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cronie",
+    "version": "1.7.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cronie contains the standard UNIX daemon crond that runs specified programs at scheduled times.",
+    "homepage": "https://github.com/cronie-crond/cronie",
+    "installation": "pkg install cronie",
+    "usage": "After installing cronie, you can use it to schedule and run programs at specified times.",
+    "features": [
+      "Job Scheduling: Schedules and runs programs at specified times.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Standard UNIX Daemon: Implements the standard UNIX cron daemon."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cronie documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to job scheduling and system administration for support and discussions.",
+      "GitHub": "Visit the Cronie GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cronie"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "crowbook",
+    "version": "0.16.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Crowbook is a static site generator for books, suitable for novels, manuals, and other long-text works.",
+    "homepage": "https://github.com/lise-henry/crowbook",
+    "installation": "pkg install crowbook",
+    "usage": "After installing crowbook, you can use it to generate static sites for books.",
+    "features": [
+      "Static Site Generator: Generates static sites for books and long-text works.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customization: Provides various options for customization and formatting."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Crowbook documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to static site generators and book publishing for support and discussions.",
+      "GitHub": "Visit the Crowbook GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall crowbook"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "crunch",
+    "version": "3.6-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Crunch is a wordlist generator where you can specify a standard character set or a custom one.",
+    "homepage": "https://sourceforge.net/projects/crunch-wordlist/",
+    "installation": "pkg install crunch",
+    "usage": "After installing crunch, you can use it to generate wordlists for various purposes.",
+    "features": [
+      "Wordlist Generation: Generates wordlists with specified character sets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Custom Character Sets: Supports custom character sets for generating wordlists."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Crunch documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to wordlist generation and security tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of Crunch to find additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall crunch"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cryptopp-static",
+    "version": "8.9.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Crypto++ is a free C++ class library of cryptographic schemes.",
+    "homepage": "https://cryptopp.com/",
+    "installation": "pkg install cryptopp-static",
+    "usage": "After installing cryptopp-static, you can use it to implement cryptographic schemes in your C++ programs.",
+    "features": [
+      "Cryptographic Library: Provides a wide range of cryptographic schemes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Crypto++ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and C++ development for support and discussions.",
+      "GitHub": "Visit the Crypto++ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cryptopp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cryptopp",
+    "version": "8.9.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Crypto++ is a free C++ class library of cryptographic schemes.",
+    "homepage": "https://cryptopp.com/",
+    "installation": "pkg install cryptopp",
+    "usage": "After installing cryptopp, you can use it to implement cryptographic schemes in your C++ programs.",
+    "features": [
+      "Cryptographic Library: Provides a wide range of cryptographic schemes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Crypto++ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and C++ development for support and discussions.",
+      "GitHub": "Visit the Crypto++ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cryptopp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "crystal",
+    "version": "1.15.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Crystal is a fast and efficient statically typed, compiled language with Ruby-like syntax.",
+    "homepage": "https://crystal-lang.org/",
+    "installation": "pkg install crystal",
+    "usage": "After installing crystal, you can use it to develop applications with a Ruby-like syntax.",
+    "features": [
+      "Compiled Language: Statically typed and compiled for performance.",
+      "Ruby-Like Syntax: Provides a syntax similar to Ruby for ease of use.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Crystal documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Crystal and modern programming languages for support and discussions.",
+      "GitHub": "Visit the Crystal GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall crystal"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cscope",
+    "version": "15.9-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cscope is a developer's tool for browsing source code.",
+    "homepage": "http://cscope.sourceforge.net/",
+    "installation": "pkg install cscope",
+    "usage": "After installing cscope, you can use it to browse and navigate large codebases.",
+    "features": [
+      "Source Code Browsing: Provides tools for browsing and navigating source code.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated with various editors and IDEs for enhanced functionality."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cscope documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to source code browsing and development tools for support and discussions.",
+      "GitHub": "Visit the Cscope GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cscope"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "csol",
+    "version": "1.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Csol is a command-line solitaire game.",
+    "homepage": "https://github.com/csol-game/csol",
+    "installation": "pkg install csol",
+    "usage": "After installing csol, you can play solitaire in the terminal.",
+    "features": [
+      "Solitaire Game: Provides a command-line interface for playing solitaire.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various options for customizing the game experience."
+    ],
+    "gameplay": {
+      "objective": "The main objective is to arrange the cards in a specific order to win the game.",
+      "controls": "The game is controlled via keyboard inputs for card movements and actions.",
+      "environment": "The game takes place in a text-based environment in the terminal."
+    },
+    "additional_resources": "For more information, visit the Csol documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to solitaire and terminal games for support and discussions.",
+      "GitHub": "Visit the Csol GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "csol",
+      "uninstall_the_game": "pkg uninstall csol"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "csview",
+    "version": "1.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Csview is a command-line tool for viewing CSV files.",
+    "homepage": "https://github.com/ewen-lbh/csview",
+    "installation": "pkg install csview",
+    "usage": "After installing csview, you can use it to view CSV files in the terminal.",
+    "features": [
+      "CSV Viewing: Provides a command-line interface for viewing CSV files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various options for customizing the display of CSV files."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Csview documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CSV file management and command-line tools for support and discussions.",
+      "GitHub": "Visit the Csview GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "csview <filename.csv>",
+      "uninstall_the_game": "pkg uninstall csview"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ctags",
+    "version": "2:6.1.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ctags generates an index (or tag) file of language objects found in source files for programming.",
+    "homepage": "https://ctags.io/",
+    "installation": "pkg install ctags",
+    "usage": "After installing ctags, you can use it to generate tag files for source code navigation.",
+    "features": [
+      "Tag File Generation: Generates tag files for source code navigation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Language Support: Supports various programming languages for tag file generation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Ctags documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to source code navigation and development tools for support and discussions.",
+      "GitHub": "Visit the Ctags GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "ctags -R .",
+      "uninstall_the_game": "pkg uninstall ctags"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ctypes-sh",
+    "version": "1.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ctypes-sh is a foreign function interface for bash.",
+    "homepage": "https://github.com/taviso/ctypes.sh",
+    "installation": "pkg install ctypes-sh",
+    "usage": "After installing ctypes-sh, you can use it to call shared library functions from bash scripts.",
+    "features": [
+      "Foreign Function Interface: Allows calling shared library functions from bash scripts.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Provides a simple interface for integrating shared library functions with bash scripts."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Ctypes-sh documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to bash scripting and foreign function interfaces for support and discussions.",
+      "GitHub": "Visit the Ctypes-sh GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall ctypes-sh"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cuetools",
+    "version": "1.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Cuetools is a set of utilities for working with Cue Sheet (CUE) and Table of Contents (TOC) files.",
+    "homepage": "http://sourceforge.net/projects/cuetools/",
+    "installation": "pkg install cuetools",
+    "usage": "After installing cuetools, you can use it to manipulate and manage CUE and TOC files.",
+    "features": [
+      "CUE and TOC Management: Provides tools for manipulating and managing CUE and TOC files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Audio CD Support: Supports various operations related to Audio CDs."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Cuetools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio file management and CUE sheets for support and discussions.",
+      "GitHub": "Search for repositories or forks of Cuetools to find additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cuetools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cups-pdf",
+    "version": "3.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CUPS-PDF is a PDF writer backend for CUPS.",
+    "homepage": "http://www.cups-pdf.de/",
+    "installation": "pkg install cups-pdf",
+    "usage": "After installing cups-pdf, you can use it to create PDF files from print jobs.",
+    "features": [
+      "PDF Creation: Creates PDF files from print jobs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "CUPS Integration: Integrates with the CUPS printing system."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CUPS-PDF documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to printing and PDF generation for support and discussions.",
+      "GitHub": "Search for repositories or forks of CUPS-PDF to find additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cups-pdf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cups-static",
+    "version": "2.4.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CUPS is a modular printing system for Unix-like operating systems.",
+    "homepage": "https://www.cups.org/",
+    "installation": "pkg install cups-static",
+    "usage": "After installing cups-static, you can use it to manage and configure printers.",
+    "features": [
+      "Printing System: Manages and configures printers and print jobs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CUPS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to printing and printer management for support and discussions.",
+      "GitHub": "Visit the CUPS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cups-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cups",
+    "version": "2.4.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CUPS is a modular printing system for Unix-like operating systems.",
+    "homepage": "https://www.cups.org/",
+    "installation": "pkg install cups",
+    "usage": "After installing cups, you can use it to manage and configure printers.",
+    "features": [
+      "Printing System: Manages and configures printers and print jobs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CUPS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to printing and printer management for support and discussions.",
+      "GitHub": "Visit the CUPS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cups"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "curl",
+    "version": "8.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Curl is a command-line tool for transferring data with URL syntax.",
+    "homepage": "https://curl.se/",
+    "installation": "pkg install curl",
+    "usage": "After installing curl, you can use it to transfer data with various protocols.",
+    "features": [
+      "Data Transfer: Supports transferring data with various protocols including HTTP, HTTPS, FTP, and more.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Provides a powerful command-line interface for data transfers."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Curl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data transfer and networking for support and discussions.",
+      "GitHub": "Visit the Curl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "curl https://example.com",
+      "uninstall_the_game": "pkg uninstall curl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "curlie",
+    "version": "1.7.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Curlie is a hybrid of curl and httpie, providing a user-friendly command-line HTTP client.",
+    "homepage": "https://curlie.io/",
+    "installation": "pkg install curlie",
+    "usage": "After installing curlie, you can use it to interact with HTTP servers.",
+    "features": [
+      "HTTP Client: Provides a user-friendly interface for interacting with HTTP servers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Hybrid Tool: Combines the functionality of curl and httpie for enhanced usability."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Curlie documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HTTP clients and command-line tools for support and discussions.",
+      "GitHub": "Visit the Curlie GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "curlie https://example.com",
+      "uninstall_the_game": "pkg uninstall curlie"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "curseofwar",
+    "version": "1.3.0-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Curseofwar is a fast-paced real-time strategy game for the terminal.",
+    "homepage": "https://github.com/a-nikolaev/curseofwar",
+    "installation": "pkg install curseofwar",
+    "usage": "After installing curseofwar, you can play the game by running the curseofwar command.",
+    "features": [
+      "Real-Time Strategy: Provides a fast-paced real-time strategy game.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Terminal-Based: Runs in the terminal, making it lightweight and efficient."
+    ],
+    "gameplay": {
+      "objective": "The main objective is to destroy the enemy base while defending your own.",
+      "controls": "The game is controlled via keyboard inputs for unit movements and actions.",
+      "environment": "The game takes place in a text-based environment in the terminal."
+    },
+    "additional_resources": "For more information, visit the Curseofwar documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to real-time strategy games and terminal games for support and discussions.",
+      "GitHub": "Visit the Curseofwar GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "curseofwar",
+      "uninstall_the_game": "pkg uninstall curseofwar"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "cvs",
+    "version": "1:1.12.13-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CVS is a version control system that allows you to keep track of your files and their history.",
+    "homepage": "https://www.nongnu.org/cvs/",
+    "installation": "pkg install cvs",
+    "usage": "After installing cvs, you can use it to manage version control for your projects.",
+    "features": [
+      "Version Control: Provides tools for managing version control for projects.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "History Tracking: Keeps track of files and their history for collaborative development."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the CVS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to version control systems and collaborative development for support and discussions.",
+      "GitHub": "Visit the CVS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall cvs"
+    },
+    "isFavorite": false
+  }
+]

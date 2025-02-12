@@ -1,0 +1,1445 @@
+[
+  {
+    "name": "libthread-db",
+    "version": "22-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libthread-db is a library that provides a programming interface for debugging multi-threaded applications.",
+    "homepage": "https://sourceware.org/glibc/",
+    "installation": "pkg install libthread-db",
+    "usage": "After installing libthread-db, you can use it to debug multi-threaded applications in your development environment.",
+    "features": [
+      "Debugging: Provides tools for debugging multi-threaded applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for debugging tasks.",
+      "Integration: Can be integrated into development environments requiring multi-threaded debugging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the glibc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and glibc for support and discussions.",
+      "GitHub": "Visit the glibc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_thread_db": "Not applicable",
+      "uninstall": "pkg uninstall libthread-db"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtiff-static",
+    "version": "4.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtiff is a library for reading and writing TIFF (Tag Image File Format) files. This is the statically linked version.",
+    "homepage": "http://www.simplesystems.org/libtiff/",
+    "installation": "pkg install libtiff-static",
+    "usage": "After installing libtiff-static, you can use it to handle TIFF files in your applications.",
+    "features": [
+      "TIFF Files: Provides tools for reading and writing TIFF files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for TIFF tasks.",
+      "Integration: Can be integrated into applications requiring TIFF file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtiff documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libtiff for support and discussions.",
+      "GitHub": "Visit the Libtiff GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tiff": "Not applicable",
+      "uninstall": "pkg uninstall libtiff-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtiff-utils",
+    "version": "4.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtiff-utils is a collection of utilities for working with TIFF (Tag Image File Format) files.",
+    "homepage": "http://www.simplesystems.org/libtiff/",
+    "installation": "pkg install libtiff-utils",
+    "usage": "After installing libtiff-utils, you can use the utilities to handle TIFF files in your applications.",
+    "features": [
+      "TIFF Utilities: Provides utilities for working with TIFF files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for TIFF tasks.",
+      "Integration: Can be integrated into applications requiring TIFF file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtiff documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libtiff for support and discussions.",
+      "GitHub": "Visit the Libtiff GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tiff_utils": "Not applicable",
+      "uninstall": "pkg uninstall libtiff-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtiff",
+    "version": "4.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtiff is a library for reading and writing TIFF (Tag Image File Format) files.",
+    "homepage": "http://www.simplesystems.org/libtiff/",
+    "installation": "pkg install libtiff",
+    "usage": "After installing libtiff, you can use it to handle TIFF files in your applications.",
+    "features": [
+      "TIFF Files: Provides tools for reading and writing TIFF files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for TIFF tasks.",
+      "Integration: Can be integrated into applications requiring TIFF file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtiff documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libtiff for support and discussions.",
+      "GitHub": "Visit the Libtiff GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tiff": "Not applicable",
+      "uninstall": "pkg uninstall libtiff"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtiledb",
+    "version": "2.27.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtiledb is a library for managing multi-dimensional arrays.",
+    "homepage": "https://tiledb.com/",
+    "installation": "pkg install libtiledb",
+    "usage": "After installing libtiledb, you can use it to manage multi-dimensional arrays in your applications.",
+    "features": [
+      "Multi-Dimensional Arrays: Provides tools for managing multi-dimensional arrays.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for array tasks.",
+      "Integration: Can be integrated into applications requiring multi-dimensional array management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TileDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to array management and TileDB for support and discussions.",
+      "GitHub": "Visit the TileDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tiledb": "Not applicable",
+      "uninstall": "pkg uninstall libtiledb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtins",
+    "version": "4.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtins is a high-level, multiplatform C++ network packet sniffing and crafting library.",
+    "homepage": "https://libtins.github.io/",
+    "installation": "pkg install libtins",
+    "usage": "After installing libtins, you can use it to sniff and craft network packets in your applications.",
+    "features": [
+      "Network Packet Sniffing: Provides tools for sniffing network packets.",
+      "Packet Crafting: Tools for crafting network packets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for network tasks.",
+      "Integration: Can be integrated into applications requiring network packet handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtins documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network programming and Libtins for support and discussions.",
+      "GitHub": "Visit the Libtins GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tins": "Not applicable",
+      "uninstall": "pkg uninstall libtins"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtinyxml2",
+    "version": "10.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtinyxml2 is a simple, small, and efficient XML parser for C++.",
+    "homepage": "https://github.com/leethomason/tinyxml2",
+    "installation": "pkg install libtinyxml2",
+    "usage": "After installing libtinyxml2, you can use it to parse XML documents in your applications.",
+    "features": [
+      "XML Parsing: Provides tools for parsing XML documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for XML tasks.",
+      "Integration: Can be integrated into applications requiring XML parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TinyXML2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML processing and TinyXML2 for support and discussions.",
+      "GitHub": "Visit the TinyXML2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tinyxml2": "Not applicable",
+      "uninstall": "pkg uninstall libtinyxml2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtinyxml",
+    "version": "2.6.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtinyxml is a simple, small, and efficient XML parser for C++.",
+    "homepage": "http://www.grinninglizard.com/tinyxml/",
+    "installation": "pkg install libtinyxml",
+    "usage": "After installing libtinyxml, you can use it to parse XML documents in your applications.",
+    "features": [
+      "XML Parsing: Provides tools for parsing XML documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for XML tasks.",
+      "Integration: Can be integrated into applications requiring XML parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TinyXML documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML processing and TinyXML for support and discussions.",
+      "GitHub": "Visit the TinyXML GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tinyxml": "Not applicable",
+      "uninstall": "pkg uninstall libtinyxml"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtirpc-static",
+    "version": "1.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtirpc is a library that provides Transport-Independent RPC (TI-RPC) implementation. This is the statically linked version.",
+    "homepage": "https://sourceforge.net/projects/libtirpc/",
+    "installation": "pkg install libtirpc-static",
+    "usage": "After installing libtirpc-static, you can use it to implement TI-RPC functionalities in your applications.",
+    "features": [
+      "TI-RPC: Provides tools for implementing Transport-Independent RPC.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for RPC tasks.",
+      "Integration: Can be integrated into applications requiring RPC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtirpc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RPC and Libtirpc for support and discussions.",
+      "GitHub": "Visit the Libtirpc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tirpc": "Not applicable",
+      "uninstall": "pkg uninstall libtirpc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtirpc",
+    "version": "1.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtirpc is a library that provides Transport-Independent RPC (TI-RPC) implementation.",
+    "homepage": "https://sourceforge.net/projects/libtirpc/",
+    "installation": "pkg install libtirpc",
+    "usage": "After installing libtirpc, you can use it to implement TI-RPC functionalities in your applications.",
+    "features": [
+      "TI-RPC: Provides tools for implementing Transport-Independent RPC.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for RPC tasks.",
+      "Integration: Can be integrated into applications requiring RPC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtirpc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RPC and Libtirpc for support and discussions.",
+      "GitHub": "Visit the Libtirpc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tirpc": "Not applicable",
+      "uninstall": "pkg uninstall libtirpc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtllist",
+    "version": "1.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtllist is a library for handling linked lists in C.",
+    "homepage": "https://github.com/mkirchner/tllist",
+    "installation": "pkg install libtllist",
+    "usage": "After installing libtllist, you can use it to handle linked lists in your C applications.",
+    "features": [
+      "Linked Lists: Provides tools for handling linked lists.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for list tasks.",
+      "Integration: Can be integrated into applications requiring linked list handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Tllist documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data structures and Tllist for support and discussions.",
+      "GitHub": "Visit the Tllist GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tllist": "Not applicable",
+      "uninstall": "pkg uninstall libtllist"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtomcrypt-static",
+    "version": "1.18.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LibTomCrypt is a comprehensive, modular and portable cryptographic toolkit. This is the statically linked version.",
+    "homepage": "https://github.com/libtom/libtomcrypt",
+    "installation": "pkg install libtomcrypt-static",
+    "usage": "After installing libtomcrypt-static, you can use it to implement cryptographic functionalities in your applications.",
+    "features": [
+      "Cryptographic Toolkit: Provides tools for implementing various cryptographic algorithms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into applications requiring cryptographic functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LibTomCrypt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and LibTomCrypt for support and discussions.",
+      "GitHub": "Visit the LibTomCrypt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_crypt": "Not applicable",
+      "uninstall": "pkg uninstall libtomcrypt-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtomcrypt",
+    "version": "1.18.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LibTomCrypt is a comprehensive, modular and portable cryptographic toolkit.",
+    "homepage": "https://github.com/libtom/libtomcrypt",
+    "installation": "pkg install libtomcrypt",
+    "usage": "After installing libtomcrypt, you can use it to implement cryptographic functionalities in your applications.",
+    "features": [
+      "Cryptographic Toolkit: Provides tools for implementing various cryptographic algorithms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into applications requiring cryptographic functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LibTomCrypt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and LibTomCrypt for support and discussions.",
+      "GitHub": "Visit the LibTomCrypt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_crypt": "Not applicable",
+      "uninstall": "pkg uninstall libtomcrypt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtommath-static",
+    "version": "1.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LibTomMath is a free open source portable number theoretic multiple-precision integer library. This is the statically linked version.",
+    "homepage": "https://github.com/libtom/libtommath",
+    "installation": "pkg install libtommath-static",
+    "usage": "After installing libtommath-static, you can use it to perform multiple-precision integer arithmetic in your applications.",
+    "features": [
+      "Multiple-Precision Arithmetic: Provides tools for performing multiple-precision integer arithmetic.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for arithmetic tasks.",
+      "Integration: Can be integrated into applications requiring multiple-precision arithmetic.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LibTomMath documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to number theory and LibTomMath for support and discussions.",
+      "GitHub": "Visit the LibTomMath GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_math": "Not applicable",
+      "uninstall": "pkg uninstall libtommath-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtommath",
+    "version": "1.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LibTomMath is a free open source portable number theoretic multiple-precision integer library.",
+    "homepage": "https://github.com/libtom/libtommath",
+    "installation": "pkg install libtommath",
+    "usage": "After installing libtommath, you can use it to perform multiple-precision integer arithmetic in your applications.",
+    "features": [
+      "Multiple-Precision Arithmetic: Provides tools for performing multiple-precision integer arithmetic.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for arithmetic tasks.",
+      "Integration: Can be integrated into applications requiring multiple-precision arithmetic.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LibTomMath documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to number theory and LibTomMath for support and discussions.",
+      "GitHub": "Visit the LibTomMath GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_math": "Not applicable",
+      "uninstall": "pkg uninstall libtommath"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtool",
+    "version": "2.5.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface.",
+    "homepage": "https://www.gnu.org/software/libtool/",
+    "installation": "pkg install libtool",
+    "usage": "After installing libtool, you can use it to manage shared libraries in your applications.",
+    "features": [
+      "Shared Libraries: Provides tools for managing shared libraries.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for library management tasks.",
+      "Integration: Can be integrated into applications requiring shared library management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtool documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to library management and Libtool for support and discussions.",
+      "GitHub": "Visit the Libtool GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libtool": "Not applicable",
+      "uninstall": "pkg uninstall libtool"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtorrent-rasterbar",
+    "version": "2.0.10-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtorrent-rasterbar is a C++ library that aims to be a good alternative to all the other BitTorrent implementations around.",
+    "homepage": "https://www.libtorrent.org/",
+    "installation": "pkg install libtorrent-rasterbar",
+    "usage": "After installing libtorrent-rasterbar, you can use it to implement BitTorrent functionalities in your applications.",
+    "features": [
+      "BitTorrent: Provides tools for implementing BitTorrent functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for BitTorrent tasks.",
+      "Integration: Can be integrated into applications requiring BitTorrent functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtorrent-rasterbar documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to BitTorrent and Libtorrent-rasterbar for support and discussions.",
+      "GitHub": "Visit the Libtorrent GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_torrent": "Not applicable",
+      "uninstall": "pkg uninstall libtorrent-rasterbar"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtorrent-static",
+    "version": "0.15.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtorrent is a C++ library that aims to be a good alternative to all the other BitTorrent implementations around. This is the statically linked version.",
+    "homepage": "https://github.com/arvidn/libtorrent",
+    "installation": "pkg install libtorrent-static",
+    "usage": "After installing libtorrent-static, you can use it to implement BitTorrent functionalities in your applications.",
+    "features": [
+      "BitTorrent: Provides tools for implementing BitTorrent functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for BitTorrent tasks.",
+      "Integration: Can be integrated into applications requiring BitTorrent functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtorrent documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to BitTorrent and Libtorrent for support and discussions.",
+      "GitHub": "Visit the Libtorrent GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_torrent": "Not applicable",
+      "uninstall": "pkg uninstall libtorrent-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtorrent",
+    "version": "0.15.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtorrent is a C++ library that aims to be a good alternative to all the other BitTorrent implementations around.",
+    "homepage": "https://github.com/arvidn/libtorrent",
+    "installation": "pkg install libtorrent",
+    "usage": "After installing libtorrent, you can use it to implement BitTorrent functionalities in your applications.",
+    "features": [
+      "BitTorrent: Provides tools for implementing BitTorrent functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for BitTorrent tasks.",
+      "Integration: Can be integrated into applications requiring BitTorrent functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtorrent documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to BitTorrent and Libtorrent for support and discussions.",
+      "GitHub": "Visit the Libtorrent GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_torrent": "Not applicable",
+      "uninstall": "pkg uninstall libtorrent"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtpms-static",
+    "version": "0.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtpms is a library providing software emulation of Trusted Platform Module (TPM) hardware. This is the statically linked version.",
+    "homepage": "https://github.com/stefanberger/libtpms",
+    "installation": "pkg install libtpms-static",
+    "usage": "After installing libtpms-static, you can use it to emulate TPM functionalities in your applications.",
+    "features": [
+      "TPM Emulation: Provides tools for emulating Trusted Platform Module (TPM) hardware.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for TPM tasks.",
+      "Integration: Can be integrated into applications requiring TPM functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtpms documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to TPM and Libtpms for support and discussions.",
+      "GitHub": "Visit the Libtpms GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tpms": "Not applicable",
+      "uninstall": "pkg uninstall libtpms-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtpms",
+    "version": "0.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtpms is a library providing software emulation of Trusted Platform Module (TPM) hardware.",
+    "homepage": "https://github.com/stefanberger/libtpms",
+    "installation": "pkg install libtpms",
+    "usage": "After installing libtpms, you can use it to emulate TPM functionalities in your applications.",
+    "features": [
+      "TPM Emulation: Provides tools for emulating Trusted Platform Module (TPM) hardware.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for TPM tasks.",
+      "Integration: Can be integrated into applications requiring TPM functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtpms documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to TPM and Libtpms for support and discussions.",
+      "GitHub": "Visit the Libtpms GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tpms": "Not applicable",
+      "uninstall": "pkg uninstall libtpms"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtranscript",
+    "version": "0.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtranscript is a library for character set conversion.",
+    "homepage": "https://www.leonerd.org.uk/code/libtranscript/",
+    "installation": "pkg install libtranscript",
+    "usage": "After installing libtranscript, you can use it to perform character set conversion in your applications.",
+    "features": [
+      "Character Set Conversion: Provides tools for performing character set conversion.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for conversion tasks.",
+      "Integration: Can be integrated into applications requiring character set conversion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtranscript documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to character set conversion and Libtranscript for support and discussions.",
+      "GitHub": "Visit the Libtranscript GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_transcript": "Not applicable",
+      "uninstall": "pkg uninstall libtranscript"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtree-ldd",
+    "version": "3.1.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtree-ldd is a tool to display the dependency tree of shared libraries.",
+    "homepage": "https://github.com/haampie/libtree",
+    "installation": "pkg install libtree-ldd",
+    "usage": "After installing libtree-ldd, you can use it to display the dependency tree of shared libraries in your applications.",
+    "features": [
+      "Dependency Tree: Provides tools for displaying the dependency tree of shared libraries.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for dependency tasks.",
+      "Integration: Can be integrated into applications requiring dependency tree analysis.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtree documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to library dependencies and Libtree for support and discussions.",
+      "GitHub": "Visit the Libtree GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tree": "Not applicable",
+      "uninstall": "pkg uninstall libtree-ldd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtsduck-static",
+    "version": "3.39.3956",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtsduck is a library for MPEG transport stream processing. This is the statically linked version.",
+    "homepage": "https://tsduck.io/",
+    "installation": "pkg install libtsduck-static",
+    "usage": "After installing libtsduck-static, you can use it to process MPEG transport streams in your applications.",
+    "features": [
+      "MPEG Transport Stream: Provides tools for processing MPEG transport streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for stream processing tasks.",
+      "Integration: Can be integrated into applications requiring MPEG transport stream processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TSDuck documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to MPEG transport streams and TSDuck for support and discussions.",
+      "GitHub": "Visit the TSDuck GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tsduck": "Not applicable",
+      "uninstall": "pkg uninstall libtsduck-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtsduck",
+    "version": "3.39.3956",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtsduck is a library for MPEG transport stream processing.",
+    "homepage": "https://tsduck.io/",
+    "installation": "pkg install libtsduck",
+    "usage": "After installing libtsduck, you can use it to process MPEG transport streams in your applications.",
+    "features": [
+      "MPEG Transport Stream: Provides tools for processing MPEG transport streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for stream processing tasks.",
+      "Integration: Can be integrated into applications requiring MPEG transport stream processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TSDuck documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to MPEG transport streams and TSDuck for support and discussions.",
+      "GitHub": "Visit the TSDuck GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tsduck": "Not applicable",
+      "uninstall": "pkg uninstall libtsduck"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtvision",
+    "version": "2023.01.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtvision is a library for creating text-based user interfaces.",
+    "homepage": "https://github.com/magiblot/tvision",
+    "installation": "pkg install libtvision",
+    "usage": "After installing libtvision, you can use it to create text-based user interfaces in your applications.",
+    "features": [
+      "Text-Based UI: Provides tools for creating text-based user interfaces.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for UI tasks.",
+      "Integration: Can be integrated into applications requiring text-based UIs.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TVision documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text-based UIs and TVision for support and discussions.",
+      "GitHub": "Visit the TVision GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tvision": "Not applicable",
+      "uninstall": "pkg uninstall libtvision"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtwolame-static",
+    "version": "0.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtwolame is a library for encoding MPEG Audio Layer 2. This is the statically linked version.",
+    "homepage": "http://www.twolame.org/",
+    "installation": "pkg install libtwolame-static",
+    "usage": "After installing libtwolame-static, you can use it to encode MPEG Audio Layer 2 in your applications.",
+    "features": [
+      "MPEG Audio Layer 2: Provides tools for encoding MPEG Audio Layer 2.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio encoding tasks.",
+      "Integration: Can be integrated into applications requiring MPEG Audio Layer 2 encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TwoLAME documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio encoding and TwoLAME for support and discussions.",
+      "GitHub": "Visit the TwoLAME GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_twolame": "Not applicable",
+      "uninstall": "pkg uninstall libtwolame-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtwolame",
+    "version": "0.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtwolame is a library for encoding MPEG Audio Layer 2.",
+    "homepage": "http://www.twolame.org/",
+    "installation": "pkg install libtwolame",
+    "usage": "After installing libtwolame, you can use it to encode MPEG Audio Layer 2 in your applications.",
+    "features": [
+      "MPEG Audio Layer 2: Provides tools for encoding MPEG Audio Layer 2.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio encoding tasks.",
+      "Integration: Can be integrated into applications requiring MPEG Audio Layer 2 encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TwoLAME documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio encoding and TwoLAME for support and discussions.",
+      "GitHub": "Visit the TwoLAME GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_twolame": "Not applicable",
+      "uninstall": "pkg uninstall libtwolame"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libuber-h3",
+    "version": "4.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libuber-h3 is a library for H3, a hexagonal hierarchical geospatial indexing system.",
+    "homepage": "https://h3lib.org/",
+    "installation": "pkg install libuber-h3",
+    "usage": "After installing libuber-h3, you can use it to implement geospatial indexing in your applications.",
+    "features": [
+      "Geospatial Indexing: Provides tools for implementing hexagonal hierarchical geospatial indexing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for geospatial tasks.",
+      "Integration: Can be integrated into applications requiring geospatial indexing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the H3 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to geospatial indexing and H3 for support and discussions.",
+      "GitHub": "Visit the H3 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_h3": "Not applicable",
+      "uninstall": "pkg uninstall libuber-h3"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libuchardet-static",
+    "version": "0.0.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libuchardet is a universal charset detection library. This is the statically linked version.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/uchardet/",
+    "installation": "pkg install libuchardet-static",
+    "usage": "After installing libuchardet-static, you can use it to detect character sets in your applications.",
+    "features": [
+      "Charset Detection: Provides tools for detecting character sets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for charset detection tasks.",
+      "Integration: Can be integrated into applications requiring charset detection.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Uchardet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to character set detection and Uchardet for support and discussions.",
+      "GitHub": "Visit the Uchardet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_uchardet": "Not applicable",
+      "uninstall": "pkg uninstall libuchardet-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libuchardet",
+    "version": "0.0.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libuchardet is a universal charset detection library.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/uchardet/",
+    "installation": "pkg install libuchardet",
+    "usage": "After installing libuchardet, you can use it to detect character sets in your applications.",
+    "features": [
+      "Charset Detection: Provides tools for detecting character sets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for charset detection tasks.",
+      "Integration: Can be integrated into applications requiring charset detection.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Uchardet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to character set detection and Uchardet for support and discussions.",
+      "GitHub": "Visit the Uchardet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_uchardet": "Not applicable",
+      "uninstall": "pkg uninstall libuchardet"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libucontext-static",
+    "version": "1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libucontext is a library for managing user-level context switching. This is the statically linked version.",
+    "homepage": "https://github.com/kaniini/libucontext",
+    "installation": "pkg install libucontext-static",
+    "usage": "After installing libucontext-static, you can use it to manage user-level context switching in your applications.",
+    "features": [
+      "Context Switching: Provides tools for managing user-level context switching.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for context switching tasks.",
+      "Integration: Can be integrated into applications requiring user-level context switching.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libucontext documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to context switching and Libucontext for support and discussions.",
+      "GitHub": "Visit the Libucontext GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ucontext": "Not applicable",
+      "uninstall": "pkg uninstall libucontext-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libucontext",
+    "version": "1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libucontext is a library for managing user-level context switching.",
+    "homepage": "https://github.com/kaniini/libucontext",
+    "installation": "pkg install libucontext",
+    "usage": "After installing libucontext, you can use it to manage user-level context switching in your applications.",
+    "features": [
+      "Context Switching: Provides tools for managing user-level context switching.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for context switching tasks.",
+      "Integration: Can be integrated into applications requiring user-level context switching.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libucontext documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to context switching and Libucontext for support and discussions.",
+      "GitHub": "Visit the Libucontext GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ucontext": "Not applicable",
+      "uninstall": "pkg uninstall libucontext"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libudfread-static",
+    "version": "1.1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libudfread is a library for reading UDF (Universal Disk Format) file systems. This is the statically linked version.",
+    "homepage": "https://github.com/libyal/libudfread",
+    "installation": "pkg install libudfread-static",
+    "usage": "After installing libudfread-static, you can use it to read UDF file systems in your applications.",
+    "features": [
+      "UDF File Systems: Provides tools for reading Universal Disk Format (UDF) file systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for file system tasks.",
+      "Integration: Can be integrated into applications requiring UDF file system reading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libudfread documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file systems and Libudfread for support and discussions.",
+      "GitHub": "Visit the Libudfread GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_udfread": "Not applicable",
+      "uninstall": "pkg uninstall libudfread-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libudfread",
+    "version": "1.1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libudfread is a library for reading UDF (Universal Disk Format) file systems.",
+    "homepage": "https://github.com/libyal/libudfread",
+    "installation": "pkg install libudfread",
+    "usage": "After installing libudfread, you can use it to read UDF file systems in your applications.",
+    "features": [
+      "UDF File Systems: Provides tools for reading Universal Disk Format (UDF) file systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for file system tasks.",
+      "Integration: Can be integrated into applications requiring UDF file system reading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libudfread documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file systems and Libudfread for support and discussions.",
+      "GitHub": "Visit the Libudfread GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_udfread": "Not applicable",
+      "uninstall": "pkg uninstall libudfread"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libunbound-static",
+    "version": "1.22.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libunbound is a library that provides a simplified API to the Unbound DNS resolver. This is the statically linked version.",
+    "homepage": "https://www.nlnetlabs.nl/projects/unbound/about/",
+    "installation": "pkg install libunbound-static",
+    "usage": "After installing libunbound-static, you can use it to perform DNS resolution in your applications.",
+    "features": [
+      "DNS Resolution: Provides tools for performing DNS resolution.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for DNS tasks.",
+      "Integration: Can be integrated into applications requiring DNS resolution.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Unbound documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS resolution and Unbound for support and discussions.",
+      "GitHub": "Visit the Unbound GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_unbound": "Not applicable",
+      "uninstall": "pkg uninstall libunbound-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libunbound",
+    "version": "1.22.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libunbound is a library that provides a simplified API to the Unbound DNS resolver.",
+    "homepage": "https://www.nlnetlabs.nl/projects/unbound/about/",
+    "installation": "pkg install libunbound",
+    "usage": "After installing libunbound, you can use it to perform DNS resolution in your applications.",
+    "features": [
+      "DNS Resolution: Provides tools for performing DNS resolution.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for DNS tasks.",
+      "Integration: Can be integrated into applications requiring DNS resolution.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Unbound documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS resolution and Unbound for support and discussions.",
+      "GitHub": "Visit the Unbound GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_unbound": "Not applicable",
+      "uninstall": "pkg uninstall libunbound"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libunibilium",
+    "version": "2.1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libunibilium is a terminfo parsing library for terminal control.",
+    "homepage": "https://github.com/mauke/unibilium",
+    "installation": "pkg install libunibilium",
+    "usage": "After installing libunibilium, you can use it to parse terminfo entries and control terminal behavior in your applications.",
+    "features": [
+      "Terminfo Parsing: Provides tools for parsing terminfo entries.",
+      "Terminal Control: Offers functionalities for controlling terminal behavior.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for terminal control tasks.",
+      "Integration: Can be integrated into applications requiring terminal control.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Unibilium documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal control and Unibilium for support and discussions.",
+      "GitHub": "Visit the Unibilium GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_unibilium": "Not applicable",
+      "uninstall": "pkg uninstall libunibilium"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libunistring-static",
+    "version": "1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libunistring is a library for manipulating Unicode strings. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/libunistring/",
+    "installation": "pkg install libunistring-static",
+    "usage": "After installing libunistring-static, you can use it to manipulate Unicode strings in your applications.",
+    "features": [
+      "Unicode Strings: Provides tools for manipulating Unicode strings.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for string manipulation tasks.",
+      "Integration: Can be integrated into applications requiring Unicode string manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libunistring documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to string manipulation and Libunistring for support and discussions.",
+      "GitHub": "Visit the Libunistring GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_unistring": "Not applicable",
+      "uninstall": "pkg uninstall libunistring-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libunistring",
+    "version": "1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libunistring is a library for manipulating Unicode strings.",
+    "homepage": "https://www.gnu.org/software/libunistring/",
+    "installation": "pkg install libunistring",
+    "usage": "After installing libunistring, you can use it to manipulate Unicode strings in your applications.",
+    "features": [
+      "Unicode Strings: Provides tools for manipulating Unicode strings.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for string manipulation tasks.",
+      "Integration: Can be integrated into applications requiring Unicode string manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libunistring documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to string manipulation and Libunistring for support and discussions.",
+      "GitHub": "Visit the Libunistring GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_unistring": "Not applicable",
+      "uninstall": "pkg uninstall libunistring"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libunqlite",
+    "version": "1.1.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libunqlite is an embedded NoSQL database engine.",
+    "homepage": "https://unqlite.org/",
+    "installation": "pkg install libunqlite",
+    "usage": "After installing libunqlite, you can use it to implement NoSQL database functionalities in your applications.",
+    "features": [
+      "NoSQL Database: Provides tools for implementing NoSQL database functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring NoSQL database functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the UnQLite documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to NoSQL databases and UnQLite for support and discussions.",
+      "GitHub": "Visit the UnQLite GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_unqlite": "Not applicable",
+      "uninstall": "pkg uninstall libunqlite"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libupscaledb-static",
+    "version": "2.2.1p20210820-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libupscaledb is a fast key/value database library with a focus on high performance and scalability. This is the statically linked version.",
+    "homepage": "https://github.com/cruppstahl/upscaledb",
+    "installation": "pkg install libupscaledb-static",
+    "usage": "After installing libupscaledb-static, you can use it to implement key/value database functionalities in your applications.",
+    "features": [
+      "Key/Value Database: Provides tools for implementing key/value database functionalities.",
+      "High Performance: Optimized for high performance and scalability.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring key/value database functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Upscaledb documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to databases and Upscaledb for support and discussions.",
+      "GitHub": "Visit the Upscaledb GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_upscaledb": "Not applicable",
+      "uninstall": "pkg uninstall libupscaledb-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libupscaledb",
+    "version": "2.2.1p20210820-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libupscaledb is a fast key/value database library with a focus on high performance and scalability.",
+    "homepage": "https://github.com/cruppstahl/upscaledb",
+    "installation": "pkg install libupscaledb",
+    "usage": "After installing libupscaledb, you can use it to implement key/value database functionalities in your applications.",
+    "features": [
+      "Key/Value Database: Provides tools for implementing key/value database functionalities.",
+      "High Performance: Optimized for high performance and scalability.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring key/value database functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Upscaledb documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to databases and Upscaledb for support and discussions.",
+      "GitHub": "Visit the Upscaledb GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_upscaledb": "Not applicable",
+      "uninstall": "pkg uninstall libupscaledb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libusb-static",
+    "version": "1.0.27-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libusb is a library that provides generic access to USB devices. This is the statically linked version.",
+    "homepage": "https://libusb.info/",
+    "installation": "pkg install libusb-static",
+    "usage": "After installing libusb-static, you can use it to access USB devices in your applications.",
+    "features": [
+      "USB Access: Provides tools for accessing USB devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for USB tasks.",
+      "Integration: Can be integrated into applications requiring USB device access.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libusb documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to USB device access and Libusb for support and discussions.",
+      "GitHub": "Visit the Libusb GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_usb": "Not applicable",
+      "uninstall": "pkg uninstall libusb-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libusb",
+    "version": "1.0.27-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libusb is a library that provides generic access to USB devices.",
+    "homepage": "https://libusb.info/",
+    "installation": "pkg install libusb",
+    "usage": "After installing libusb, you can use it to access USB devices in your applications.",
+    "features": [
+      "USB Access: Provides tools for accessing USB devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for USB tasks.",
+      "Integration: Can be integrated into applications requiring USB device access.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libusb documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to USB device access and Libusb for support and discussions.",
+      "GitHub": "Visit the Libusb GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_usb": "Not applicable",
+      "uninstall": "pkg uninstall libusb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libusbmuxd-static",
+    "version": "2.0.2-p20230430-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libusbmuxd is a client library to multiplex USB connections from and to iOS devices. This is the statically linked version.",
+    "homepage": "https://github.com/libimobiledevice/libusbmuxd",
+    "installation": "pkg install libusbmuxd-static",
+    "usage": "After installing libusbmuxd-static, you can use it to manage USB connections with iOS devices in your applications.",
+    "features": [
+      "USB Multiplexing: Provides tools for multiplexing USB connections with iOS devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for USB multiplexing tasks.",
+      "Integration: Can be integrated into applications requiring USB multiplexing with iOS devices.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libusbmuxd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to USB multiplexing and Libusbmuxd for support and discussions.",
+      "GitHub": "Visit the Libusbmuxd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_usbmuxd": "Not applicable",
+      "uninstall": "pkg uninstall libusbmuxd-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libusbmuxd",
+    "version": "2.0.2-p20230430-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libusbmuxd is a client library to multiplex USB connections from and to iOS devices.",
+    "homepage": "https://github.com/libimobiledevice/libusbmuxd",
+    "installation": "pkg install libusbmuxd",
+    "usage": "After installing libusbmuxd, you can use it to manage USB connections with iOS devices in your applications.",
+    "features": [
+      "USB Multiplexing: Provides tools for multiplexing USB connections with iOS devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for USB multiplexing tasks.",
+      "Integration: Can be integrated into applications requiring USB multiplexing with iOS devices.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libusbmuxd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to USB multiplexing and Libusbmuxd for support and discussions.",
+      "GitHub": "Visit the Libusbmuxd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_usbmuxd": "Not applicable",
+      "uninstall": "pkg uninstall libusbmuxd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libusbredir",
+    "version": "0.13.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libusbredir is a library that provides a USB redirection protocol for remote devices.",
+    "homepage": "https://www.spice-space.org/",
+    "installation": "pkg install libusbredir",
+    "usage": "After installing libusbredir, you can use it to redirect USB devices over a network.",
+    "features": [
+      "USB Redirection: Provides tools for redirecting USB devices over a network.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for USB redirection tasks.",
+      "Integration: Can be integrated into applications requiring USB redirection.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Spice documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to USB redirection and Spice for support and discussions.",
+      "GitHub": "Visit the Spice GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_usbredir": "Not applicable",
+      "uninstall": "pkg uninstall libusbredir"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libutf8-range",
+    "version": "25.1-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libutf8-range is a library that provides a range-based interface for processing UTF-8 encoded text.",
+    "homepage": "https://github.com/ganwell/libutf8-range",
+    "installation": "pkg install libutf8-range",
+    "usage": "After installing libutf8-range, you can use it to process UTF-8 encoded text in your applications.",
+    "features": [
+      "UTF-8 Processing: Provides tools for processing UTF-8 encoded text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for text processing tasks.",
+      "Integration: Can be integrated into applications requiring UTF-8 text processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the libutf8-range documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and libutf8-range for support and discussions.",
+      "GitHub": "Visit the libutf8-range GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_utf8_range": "Not applicable",
+      "uninstall": "pkg uninstall libutf8-range"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libuuid",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libuuid is a library that generates and parses universally unique identifiers (UUIDs).",
+    "homepage": "https://www.kernel.org/pub/linux/utils/util-linux/",
+    "installation": "pkg install libuuid",
+    "usage": "After installing libuuid, you can use it to generate and parse UUIDs in your applications.",
+    "features": [
+      "UUID Generation: Provides tools for generating universally unique identifiers.",
+      "UUID Parsing: Tools for parsing UUIDs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for UUID tasks.",
+      "Integration: Can be integrated into applications requiring UUID generation and parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the util-linux documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to UUIDs and util-linux for support and discussions.",
+      "GitHub": "Visit the util-linux GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_uuid": "Not applicable",
+      "uninstall": "pkg uninstall libuuid"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libuv-static",
+    "version": "1.50.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libuv is a multi-platform support library with a focus on asynchronous I/O. This is the statically linked version.",
+    "homepage": "https://libuv.org/",
+    "installation": "pkg install libuv-static",
+    "usage": "After installing libuv-static, you can use it to implement asynchronous I/O operations in your applications.",
+    "features": [
+      "Asynchronous I/O: Provides tools for implementing asynchronous I/O operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for I/O tasks.",
+      "Integration: Can be integrated into applications requiring asynchronous I/O.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the libuv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to asynchronous I/O and libuv for support and discussions.",
+      "GitHub": "Visit the libuv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_uv": "Not applicable",
+      "uninstall": "pkg uninstall libuv-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libuv",
+    "version": "1.50.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libuv is a multi-platform support library with a focus on asynchronous I/O.",
+    "homepage": "https://libuv.org/",
+    "installation": "pkg install libuv",
+    "usage": "After installing libuv, you can use it to implement asynchronous I/O operations in your applications.",
+    "features": [
+      "Asynchronous I/O: Provides tools for implementing asynchronous I/O operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for I/O tasks.",
+      "Integration: Can be integrated into applications requiring asynchronous I/O.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the libuv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to asynchronous I/O and libuv for support and discussions.",
+      "GitHub": "Visit the libuv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_uv": "Not applicable",
+      "uninstall": "pkg uninstall libuv"
+    },
+    "isFavorite": false
+  }
+]

@@ -1,0 +1,1422 @@
+[
+  {
+    "name": "libv4l-static",
+    "version": "1.24.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libv4l is a collection of libraries that adds a thin abstraction layer on top of video4linux2 devices. This is the statically linked version.",
+    "homepage": "https://linuxtv.org/",
+    "installation": "pkg install libv4l-static",
+    "usage": "After installing libv4l-static, you can use it to interact with video4linux2 devices in your applications.",
+    "features": [
+      "Video4Linux2: Provides tools for interacting with video4linux2 devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for video tasks.",
+      "Integration: Can be integrated into applications requiring video4linux2 interaction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LinuxTV documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video4linux2 and LinuxTV for support and discussions.",
+      "GitHub": "Visit the LinuxTV GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_v4l": "Not applicable",
+      "uninstall": "pkg uninstall libv4l-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libv4l",
+    "version": "1.24.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libv4l is a collection of libraries that adds a thin abstraction layer on top of video4linux2 devices.",
+    "homepage": "https://linuxtv.org/",
+    "installation": "pkg install libv4l",
+    "usage": "After installing libv4l, you can use it to interact with video4linux2 devices in your applications.",
+    "features": [
+      "Video4Linux2: Provides tools for interacting with video4linux2 devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for video tasks.",
+      "Integration: Can be integrated into applications requiring video4linux2 interaction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LinuxTV documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video4linux2 and LinuxTV for support and discussions.",
+      "GitHub": "Visit the LinuxTV GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_v4l": "Not applicable",
+      "uninstall": "pkg uninstall libv4l"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvbisam-static",
+    "version": "2.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvbisam is a library that provides an ISAM (Indexed Sequential Access Method) file system. This is the statically linked version.",
+    "homepage": "https://sourceforge.net/projects/vbisam/",
+    "installation": "pkg install libvbisam-static",
+    "usage": "After installing libvbisam-static, you can use it to manage ISAM file systems in your applications.",
+    "features": [
+      "ISAM File System: Provides tools for managing ISAM file systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for file system tasks.",
+      "Integration: Can be integrated into applications requiring ISAM file system management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the VBISAM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file systems and VBISAM for support and discussions.",
+      "GitHub": "Visit the VBISAM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vbisam": "Not applicable",
+      "uninstall": "pkg uninstall libvbisam-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvbisam",
+    "version": "2.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvbisam is a library that provides an ISAM (Indexed Sequential Access Method) file system.",
+    "homepage": "https://sourceforge.net/projects/vbisam/",
+    "installation": "pkg install libvbisam",
+    "usage": "After installing libvbisam, you can use it to manage ISAM file systems in your applications.",
+    "features": [
+      "ISAM File System: Provides tools for managing ISAM file systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for file system tasks.",
+      "Integration: Can be integrated into applications requiring ISAM file system management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the VBISAM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file systems and VBISAM for support and discussions.",
+      "GitHub": "Visit the VBISAM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vbisam": "Not applicable",
+      "uninstall": "pkg uninstall libvbisam"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvidstab",
+    "version": "1.1.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvidstab is a video stabilization library.",
+    "homepage": "https://github.com/georgmartius/vid.stab",
+    "installation": "pkg install libvidstab",
+    "usage": "After installing libvidstab, you can use it to stabilize video footage in your applications.",
+    "features": [
+      "Video Stabilization: Provides tools for stabilizing video footage.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for stabilization tasks.",
+      "Integration: Can be integrated into applications requiring video stabilization.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the VidStab documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video stabilization and VidStab for support and discussions.",
+      "GitHub": "Visit the VidStab GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vidstab": "Not applicable",
+      "uninstall": "pkg uninstall libvidstab"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvigra",
+    "version": "1.12.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvigra is a computer vision library that provides algorithms for image analysis.",
+    "homepage": "http://ukoethe.github.io/vigra/",
+    "installation": "pkg install libvigra",
+    "usage": "After installing libvigra, you can use it to perform image analysis tasks in your applications.",
+    "features": [
+      "Image Analysis: Provides algorithms for image analysis.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image analysis tasks.",
+      "Integration: Can be integrated into applications requiring image analysis.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Vigra documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to computer vision and Vigra for support and discussions.",
+      "GitHub": "Visit the Vigra GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vigra": "Not applicable",
+      "uninstall": "pkg uninstall libvigra"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvips",
+    "version": "8.16.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvips is a fast image processing library with low memory needs.",
+    "homepage": "https://libvips.github.io/libvips/",
+    "installation": "pkg install libvips",
+    "usage": "After installing libvips, you can use it to process images efficiently in your applications.",
+    "features": [
+      "Image Processing: Provides tools for fast and efficient image processing.",
+      "Low Memory Usage: Designed to use low amounts of memory.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image processing tasks.",
+      "Integration: Can be integrated into applications requiring image processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libvips documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libvips for support and discussions.",
+      "GitHub": "Visit the Libvips GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vips": "Not applicable",
+      "uninstall": "pkg uninstall libvips"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvmaf-static",
+    "version": "3.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvmaf is a library for Video Multimethod Assessment Fusion (VMAF), a perceptual video quality assessment algorithm. This is the statically linked version.",
+    "homepage": "https://github.com/Netflix/vmaf",
+    "installation": "pkg install libvmaf-static",
+    "usage": "After installing libvmaf-static, you can use it to assess video quality in your applications.",
+    "features": [
+      "Video Quality Assessment: Provides tools for assessing video quality using the VMAF algorithm.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for video quality assessment tasks.",
+      "Integration: Can be integrated into applications requiring video quality assessment.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the VMAF documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video quality assessment and VMAF for support and discussions.",
+      "GitHub": "Visit the VMAF GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vmaf": "Not applicable",
+      "uninstall": "pkg uninstall libvmaf-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvmaf",
+    "version": "3.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvmaf is a library for Video Multimethod Assessment Fusion (VMAF), a perceptual video quality assessment algorithm.",
+    "homepage": "https://github.com/Netflix/vmaf",
+    "installation": "pkg install libvmaf",
+    "usage": "After installing libvmaf, you can use it to assess video quality in your applications.",
+    "features": [
+      "Video Quality Assessment: Provides tools for assessing video quality using the VMAF algorithm.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for video quality assessment tasks.",
+      "Integration: Can be integrated into applications requiring video quality assessment.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the VMAF documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video quality assessment and VMAF for support and discussions.",
+      "GitHub": "Visit the VMAF GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vmaf": "Not applicable",
+      "uninstall": "pkg uninstall libvmaf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvo-amrwbenc-static",
+    "version": "0.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvo-amrwbenc is a library for encoding AMR-WB (Adaptive Multi-Rate Wideband) audio. This is the statically linked version.",
+    "homepage": "https://sourceforge.net/projects/opencore-amr/",
+    "installation": "pkg install libvo-amrwbenc-static",
+    "usage": "After installing libvo-amrwbenc-static, you can use it to encode AMR-WB audio in your applications.",
+    "features": [
+      "AMR-WB Encoding: Provides tools for encoding AMR-WB audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio encoding tasks.",
+      "Integration: Can be integrated into applications requiring AMR-WB audio encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OpenCORE AMR documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio encoding and OpenCORE AMR for support and discussions.",
+      "GitHub": "Visit the OpenCORE AMR GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vo_amrwbenc": "Not applicable",
+      "uninstall": "pkg uninstall libvo-amrwbenc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvo-amrwbenc",
+    "version": "0.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvo-amrwbenc is a library for encoding AMR-WB (Adaptive Multi-Rate Wideband) audio.",
+    "homepage": "https://sourceforge.net/projects/opencore-amr/",
+    "installation": "pkg install libvo-amrwbenc",
+    "usage": "After installing libvo-amrwbenc, you can use it to encode AMR-WB audio in your applications.",
+    "features": [
+      "AMR-WB Encoding: Provides tools for encoding AMR-WB audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio encoding tasks.",
+      "Integration: Can be integrated into applications requiring AMR-WB audio encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OpenCORE AMR documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio encoding and OpenCORE AMR for support and discussions.",
+      "GitHub": "Visit the OpenCORE AMR GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vo_amrwbenc": "Not applicable",
+      "uninstall": "pkg uninstall libvo-amrwbenc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvoikko-static",
+    "version": "4.3.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvoikko is a library for spellchecking and hyphenation for Finnish. This is the statically linked version.",
+    "homepage": "https://voikko.puimula.org/",
+    "installation": "pkg install libvoikko-static",
+    "usage": "After installing libvoikko-static, you can use it to perform spellchecking and hyphenation for Finnish text in your applications.",
+    "features": [
+      "Spellchecking: Provides tools for spellchecking Finnish text.",
+      "Hyphenation: Tools for hyphenating Finnish text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for text processing tasks.",
+      "Integration: Can be integrated into applications requiring Finnish spellchecking and hyphenation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Voikko documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and Voikko for support and discussions.",
+      "GitHub": "Visit the Voikko GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_voikko": "Not applicable",
+      "uninstall": "pkg uninstall libvoikko-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvoikko",
+    "version": "4.3.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvoikko is a library for spellchecking and hyphenation for Finnish.",
+    "homepage": "https://voikko.puimula.org/",
+    "installation": "pkg install libvoikko",
+    "usage": "After installing libvoikko, you can use it to perform spellchecking and hyphenation for Finnish text in your applications.",
+    "features": [
+      "Spellchecking: Provides tools for spellchecking Finnish text.",
+      "Hyphenation: Tools for hyphenating Finnish text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for text processing tasks.",
+      "Integration: Can be integrated into applications requiring Finnish spellchecking and hyphenation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Voikko documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and Voikko for support and discussions.",
+      "GitHub": "Visit the Voikko GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_voikko": "Not applicable",
+      "uninstall": "pkg uninstall libvoikko"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvorbis-static",
+    "version": "1.3.7-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvorbis is a library for encoding and decoding Vorbis audio. This is the statically linked version.",
+    "homepage": "https://xiph.org/vorbis/",
+    "installation": "pkg install libvorbis-static",
+    "usage": "After installing libvorbis-static, you can use it to encode and decode Vorbis audio in your applications.",
+    "features": [
+      "Vorbis Audio: Provides tools for encoding and decoding Vorbis audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring Vorbis audio encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Xiph documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Xiph for support and discussions.",
+      "GitHub": "Visit the Xiph GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vorbis": "Not applicable",
+      "uninstall": "pkg uninstall libvorbis-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvorbis",
+    "version": "1.3.7-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvorbis is a library for encoding and decoding Vorbis audio.",
+    "homepage": "https://xiph.org/vorbis/",
+    "installation": "pkg install libvorbis",
+    "usage": "After installing libvorbis, you can use it to encode and decode Vorbis audio in your applications.",
+    "features": [
+      "Vorbis Audio: Provides tools for encoding and decoding Vorbis audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring Vorbis audio encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Xiph documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Xiph for support and discussions.",
+      "GitHub": "Visit the Xiph GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vorbis": "Not applicable",
+      "uninstall": "pkg uninstall libvorbis"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvpx-static",
+    "version": "1:1.15.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvpx is a library for encoding and decoding VP8 and VP9 video. This is the statically linked version.",
+    "homepage": "https://www.webmproject.org/",
+    "installation": "pkg install libvpx-static",
+    "usage": "After installing libvpx-static, you can use it to encode and decode VP8 and VP9 video in your applications.",
+    "features": [
+      "VP8/VP9 Video: Provides tools for encoding and decoding VP8 and VP9 video.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for video tasks.",
+      "Integration: Can be integrated into applications requiring VP8 and VP9 video encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the WebM Project documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video processing and WebM Project for support and discussions.",
+      "GitHub": "Visit the WebM Project GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vpx": "Not applicable",
+      "uninstall": "pkg uninstall libvpx-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvpx",
+    "version": "1:1.15.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvpx is a library for encoding and decoding VP8 and VP9 video.",
+    "homepage": "https://www.webmproject.org/",
+    "installation": "pkg install libvpx",
+    "usage": "After installing libvpx, you can use it to encode and decode VP8 and VP9 video in your applications.",
+    "features": [
+      "VP8/VP9 Video: Provides tools for encoding and decoding VP8 and VP9 video.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for video tasks.",
+      "Integration: Can be integrated into applications requiring VP8 and VP9 video encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the WebM Project documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video processing and WebM Project for support and discussions.",
+      "GitHub": "Visit the WebM Project GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vpx": "Not applicable",
+      "uninstall": "pkg uninstall libvpx"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvterm",
+    "version": "0.3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvterm is a library for emulating terminal emulators.",
+    "homepage": "http://www.leonerd.org.uk/code/libvterm/",
+    "installation": "pkg install libvterm",
+    "usage": "After installing libvterm, you can use it to emulate terminal emulators in your applications.",
+    "features": [
+      "Terminal Emulation: Provides tools for emulating terminal emulators.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for emulation tasks.",
+      "Integration: Can be integrated into applications requiring terminal emulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libvterm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal emulation and Libvterm for support and discussions.",
+      "GitHub": "Visit the Libvterm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vterm": "Not applicable",
+      "uninstall": "pkg uninstall libvterm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libvxl",
+    "version": "3.5.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libvxl is a computer vision library that provides algorithms for image processing and computer vision tasks.",
+    "homepage": "https://vxl.github.io/",
+    "installation": "pkg install libvxl",
+    "usage": "After installing libvxl, you can use it to perform image processing and computer vision tasks in your applications.",
+    "features": [
+      "Image Processing: Provides algorithms for image processing.",
+      "Computer Vision: Tools for computer vision tasks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image processing and computer vision tasks.",
+      "Integration: Can be integrated into applications requiring image processing and computer vision.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the VXL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to computer vision and VXL for support and discussions.",
+      "GitHub": "Visit the VXL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_vxl": "Not applicable",
+      "uninstall": "pkg uninstall libvxl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwavpack-static",
+    "version": "5.8.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwavpack is a library for encoding and decoding WavPack audio. This is the statically linked version.",
+    "homepage": "https://www.wavpack.com/",
+    "installation": "pkg install libwavpack-static",
+    "usage": "After installing libwavpack-static, you can use it to encode and decode WavPack audio in your applications.",
+    "features": [
+      "WavPack Audio: Provides tools for encoding and decoding WavPack audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring WavPack audio encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the WavPack documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and WavPack for support and discussions.",
+      "GitHub": "Visit the WavPack GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_wavpack": "Not applicable",
+      "uninstall": "pkg uninstall libwavpack-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwavpack",
+    "version": "5.8.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwavpack is a library for encoding and decoding WavPack audio.",
+    "homepage": "https://www.wavpack.com/",
+    "installation": "pkg install libwavpack",
+    "usage": "After installing libwavpack, you can use it to encode and decode WavPack audio in your applications.",
+    "features": [
+      "WavPack Audio: Provides tools for encoding and decoding WavPack audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring WavPack audio encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the WavPack documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and WavPack for support and discussions.",
+      "GitHub": "Visit the WavPack GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_wavpack": "Not applicable",
+      "uninstall": "pkg uninstall libwavpack"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwayland-cross-scanner",
+    "version": "1.23.1-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Libwayland-cross-scanner is a tool for scanning Wayland protocol files and generating C headers.",
+    "homepage": "https://wayland.freedesktop.org/",
+    "installation": "pkg install libwayland-cross-scanner",
+    "usage": "After installing libwayland-cross-scanner, you can use it to scan Wayland protocol files and generate C headers in your applications.",
+    "features": [
+      "Wayland Protocol: Provides tools for scanning Wayland protocol files.",
+      "C Headers: Generates C headers from Wayland protocol files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for protocol scanning tasks.",
+      "Integration: Can be integrated into applications requiring Wayland protocol scanning.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Wayland documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Wayland and protocol scanning for support and discussions.",
+      "GitHub": "Visit the Wayland GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_wayland_scanner": "Not applicable",
+      "uninstall": "pkg uninstall libwayland-cross-scanner"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwayland-protocols",
+    "version": "1.38",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Libwayland-protocols is a collection of Wayland protocol files that define the communication between Wayland clients and servers.",
+    "homepage": "https://wayland.freedesktop.org/",
+    "installation": "pkg install libwayland-protocols",
+    "usage": "After installing libwayland-protocols, you can use it to define communication between Wayland clients and servers in your applications.",
+    "features": [
+      "Wayland Protocols: Provides Wayland protocol files for client-server communication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers predefined protocol files for Wayland communication tasks.",
+      "Integration: Can be integrated into applications requiring Wayland protocol definitions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Wayland documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Wayland and protocol definitions for support and discussions.",
+      "GitHub": "Visit the Wayland GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_wayland_protocols": "Not applicable",
+      "uninstall": "pkg uninstall libwayland-protocols"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwayland",
+    "version": "1.23.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwayland is a library that provides the core Wayland protocol and window system.",
+    "homepage": "https://wayland.freedesktop.org/",
+    "installation": "pkg install libwayland",
+    "usage": "After installing libwayland, you can use it to implement the core Wayland protocol and window system in your applications.",
+    "features": [
+      "Wayland Protocol: Provides the core Wayland protocol.",
+      "Window System: Offers a window system for Wayland clients and servers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for Wayland tasks.",
+      "Integration: Can be integrated into applications requiring the Wayland protocol and window system.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Wayland documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Wayland and window systems for support and discussions.",
+      "GitHub": "Visit the Wayland GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_wayland": "Not applicable",
+      "uninstall": "pkg uninstall libwayland"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwebp-static",
+    "version": "1.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwebp is a library for encoding and decoding WebP images. This is the statically linked version.",
+    "homepage": "https://developers.google.com/speed/webp",
+    "installation": "pkg install libwebp-static",
+    "usage": "After installing libwebp-static, you can use it to encode and decode WebP images in your applications.",
+    "features": [
+      "WebP Images: Provides tools for encoding and decoding WebP images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for image tasks.",
+      "Integration: Can be integrated into applications requiring WebP image encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the WebP documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and WebP for support and discussions.",
+      "GitHub": "Visit the WebP GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_webp": "Not applicable",
+      "uninstall": "pkg uninstall libwebp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwebp",
+    "version": "1.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwebp is a library for encoding and decoding WebP images.",
+    "homepage": "https://developers.google.com/speed/webp",
+    "installation": "pkg install libwebp",
+    "usage": "After installing libwebp, you can use it to encode and decode WebP images in your applications.",
+    "features": [
+      "WebP Images: Provides tools for encoding and decoding WebP images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image tasks.",
+      "Integration: Can be integrated into applications requiring WebP image encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the WebP documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and WebP for support and discussions.",
+      "GitHub": "Visit the WebP GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_webp": "Not applicable",
+      "uninstall": "pkg uninstall libwebp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwebrtc-audio-processing",
+    "version": "1.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwebrtc-audio-processing is a library for audio processing for WebRTC.",
+    "homepage": "https://webrtc.org/",
+    "installation": "pkg install libwebrtc-audio-processing",
+    "usage": "After installing libwebrtc-audio-processing, you can use it to perform audio processing tasks in your WebRTC applications.",
+    "features": [
+      "Audio Processing: Provides tools for audio processing in WebRTC.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for audio processing tasks.",
+      "Integration: Can be integrated into applications requiring WebRTC audio processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the WebRTC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to WebRTC and audio processing for support and discussions.",
+      "GitHub": "Visit the WebRTC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_webrtc_audio_processing": "Not applicable",
+      "uninstall": "pkg uninstall libwebrtc-audio-processing"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwebsockets",
+    "version": "4.3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwebsockets is a lightweight library for WebSocket communication.",
+    "homepage": "https://libwebsockets.org/",
+    "installation": "pkg install libwebsockets",
+    "usage": "After installing libwebsockets, you can use it to implement WebSocket communication in your applications.",
+    "features": [
+      "WebSocket Communication: Provides tools for implementing WebSocket communication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for WebSocket tasks.",
+      "Integration: Can be integrated into applications requiring WebSocket communication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libwebsockets documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to WebSocket communication and Libwebsockets for support and discussions.",
+      "GitHub": "Visit the Libwebsockets GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_websockets": "Not applicable",
+      "uninstall": "pkg uninstall libwebsockets"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwolfssl",
+    "version": "5.7.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwolfssl is a lightweight, portable SSL/TLS library.",
+    "homepage": "https://www.wolfssl.com/",
+    "installation": "pkg install libwolfssl",
+    "usage": "After installing libwolfssl, you can use it to implement SSL/TLS communication in your applications.",
+    "features": [
+      "SSL/TLS: Provides tools for implementing SSL/TLS communication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for SSL/TLS tasks.",
+      "Integration: Can be integrated into applications requiring SSL/TLS communication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the WolfSSL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SSL/TLS communication and WolfSSL for support and discussions.",
+      "GitHub": "Visit the WolfSSL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_wolfssl": "Not applicable",
+      "uninstall": "pkg uninstall libwolfssl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwren",
+    "version": "0.4.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwren is a small, fast, class-based scripting language.",
+    "homepage": "https://wren.io/",
+    "installation": "pkg install libwren",
+    "usage": "After installing libwren, you can use it to implement scripting functionality in your applications.",
+    "features": [
+      "Scripting Language: Provides a small, fast, class-based scripting language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for scripting tasks.",
+      "Integration: Can be integrated into applications requiring scripting functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Wren documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to scripting and Wren for support and discussions.",
+      "GitHub": "Visit the Wren GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_wren": "Not applicable",
+      "uninstall": "pkg uninstall libwren"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwslay",
+    "version": "1.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwslay is a WebSocket library written in C.",
+    "homepage": "https://github.com/tatsuhiro-t/wslay",
+    "installation": "pkg install libwslay",
+    "usage": "After installing libwslay, you can use it to implement WebSocket communication in your applications.",
+    "features": [
+      "WebSocket Communication: Provides tools for implementing WebSocket communication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for WebSocket tasks.",
+      "Integration: Can be integrated into applications requiring WebSocket communication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Wslay documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to WebSocket communication and Wslay for support and discussions.",
+      "GitHub": "Visit the Wslay GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_wslay": "Not applicable",
+      "uninstall": "pkg uninstall libwslay"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwv-static",
+    "version": "1.2.9-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwv is a library for accessing Microsoft Word documents. This is the statically linked version.",
+    "homepage": "http://wvware.sourceforge.net/",
+    "installation": "pkg install libwv-static",
+    "usage": "After installing libwv-static, you can use it to access and manipulate Microsoft Word documents in your applications.",
+    "features": [
+      "Microsoft Word: Provides tools for accessing and manipulating Microsoft Word documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for document tasks.",
+      "Integration: Can be integrated into applications requiring Microsoft Word document access.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the WVware documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to document processing and WVware for support and discussions.",
+      "GitHub": "Visit the WVware GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_wv": "Not applicable",
+      "uninstall": "pkg uninstall libwv-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libwv",
+    "version": "1.2.9-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libwv is a library for accessing Microsoft Word documents.",
+    "homepage": "http://wvware.sourceforge.net/",
+    "installation": "pkg install libwv",
+    "usage": "After installing libwv, you can use it to access and manipulate Microsoft Word documents in your applications.",
+    "features": [
+      "Microsoft Word: Provides tools for accessing and manipulating Microsoft Word documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for document tasks.",
+      "Integration: Can be integrated into applications requiring Microsoft Word document access.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the WVware documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to document processing and WVware for support and discussions.",
+      "GitHub": "Visit the WVware GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_wv": "Not applicable",
+      "uninstall": "pkg uninstall libwv"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libx11-static",
+    "version": "1.8.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libx11 is the core X11 protocol library. This is the statically linked version.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libx11-static",
+    "usage": "After installing libx11-static, you can use it to interact with the X11 protocol in your applications.",
+    "features": [
+      "X11 Protocol: Provides tools for interacting with the X11 protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for X11 tasks.",
+      "Integration: Can be integrated into applications requiring X11 protocol interaction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X11 protocol and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_x11": "Not applicable",
+      "uninstall": "pkg uninstall libx11-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libx11",
+    "version": "1.8.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libx11 is the core X11 protocol library.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libx11",
+    "usage": "After installing libx11, you can use it to interact with the X11 protocol in your applications.",
+    "features": [
+      "X11 Protocol: Provides tools for interacting with the X11 protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for X11 tasks.",
+      "Integration: Can be integrated into applications requiring X11 protocol interaction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X11 protocol and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_x11": "Not applicable",
+      "uninstall": "pkg uninstall libx11"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libx264-static",
+    "version": "1:0.164.3191",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libx264 is a library for encoding H.264/MPEG-4 AVC video streams. This is the statically linked version.",
+    "homepage": "https://www.videolan.org/developers/x264.html",
+    "installation": "pkg install libx264-static",
+    "usage": "After installing libx264-static, you can use it to encode H.264/MPEG-4 AVC video streams in your applications.",
+    "features": [
+      "H.264 Encoding: Provides tools for encoding H.264/MPEG-4 AVC video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for video encoding tasks.",
+      "Integration: Can be integrated into applications requiring H.264/MPEG-4 AVC video encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the x264 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video encoding and x264 for support and discussions.",
+      "GitHub": "Visit the x264 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_x264": "Not applicable",
+      "uninstall": "pkg uninstall libx264-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libx264",
+    "version": "1:0.164.3191",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libx264 is a library for encoding H.264/MPEG-4 AVC video streams.",
+    "homepage": "https://www.videolan.org/developers/x264.html",
+    "installation": "pkg install libx264",
+    "usage": "After installing libx264, you can use it to encode H.264/MPEG-4 AVC video streams in your applications.",
+    "features": [
+      "H.264 Encoding: Provides tools for encoding H.264/MPEG-4 AVC video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for video encoding tasks.",
+      "Integration: Can be integrated into applications requiring H.264/MPEG-4 AVC video encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the x264 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video encoding and x264 for support and discussions.",
+      "GitHub": "Visit the x264 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_x264": "Not applicable",
+      "uninstall": "pkg uninstall libx264"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libx265-static",
+    "version": "4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libx265 is a library for encoding H.265/HEVC video streams. This is the statically linked version.",
+    "homepage": "https://x265.org/",
+    "installation": "pkg install libx265-static",
+    "usage": "After installing libx265-static, you can use it to encode H.265/HEVC video streams in your applications.",
+    "features": [
+      "H.265 Encoding: Provides tools for encoding H.265/HEVC video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for video encoding tasks.",
+      "Integration: Can be integrated into applications requiring H.265/HEVC video encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the x265 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video encoding and x265 for support and discussions.",
+      "GitHub": "Visit the x265 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_x265": "Not applicable",
+      "uninstall": "pkg uninstall libx265-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libx265",
+    "version": "4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libx265 is a library for encoding H.265/HEVC video streams.",
+    "homepage": "https://x265.org/",
+    "installation": "pkg install libx265",
+    "usage": "After installing libx265, you can use it to encode H.265/HEVC video streams in your applications.",
+    "features": [
+      "H.265 Encoding: Provides tools for encoding H.265/HEVC video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for video encoding tasks.",
+      "Integration: Can be integrated into applications requiring H.265/HEVC video encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the x265 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video encoding and x265 for support and discussions.",
+      "GitHub": "Visit the x265 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_x265": "Not applicable",
+      "uninstall": "pkg uninstall libx265"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxapian-static",
+    "version": "1.4.27",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxapian is a search engine library. This is the statically linked version.",
+    "homepage": "https://xapian.org/",
+    "installation": "pkg install libxapian-static",
+    "usage": "After installing libxapian-static, you can use it to implement search functionality in your applications.",
+    "features": [
+      "Search Engine: Provides tools for implementing search functionality.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for search tasks.",
+      "Integration: Can be integrated into applications requiring search functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Xapian documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to search engines and Xapian for support and discussions.",
+      "GitHub": "Visit the Xapian GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xapian": "Not applicable",
+      "uninstall": "pkg uninstall libxapian-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxapian",
+    "version": "1.4.27",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxapian is a search engine library.",
+    "homepage": "https://xapian.org/",
+    "installation": "pkg install libxapian",
+    "usage": "After installing libxapian, you can use it to implement search functionality in your applications.",
+    "features": [
+      "Search Engine: Provides tools for implementing search functionality.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for search tasks.",
+      "Integration: Can be integrated into applications requiring search functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Xapian documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to search engines and Xapian for support and discussions.",
+      "GitHub": "Visit the Xapian GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xapian": "Not applicable",
+      "uninstall": "pkg uninstall libxapian"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxau",
+    "version": "1.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxau is a library that provides the X11 authorisation protocol.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxau",
+    "usage": "After installing libxau, you can use it to implement the X11 authorisation protocol in your applications.",
+    "features": [
+      "X11 Authorisation: Provides tools for implementing the X11 authorisation protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for authorisation tasks.",
+      "Integration: Can be integrated into applications requiring X11 authorisation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X11 authorisation and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xau": "Not applicable",
+      "uninstall": "pkg uninstall libxau"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxcb-static",
+    "version": "1.17.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxcb is a library providing an interface to the X Window System protocol, specifically the X protocol C-language Binding (XCB). This is the statically linked version.",
+    "homepage": "https://xcb.freedesktop.org/",
+    "installation": "pkg install libxcb-static",
+    "usage": "After installing libxcb-static, you can use it to interface with the X Window System protocol in your applications.",
+    "features": [
+      "X Window System Protocol: Provides a C-language binding interface to the X Window System protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Performance: Designed to be lightweight and more efficient compared to Xlib.",
+      "Ease of Use: Offers an intuitive API for X Window System tasks.",
+      "Integration: Can be integrated into applications requiring X Window System protocol interaction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the XCB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X Window System and XCB for support and discussions.",
+      "GitHub": "Visit the XCB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xcb": "Not applicable",
+      "uninstall": "pkg uninstall libxcb-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxcb",
+    "version": "1.17.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxcb is a library providing an interface to the X Window System protocol, specifically the X protocol C-language Binding (XCB).",
+    "homepage": "https://xcb.freedesktop.org/",
+    "installation": "pkg install libxcb",
+    "usage": "After installing libxcb, you can use it to interface with the X Window System protocol in your applications.",
+    "features": [
+      "X Window System Protocol: Provides a C-language binding interface to the X Window System protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Performance: Designed to be lightweight and more efficient compared to Xlib.",
+      "Ease of Use: Offers an intuitive API for X Window System tasks.",
+      "Integration: Can be integrated into applications requiring X Window System protocol interaction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the XCB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X Window System and XCB for support and discussions.",
+      "GitHub": "Visit the XCB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xcb": "Not applicable",
+      "uninstall": "pkg uninstall libxcb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxcfun",
+    "version": "2.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxcfun is a library that provides fundamental functions for X-ray spectroscopy calculations.",
+    "homepage": "https://github.com/libxc/libxc",
+    "installation": "pkg install libxcfun",
+    "usage": "After installing libxcfun, you can use it to perform X-ray spectroscopy calculations in your applications.",
+    "features": [
+      "X-ray Spectroscopy: Provides fundamental functions for X-ray spectroscopy calculations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for spectroscopy tasks.",
+      "Integration: Can be integrated into applications requiring X-ray spectroscopy calculations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LibXC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spectroscopy and LibXC for support and discussions.",
+      "GitHub": "Visit the LibXC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xcfun": "Not applicable",
+      "uninstall": "pkg uninstall libxcfun"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxdg-basedir-static",
+    "version": "1.2.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxdg-basedir is a library that provides functions to locate standard directories and files as specified in the XDG Base Directory Specification. This is the statically linked version.",
+    "homepage": "https://github.com/devnev/libxdg-basedir",
+    "installation": "pkg install libxdg-basedir-static",
+    "usage": "After installing libxdg-basedir-static, you can use it to locate standard directories and files in your applications.",
+    "features": [
+      "XDG Base Directory Specification: Provides functions to locate standard directories and files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for directory and file location tasks.",
+      "Integration: Can be integrated into applications requiring XDG Base Directory Specification compliance.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LibXDG-Basedir documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to directory specifications and LibXDG-Basedir for support and discussions.",
+      "GitHub": "Visit the LibXDG-Basedir GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xdg_basedir": "Not applicable",
+      "uninstall": "pkg uninstall libxdg-basedir-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxdg-basedir",
+    "version": "1.2.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxdg-basedir is a library that provides functions to locate standard directories and files as specified in the XDG Base Directory Specification.",
+    "homepage": "https://github.com/devnev/libxdg-basedir",
+    "installation": "pkg install libxdg-basedir",
+    "usage": "After installing libxdg-basedir, you can use it to locate standard directories and files in your applications.",
+    "features": [
+      "XDG Base Directory Specification: Provides functions to locate standard directories and files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for directory and file location tasks.",
+      "Integration: Can be integrated into applications requiring XDG Base Directory Specification compliance.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LibXDG-Basedir documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to directory specifications and LibXDG-Basedir for support and discussions.",
+      "GitHub": "Visit the LibXDG-Basedir GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xdg_basedir": "Not applicable",
+      "uninstall": "pkg uninstall libxdg-basedir"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxdmcp-static",
+    "version": "1.1.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxdmcp is a library that implements the X Display Manager Control Protocol (XDMCP). This is the statically linked version.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxdmcp-static",
+    "usage": "After installing libxdmcp-static, you can use it to implement the X Display Manager Control Protocol (XDMCP) in your applications.",
+    "features": [
+      "XDMCP: Provides tools for implementing the X Display Manager Control Protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for XDMCP tasks.",
+      "Integration: Can be integrated into applications requiring XDMCP implementation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XDMCP and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xdmcp": "Not applicable",
+      "uninstall": "pkg uninstall libxdmcp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxdmcp",
+    "version": "1.1.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxdmcp is a library that implements the X Display Manager Control Protocol (XDMCP).",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxdmcp",
+    "usage": "After installing libxdmcp, you can use it to implement the X Display Manager Control Protocol (XDMCP) in your applications.",
+    "features": [
+      "XDMCP: Provides tools for implementing the X Display Manager Control Protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for XDMCP tasks.",
+      "Integration: Can be integrated into applications requiring XDMCP implementation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XDMCP and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xdmcp": "Not applicable",
+      "uninstall": "pkg uninstall libxdmcp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxdrfile",
+    "version": "1.1.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxdrfile is a library for reading and writing portable binary files in the XDR format.",
+    "homepage": "https://github.com/gromacs/xdrfile",
+    "installation": "pkg install libxdrfile",
+    "usage": "After installing libxdrfile, you can use it to read and write portable binary files in the XDR format in your applications.",
+    "features": [
+      "XDR Format: Provides tools for reading and writing portable binary files in the XDR format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for file I/O tasks.",
+      "Integration: Can be integrated into applications requiring XDR file processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the XDRfile documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file I/O and XDRfile for support and discussions.",
+      "GitHub": "Visit the XDRfile GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xdrfile": "Not applicable",
+      "uninstall": "pkg uninstall libxdrfile"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxext-static",
+    "version": "1.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxext is a library that provides an interface to several extensions of the X Window System protocol. This is the statically linked version.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxext-static",
+    "usage": "After installing libxext-static, you can use it to interface with several extensions of the X Window System protocol in your applications.",
+    "features": [
+      "X Window System Extensions: Provides an interface to several extensions of the X Window System protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for extension tasks.",
+      "Integration: Can be integrated into applications requiring X Window System extensions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X Window System extensions and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xext": "Not applicable",
+      "uninstall": "pkg uninstall libxext-static"
+    },
+    "isFavorite": false
+  }
+]

@@ -1,0 +1,1460 @@
+[
+  {
+    "name": "libmpeg2",
+    "version": "0.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmpeg2 is a library for decoding MPEG-1 and MPEG-2 video streams.",
+    "homepage": "https://libmpeg2.sourceforge.net/",
+    "installation": "pkg install libmpeg2",
+    "usage": "After installing libmpeg2, you can use it to decode MPEG-1 and MPEG-2 video streams in your applications.",
+    "features": [
+      "Video Decoding: Provides tools for decoding MPEG-1 and MPEG-2 video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for video decoding tasks.",
+      "Integration: Can be integrated into applications requiring video decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmpeg2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video processing and Libmpeg2 for support and discussions.",
+      "GitHub": "Visit the Libmpeg2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmpeg2": "Not applicable",
+      "uninstall": "pkg uninstall libmpeg2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmpfr-static",
+    "version": "4.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmpfr is a library for multiple-precision floating-point computations with correct rounding. This is the statically linked version.",
+    "homepage": "https://www.mpfr.org/",
+    "installation": "pkg install libmpfr-static",
+    "usage": "After installing libmpfr-static, you can use it to perform multiple-precision floating-point computations in your applications.",
+    "features": [
+      "Floating-Point Computations: Provides tools for multiple-precision floating-point computations with correct rounding.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for floating-point tasks.",
+      "Integration: Can be integrated into applications requiring multiple-precision floating-point computations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MPFR documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and MPFR for support and discussions.",
+      "GitHub": "Visit the MPFR GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mpfr": "Not applicable",
+      "uninstall": "pkg uninstall libmpfr-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmpfr",
+    "version": "4.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmpfr is a library for multiple-precision floating-point computations with correct rounding.",
+    "homepage": "https://www.mpfr.org/",
+    "installation": "pkg install libmpfr",
+    "usage": "After installing libmpfr, you can use it to perform multiple-precision floating-point computations in your applications.",
+    "features": [
+      "Floating-Point Computations: Provides tools for multiple-precision floating-point computations with correct rounding.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for floating-point tasks.",
+      "Integration: Can be integrated into applications requiring multiple-precision floating-point computations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MPFR documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and MPFR for support and discussions.",
+      "GitHub": "Visit the MPFR GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mpfr": "Not applicable",
+      "uninstall": "pkg uninstall libmpfr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmsgpack-cxx",
+    "version": "7.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmsgpack-cxx is a C++ library for MessagePack serialization.",
+    "homepage": "https://msgpack.org/",
+    "installation": "pkg install libmsgpack-cxx",
+    "usage": "After installing libmsgpack-cxx, you can use it to perform MessagePack serialization and deserialization in your C++ applications.",
+    "features": [
+      "MessagePack Serialization: Provides tools for MessagePack serialization and deserialization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for serialization tasks.",
+      "Integration: Can be integrated into applications requiring MessagePack serialization.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MessagePack documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to serialization and MessagePack for support and discussions.",
+      "GitHub": "Visit the MessagePack GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_msgpack": "Not applicable",
+      "uninstall": "pkg uninstall libmsgpack-cxx"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmsgpack-static",
+    "version": "6.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmsgpack is a library for MessagePack serialization. This is the statically linked version.",
+    "homepage": "https://msgpack.org/",
+    "installation": "pkg install libmsgpack-static",
+    "usage": "After installing libmsgpack-static, you can use it to perform MessagePack serialization and deserialization in your applications.",
+    "features": [
+      "MessagePack Serialization: Provides tools for MessagePack serialization and deserialization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for serialization tasks.",
+      "Integration: Can be integrated into applications requiring MessagePack serialization.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MessagePack documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to serialization and MessagePack for support and discussions.",
+      "GitHub": "Visit the MessagePack GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_msgpack": "Not applicable",
+      "uninstall": "pkg uninstall libmsgpack-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmsgpack",
+    "version": "6.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmsgpack is a library for MessagePack serialization.",
+    "homepage": "https://msgpack.org/",
+    "installation": "pkg install libmsgpack",
+    "usage": "After installing libmsgpack, you can use it to perform MessagePack serialization and deserialization in your applications.",
+    "features": [
+      "MessagePack Serialization: Provides tools for MessagePack serialization and deserialization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for serialization tasks.",
+      "Integration: Can be integrated into applications requiring MessagePack serialization.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MessagePack documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to serialization and MessagePack for support and discussions.",
+      "GitHub": "Visit the MessagePack GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_msgpack": "Not applicable",
+      "uninstall": "pkg uninstall libmsgpack"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmuparser",
+    "version": "2.3.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmuparser is a fast math parser library.",
+    "homepage": "https://beltoforion.de/en/muparser/",
+    "installation": "pkg install libmuparser",
+    "usage": "After installing libmuparser, you can use it to parse mathematical expressions in your applications.",
+    "features": [
+      "Math Parsing: Provides tools for parsing mathematical expressions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for parsing tasks.",
+      "Integration: Can be integrated into applications requiring math parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Muparser documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and Muparser for support and discussions.",
+      "GitHub": "Visit the Muparser GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_muparser": "Not applicable",
+      "uninstall": "pkg uninstall libmuparser"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmypaint-static",
+    "version": "1.6.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmypaint is a library for making brushstrokes which is used by the MyPaint project. This is the statically linked version.",
+    "homepage": "https://github.com/mypaint/libmypaint",
+    "installation": "pkg install libmypaint-static",
+    "usage": "After installing libmypaint-static, you can use it to implement brushstroke functionalities in your applications.",
+    "features": [
+      "Brushstrokes: Provides tools for making brushstrokes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for brushstroke tasks.",
+      "Integration: Can be integrated into applications requiring brushstroke functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmypaint documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to digital painting and Libmypaint for support and discussions.",
+      "GitHub": "Visit the Libmypaint GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmypaint": "Not applicable",
+      "uninstall": "pkg uninstall libmypaint-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmypaint",
+    "version": "1.6.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmypaint is a library for making brushstrokes which is used by the MyPaint project.",
+    "homepage": "https://github.com/mypaint/libmypaint",
+    "installation": "pkg install libmypaint",
+    "usage": "After installing libmypaint, you can use it to implement brushstroke functionalities in your applications.",
+    "features": [
+      "Brushstrokes: Provides tools for making brushstrokes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for brushstroke tasks.",
+      "Integration: Can be integrated into applications requiring brushstroke functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmypaint documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to digital painting and Libmypaint for support and discussions.",
+      "GitHub": "Visit the Libmypaint GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmypaint": "Not applicable",
+      "uninstall": "pkg uninstall libmypaint"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnats-c-static",
+    "version": "3.9.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnats-c is a C client for the NATS messaging system. This is the statically linked version.",
+    "homepage": "https://nats-io.github.io/nats.c/",
+    "installation": "pkg install libnats-c-static",
+    "usage": "After installing libnats-c-static, you can use it to implement NATS messaging functionalities in your applications.",
+    "features": [
+      "NATS Messaging: Provides tools for implementing NATS messaging functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for messaging tasks.",
+      "Integration: Can be integrated into applications requiring NATS messaging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NATS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to messaging systems and NATS for support and discussions.",
+      "GitHub": "Visit the NATS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nats": "Not applicable",
+      "uninstall": "pkg uninstall libnats-c-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnats-c",
+    "version": "3.9.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnats-c is a C client for the NATS messaging system.",
+    "homepage": "https://nats-io.github.io/nats.c/",
+    "installation": "pkg install libnats-c",
+    "usage": "After installing libnats-c, you can use it to implement NATS messaging functionalities in your applications.",
+    "features": [
+      "NATS Messaging: Provides tools for implementing NATS messaging functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for messaging tasks.",
+      "Integration: Can be integrated into applications requiring NATS messaging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NATS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to messaging systems and NATS for support and discussions.",
+      "GitHub": "Visit the NATS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nats": "Not applicable",
+      "uninstall": "pkg uninstall libnats-c"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libncnn-static",
+    "version": "20230627-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libncnn is a high-performance neural network inference framework optimized for mobile platforms. This is the statically linked version.",
+    "homepage": "https://github.com/Tencent/ncnn",
+    "installation": "pkg install libncnn-static",
+    "usage": "After installing libncnn-static, you can use it to implement neural network inference in your applications.",
+    "features": [
+      "Neural Network Inference: Provides tools for implementing neural network inference.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for inference tasks.",
+      "Integration: Can be integrated into applications requiring neural network inference.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NCNN documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to neural networks and NCNN for support and discussions.",
+      "GitHub": "Visit the NCNN GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ncnn": "Not applicable",
+      "uninstall": "pkg uninstall libncnn-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libncnn",
+    "version": "20230627-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libncnn is a high-performance neural network inference framework optimized for mobile platforms.",
+    "homepage": "https://github.com/Tencent/ncnn",
+    "installation": "pkg install libncnn",
+    "usage": "After installing libncnn, you can use it to implement neural network inference in your applications.",
+    "features": [
+      "Neural Network Inference: Provides tools for implementing neural network inference.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for inference tasks.",
+      "Integration: Can be integrated into applications requiring neural network inference.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NCNN documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to neural networks and NCNN for support and discussions.",
+      "GitHub": "Visit the NCNN GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ncnn": "Not applicable",
+      "uninstall": "pkg uninstall libncnn"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libneon-static",
+    "version": "0.34.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libneon is an HTTP and WebDAV client library, with a C interface. This is the statically linked version.",
+    "homepage": "https://notroj.github.io/neon/",
+    "installation": "pkg install libneon-static",
+    "usage": "After installing libneon-static, you can use it to implement HTTP and WebDAV client functionalities in your applications.",
+    "features": [
+      "HTTP and WebDAV Client: Provides tools for implementing HTTP and WebDAV client functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for client tasks.",
+      "Integration: Can be integrated into applications requiring HTTP and WebDAV client functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Neon documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web development and Neon for support and discussions.",
+      "GitHub": "Visit the Neon GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_neon": "Not applicable",
+      "uninstall": "pkg uninstall libneon-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libneon",
+    "version": "0.34.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libneon is an HTTP and WebDAV client library, with a C interface.",
+    "homepage": "https://notroj.github.io/neon/",
+    "installation": "pkg install libneon",
+    "usage": "After installing libneon, you can use it to implement HTTP and WebDAV client functionalities in your applications.",
+    "features": [
+      "HTTP and WebDAV Client: Provides tools for implementing HTTP and WebDAV client functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for client tasks.",
+      "Integration: Can be integrated into applications requiring HTTP and WebDAV client functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Neon documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web development and Neon for support and discussions.",
+      "GitHub": "Visit the Neon GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_neon": "Not applicable",
+      "uninstall": "pkg uninstall libneon"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnet-static",
+    "version": "1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnet is a library for constructing and injecting network packets. This is the statically linked version.",
+    "homepage": "https://github.com/libnet/libnet",
+    "installation": "pkg install libnet-static",
+    "usage": "After installing libnet-static, you can use it to construct and inject network packets in your applications.",
+    "features": [
+      "Network Packets: Provides tools for constructing and injecting network packets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for network packet tasks.",
+      "Integration: Can be integrated into applications requiring network packet construction and injection.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network programming and Libnet for support and discussions.",
+      "GitHub": "Visit the Libnet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnet": "Not applicable",
+      "uninstall": "pkg uninstall libnet-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnet",
+    "version": "1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnet is a library for constructing and injecting network packets.",
+    "homepage": "https://github.com/libnet/libnet",
+    "installation": "pkg install libnet",
+    "usage": "After installing libnet, you can use it to construct and inject network packets in your applications.",
+    "features": [
+      "Network Packets: Provides tools for constructing and injecting network packets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for network packet tasks.",
+      "Integration: Can be integrated into applications requiring network packet construction and injection.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network programming and Libnet for support and discussions.",
+      "GitHub": "Visit the Libnet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnet": "Not applicable",
+      "uninstall": "pkg uninstall libnet"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnettle-static",
+    "version": "3.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnettle is a low-level cryptographic library. This is the statically linked version.",
+    "homepage": "https://www.lysator.liu.se/~nisse/nettle/",
+    "installation": "pkg install libnettle-static",
+    "usage": "After installing libnettle-static, you can use it to implement cryptographic functionalities in your applications.",
+    "features": [
+      "Cryptographic Functions: Provides tools for implementing low-level cryptographic functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into applications requiring cryptographic functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Nettle documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Nettle for support and discussions.",
+      "GitHub": "Visit the Nettle GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nettle": "Not applicable",
+      "uninstall": "pkg uninstall libnettle-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnettle",
+    "version": "3.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnettle is a low-level cryptographic library.",
+    "homepage": "https://www.lysator.liu.se/~nisse/nettle/",
+    "installation": "pkg install libnettle",
+    "usage": "After installing libnettle, you can use it to implement cryptographic functionalities in your applications.",
+    "features": [
+      "Cryptographic Functions: Provides tools for implementing low-level cryptographic functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into applications requiring cryptographic functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Nettle documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Nettle for support and discussions.",
+      "GitHub": "Visit the Nettle GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nettle": "Not applicable",
+      "uninstall": "pkg uninstall libnettle"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnewt-static",
+    "version": "0.52.24",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnewt is a library for creating text mode user interfaces. This is the statically linked version.",
+    "homepage": "https://pagure.io/newt",
+    "installation": "pkg install libnewt-static",
+    "usage": "After installing libnewt-static, you can use it to create text mode user interfaces in your applications.",
+    "features": [
+      "Text Mode UI: Provides tools for creating text mode user interfaces.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for UI tasks.",
+      "Integration: Can be integrated into applications requiring text mode user interfaces.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Newt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text mode user interfaces and Newt for support and discussions.",
+      "GitHub": "Visit the Newt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_newt": "Not applicable",
+      "uninstall": "pkg uninstall libnewt-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnewt",
+    "version": "0.52.24",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnewt is a library for creating text mode user interfaces.",
+    "homepage": "https://pagure.io/newt",
+    "installation": "pkg install libnewt",
+    "usage": "After installing libnewt, you can use it to create text mode user interfaces in your applications.",
+    "features": [
+      "Text Mode UI: Provides tools for creating text mode user interfaces.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for UI tasks.",
+      "Integration: Can be integrated into applications requiring text mode user interfaces.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Newt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text mode user interfaces and Newt for support and discussions.",
+      "GitHub": "Visit the Newt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_newt": "Not applicable",
+      "uninstall": "pkg uninstall libnewt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnfc-static",
+    "version": "1.8.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnfc is a low level NFC SDK and Programmers API. This is the statically linked version.",
+    "homepage": "https://github.com/nfc-tools/libnfc",
+    "installation": "pkg install libnfc-static",
+    "usage": "After installing libnfc-static, you can use it to implement NFC functionalities in your applications.",
+    "features": [
+      "NFC SDK: Provides tools for implementing NFC functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for NFC tasks.",
+      "Integration: Can be integrated into applications requiring NFC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnfc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to NFC and Libnfc for support and discussions.",
+      "GitHub": "Visit the Libnfc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnfc": "Not applicable",
+      "uninstall": "pkg uninstall libnfc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnfc",
+    "version": "1.8.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnfc is a low level NFC SDK and Programmers API.",
+    "homepage": "https://github.com/nfc-tools/libnfc",
+    "installation": "pkg install libnfc",
+    "usage": "After installing libnfc, you can use it to implement NFC functionalities in your applications.",
+    "features": [
+      "NFC SDK: Provides tools for implementing NFC functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for NFC tasks.",
+      "Integration: Can be integrated into applications requiring NFC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnfc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to NFC and Libnfc for support and discussions.",
+      "GitHub": "Visit the Libnfc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnfc": "Not applicable",
+      "uninstall": "pkg uninstall libnfc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnfs",
+    "version": "6.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnfs is a client library for accessing NFS shares over a network.",
+    "homepage": "https://github.com/sahlberg/libnfs",
+    "installation": "pkg install libnfs",
+    "usage": "After installing libnfs, you can use it to access NFS shares in your applications.",
+    "features": [
+      "NFS Access: Provides tools for accessing NFS shares over a network.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for NFS tasks.",
+      "Integration: Can be integrated into applications requiring NFS access.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnfs documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network file systems and Libnfs for support and discussions.",
+      "GitHub": "Visit the Libnfs GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnfs": "Not applicable",
+      "uninstall": "pkg uninstall libnfs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnftnl-static",
+    "version": "1.2.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnftnl is a library providing low-level netfilter netlink API over the libmnl library. This is the statically linked version.",
+    "homepage": "https://netfilter.org/projects/libnftnl/",
+    "installation": "pkg install libnftnl-static",
+    "usage": "After installing libnftnl-static, you can use it to interact with netfilter netlink in your applications.",
+    "features": [
+      "Netfilter Netlink: Provides tools for interacting with netfilter netlink.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for netlink tasks.",
+      "Integration: Can be integrated into applications requiring netfilter netlink.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnftnl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to netfilter and Libnftnl for support and discussions.",
+      "GitHub": "Visit the Libnftnl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnftnl": "Not applicable",
+      "uninstall": "pkg uninstall libnftnl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnftnl",
+    "version": "1.2.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnftnl is a library providing low-level netfilter netlink API over the libmnl library.",
+    "homepage": "https://netfilter.org/projects/libnftnl/",
+    "installation": "pkg install libnftnl",
+    "usage": "After installing libnftnl, you can use it to interact with netfilter netlink in your applications.",
+    "features": [
+      "Netfilter Netlink: Provides tools for interacting with netfilter netlink.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for netlink tasks.",
+      "Integration: Can be integrated into applications requiring netfilter netlink.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnftnl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to netfilter and Libnftnl for support and discussions.",
+      "GitHub": "Visit the Libnftnl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnftnl": "Not applicable",
+      "uninstall": "pkg uninstall libnftnl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnghttp2-static",
+    "version": "1.64.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnghttp2 is a library implementing the HTTP/2 protocol. This is the statically linked version.",
+    "homepage": "https://nghttp2.org/",
+    "installation": "pkg install libnghttp2-static",
+    "usage": "After installing libnghttp2-static, you can use it to implement HTTP/2 functionalities in your applications.",
+    "features": [
+      "HTTP/2 Protocol: Provides tools for implementing the HTTP/2 protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for HTTP/2 tasks.",
+      "Integration: Can be integrated into applications requiring HTTP/2 functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Nghttp2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web development and Nghttp2 for support and discussions.",
+      "GitHub": "Visit the Nghttp2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nghttp2": "Not applicable",
+      "uninstall": "pkg uninstall libnghttp2-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnghttp2",
+    "version": "1.64.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnghttp2 is a library implementing the HTTP/2 protocol.",
+    "homepage": "https://nghttp2.org/",
+    "installation": "pkg install libnghttp2",
+    "usage": "After installing libnghttp2, you can use it to implement HTTP/2 functionalities in your applications.",
+    "features": [
+      "HTTP/2 Protocol: Provides tools for implementing the HTTP/2 protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for HTTP/2 tasks.",
+      "Integration: Can be integrated into applications requiring HTTP/2 functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Nghttp2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web development and Nghttp2 for support and discussions.",
+      "GitHub": "Visit the Nghttp2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nghttp2": "Not applicable",
+      "uninstall": "pkg uninstall libnghttp2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnghttp3-static",
+    "version": "1.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnghttp3 is a library implementing the HTTP/3 protocol. This is the statically linked version.",
+    "homepage": "https://nghttp2.org/",
+    "installation": "pkg install libnghttp3-static",
+    "usage": "After installing libnghttp3-static, you can use it to implement HTTP/3 functionalities in your applications.",
+    "features": [
+      "HTTP/3 Protocol: Provides tools for implementing the HTTP/3 protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for HTTP/3 tasks.",
+      "Integration: Can be integrated into applications requiring HTTP/3 functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Nghttp3 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web development and Nghttp3 for support and discussions.",
+      "GitHub": "Visit the Nghttp3 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nghttp3": "Not applicable",
+      "uninstall": "pkg uninstall libnghttp3-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnghttp3",
+    "version": "1.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnghttp3 is a library implementing the HTTP/3 protocol.",
+    "homepage": "https://nghttp2.org/",
+    "installation": "pkg install libnghttp3",
+    "usage": "After installing libnghttp3, you can use it to implement HTTP/3 functionalities in your applications.",
+    "features": [
+      "HTTP/3 Protocol: Provides tools for implementing the HTTP/3 protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for HTTP/3 tasks.",
+      "Integration: Can be integrated into applications requiring HTTP/3 functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Nghttp3 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web development and Nghttp3 for support and discussions.",
+      "GitHub": "Visit the Nghttp3 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nghttp3": "Not applicable",
+      "uninstall": "pkg uninstall libnghttp3"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnl-cli-static",
+    "version": "3.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnl-cli is a library for handling Netlink sockets in Linux. This is the statically linked version.",
+    "homepage": "https://www.infradead.org/~tgr/libnl/",
+    "installation": "pkg install libnl-cli-static",
+    "usage": "After installing libnl-cli-static, you can use it to handle Netlink sockets in your applications.",
+    "features": [
+      "Netlink Sockets: Provides tools for handling Netlink sockets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Netlink tasks.",
+      "Integration: Can be integrated into applications requiring Netlink socket handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network programming and Libnl for support and discussions.",
+      "GitHub": "Visit the Libnl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnl": "Not applicable",
+      "uninstall": "pkg uninstall libnl-cli-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnl-cli",
+    "version": "3.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnl-cli is a library for handling Netlink sockets in Linux.",
+    "homepage": "https://www.infradead.org/~tgr/libnl/",
+    "installation": "pkg install libnl-cli",
+    "usage": "After installing libnl-cli, you can use it to handle Netlink sockets in your applications.",
+    "features": [
+      "Netlink Sockets: Provides tools for handling Netlink sockets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Netlink tasks.",
+      "Integration: Can be integrated into applications requiring Netlink socket handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network programming and Libnl for support and discussions.",
+      "GitHub": "Visit the Libnl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnl": "Not applicable",
+      "uninstall": "pkg uninstall libnl-cli"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnl-static",
+    "version": "3.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnl is a library for handling Netlink sockets in Linux. This is the statically linked version.",
+    "homepage": "https://www.infradead.org/~tgr/libnl/",
+    "installation": "pkg install libnl-static",
+    "usage": "After installing libnl-static, you can use it to handle Netlink sockets in your applications.",
+    "features": [
+      "Netlink Sockets: Provides tools for handling Netlink sockets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Netlink tasks.",
+      "Integration: Can be integrated into applications requiring Netlink socket handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network programming and Libnl for support and discussions.",
+      "GitHub": "Visit the Libnl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnl": "Not applicable",
+      "uninstall": "pkg uninstall libnl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnl",
+    "version": "3.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnl is a library for handling Netlink sockets in Linux.",
+    "homepage": "https://www.infradead.org/~tgr/libnl/",
+    "installation": "pkg install libnl",
+    "usage": "After installing libnl, you can use it to handle Netlink sockets in your applications.",
+    "features": [
+      "Netlink Sockets: Provides tools for handling Netlink sockets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Netlink tasks.",
+      "Integration: Can be integrated into applications requiring Netlink socket handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network programming and Libnl for support and discussions.",
+      "GitHub": "Visit the Libnl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnl": "Not applicable",
+      "uninstall": "pkg uninstall libnl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnova-static",
+    "version": "0.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnova is a general purpose, double precision, celestial mechanics, astrometry and astrodynamics library. This is the statically linked version.",
+    "homepage": "https://libnova.sourceforge.net/",
+    "installation": "pkg install libnova-static",
+    "usage": "After installing libnova-static, you can use it to perform celestial mechanics, astrometry and astrodynamics calculations in your applications.",
+    "features": [
+      "Celestial Mechanics: Provides tools for celestial mechanics calculations.",
+      "Astrometry: Provides tools for astrometry calculations.",
+      "Astrodynamics: Provides tools for astrodynamics calculations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for astronomical calculations.",
+      "Integration: Can be integrated into applications requiring celestial mechanics, astrometry and astrodynamics calculations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnova documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to astronomy and Libnova for support and discussions.",
+      "GitHub": "Visit the Libnova GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnova": "Not applicable",
+      "uninstall": "pkg uninstall libnova-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnova",
+    "version": "0.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnova is a general purpose, double precision, celestial mechanics, astrometry and astrodynamics library.",
+    "homepage": "https://libnova.sourceforge.net/",
+    "installation": "pkg install libnova",
+    "usage": "After installing libnova, you can use it to perform celestial mechanics, astrometry and astrodynamics calculations in your applications.",
+    "features": [
+      "Celestial Mechanics: Provides tools for celestial mechanics calculations.",
+      "Astrometry: Provides tools for astrometry calculations.",
+      "Astrodynamics: Provides tools for astrodynamics calculations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for astronomical calculations.",
+      "Integration: Can be integrated into applications requiring celestial mechanics, astrometry and astrodynamics calculations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libnova documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to astronomy and Libnova for support and discussions.",
+      "GitHub": "Visit the Libnova GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libnova": "Not applicable",
+      "uninstall": "pkg uninstall libnova"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnpth-static",
+    "version": "1.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnpth is a library to provide the GNU Pth API and thus a non-preemptive threads implementation. This is the statically linked version.",
+    "homepage": "https://www.gnupg.org/software/npth/index.html",
+    "installation": "pkg install libnpth-static",
+    "usage": "After installing libnpth-static, you can use it to implement non-preemptive threads in your applications.",
+    "features": [
+      "Non-Preemptive Threads: Provides tools for implementing non-preemptive threads.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for threading tasks.",
+      "Integration: Can be integrated into applications requiring non-preemptive threads.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NPth documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to threading and NPth for support and discussions.",
+      "GitHub": "Visit the NPth GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_npth": "Not applicable",
+      "uninstall": "pkg uninstall libnpth-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnpth",
+    "version": "1.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnpth is a library to provide the GNU Pth API and thus a non-preemptive threads implementation.",
+    "homepage": "https://www.gnupg.org/software/npth/index.html",
+    "installation": "pkg install libnpth",
+    "usage": "After installing libnpth, you can use it to implement non-preemptive threads in your applications.",
+    "features": [
+      "Non-Preemptive Threads: Provides tools for implementing non-preemptive threads.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for threading tasks.",
+      "Integration: Can be integrated into applications requiring non-preemptive threads.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NPth documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to threading and NPth for support and discussions.",
+      "GitHub": "Visit the NPth GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_npth": "Not applicable",
+      "uninstall": "pkg uninstall libnpth"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnspr-static",
+    "version": "4.36",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnspr is a platform-neutral API for system level and libc-like functions. This is the statically linked version.",
+    "homepage": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR",
+    "installation": "pkg install libnspr-static",
+    "usage": "After installing libnspr-static, you can use it to provide platform-neutral API functionalities in your applications.",
+    "features": [
+      "Platform-Neutral API: Provides tools for platform-neutral system level and libc-like functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for system level tasks.",
+      "Integration: Can be integrated into applications requiring platform-neutral API functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NSPR documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system programming and NSPR for support and discussions.",
+      "GitHub": "Visit the NSPR GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nspr": "Not applicable",
+      "uninstall": "pkg uninstall libnspr-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnspr",
+    "version": "4.36",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnspr is a platform-neutral API for system level and libc-like functions.",
+    "homepage": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR",
+    "installation": "pkg install libnspr",
+    "usage": "After installing libnspr, you can use it to provide platform-neutral API functionalities in your applications.",
+    "features": [
+      "Platform-Neutral API: Provides tools for platform-neutral system level and libc-like functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for system level tasks.",
+      "Integration: Can be integrated into applications requiring platform-neutral API functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NSPR documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system programming and NSPR for support and discussions.",
+      "GitHub": "Visit the NSPR GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nspr": "Not applicable",
+      "uninstall": "pkg uninstall libnspr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libnss",
+    "version": "3.107",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libnss (Network Security Services) is a set of libraries designed to support the cross-platform development of security-enabled client and server applications.",
+    "homepage": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS",
+    "installation": "pkg install libnss",
+    "usage": "After installing libnss, you can use it to implement security features in your applications.",
+    "features": [
+      "Cross-Platform Security: Provides tools for cross-platform security development.",
+      "SSL/TLS: Supports SSL and TLS protocols.",
+      "PKI: Public Key Infrastructure support.",
+      "Certificate Handling: Tools for handling certificates.",
+      "Ease of Use: Offers an intuitive API for security tasks.",
+      "Integration: Can be integrated into applications requiring security features.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NSS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to security and NSS for support and discussions.",
+      "GitHub": "Visit the NSS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_nss": "Not applicable",
+      "uninstall": "pkg uninstall libnss"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libntl-static",
+    "version": "11.5.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libntl (Number Theory Library) is a C++ library providing data structures and algorithms for manipulating signed, arbitrary length integers. This is the statically linked version.",
+    "homepage": "https://libntl.org/",
+    "installation": "pkg install libntl-static",
+    "usage": "After installing libntl-static, you can use it to perform number theory computations in your applications.",
+    "features": [
+      "Number Theory: Provides tools for number theory computations.",
+      "Arbitrary Length Integers: Supports signed, arbitrary length integers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for number theory tasks.",
+      "Integration: Can be integrated into applications requiring number theory computations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NTL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and NTL for support and discussions.",
+      "GitHub": "Visit the NTL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ntl": "Not applicable",
+      "uninstall": "pkg uninstall libntl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libntl",
+    "version": "11.5.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libntl (Number Theory Library) is a C++ library providing data structures and algorithms for manipulating signed, arbitrary length integers.",
+    "homepage": "https://libntl.org/",
+    "installation": "pkg install libntl",
+    "usage": "After installing libntl, you can use it to perform number theory computations in your applications.",
+    "features": [
+      "Number Theory: Provides tools for number theory computations.",
+      "Arbitrary Length Integers: Supports signed, arbitrary length integers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for number theory tasks.",
+      "Integration: Can be integrated into applications requiring number theory computations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the NTL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and NTL for support and discussions.",
+      "GitHub": "Visit the NTL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ntl": "Not applicable",
+      "uninstall": "pkg uninstall libntl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libobjc2",
+    "version": "2.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libobjc2 is a modern Objective-C runtime library.",
+    "homepage": "https://github.com/gnustep/libobjc2",
+    "installation": "pkg install libobjc2",
+    "usage": "After installing libobjc2, you can use it to develop Objective-C applications.",
+    "features": [
+      "Objective-C Runtime: Provides tools for implementing Objective-C runtime functionalities.",
+      "Modern Features: Supports modern Objective-C features.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for Objective-C tasks.",
+      "Integration: Can be integrated into applications requiring Objective-C runtime.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNUstep documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Objective-C programming and GNUstep for support and discussions.",
+      "GitHub": "Visit the GNUstep GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_objc2": "Not applicable",
+      "uninstall": "pkg uninstall libobjc2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libode",
+    "version": "0.16.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libode (Open Dynamics Engine) is a library for simulating rigid body dynamics.",
+    "homepage": "https://www.ode.org/",
+    "installation": "pkg install libode",
+    "usage": "After installing libode, you can use it to simulate rigid body dynamics in your applications.",
+    "features": [
+      "Rigid Body Dynamics: Provides tools for simulating rigid body dynamics.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for dynamics simulation tasks.",
+      "Integration: Can be integrated into applications requiring dynamics simulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ODE documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to physics simulation and ODE for support and discussions.",
+      "GitHub": "Visit the ODE GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ode": "Not applicable",
+      "uninstall": "pkg uninstall libode"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libogg-static",
+    "version": "1.3.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libogg is a library for manipulating Ogg bitstreams. This is the statically linked version.",
+    "homepage": "https://xiph.org/ogg/",
+    "installation": "pkg install libogg-static",
+    "usage": "After installing libogg-static, you can use it to handle Ogg bitstreams in your applications.",
+    "features": [
+      "Ogg Bitstreams: Provides tools for manipulating Ogg bitstreams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for bitstream tasks.",
+      "Integration: Can be integrated into applications requiring Ogg bitstream handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ogg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to multimedia processing and Ogg for support and discussions.",
+      "GitHub": "Visit the Ogg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ogg": "Not applicable",
+      "uninstall": "pkg uninstall libogg-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libogg",
+    "version": "1.3.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libogg is a library for manipulating Ogg bitstreams.",
+    "homepage": "https://xiph.org/ogg/",
+    "installation": "pkg install libogg",
+    "usage": "After installing libogg, you can use it to handle Ogg bitstreams in your applications.",
+    "features": [
+      "Ogg Bitstreams: Provides tools for manipulating Ogg bitstreams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for bitstream tasks.",
+      "Integration: Can be integrated into applications requiring Ogg bitstream handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ogg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to multimedia processing and Ogg for support and discussions.",
+      "GitHub": "Visit the Ogg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ogg": "Not applicable",
+      "uninstall": "pkg uninstall libogg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liboggz-static",
+    "version": "1.1.1-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liboggz is a library for reading and writing Ogg files and bitstreams. This is the statically linked version.",
+    "homepage": "https://xiph.org/oggz/",
+    "installation": "pkg install liboggz-static",
+    "usage": "After installing liboggz-static, you can use it to read and write Ogg files in your applications.",
+    "features": [
+      "Ogg Files: Provides tools for reading and writing Ogg files and bitstreams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for file tasks.",
+      "Integration: Can be integrated into applications requiring Ogg file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Oggz documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to multimedia processing and Oggz for support and discussions.",
+      "GitHub": "Visit the Oggz GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_oggz": "Not applicable",
+      "uninstall": "pkg uninstall liboggz-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liboggz",
+    "version": "1.1.1-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liboggz is a library for reading and writing Ogg files and bitstreams.",
+    "homepage": "https://xiph.org/oggz/",
+    "installation": "pkg install liboggz",
+    "usage": "After installing liboggz, you can use it to read and write Ogg files in your applications.",
+    "features": [
+      "Ogg Files: Provides tools for reading and writing Ogg files and bitstreams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for file tasks.",
+      "Integration: Can be integrated into applications requiring Ogg file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Oggz documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to multimedia processing and Oggz for support and discussions.",
+      "GitHub": "Visit the Oggz GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_oggz": "Not applicable",
+      "uninstall": "pkg uninstall liboggz"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libolm",
+    "version": "3.2.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libolm is a library for implementing the Double Ratchet cryptographic ratchet in C and C++.",
+    "homepage": "https://gitlab.matrix.org/matrix-org/olm",
+    "installation": "pkg install libolm",
+    "usage": "After installing libolm, you can use it to implement the Double Ratchet cryptographic ratchet in your applications.",
+    "features": [
+      "Double Ratchet: Provides tools for implementing the Double Ratchet cryptographic ratchet.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into applications requiring cryptographic ratchet.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Olm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Olm for support and discussions.",
+      "GitHub": "Visit the Olm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_olm": "Not applicable",
+      "uninstall": "pkg uninstall libolm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopenblas-static",
+    "version": "0.3.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopenblas is an optimized BLAS library based on GotoBLAS2. This is the statically linked version.",
+    "homepage": "https://www.openblas.net/",
+    "installation": "pkg install libopenblas-static",
+    "usage": "After installing libopenblas-static, you can use it to perform BLAS operations in your applications.",
+    "features": [
+      "BLAS Operations: Provides tools for performing optimized BLAS operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for BLAS tasks.",
+      "Integration: Can be integrated into applications requiring BLAS operations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OpenBLAS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and OpenBLAS for support and discussions.",
+      "GitHub": "Visit the OpenBLAS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_openblas": "Not applicable",
+      "uninstall": "pkg uninstall libopenblas-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopenblas",
+    "version": "0.3.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopenblas is an optimized BLAS library based on GotoBLAS2.",
+    "homepage": "https://www.openblas.net/",
+    "installation": "pkg install libopenblas",
+    "usage": "After installing libopenblas, you can use it to perform BLAS operations in your applications.",
+    "features": [
+      "BLAS Operations: Provides tools for performing optimized BLAS operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for BLAS tasks.",
+      "Integration: Can be integrated into applications requiring BLAS operations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OpenBLAS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and OpenBLAS for support and discussions.",
+      "GitHub": "Visit the OpenBLAS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_openblas": "Not applicable",
+      "uninstall": "pkg uninstall libopenblas"
+    },
+    "isFavorite": false
+  }
+]

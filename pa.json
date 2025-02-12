@@ -1,0 +1,1253 @@
+[
+  {
+    "name": "php-apache",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-apache is a PHP extension for integrating PHP with the Apache web server.",
+    "homepage": "https://www.php.net/manual/en/book.apache.php",
+    "installation": "pkg install php-apache",
+    "usage": "After installing php-apache, you can use PHP with the Apache web server.",
+    "features": [
+      "Apache Integration: Provides integration of PHP with the Apache web server.",
+      "PHP Extension: Integrates PHP functionalities into Apache.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and Apache for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-apache to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Apache module to your httpd.conf file.",
+      "uninstall": "pkg uninstall php-apache"
+    }
+  },
+  {
+    "name": "php-apcu",
+    "version": "5.1.24",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-apcu is a PHP extension that provides high-performance user data caching.",
+    "homepage": "https://www.php.net/manual/en/book.apcu.php",
+    "installation": "pkg install php-apcu",
+    "usage": "After installing php-apcu, you can use APCu caching in your PHP applications.",
+    "features": [
+      "User Data Caching: Provides high-performance user data caching.",
+      "PHP Extension: Integrates APCu caching functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and caching for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-apcu to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the APCu extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-apcu"
+    }
+  },
+  {
+    "name": "php-fpm",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-fpm is a PHP FastCGI Process Manager, which provides a high-performance and flexible PHP implementation.",
+    "homepage": "https://www.php.net/manual/en/install.fpm.php",
+    "installation": "pkg install php-fpm",
+    "usage": "After installing php-fpm, you can manage PHP processes by typing: php-fpm",
+    "features": [
+      "FastCGI Process Manager: Provides a high-performance and flexible PHP implementation.",
+      "PHP Extension: Integrates PHP functionalities into FastCGI.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and FastCGI for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-fpm to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_fpm": "php-fpm",
+      "uninstall": "pkg uninstall php-fpm"
+    }
+  },
+  {
+    "name": "php-gd",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-gd is a PHP extension for the GD graphics library, which provides image manipulation functionalities.",
+    "homepage": "https://www.php.net/manual/en/book.image.php",
+    "installation": "pkg install php-gd",
+    "usage": "After installing php-gd, you can use GD library functionalities in your PHP applications.",
+    "features": [
+      "Image Manipulation: Provides image manipulation functionalities using the GD library.",
+      "PHP Extension: Integrates GD library functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and image manipulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-gd to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the GD extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-gd"
+    }
+  },
+  {
+    "name": "php-imagick",
+    "version": "3.7.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-imagick is a PHP extension for the ImageMagick library, which provides advanced image manipulation functionalities.",
+    "homepage": "https://www.php.net/manual/en/book.imagick.php",
+    "installation": "pkg install php-imagick",
+    "usage": "After installing php-imagick, you can use ImageMagick functionalities in your PHP applications.",
+    "features": [
+      "Image Manipulation: Provides advanced image manipulation functionalities using the ImageMagick library.",
+      "PHP Extension: Integrates ImageMagick functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and image manipulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-imagick to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Imagick extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-imagick"
+    }
+  },
+  {
+    "name": "php-ldap",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-ldap is a PHP extension for LDAP support, enabling PHP applications to interact with LDAP directories.",
+    "homepage": "https://www.php.net/manual/en/book.ldap.php",
+    "installation": "pkg install php-ldap",
+    "usage": "After installing php-ldap, you can use LDAP functionalities in your PHP applications.",
+    "features": [
+      "LDAP Support: Provides LDAP support for PHP applications.",
+      "PHP Extension: Integrates LDAP functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and LDAP for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-ldap to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the LDAP extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-ldap"
+    }
+  },
+  {
+    "name": "php-pgsql",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-pgsql is a PHP extension for PostgreSQL support, enabling PHP applications to interact with PostgreSQL databases.",
+    "homepage": "https://www.php.net/manual/en/book.pgsql.php",
+    "installation": "pkg install php-pgsql",
+    "usage": "After installing php-pgsql, you can use PostgreSQL functionalities in your PHP applications.",
+    "features": [
+      "PostgreSQL Support: Provides PostgreSQL support for PHP applications.",
+      "PHP Extension: Integrates PostgreSQL functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and PostgreSQL for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-pgsql to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the PostgreSQL extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-pgsql"
+    }
+  },
+  {
+    "name": "php-psr",
+    "version": "1.2.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-psr is a PHP extension that provides the interfaces for the PSR standards (PHP Standard Recommendations).",
+    "homepage": "https://www.php-fig.org/psr/",
+    "installation": "pkg install php-psr",
+    "usage": "After installing php-psr, you can use PSR interfaces in your PHP applications.",
+    "features": [
+      "PSR Standards: Provides interfaces for the PSR standards (PHP Standard Recommendations).",
+      "PHP Extension: Integrates PSR functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP-FIG website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and PSR for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-psr to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the PSR extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-psr"
+    }
+  },
+  {
+    "name": "php-redis",
+    "version": "6.1.0RC2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-redis is a PHP extension for Redis support, enabling PHP applications to interact with Redis databases.",
+    "homepage": "https://github.com/phpredis/phpredis",
+    "installation": "pkg install php-redis",
+    "usage": "After installing php-redis, you can use Redis functionalities in your PHP applications.",
+    "features": [
+      "Redis Support: Provides Redis support for PHP applications.",
+      "PHP Extension: Integrates Redis functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and Redis for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Redis extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-redis"
+    }
+  },
+  {
+    "name": "php-sodium",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-sodium is a PHP extension for Sodium (libsodium) support, providing modern cryptographic functionalities.",
+    "homepage": "https://www.php.net/manual/en/book.sodium.php",
+    "installation": "pkg install php-sodium",
+    "usage": "After installing php-sodium, you can use Sodium functionalities in your PHP applications.",
+    "features": [
+      "Sodium Support: Provides Sodium (libsodium) support for PHP applications.",
+      "PHP Extension: Integrates Sodium functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PHP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP and Sodium for support and discussions.",
+      "GitHub": "Search for repositories or forks of php-sodium to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Sodium extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-sodium"
+    }
+  },
+  {
+    "name": "php-zephir-parser",
+    "version": "1.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "php-zephir-parser is a PHP extension that provides a parser for the Zephir language.",
+    "homepage": "https://github.com/phalcon/php-zephir-parser",
+    "installation": "pkg install php-zephir-parser",
+    "usage": "After installing php-zephir-parser, you can use it to parse Zephir code.",
+    "features": [
+      "Zephir Parser: Provides a parser for the Zephir language.",
+      "PHP Extension: Integrates Zephir parsing functionalities into PHP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Zephir for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "Add the Zephir parser extension to your php.ini file.",
+      "uninstall": "pkg uninstall php-zephir-parser"
+    }
+  },
+  {
+    "name": "php",
+    "version": "8.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PHP is a popular general-purpose scripting language that is especially suited to web development.",
+    "homepage": "https://www.php.net/",
+    "installation": "pkg install php",
+    "usage": "After installing PHP, you can run PHP scripts by typing: php",
+    "features": [
+      "Scripting Language: Provides a popular general-purpose scripting language.",
+      "Web Development: Especially suited to web development.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PHP for support and discussions.",
+      "GitHub": "Search for repositories or forks of PHP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "php script.php",
+      "uninstall": "pkg uninstall php"
+    }
+  },
+  {
+    "name": "phpmyadmin",
+    "version": "5.2.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web.",
+    "homepage": "https://www.phpmyadmin.net/",
+    "installation": "pkg install phpmyadmin",
+    "usage": "After installing phpMyAdmin, you can manage MySQL databases via a web interface.",
+    "features": [
+      "MySQL Administration: Provides a tool for managing MySQL databases over the web.",
+      "Web Interface: Offers a web-based interface for database management.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MySQL and phpMyAdmin for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "access_interface": "Navigate to the phpMyAdmin URL in your web browser.",
+      "uninstall": "pkg uninstall phpmyadmin"
+    }
+  },
+  {
+    "name": "pkgtop",
+    "version": "2.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pkgtop is a utility that provides a top-like interface for managing installed packages on Unix-like systems.",
+    "homepage": "https://github.com/orhun/pkgtop",
+    "installation": "pkg install pkgtop",
+    "usage": "After installing pkgtop, you can manage installed packages by typing: pkgtop",
+    "features": [
+      "Package Management: Provides a top-like interface for managing installed packages.",
+      "Interactive Interface: Allows interactive management of packages.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to package management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_application": "pkgtop",
+      "uninstall": "pkg uninstall pkgtop"
+    }
+  },
+  {
+    "name": "plantuml",
+    "version": "1.2025.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "PlantUML is a tool that allows users to create UML diagrams from plain text descriptions.",
+    "homepage": "https://plantuml.com/",
+    "installation": "pkg install plantuml",
+    "usage": "After installing PlantUML, you can generate UML diagrams by typing: plantuml",
+    "features": [
+      "UML Diagrams: Provides tools for creating UML diagrams from plain text.",
+      "Text Descriptions: Allows creating diagrams using plain text descriptions.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to UML diagrams for support and discussions.",
+      "GitHub": "Search for repositories or forks of PlantUML to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_diagram": "plantuml diagram.txt",
+      "uninstall": "pkg uninstall plantuml"
+    }
+  },
+  {
+    "name": "play-audio",
+    "version": "0.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "play-audio is a simple command-line tool for playing audio files.",
+    "homepage": "https://github.com/padenot/play-audio",
+    "installation": "pkg install play-audio",
+    "usage": "After installing play-audio, you can play audio files by typing: play-audio",
+    "features": [
+      "Audio Playback: Provides a simple tool for playing audio files.",
+      "Command Line Tool: Use the command line to play audio files.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_file": "play-audio file.mp3",
+      "uninstall": "pkg uninstall play-audio"
+    }
+  },
+  {
+    "name": "plutolang",
+    "version": "0.10.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PlutoLang is a statically-typed, functional programming language designed for simplicity and safety.",
+    "homepage": "https://plutolang.org/",
+    "installation": "pkg install plutolang",
+    "usage": "After installing PlutoLang, you can compile and run PlutoLang programs by typing: plutolang",
+    "features": [
+      "Functional Programming: Provides a functional programming language.",
+      "Statically Typed: Ensures type safety with static typing.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to functional programming for support and discussions.",
+      "GitHub": "Search for repositories or forks of PlutoLang to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_program": "plutolang compile program.pluto",
+      "run_program": "plutolang run program.pluto",
+      "uninstall": "pkg uninstall plutolang"
+    }
+  },
+  {
+    "name": "plzip",
+    "version": "1.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "plzip is a parallel implementation of the lzip data compressor, designed for high performance.",
+    "homepage": "http://www.nongnu.org/lzip/plzip.html",
+    "installation": "pkg install plzip",
+    "usage": "After installing plzip, you can compress and decompress files by typing: plzip",
+    "features": [
+      "Data Compression: Provides a parallel implementation of the lzip compressor.",
+      "High Performance: Designed for high-performance compression and decompression.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data compression for support and discussions.",
+      "GitHub": "Search for repositories or forks of plzip to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_file": "plzip file.txt",
+      "decompress_file": "plzip -d file.txt.lz",
+      "uninstall": "pkg uninstall plzip"
+    }
+  },
+  {
+    "name": "pngcrush",
+    "version": "1.8.13-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pngcrush is a command-line tool for optimizing PNG (Portable Network Graphics) image files.",
+    "homepage": "http://pmt.sourceforge.net/pngcrush/",
+    "installation": "pkg install pngcrush",
+    "usage": "After installing pngcrush, you can optimize PNG files by typing: pngcrush",
+    "features": [
+      "Image Optimization: Provides a tool for optimizing PNG image files.",
+      "Command Line Tool: Use the command line to optimize images.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to image optimization for support and discussions.",
+      "GitHub": "Search for repositories or forks of pngcrush to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "optimize_image": "pngcrush input.png output.png",
+      "uninstall": "pkg uninstall pngcrush"
+    }
+  },
+  {
+    "name": "pngquant",
+    "version": "3.0.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pngquant is a command-line utility for lossy compression of PNG images.",
+    "homepage": "https://pngquant.org/",
+    "installation": "pkg install pngquant",
+    "usage": "After installing pngquant, you can compress PNG files by typing: pngquant",
+    "features": [
+      "Image Compression: Provides a tool for lossy compression of PNG images.",
+      "Command Line Tool: Use the command line to compress images.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to image compression for support and discussions.",
+      "GitHub": "Search for repositories or forks of pngquant to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_image": "pngquant input.png -o output.png",
+      "uninstall": "pkg uninstall pngquant"
+    }
+  },
+  {
+    "name": "pocketbase",
+    "version": "0.24.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PocketBase is an open-source backend for building modern web and mobile applications.",
+    "homepage": "https://pocketbase.io/",
+    "installation": "pkg install pocketbase",
+    "usage": "After installing PocketBase, you can start the server by typing: pocketbase serve",
+    "features": [
+      "Backend Service: Provides a backend service for web and mobile applications.",
+      "Open-Source: Available as open-source software.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to backend development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "pocketbase serve",
+      "uninstall": "pkg uninstall pocketbase"
+    }
+  },
+  {
+    "name": "poke-static",
+    "version": "4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "poke-static provides a static library version of GNU poke, an extensible editor for structured binary data.",
+    "homepage": "https://www.gnu.org/software/poke/",
+    "installation": "pkg install poke-static",
+    "usage": "After installing poke-static, you can link it with your applications to use binary data editing functionalities.",
+    "features": [
+      "Binary Data Editing: Provides a static library for editing structured binary data.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to binary data editing for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU poke to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpoke",
+      "uninstall": "pkg uninstall poke-static"
+    }
+  },
+  {
+    "name": "poke",
+    "version": "4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU poke is an extensible editor for structured binary data.",
+    "homepage": "https://www.gnu.org/software/poke/",
+    "installation": "pkg install poke",
+    "usage": "After installing GNU poke, you can edit binary data by typing: poke",
+    "features": [
+      "Binary Data Editing: Provides tools for editing structured binary data.",
+      "Extensible: Designed to be extensible with custom commands and scripts.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to binary data editing for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU poke to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_editor": "poke",
+      "uninstall": "pkg uninstall poke"
+    }
+  },
+  {
+    "name": "polipo",
+    "version": "1.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Polipo is a small and fast caching web proxy.",
+    "homepage": "https://www.irif.fr/~jch/software/polipo/",
+    "installation": "pkg install polipo",
+    "usage": "After installing Polipo, you can start the web proxy by typing: polipo",
+    "features": [
+      "Web Proxy: Provides a small and fast caching web proxy.",
+      "Caching: Designed to cache web content for faster access.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to web proxies for support and discussions.",
+      "GitHub": "Search for repositories or forks of Polipo to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_proxy": "polipo",
+      "uninstall": "pkg uninstall polipo"
+    }
+  },
+  {
+    "name": "polyml-static",
+    "version": "5.9.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "polyml-static provides a static library version of Poly/ML, a Standard ML implementation.",
+    "homepage": "https://www.polyml.org/",
+    "installation": "pkg install polyml-static",
+    "usage": "After installing polyml-static, you can link it with your applications to use Standard ML functionalities.",
+    "features": [
+      "Standard ML: Provides a static library for the Standard ML programming language.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Standard ML for support and discussions.",
+      "GitHub": "Search for repositories or forks of Poly/ML to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpolyml",
+      "uninstall": "pkg uninstall polyml-static"
+    }
+  },
+  {
+    "name": "polyml",
+    "version": "5.9.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Poly/ML is an implementation of Standard ML, a functional programming language.",
+    "homepage": "https://www.polyml.org/",
+    "installation": "pkg install polyml",
+    "usage": "After installing Poly/ML, you can start the Standard ML interpreter by typing: poly",
+    "features": [
+      "Standard ML: Provides an implementation of the Standard ML programming language.",
+      "Functional Programming: Designed for functional programming.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Standard ML for support and discussions.",
+      "GitHub": "Search for repositories or forks of Poly/ML to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_interpreter": "poly",
+      "uninstall": "pkg uninstall polyml"
+    }
+  },
+  {
+    "name": "pomodoro-curses",
+    "version": "2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pomodoro-curses is a simple Pomodoro timer for the terminal, using curses for the interface.",
+    "homepage": "https://github.com/ivanjermakov/pomodoro-curses",
+    "installation": "pkg install pomodoro-curses",
+    "usage": "After installing pomodoro-curses, you can start the Pomodoro timer by typing: pomodoro-curses",
+    "features": [
+      "Pomodoro Timer: Provides a simple Pomodoro timer for productivity.",
+      "Terminal Interface: Uses curses for the terminal interface.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to productivity tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_timer": "pomodoro-curses",
+      "uninstall": "pkg uninstall pomodoro-curses"
+    }
+  },
+  {
+    "name": "poppler-data",
+    "version": "0.4.12",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "poppler-data provides encoding files for use with the poppler library.",
+    "homepage": "https://poppler.freedesktop.org/",
+    "installation": "pkg install poppler-data",
+    "usage": "After installing poppler-data, the encoding files will be available for use with the poppler library.",
+    "features": [
+      "Encoding Files: Provides encoding files for the poppler library.",
+      "PDF Support: Enhances PDF rendering capabilities.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PDF tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of poppler-data to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_encoding_files": "The encoding files will be used automatically by the poppler library.",
+      "uninstall": "pkg uninstall poppler-data"
+    }
+  },
+  {
+    "name": "poppler",
+    "version": "24.05.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Poppler is a PDF rendering library based on the xpdf-3.0 code base.",
+    "homepage": "https://poppler.freedesktop.org/",
+    "installation": "pkg install poppler",
+    "usage": "After installing Poppler, you can use it to render PDF files in your applications.",
+    "features": [
+      "PDF Rendering: Provides a library for rendering PDF files.",
+      "Based on xpdf: Built on the xpdf-3.0 code base.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PDF tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of Poppler to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include Poppler in your PDF rendering projects.",
+      "uninstall": "pkg uninstall poppler"
+    }
+  },
+  {
+    "name": "portaudio-static",
+    "version": "19.07.00-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "portaudio-static provides a static library version of PortAudio, a cross-platform audio library.",
+    "homepage": "http://www.portaudio.com/",
+    "installation": "pkg install portaudio-static",
+    "usage": "After installing portaudio-static, you can link it with your applications to use audio functionalities.",
+    "features": [
+      "Audio Library: Provides a static library for cross-platform audio functionalities.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio development for support and discussions.",
+      "GitHub": "Search for repositories or forks of PortAudio to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lportaudio",
+      "uninstall": "pkg uninstall portaudio-static"
+    }
+  },
+  {
+    "name": "portaudio",
+    "version": "19.07.00-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PortAudio is a cross-platform, open-source audio library for real-time audio input and output.",
+    "homepage": "http://www.portaudio.com/",
+    "installation": "pkg install portaudio",
+    "usage": "After installing PortAudio, you can use it in your applications to handle audio input and output.",
+    "features": [
+      "Audio Library: Provides a cross-platform library for real-time audio input and output.",
+      "Open-Source: Available as open-source software.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio development for support and discussions.",
+      "GitHub": "Search for repositories or forks of PortAudio to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include PortAudio in your audio projects.",
+      "uninstall": "pkg uninstall portaudio"
+    }
+  },
+  {
+    "name": "portmidi",
+    "version": "2.0.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PortMidi is a cross-platform library for real-time MIDI input and output.",
+    "homepage": "https://sourceforge.net/projects/portmedia/",
+    "installation": "pkg install portmidi",
+    "usage": "After installing PortMidi, you can use it in your applications to handle MIDI input and output.",
+    "features": [
+      "MIDI Library: Provides a cross-platform library for real-time MIDI input and output.",
+      "Open-Source: Available as open-source software.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MIDI development for support and discussions.",
+      "GitHub": "Search for repositories or forks of PortMidi to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include PortMidi in your MIDI projects.",
+      "uninstall": "pkg uninstall portmidi"
+    }
+  },
+  {
+    "name": "posixvala",
+    "version": "0.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "POSIX Vala is a library that provides POSIX bindings for the Vala programming language.",
+    "homepage": "https://gitlab.gnome.org/GNOME/vala-posix",
+    "installation": "pkg install posixvala",
+    "usage": "After installing POSIX Vala, you can use POSIX functionalities in your Vala programs.",
+    "features": [
+      "POSIX Bindings: Provides POSIX bindings for the Vala programming language.",
+      "Vala Integration: Integrates POSIX functionalities into Vala.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Vala for support and discussions.",
+      "GitHub": "Search for repositories or forks of POSIX Vala to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include POSIX Vala in your Vala projects.",
+      "uninstall": "pkg uninstall posixvala"
+    }
+  },
+  {
+    "name": "postgis",
+    "version": "3.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PostGIS is a spatial database extender for PostgreSQL, providing support for geographic objects.",
+    "homepage": "https://postgis.net/",
+    "installation": "pkg install postgis",
+    "usage": "After installing PostGIS, you can enable spatial support in PostgreSQL.",
+    "features": [
+      "Spatial Database: Provides support for geographic objects in PostgreSQL.",
+      "PostgreSQL Extension: Extends PostgreSQL with spatial functionalities.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PostgreSQL and spatial databases for support and discussions.",
+      "GitHub": "Search for repositories or forks of PostGIS to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_extension": "CREATE EXTENSION postgis;",
+      "uninstall": "pkg uninstall postgis"
+    }
+  },
+  {
+    "name": "postgresql-static",
+    "version": "17.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "postgresql-static provides a static library version of PostgreSQL, a powerful, open-source object-relational database system.",
+    "homepage": "https://www.postgresql.org/",
+    "installation": "pkg install postgresql-static",
+    "usage": "After installing postgresql-static, you can link it with your applications to use PostgreSQL functionalities.",
+    "features": [
+      "Database System: Provides a static library for PostgreSQL, an object-relational database system.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PostgreSQL for support and discussions.",
+      "GitHub": "Search for repositories or forks of PostgreSQL to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpq",
+      "uninstall": "pkg uninstall postgresql-static"
+    }
+  },
+  {
+    "name": "postgresql",
+    "version": "17.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PostgreSQL is a powerful, open-source object-relational database system.",
+    "homepage": "https://www.postgresql.org/",
+    "installation": "pkg install postgresql",
+    "usage": "After installing PostgreSQL, you can manage databases by typing: psql",
+    "features": [
+      "Database System: Provides an object-relational database system.",
+      "Open-Source: Available as open-source software.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PostgreSQL for support and discussions.",
+      "GitHub": "Search for repositories or forks of PostgreSQL to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_database": "pg_ctl start",
+      "uninstall": "pkg uninstall postgresql"
+    }
+  },
+  {
+    "name": "potrace-static",
+    "version": "1.16-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "potrace-static provides a static library version of Potrace, a tool for tracing a bitmap into a smooth, scalable image.",
+    "homepage": "http://potrace.sourceforge.net/",
+    "installation": "pkg install potrace-static",
+    "usage": "After installing potrace-static, you can link it with your applications to use tracing functionalities.",
+    "features": [
+      "Image Tracing: Provides a static library for tracing a bitmap into a smooth, scalable image.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to image tracing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Potrace to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpotrace",
+      "uninstall": "pkg uninstall potrace-static"
+    }
+  },
+  {
+    "name": "potrace",
+    "version": "1.16-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Potrace is a tool for tracing a bitmap into a smooth, scalable image.",
+    "homepage": "http://potrace.sourceforge.net/",
+    "installation": "pkg install potrace",
+    "usage": "After installing Potrace, you can trace bitmaps by typing: potrace",
+    "features": [
+      "Image Tracing: Provides a tool for tracing a bitmap into a smooth, scalable image.",
+      "Command Line Tool: Use the command line to perform tracing operations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to image tracing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Potrace to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "trace_bitmap": "potrace input.bmp",
+      "uninstall": "pkg uninstall potrace"
+    }
+  },
+  {
+    "name": "pounce",
+    "version": "3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Pounce is a simple IRC bouncer.",
+    "homepage": "https://github.com/aaronNGi/pounce",
+    "installation": "pkg install pounce",
+    "usage": "After installing Pounce, you can start the IRC bouncer by typing: pounce",
+    "features": [
+      "IRC Bouncer: Provides a simple IRC bouncer.",
+      "Command Line Tool: Use the command line to manage the bouncer.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to IRC for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_bouncer": "pounce",
+      "uninstall": "pkg uninstall pounce"
+    }
+  },
+  {
+    "name": "povray-data",
+    "version": "3.8.0-beta.2-11",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "povray-data provides data files for POV-Ray, including example scenes, textures, and other resources.",
+    "homepage": "https://www.povray.org/",
+    "installation": "pkg install povray-data",
+    "usage": "After installing povray-data, the data files will be available for use with POV-Ray.",
+    "features": [
+      "Data Files: Provides example scenes, textures, and other resources for POV-Ray.",
+      "POV-Ray Integration: Enhances POV-Ray with additional resources.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and resources on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to POV-Ray for support and discussions.",
+      "GitHub": "Search for repositories or forks of povray-data to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_data_files": "The data files will be used automatically by POV-Ray.",
+      "uninstall": "pkg uninstall povray-data"
+    }
+  },
+  {
+    "name": "povray",
+    "version": "3.8.0-beta.2-11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "POV-Ray (Persistence of Vision Raytracer) is a high-quality tool for creating stunning three-dimensional graphics.",
+    "homepage": "https://www.povray.org/",
+    "installation": "pkg install povray",
+    "usage": "After installing POV-Ray, you can render 3D scenes by typing: povray",
+    "features": [
+      "3D Rendering: Provides tools for creating high-quality 3D graphics.",
+      "Raytracing: Uses raytracing technique for realistic image synthesis.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and resources on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to POV-Ray for support and discussions.",
+      "GitHub": "Search for repositories or forks of POV-Ray to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "render_scene": "povray scene.pov",
+      "uninstall": "pkg uninstall povray"
+    }
+  },
+  {
+    "name": "predict",
+    "version": "2.3.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "predict is a satellite tracking and orbital prediction software.",
+    "homepage": "https://www.qsl.net/kd2bd/predict.html",
+    "installation": "pkg install predict",
+    "usage": "After installing predict, you can track satellites by typing: predict",
+    "features": [
+      "Satellite Tracking: Provides tools for tracking satellites and predicting their orbits.",
+      "Orbital Prediction: Calculates and predicts satellite orbits.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and resources on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to satellite tracking for support and discussions.",
+      "GitHub": "Search for repositories or forks of predict to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "track_satellite": "predict",
+      "uninstall": "pkg uninstall predict"
+    }
+  },
+  {
+    "name": "privoxy",
+    "version": "3.0.34",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Privoxy is a non-caching web proxy with advanced filtering capabilities to enhance privacy, modify web page data, and manage ad blocking.",
+    "homepage": "https://www.privoxy.org/",
+    "installation": "pkg install privoxy",
+    "usage": "After installing Privoxy, you can start the proxy by typing: privoxy",
+    "features": [
+      "Web Proxy: Provides a non-caching web proxy with advanced filtering.",
+      "Privacy Enhancement: Enhances privacy by filtering web content.",
+      "Ad Blocking: Capable of blocking ads and other unwanted content.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and resources on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to web proxies for support and discussions.",
+      "GitHub": "Search for repositories or forks of Privoxy to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_proxy": "privoxy",
+      "uninstall": "pkg uninstall privoxy"
+    }
+  },
+  {
+    "name": "procps-static",
+    "version": "3.3.17-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "procps-static provides a static library version of procps, a suite of command-line utilities for monitoring and managing processes.",
+    "homepage": "https://gitlab.com/procps-ng/procps",
+    "installation": "pkg install procps-static",
+    "usage": "After installing procps-static, you can link it with your applications to use process monitoring functionalities.",
+    "features": [
+      "Process Monitoring: Provides a static library for monitoring and managing processes.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitLab project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to process monitoring for support and discussions.",
+      "GitHub": "Search for repositories or forks of procps to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lprocps",
+      "uninstall": "pkg uninstall procps-static"
+    }
+  },
+  {
+    "name": "procps",
+    "version": "3.3.17-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "procps is a suite of command-line utilities for monitoring and managing processes.",
+    "homepage": "https://gitlab.com/procps-ng/procps",
+    "installation": "pkg install procps",
+    "usage": "After installing procps, you can use the provided utilities to monitor and manage processes.",
+    "features": [
+      "Process Monitoring: Provides utilities for monitoring and managing processes.",
+      "Command Line Tools: Includes tools like ps, top, and others.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitLab project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to process monitoring for support and discussions.",
+      "GitHub": "Search for repositories or forks of procps to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_processes": "ps aux",
+      "uninstall": "pkg uninstall procps"
+    }
+  },
+  {
+    "name": "procs",
+    "version": "0.14.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "procs is a modern replacement for the ps command, providing a more user-friendly and feature-rich interface for process monitoring.",
+    "homepage": "https://github.com/dalance/procs",
+    "installation": "pkg install procs",
+    "usage": "After installing procs, you can monitor processes by typing: procs",
+    "features": [
+      "Process Monitoring: Provides a modern interface for monitoring processes.",
+      "User-Friendly: Designed to be more user-friendly than ps.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to process monitoring for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "monitor_processes": "procs",
+      "uninstall": "pkg uninstall procs"
+    }
+  },
+  {
+    "name": "procyon-decompiler",
+    "version": "0.6.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Procyon Decompiler is a Java decompiler aimed at producing readable output that is as close as possible to the original source code.",
+    "homepage": "https://bitbucket.org/mstrobel/procyon",
+    "installation": "pkg install procyon-decompiler",
+    "usage": "After installing Procyon Decompiler, you can decompile Java class files by typing: procyon-decompiler",
+    "features": [
+      "Java Decompiler: Provides a decompiler for Java class files.",
+      "Readable Output: Aims to produce output that is as close as possible to the original source code.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the Bitbucket repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Java development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Procyon Decompiler to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "decompile_class": "procyon-decompiler MyClass.class",
+      "uninstall": "pkg uninstall procyon-decompiler"
+    }
+  },
+  {
+    "name": "profanity",
+    "version": "0.14.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Profanity is a console-based XMPP client, offering a simple and efficient way to chat via the XMPP protocol.",
+    "homepage": "https://profanity-im.github.io/",
+    "installation": "pkg install profanity",
+    "usage": "After installing Profanity, you can start the XMPP client by typing: profanity",
+    "features": [
+      "XMPP Client: Provides a console-based client for the XMPP protocol.",
+      "Simple Interface: Offers a simple and efficient way to chat.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XMPP for support and discussions.",
+      "GitHub": "Search for repositories or forks of Profanity to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "profanity",
+      "uninstall": "pkg uninstall profanity"
+    }
+  },
+  {
+    "name": "progress",
+    "version": "0.17",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "progress is a tool that provides progress information for coreutils commands such as cp, mv, dd, tar, and more.",
+    "homepage": "https://github.com/Xfennec/progress",
+    "installation": "pkg install progress",
+    "usage": "After installing progress, you can monitor the progress of supported commands by typing: progress",
+    "features": [
+      "Progress Monitoring: Provides progress information for coreutils commands.",
+      "Supported Commands: Works with commands such as cp, mv, dd, tar, and more.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "monitor_progress": "progress -M",
+      "uninstall": "pkg uninstall progress"
+    }
+  },
+  {
+    "name": "proj",
+    "version": "9.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PROJ is a generic coordinate transformation software that transforms geospatial coordinates from one coordinate reference system (CRS) to another.",
+    "homepage": "https://proj.org/",
+    "installation": "pkg install proj",
+    "usage": "After installing PROJ, you can use it to transform geospatial coordinates by typing: proj",
+    "features": [
+      "Coordinate Transformation: Provides tools for transforming geospatial coordinates.",
+      "CRS Support: Supports various coordinate reference systems.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to geospatial data for support and discussions.",
+      "GitHub": "Search for repositories or forks of PROJ to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "transform_coordinates": "proj +proj=utm +zone=32 +datum=WGS84",
+      "uninstall": "pkg uninstall proj"
+    }
+  },
+  {
+    "name": "proot-distro",
+    "version": "4.21.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "proot-distro is a tool for managing Linux distributions in PRoot, allowing you to run multiple distributions on a single system.",
+    "homepage": "https://github.com/termux/proot-distro",
+    "installation": "pkg install proot-distro",
+    "usage": "After installing proot-distro, you can manage Linux distributions by typing: proot-distro",
+    "features": [
+      "Linux Distributions: Provides tools for managing multiple Linux distributions in PRoot.",
+      "PRoot Integration: Uses PRoot to run distributions on a single system.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Linux distributions for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_distributions": "proot-distro list",
+      "uninstall": "pkg uninstall proot-distro"
+    }
+  },
+  {
+    "name": "proot",
+    "version": "5.1.107-66",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PROOT is a user-space implementation of chroot, mount --bind, and binfmt_misc.",
+    "homepage": "https://proot-me.github.io/",
+    "installation": "pkg install proot",
+    "usage": "After installing PROOT, you can use it to run programs with an alternative root directory by typing: proot",
+    "features": [
+      "User-Space Chroot: Provides a user-space implementation of chroot.",
+      "Mount --bind: Supports mount --bind functionality.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to chroot for support and discussions.",
+      "GitHub": "Search for repositories or forks of PROOT to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_with_proot": "proot -q qemu-arm -S /path/to/root /bin/sh",
+      "uninstall": "pkg uninstall proot"
+    }
+  }
+]

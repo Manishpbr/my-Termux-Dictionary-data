@@ -1,0 +1,1099 @@
+[
+  {
+    "name": "i2pd-static",
+    "version": "2.55.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "I2P Daemon (i2pd) is a full-featured C++ implementation of the I2P client. This is the statically linked version.",
+    "homepage": "https://i2pd.website/",
+    "installation": "pkg install i2pd-static",
+    "usage": "After installing i2pd-static, you can use it to run an I2P router as a service.",
+    "features": [
+      "I2P Implementation: Provides a full-featured implementation of the I2P client.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for running the I2P daemon.",
+      "Integration: Can be integrated into privacy-focused and anonymous communication workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the I2PD documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to I2P and I2PD for support and discussions.",
+      "GitHub": "Visit the I2PD GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_i2pd": "i2pd --service",
+      "uninstall": "pkg uninstall i2pd-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "i2pd",
+    "version": "2.55.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "I2P Daemon (i2pd) is a full-featured C++ implementation of the I2P client.",
+    "homepage": "https://i2pd.website/",
+    "installation": "pkg install i2pd",
+    "usage": "After installing i2pd, you can use it to run an I2P router as a service.",
+    "features": [
+      "I2P Implementation: Provides a full-featured implementation of the I2P client.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for running the I2P daemon.",
+      "Integration: Can be integrated into privacy-focused and anonymous communication workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the I2PD documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to I2P and I2PD for support and discussions.",
+      "GitHub": "Visit the I2PD GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_i2pd": "i2pd --service",
+      "uninstall": "pkg uninstall i2pd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "icecast",
+    "version": "2.4.4-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Icecast is a streaming media server that supports Ogg Vorbis and MP3 streams.",
+    "homepage": "https://icecast.org/",
+    "installation": "pkg install icecast",
+    "usage": "After installing icecast, you can use it to set up a streaming media server.",
+    "features": [
+      "Streaming Media Server: Provides tools for setting up a streaming media server.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for managing the media server.",
+      "Integration: Can be integrated into media streaming workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Icecast documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to media streaming and Icecast for support and discussions.",
+      "GitHub": "Visit the Icecast GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_icecast": "icecast -c /etc/icecast.xml",
+      "uninstall": "pkg uninstall icecast"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ices",
+    "version": "2.0.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ices is a source client for Icecast streaming media server.",
+    "homepage": "https://icecast.org/ices/",
+    "installation": "pkg install ices",
+    "usage": "After installing ices, you can use it to send audio streams to Icecast servers.",
+    "features": [
+      "Source Client: Provides tools for sending audio streams to Icecast servers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for managing audio streams.",
+      "Integration: Can be integrated into media streaming workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ices documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to media streaming and Ices for support and discussions.",
+      "GitHub": "Visit the Ices GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_ices": "ices -c /etc/ices.xml",
+      "uninstall": "pkg uninstall ices"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "iconv",
+    "version": "1.17-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Iconv is a utility for converting text from one character encoding to another.",
+    "homepage": "https://www.gnu.org/software/libiconv/",
+    "installation": "pkg install iconv",
+    "usage": "After installing iconv, you can use it to convert text files between different character encodings.",
+    "features": [
+      "Text Conversion: Provides tools for converting text files between different character encodings.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for text conversion tasks.",
+      "Integration: Can be integrated into text processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Iconv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and Iconv for support and discussions.",
+      "GitHub": "Visit the Iconv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "convert_text": "iconv -f UTF-8 -t ISO-8859-1 input.txt -o output.txt",
+      "uninstall": "pkg uninstall iconv"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "icoutils",
+    "version": "0.32.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Icoutils is a set of programs for extracting and converting images in Microsoft Windows icon and cursor files.",
+    "homepage": "https://www.nongnu.org/icoutils/",
+    "installation": "pkg install icoutils",
+    "usage": "After installing icoutils, you can use it to extract and convert images from Windows icon and cursor files.",
+    "features": [
+      "Icon and Cursor Utilities: Provides tools for extracting and converting images from Windows icon and cursor files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for icon and cursor tasks.",
+      "Integration: Can be integrated into graphics and icon design workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Icoutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to graphics and Icoutils for support and discussions.",
+      "GitHub": "Visit the Icoutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "extract_icon": "icotool -x myicon.ico",
+      "uninstall": "pkg uninstall icoutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "icu-devtools",
+    "version": "76.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ICU Devtools provide development tools for the International Components for Unicode (ICU) library.",
+    "homepage": "http://site.icu-project.org/",
+    "installation": "pkg install icu-devtools",
+    "usage": "After installing icu-devtools, you can use it to develop applications with ICU library support.",
+    "features": [
+      "Development Tools: Provides tools for developing applications with ICU library support.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for development tasks.",
+      "Integration: Can be integrated into internationalization and localization workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ICU Devtools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to internationalization and ICU Devtools for support and discussions.",
+      "GitHub": "Visit the ICU Devtools GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_icu_tool": "icuinfo",
+      "uninstall": "pkg uninstall icu-devtools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "id3lib-static",
+    "version": "3.8.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ID3Lib is a library for reading, writing, and manipulating ID3v1 and ID3v2 tags. This is the statically linked version.",
+    "homepage": "http://id3lib.sourceforge.net/",
+    "installation": "pkg install id3lib-static",
+    "usage": "After installing id3lib-static, you can use it to manage ID3 tags in your applications.",
+    "features": [
+      "ID3 Tag Management: Provides tools for reading, writing, and manipulating ID3v1 and ID3v2 tags.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for ID3 tag management tasks.",
+      "Integration: Can be integrated into media management and audio processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ID3Lib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ID3 tags and ID3Lib for support and discussions.",
+      "GitHub": "Visit the ID3Lib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_with_id3lib": "gcc -o myprogram myprogram.c -lid3",
+      "uninstall": "pkg uninstall id3lib-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "id3lib",
+    "version": "3.8.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ID3Lib is a library for reading, writing, and manipulating ID3v1 and ID3v2 tags.",
+    "homepage": "http://id3lib.sourceforge.net/",
+    "installation": "pkg install id3lib",
+    "usage": "After installing id3lib, you can use it to manage ID3 tags in your applications.",
+    "features": [
+      "ID3 Tag Management: Provides tools for reading, writing, and manipulating ID3v1 and ID3v2 tags.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for ID3 tag management tasks.",
+      "Integration: Can be integrated into media management and audio processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ID3Lib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ID3 tags and ID3Lib for support and discussions.",
+      "GitHub": "Visit the ID3Lib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_with_id3lib": "gcc -o myprogram myprogram.c -lid3",
+      "uninstall": "pkg uninstall id3lib"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "id3ted",
+    "version": "1.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ID3ted is a command-line tool for editing ID3 tags in MP3 files.",
+    "homepage": "https://github.com/id3ted/id3ted",
+    "installation": "pkg install id3ted",
+    "usage": "After installing id3ted, you can use it to edit ID3 tags in MP3 files from the command line.",
+    "features": [
+      "ID3 Tag Editing: Provides tools for editing ID3 tags in MP3 files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for ID3 tag editing.",
+      "Integration: Can be integrated into media management and audio processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ID3ted documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ID3 tags and ID3ted for support and discussions.",
+      "GitHub": "Visit the ID3ted GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_id3_tag": "id3ted -t 'Title' -a 'Artist' -l 'Album' filename.mp3",
+      "uninstall": "pkg uninstall id3ted"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "id3v2",
+    "version": "0.1.12-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ID3v2 is a command-line tool for editing ID3v2 tags in MP3 files.",
+    "homepage": "https://id3v2.sourceforge.net/",
+    "installation": "pkg install id3v2",
+    "usage": "After installing id3v2, you can use it to edit ID3v2 tags in MP3 files from the command line.",
+    "features": [
+      "ID3v2 Tag Editing: Provides tools for editing ID3v2 tags in MP3 files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for ID3v2 tag editing.",
+      "Integration: Can be integrated into media management and audio processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ID3v2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ID3 tags and ID3v2 for support and discussions.",
+      "GitHub": "Visit the ID3v2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_id3v2_tag": "id3v2 -t 'Title' -a 'Artist' -A 'Album' filename.mp3",
+      "uninstall": "pkg uninstall id3v2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "imagemagick-static",
+    "version": "7.1.1.43",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ImageMagick is a software suite to create, edit, compose, or convert bitmap images. This is the statically linked version.",
+    "homepage": "https://imagemagick.org/",
+    "installation": "pkg install imagemagick-static",
+    "usage": "After installing imagemagick-static, you can use it to manipulate images with a wide range of operations.",
+    "features": [
+      "Image Processing: Provides tools for manipulating images, including resizing, cropping, and format conversion.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for image processing tasks.",
+      "Integration: Can be integrated into scripts and automation workflows for image processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ImageMagick documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and ImageMagick for support and discussions.",
+      "GitHub": "Visit the ImageMagick GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "resize_image": "magick convert input.jpg -resize 800x600 output.jpg",
+      "uninstall": "pkg uninstall imagemagick-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "imagemagick",
+    "version": "7.1.1.43",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ImageMagick is a software suite to create, edit, compose, or convert bitmap images.",
+    "homepage": "https://imagemagick.org/",
+    "installation": "pkg install imagemagick",
+    "usage": "After installing imagemagick, you can use it to manipulate images with a wide range of operations.",
+    "features": [
+      "Image Processing: Provides tools for manipulating images, including resizing, cropping, and format conversion.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for image processing tasks.",
+      "Integration: Can be integrated into scripts and automation workflows for image processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ImageMagick documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and ImageMagick for support and discussions.",
+      "GitHub": "Visit the ImageMagick GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "resize_image": "magick convert input.jpg -resize 800x600 output.jpg",
+      "uninstall": "pkg uninstall imagemagick"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "imath",
+    "version": "3.1.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Imath is a library of 2D and 3D vector, matrix, and math operations.",
+    "homepage": "https://github.com/AcademySoftwareFoundation/Imath",
+    "installation": "pkg install imath",
+    "usage": "After installing imath, you can use it to perform various mathematical operations in your applications.",
+    "features": [
+      "Math Library: Provides tools for 2D and 3D vector, matrix, and math operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for mathematical operations.",
+      "Integration: Can be integrated into graphics, simulation, and scientific computing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Imath documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to mathematical computing and Imath for support and discussions.",
+      "GitHub": "Visit the Imath GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_imath": "Not applicable",
+      "uninstall": "pkg uninstall imath"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "imgflo",
+    "version": "0.4.2-8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Imgflo is a server for processing images using the Flowhub visual programming environment.",
+    "homepage": "https://github.com/imgflo/imgflo",
+    "installation": "pkg install imgflo",
+    "usage": "After installing imgflo, you can use it to process images through the Flowhub visual programming environment.",
+    "features": [
+      "Image Processing: Provides tools for processing images using Flowhub.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for image processing tasks.",
+      "Integration: Can be integrated into visual programming workflows for image processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Imgflo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Imgflo for support and discussions.",
+      "GitHub": "Visit the Imgflo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_imgflo": "imgflo -p 3569",
+      "uninstall": "pkg uninstall imgflo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "imlib2-static",
+    "version": "1.12.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Imlib2 is a powerful image loading and rendering library. This is the statically linked version.",
+    "homepage": "https://docs.enlightenment.org/api/imlib2/html/",
+    "installation": "pkg install imlib2-static",
+    "usage": "After installing imlib2-static, you can use it to load and render images in your applications.",
+    "features": [
+      "Image Loading and Rendering: Provides tools for loading and rendering images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for image loading and rendering tasks.",
+      "Integration: Can be integrated into graphics and multimedia applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Imlib2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Imlib2 for support and discussions.",
+      "GitHub": "Visit the Imlib2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_imlib2": "Not applicable",
+      "uninstall": "pkg uninstall imlib2-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "imlib2",
+    "version": "1.12.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Imlib2 is a powerful image loading and rendering library.",
+    "homepage": "https://docs.enlightenment.org/api/imlib2/html/",
+    "installation": "pkg install imlib2",
+    "usage": "After installing imlib2, you can use it to load and render images in your applications.",
+    "features": [
+      "Image Loading and Rendering: Provides tools for loading and rendering images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image loading and rendering tasks.",
+      "Integration: Can be integrated into graphics and multimedia applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Imlib2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Imlib2 for support and discussions.",
+      "GitHub": "Visit the Imlib2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_imlib2": "Not applicable",
+      "uninstall": "pkg uninstall imlib2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "indent",
+    "version": "2.2.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Indent is a GNU program for formatting C code.",
+    "homepage": "https://www.gnu.org/software/indent/",
+    "installation": "pkg install indent",
+    "usage": "After installing indent, you can use it to format your C code according to specified style guidelines.",
+    "features": [
+      "Code Formatting: Provides tools for formatting C code.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for code formatting tasks.",
+      "Integration: Can be integrated into development workflows for consistent code formatting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Indent documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to code formatting and Indent for support and discussions.",
+      "GitHub": "Visit the Indent GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "format_code": "indent myfile.c",
+      "uninstall": "pkg uninstall indent"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "inetutils",
+    "version": "2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Inetutils is a collection of common network programs.",
+    "homepage": "https://www.gnu.org/software/inetutils/",
+    "installation": "pkg install inetutils",
+    "usage": "After installing inetutils, you can use it to perform various network-related tasks.",
+    "features": [
+      "Network Programs: Provides a collection of common network programs such as ping, ftp, telnet, and more.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for network tasks.",
+      "Integration: Can be integrated into system administration and network management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Inetutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network programs and Inetutils for support and discussions.",
+      "GitHub": "Visit the Inetutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "ping_host": "ping example.com",
+      "uninstall": "pkg uninstall inetutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "influxdb",
+    "version": "1.8.10-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "InfluxDB is an open-source time series database designed for fast, high-availability storage and retrieval of time series data.",
+    "homepage": "https://www.influxdata.com/",
+    "installation": "pkg install influxdb",
+    "usage": "After installing influxdb, you can use it to store and query time series data efficiently.",
+    "features": [
+      "Time Series Database: Provides tools for storing and querying time series data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface and HTTP API for database management.",
+      "Integration: Can be integrated into monitoring, IoT, and analytics workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the InfluxDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to time series databases and InfluxDB for support and discussions.",
+      "GitHub": "Visit the InfluxDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_influxdb": "influxd",
+      "uninstall": "pkg uninstall influxdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "innoextract",
+    "version": "1.9-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Innoextract is a tool to unpack installers created by Inno Setup.",
+    "homepage": "https://constexpr.org/innoextract/",
+    "installation": "pkg install innoextract",
+    "usage": "After installing innoextract, you can use it to unpack Inno Setup installers from the command line.",
+    "features": [
+      "Installer Unpacking: Provides tools for unpacking installers created by Inno Setup.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for unpacking tasks.",
+      "Integration: Can be integrated into software deployment and installation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Innoextract documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to software packaging and Innoextract for support and discussions.",
+      "GitHub": "Visit the Innoextract GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "unpack_installer": "innoextract setup.exe",
+      "uninstall": "pkg uninstall innoextract"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "inotify-tools-static",
+    "version": "4.23.9.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Inotify-tools is a set of command-line utilities for using the inotify file system event-monitoring interface. This is the statically linked version.",
+    "homepage": "https://github.com/inotify-tools/inotify-tools",
+    "installation": "pkg install inotify-tools-static",
+    "usage": "After installing inotify-tools-static, you can use it to monitor file system events.",
+    "features": [
+      "File System Monitoring: Provides tools for monitoring file system events.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for monitoring tasks.",
+      "Integration: Can be integrated into system administration and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Inotify-tools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file system monitoring and Inotify-tools for support and discussions.",
+      "GitHub": "Visit the Inotify-tools GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "monitor_events": "inotifywait -m /path/to/directory",
+      "uninstall": "pkg uninstall inotify-tools-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "inotify-tools",
+    "version": "4.23.9.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Inotify-tools is a set of command-line utilities for using the inotify file system event-monitoring interface.",
+    "homepage": "https://github.com/inotify-tools/inotify-tools",
+    "installation": "pkg install inotify-tools",
+    "usage": "After installing inotify-tools, you can use it to monitor file system events.",
+    "features": [
+      "File System Monitoring: Provides tools for monitoring file system events.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for monitoring tasks.",
+      "Integration: Can be integrated into system administration and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Inotify-tools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file system monitoring and Inotify-tools for support and discussions.",
+      "GitHub": "Visit the Inotify-tools GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "monitor_events": "inotifywait -m /path/to/directory",
+      "uninstall": "pkg uninstall inotify-tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "intltool",
+    "version": "0.51.0-3",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Intltool is a set of tools to centralize translation of many different file formats using GNU gettext-compatible PO files.",
+    "homepage": "https://freedesktop.org/wiki/Software/intltool/",
+    "installation": "pkg install intltool",
+    "usage": "After installing intltool, you can use it to manage translations of various file formats.",
+    "features": [
+      "Translation Management: Provides tools for managing translations of various file formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for translation tasks.",
+      "Integration: Can be integrated into software localization and internationalization workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Intltool documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to localization and Intltool for support and discussions.",
+      "GitHub": "Visit the Intltool GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "manage_translations": "intltool-update --pot",
+      "uninstall": "pkg uninstall intltool"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "inxi",
+    "version": "3.3.37-1-0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Inxi is a full-featured CLI system information tool.",
+    "homepage": "https://smxi.org/docs/inxi.htm",
+    "installation": "pkg install inxi",
+    "usage": "After installing inxi, you can use it to display comprehensive system information.",
+    "features": [
+      "System Information: Provides detailed information about the system hardware and software.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for displaying system information.",
+      "Integration: Can be integrated into system administration and monitoring workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Inxi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system information and Inxi for support and discussions.",
+      "GitHub": "Visit the Inxi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "display_info": "inxi -F",
+      "uninstall": "pkg uninstall inxi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ipcalc",
+    "version": "0.51",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ipcalc provides a simple way to calculate IP information for a host.",
+    "homepage": "http://jodies.de/ipcalc",
+    "installation": "pkg install ipcalc",
+    "usage": "After installing ipcalc, you can use it to calculate IP address ranges and subnet masks.",
+    "features": [
+      "IP Calculation: Provides tools for calculating IP address ranges and subnet masks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for IP calculation.",
+      "Integration: Can be integrated into network administration and configuration workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ipcalc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to networking and Ipcalc for support and discussions.",
+      "GitHub": "Visit the Ipcalc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "calculate_ip": "ipcalc 192.168.1.1/24",
+      "uninstall": "pkg uninstall ipcalc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "iperf3-static",
+    "version": "3.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Iperf3 is a tool for active measurements of the maximum achievable bandwidth on IP networks. This is the statically linked version.",
+    "homepage": "https://software.es.net/iperf/",
+    "installation": "pkg install iperf3-static",
+    "usage": "After installing iperf3-static, you can use it to measure network bandwidth.",
+    "features": [
+      "Network Bandwidth Measurement: Provides tools for measuring network bandwidth.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a simple command-line interface for bandwidth measurement.",
+      "Integration: Can be integrated into network performance testing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Iperf3 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network performance and Iperf3 for support and discussions.",
+      "GitHub": "Visit the Iperf3 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_server": "iperf3 -s",
+      "start_client": "iperf3 -c <server_ip>",
+      "uninstall": "pkg uninstall iperf3-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "iperf3",
+    "version": "3.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Iperf3 is a tool for active measurements of the maximum achievable bandwidth on IP networks.",
+    "homepage": "https://software.es.net/iperf/",
+    "installation": "pkg install iperf3",
+    "usage": "After installing iperf3, you can use it to measure network bandwidth.",
+    "features": [
+      "Network Bandwidth Measurement: Provides tools for measuring network bandwidth.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a simple command-line interface for bandwidth measurement.",
+      "Integration: Can be integrated into network performance testing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Iperf3 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network performance and Iperf3 for support and discussions.",
+      "GitHub": "Visit the Iperf3 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_server": "iperf3 -s",
+      "start_client": "iperf3 -c <server_ip>",
+      "uninstall": "pkg uninstall iperf3"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ipfs",
+    "version": "0.32.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "IPFS (InterPlanetary File System) is a peer-to-peer hypermedia protocol to make the web faster, safer, and more open.",
+    "homepage": "https://ipfs.io/",
+    "installation": "pkg install ipfs",
+    "usage": "After installing ipfs, you can use it to interact with the IPFS network for decentralized storage and sharing.",
+    "features": [
+      "Decentralized Storage: Provides tools for interacting with the IPFS network.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for IPFS tasks.",
+      "Integration: Can be integrated into decentralized web and storage workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the IPFS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to decentralized storage and IPFS for support and discussions.",
+      "GitHub": "Visit the IPFS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "initialize_ipfs": "ipfs init",
+      "add_file": "ipfs add myfile.txt",
+      "uninstall": "pkg uninstall ipfs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ipmitool",
+    "version": "1.8.19",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ipmitool is a utility for managing and configuring devices that support the Intelligent Platform Management Interface (IPMI).",
+    "homepage": "https://github.com/ipmitool/ipmitool",
+    "installation": "pkg install ipmitool",
+    "usage": "After installing ipmitool, you can use it to manage and configure IPMI-enabled devices.",
+    "features": [
+      "IPMI Management: Provides tools for managing and configuring IPMI-enabled devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for IPMI tasks.",
+      "Integration: Can be integrated into system administration and hardware management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ipmitool documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to IPMI and Ipmitool for support and discussions.",
+      "GitHub": "Visit the Ipmitool GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "power_on": "ipmitool -H <host> -U <user> -P <password> chassis power on",
+      "uninstall": "pkg uninstall ipmitool"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "iproute2",
+    "version": "6.13.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Iproute2 is a collection of utilities for controlling TCP/IP networking and traffic control in Linux.",
+    "homepage": "https://wiki.linuxfoundation.org/networking/iproute2",
+    "installation": "pkg install iproute2",
+    "usage": "After installing iproute2, you can use it to manage and configure network interfaces and traffic control.",
+    "features": [
+      "Network Management: Provides tools for managing and configuring network interfaces and traffic control.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for network management tasks.",
+      "Integration: Can be integrated into system administration and network configuration workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Iproute2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to networking and Iproute2 for support and discussions.",
+      "GitHub": "Visit the Iproute2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "display_interfaces": "ip addr",
+      "uninstall": "pkg uninstall iproute2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ipv6calc",
+    "version": "4.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ipv6calc is a small utility for converting and calculating IPv6 addresses.",
+    "homepage": "https://www.deepspace6.net/projects/ipv6calc.html",
+    "installation": "pkg install ipv6calc",
+    "usage": "After installing ipv6calc, you can use it to convert and calculate IPv6 addresses.",
+    "features": [
+      "IPv6 Address Calculation: Provides tools for converting and calculating IPv6 addresses.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for IPv6 address calculation.",
+      "Integration: Can be integrated into network administration and configuration workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ipv6calc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to IPv6 and Ipv6calc for support and discussions.",
+      "GitHub": "Visit the Ipv6calc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "convert_ipv6": "ipv6calc --addr2ipv4 2001:db8::1",
+      "uninstall": "pkg uninstall ipv6calc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ipv6toolkit",
+    "version": "2022.09.30-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "IPv6 Toolkit is a set of IPv6 security assessment and troubleshooting tools.",
+    "homepage": "https://github.com/fgont/ipv6toolkit",
+    "installation": "pkg install ipv6toolkit",
+    "usage": "After installing ipv6toolkit, you can use it to assess and troubleshoot IPv6 networks.",
+    "features": [
+      "IPv6 Security Assessment: Provides tools for assessing and troubleshooting IPv6 networks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for IPv6 tasks.",
+      "Integration: Can be integrated into network security and administration workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the IPv6 Toolkit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to IPv6 and IPv6 Toolkit for support and discussions.",
+      "GitHub": "Visit the IPv6 Toolkit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "assess_ipv6": "ipv6toolkit -i eth0",
+      "uninstall": "pkg uninstall ipv6toolkit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ircd-irc2",
+    "version": "2.11.2p3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ircd-irc2 is a popular Internet Relay Chat (IRC) server.",
+    "homepage": "https://www.irc.org/",
+    "installation": "pkg install ircd-irc2",
+    "usage": "After installing ircd-irc2, you can use it to set up and manage an IRC server.",
+    "features": [
+      "IRC Server: Provides tools for setting up and managing an IRC server.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for IRC server tasks.",
+      "Integration: Can be integrated into communication and chat workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ircd-irc2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to IRC and Ircd-irc2 for support and discussions.",
+      "GitHub": "Visit the Ircd-irc2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_ircd": "ircd -config /etc/ircd.conf",
+      "uninstall": "pkg uninstall ircd-irc2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ired",
+    "version": "0.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ired is a hexadecimal and text editor.",
+    "homepage": "https://github.com/radare/ired",
+    "installation": "pkg install ired",
+    "usage": "After installing ired, you can use it to edit files in hexadecimal or text mode.",
+    "features": [
+      "Hexadecimal and Text Editing: Provides tools for editing files in hexadecimal or text mode.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for editing tasks.",
+      "Integration: Can be integrated into development and debugging workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ired documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text and hex editing and Ired for support and discussions.",
+      "GitHub": "Visit the Ired GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_file": "ired myfile.bin",
+      "uninstall": "pkg uninstall ired"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "irssi",
+    "version": "1.4.5-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Irssi is a terminal-based IRC client for UNIX systems.",
+    "homepage": "https://irssi.org/",
+    "installation": "pkg install irssi",
+    "usage": "After installing irssi, you can use it to connect to IRC networks and chat from the terminal.",
+    "features": [
+      "IRC Client: Provides tools for connecting to IRC networks and chatting from the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for IRC tasks.",
+      "Integration: Can be integrated into communication and chat workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Irssi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to IRC and Irssi for support and discussions.",
+      "GitHub": "Visit the Irssi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "connect_to_network": "irssi -c irc.freenode.net",
+      "uninstall": "pkg uninstall irssi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "isync",
+    "version": "1.5.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Isync is a command-line utility for synchronizing a remote IMAP mailbox to a local Maildir or vice versa.",
+    "homepage": "http://isync.sourceforge.net/",
+    "installation": "pkg install isync",
+    "usage": "After installing isync, you can use it to synchronize your email between remote IMAP servers and local Maildir directories.",
+    "features": [
+      "Email Synchronization: Provides tools for synchronizing email between remote IMAP servers and local Maildir directories.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for email synchronization tasks.",
+      "Integration: Can be integrated into email management and backup workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Isync documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to email synchronization and Isync for support and discussions.",
+      "GitHub": "Visit the Isync GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "synchronize_mailbox": "isync -D -n",
+      "uninstall": "pkg uninstall isync"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "iverilog-static",
+    "version": "12.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Icarus Verilog is a Verilog simulation and synthesis tool. This is the statically linked version.",
+    "homepage": "http://iverilog.icarus.com/",
+    "installation": "pkg install iverilog-static",
+    "usage": "After installing iverilog-static, you can use it to simulate and synthesize Verilog HDL designs.",
+    "features": [
+      "HDL Simulation and Synthesis: Provides tools for simulating and synthesizing Verilog HDL designs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for HDL simulation and synthesis tasks.",
+      "Integration: Can be integrated into hardware design and verification workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Icarus Verilog documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HDL design and Icarus Verilog for support and discussions.",
+      "GitHub": "Visit the Icarus Verilog GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "simulate_design": "iverilog -o mydesign.vvp mydesign.v",
+      "uninstall": "pkg uninstall iverilog-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "iverilog",
+    "version": "12.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Icarus Verilog is a Verilog simulation and synthesis tool.",
+    "homepage": "http://iverilog.icarus.com/",
+    "installation": "pkg install iverilog",
+    "usage": "After installing iverilog, you can use it to simulate and synthesize Verilog HDL designs.",
+    "features": [
+      "HDL Simulation and Synthesis: Provides tools for simulating and synthesizing Verilog HDL designs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for HDL simulation and synthesis tasks.",
+      "Integration: Can be integrated into hardware design and verification workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Icarus Verilog documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HDL design and Icarus Verilog for support and discussions.",
+      "GitHub": "Visit the Icarus Verilog GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "simulate_design": "iverilog -o mydesign.vvp mydesign.v",
+      "uninstall": "pkg uninstall iverilog"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "iwyu",
+    "version": "0.23",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "IWYU (Include What You Use) is a tool for improving include directives in C and C++ source files.",
+    "homepage": "https://include-what-you-use.org/",
+    "installation": "pkg install iwyu",
+    "usage": "After installing iwyu, you can use it to analyze and optimize include directives in your C and C++ source files.",
+    "features": [
+      "Include Directive Optimization: Provides tools for analyzing and optimizing include directives in C and C++ source files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for include directive optimization tasks.",
+      "Integration: Can be integrated into C and C++ development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the IWYU documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C and C++ development and IWYU for support and discussions.",
+      "GitHub": "Visit the IWYU GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "analyze_includes": "iwyu myfile.cpp",
+      "uninstall": "pkg uninstall iwyu"
+    },
+    "isFavorite": false
+  }
+]

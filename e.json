@@ -1,0 +1,1033 @@
+[
+  {
+    "name": "e2fsprogs",
+    "version": "1.47.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "E2fsprogs is a set of utilities for maintaining the ext2, ext3, and ext4 filesystems.",
+    "homepage": "https://e2fsprogs.sourceforge.io/",
+    "installation": "pkg install e2fsprogs",
+    "usage": "After installing e2fsprogs, you can use it to manage and maintain ext2, ext3, and ext4 filesystems.",
+    "features": [
+      "Filesystem Utilities: Provides utilities for maintaining ext2, ext3, and ext4 filesystems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Includes various tools for filesystem checking, formatting, and debugging."
+    ],
+    "additional_resources": "For more information, visit the E2fsprogs documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to filesystem management and ext filesystems for support and discussions.",
+      "GitHub": "Visit the E2fsprogs GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "e2fsck <filesystem>",
+      "uninstall_the_game": "pkg uninstall e2fsprogs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "e2tools",
+    "version": "0.1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "E2tools provides utilities for manipulating files in ext2/ext3/ext4 filesystems.",
+    "homepage": "https://e2tools.sourceforge.io/",
+    "installation": "pkg install e2tools",
+    "usage": "After installing e2tools, you can use it to manipulate files in ext2/ext3/ext4 filesystems.",
+    "features": [
+      "File Manipulation: Provides utilities for manipulating files in ext2/ext3/ext4 filesystems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers simple command-line tools for file operations."
+    ],
+    "additional_resources": "For more information, visit the E2tools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to filesystem management and ext filesystems for support and discussions.",
+      "GitHub": "Visit the E2tools GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "e2ls <filesystem>",
+      "uninstall_the_game": "pkg uninstall e2tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ebook-tools",
+    "version": "0.2.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ebook-tools is a collection of tools for creating and converting ebook formats.",
+    "homepage": "https://sourceforge.net/projects/ebook-tools/",
+    "installation": "pkg install ebook-tools",
+    "usage": "After installing ebook-tools, you can use it to create and convert ebook formats.",
+    "features": [
+      "Ebook Creation and Conversion: Provides tools for creating and converting ebook formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Supports various ebook formats for conversion and creation."
+    ],
+    "additional_resources": "For more information, visit the Ebook-tools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ebook creation and conversion for support and discussions.",
+      "GitHub": "Visit the Ebook-tools GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "ebook-convert <input_file> <output_file>",
+      "uninstall_the_game": "pkg uninstall ebook-tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ecj",
+    "version": "4.12-5",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "ECJ (Eclipse Compiler for Java) is a Java compiler that is part of the Eclipse project.",
+    "homepage": "https://www.eclipse.org/jdt/core/",
+    "installation": "pkg install ecj",
+    "usage": "After installing ecj, you can use it to compile Java source files.",
+    "features": [
+      "Java Compiler: Provides a compiler for Java source files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Eclipse Integration: Part of the Eclipse project and integrates with Eclipse IDE."
+    ],
+    "additional_resources": "For more information, visit the ECJ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Java development and Eclipse for support and discussions.",
+      "GitHub": "Visit the ECJ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "ecj <source_file.java>",
+      "uninstall_the_game": "pkg uninstall ecj"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ecl",
+    "version": "24.5.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ECL (Embeddable Common Lisp) is an implementation of the Common Lisp programming language.",
+    "homepage": "https://common-lisp.net/project/ecl/",
+    "installation": "pkg install ecl",
+    "usage": "After installing ecl, you can use it to develop and run Common Lisp programs.",
+    "features": [
+      "Common Lisp Implementation: Provides an implementation of the Common Lisp programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Embeddable: Designed to be embeddable within applications."
+    ],
+    "additional_resources": "For more information, visit the ECL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Common Lisp development and ECL for support and discussions.",
+      "GitHub": "Visit the ECL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "ecl",
+      "uninstall_the_game": "pkg uninstall ecl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ed",
+    "version": "1.21",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ed is a line-oriented text editor for Unix-based systems.",
+    "homepage": "https://www.gnu.org/software/ed/",
+    "installation": "pkg install ed",
+    "usage": "After installing ed, you can use it to edit text files in a line-oriented manner.",
+    "features": [
+      "Text Editing: Provides a line-oriented text editor for Unix-based systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Traditional: Follows the traditional Unix text editing style."
+    ],
+    "additional_resources": "For more information, visit the Ed documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editors and Unix tools for support and discussions.",
+      "GitHub": "Visit the Ed GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "ed <file>",
+      "uninstall_the_game": "pkg uninstall ed"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "edbrowse",
+    "version": "3.8.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Edbrowse is a combination editor, browser, and mail client that is particularly useful for speech users.",
+    "homepage": "https://edbrowse.org/",
+    "installation": "pkg install edbrowse",
+    "usage": "After installing edbrowse, you can use it to edit files, browse the web, and manage emails.",
+    "features": [
+      "Editor, Browser, and Mail Client: Combines editing, browsing, and email management functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Accessibility: Particularly useful for speech users."
+    ],
+    "additional_resources": "For more information, visit the Edbrowse documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to accessibility tools and Unix utilities for support and discussions.",
+      "GitHub": "Visit the Edbrowse GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "edbrowse",
+      "uninstall_the_game": "pkg uninstall edbrowse"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "editorconfig-core-c-static",
+    "version": "0.12.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "EditorConfig Core C is a library for parsing EditorConfig files. This is the statically linked version.",
+    "homepage": "https://editorconfig.org/",
+    "installation": "pkg install editorconfig-core-c-static",
+    "usage": "After installing editorconfig-core-c-static, you can use it to parse EditorConfig files in your C programs.",
+    "features": [
+      "EditorConfig Parsing: Provides a library for parsing EditorConfig files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "additional_resources": "For more information, visit the EditorConfig Core C documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to code formatting and configuration for support and discussions.",
+      "GitHub": "Visit the EditorConfig Core C GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall editorconfig-core-c-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "editorconfig-core-c",
+    "version": "0.12.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "EditorConfig Core C is a library for parsing EditorConfig files.",
+    "homepage": "https://editorconfig.org/",
+    "installation": "pkg install editorconfig-core-c",
+    "usage": "After installing editorconfig-core-c, you can use it to parse EditorConfig files in your C programs.",
+    "features": [
+      "EditorConfig Parsing: Provides a library for parsing EditorConfig files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "additional_resources": "For more information, visit the EditorConfig Core C documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to code formatting and configuration for support and discussions.",
+      "GitHub": "Visit the EditorConfig Core C GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall editorconfig-core-c"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "eigen",
+    "version": "3.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.",
+    "homepage": "https://eigen.tuxfamily.org/",
+    "installation": "pkg install eigen",
+    "usage": "After installing eigen, you can use it to perform linear algebra operations in your C++ programs.",
+    "features": [
+      "Linear Algebra: Provides a C++ template library for linear algebra operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Performance: Designed for high performance and efficiency."
+    ],
+    "additional_resources": "For more information, visit the Eigen documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and C++ libraries for support and discussions.",
+      "GitHub": "Visit the Eigen GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall eigen"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "eja",
+    "version": "13.11.25-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Eja is a lightweight, embeddable web server.",
+    "homepage": "https://github.com/EjaWebServer/eja",
+    "installation": "pkg install eja",
+    "usage": "After installing eja, you can use it to host web applications.",
+    "features": [
+      "Web Server: Provides a lightweight, embeddable web server.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Embeddable: Designed to be embeddable within applications."
+    ],
+    "additional_resources": "For more information, visit the Eja documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web servers and embedded systems for support and discussions.",
+      "GitHub": "Visit the Eja GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "eja",
+      "uninstall_the_game": "pkg uninstall eja"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "electric-fence-static",
+    "version": "2.2.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Electric Fence is a memory debugger for C programs. This is the statically linked version.",
+    "homepage": "https://linux.die.net/man/3/efence",
+    "installation": "pkg install electric-fence-static",
+    "usage": "After installing electric-fence-static, you can use it to debug memory issues in C programs.",
+    "features": [
+      "Memory Debugging: Provides tools for debugging memory issues in C programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "additional_resources": "For more information, visit the Electric Fence documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and memory management for support and discussions.",
+      "GitHub": "Visit the Electric Fence GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall electric-fence-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "electric-fence",
+    "version": "2.2.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Electric Fence is a memory debugger for C programs.",
+    "homepage": "https://linux.die.net/man/3/efence",
+    "installation": "pkg install electric-fence",
+    "usage": "After installing electric-fence, you can use it to debug memory issues in C programs.",
+    "features": [
+      "Memory Debugging: Provides tools for debugging memory issues in C programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "additional_resources": "For more information, visit the Electric Fence documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and memory management for support and discussions.",
+      "GitHub": "Visit the Electric Fence GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall electric-fence"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "electrum",
+    "version": "4.5.8-2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Electrum is a lightweight Bitcoin wallet.",
+    "homepage": "https://electrum.org/",
+    "installation": "pkg install electrum",
+    "usage": "After installing Electrum, you can use it to manage your Bitcoin wallet.",
+    "features": [
+      "Bitcoin Wallet: Provides a lightweight Bitcoin wallet.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Security: Focuses on security and ease of use."
+    ],
+    "additional_resources": "For more information, visit the Electrum documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Bitcoin and cryptocurrency wallets for support and discussions.",
+      "GitHub": "Visit the Electrum GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "electrum",
+      "uninstall_the_game": "pkg uninstall electrum"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "elfutils",
+    "version": "0.192",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Elfutils is a collection of utilities and libraries for handling ELF (Executable and Linkable Format) files.",
+    "homepage": "https://sourceware.org/elfutils/",
+    "installation": "pkg install elfutils",
+    "usage": "After installing elfutils, you can use it to handle ELF files.",
+    "features": [
+      "ELF Utilities: Provides utilities and libraries for handling ELF files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Includes various tools for ELF file inspection, manipulation, and debugging."
+    ],
+    "additional_resources": "For more information, visit the Elfutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ELF files and binary analysis for support and discussions.",
+      "GitHub": "Visit the Elfutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "eu-readelf <elf_file>",
+      "uninstall_the_game": "pkg uninstall elfutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "elinks",
+    "version": "0.18.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Elinks is a text-based web browser for the console.",
+    "homepage": "http://elinks.or.cz/",
+    "installation": "pkg install elinks",
+    "usage": "After installing elinks, you can use it to browse the web in a text-based console.",
+    "features": [
+      "Text-Based Web Browser: Provides a web browser for the console.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Lightweight: Designed to be lightweight and fast for efficient browsing."
+    ],
+    "additional_resources": "For more information, visit the Elinks documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text-based web browsers and console applications for support and discussions.",
+      "GitHub": "Visit the Elinks GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "elinks <URL>",
+      "uninstall_the_game": "pkg uninstall elinks"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "elixir",
+    "version": "1.18.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications.",
+    "homepage": "https://elixir-lang.org/",
+    "installation": "pkg install elixir",
+    "usage": "After installing elixir, you can use it to develop and run Elixir applications.",
+    "features": [
+      "Functional Programming: Provides a dynamic, functional language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Scalable: Designed for building scalable and maintainable applications."
+    ],
+    "additional_resources": "For more information, visit the Elixir documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Elixir development for support and discussions.",
+      "GitHub": "Visit the Elixir GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "elixir <script.exs>",
+      "uninstall_the_game": "pkg uninstall elixir"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "eltclsh",
+    "version": "1.19-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Eltclsh is an interactive shell for the Tcl programming language.",
+    "homepage": "https://github.com/flightaware/eltclsh",
+    "installation": "pkg install eltclsh",
+    "usage": "After installing eltclsh, you can use it to interactively run Tcl commands and scripts.",
+    "features": [
+      "Interactive Shell: Provides an interactive shell for the Tcl programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "User-Friendly: Offers a simple and intuitive interface for running Tcl commands and scripts."
+    ],
+    "additional_resources": "For more information, visit the Eltclsh documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Tcl programming and interactive shells for support and discussions.",
+      "GitHub": "Visit the Eltclsh GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "eltclsh",
+      "uninstall_the_game": "pkg uninstall eltclsh"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "elvish",
+    "version": "0.21.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Elvish is a friendly, expressive shell for the modern age.",
+    "homepage": "https://elv.sh/",
+    "installation": "pkg install elvish",
+    "usage": "After installing elvish, you can use it as your shell for command-line interactions.",
+    "features": [
+      "Modern Shell: Provides a friendly, expressive shell for the modern age.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "User-Friendly: Designed to be user-friendly and expressive for efficient command-line interactions."
+    ],
+    "additional_resources": "For more information, visit the Elvish documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shell development and command-line tools for support and discussions.",
+      "GitHub": "Visit the Elvish GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "elvish",
+      "uninstall_the_game": "pkg uninstall elvish"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "emacs",
+    "version": "29.4-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Emacs is an extensible, customizable, free/libre text editor.",
+    "homepage": "https://www.gnu.org/software/emacs/",
+    "installation": "pkg install emacs",
+    "usage": "After installing emacs, you can use it to edit text files and develop software.",
+    "features": [
+      "Text Editor: Provides an extensible, customizable text editor.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Supports various programming languages and workflows."
+    ],
+    "additional_resources": "For more information, visit the Emacs documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Emacs and text editing for support and discussions.",
+      "GitHub": "Visit the Emacs GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "emacs",
+      "uninstall_the_game": "pkg uninstall emacs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "emscripten-binaryen",
+    "version": "4.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Emscripten Binaryen provides a WebAssembly optimizer and compiler infrastructure library.",
+    "homepage": "https://emscripten.org/",
+    "installation": "pkg install emscripten-binaryen",
+    "usage": "After installing emscripten-binaryen, you can use it to optimize and compile WebAssembly code.",
+    "features": [
+      "WebAssembly Optimizer: Provides a WebAssembly optimizer and compiler infrastructure library.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Performance: Designed for optimizing and compiling WebAssembly code efficiently."
+    ],
+    "additional_resources": "For more information, visit the Emscripten documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to WebAssembly and Emscripten for support and discussions.",
+      "GitHub": "Visit the Emscripten GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "binaryen <wasm_file>",
+      "uninstall_the_game": "pkg uninstall emscripten-binaryen"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "emscripten-llvm",
+    "version": "4.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Emscripten LLVM provides the LLVM backend for Emscripten, a compiler toolchain for WebAssembly.",
+    "homepage": "https://emscripten.org/",
+    "installation": "pkg install emscripten-llvm",
+    "usage": "After installing emscripten-llvm, you can use it to compile C/C++ code to WebAssembly.",
+    "features": [
+      "LLVM Backend: Provides the LLVM backend for Emscripten.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "WebAssembly Compilation: Supports compiling C/C++ code to WebAssembly."
+    ],
+    "additional_resources": "For more information, visit the Emscripten documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to WebAssembly and Emscripten for support and discussions.",
+      "GitHub": "Visit the Emscripten GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "emcc <source_file.c>",
+      "uninstall_the_game": "pkg uninstall emscripten-llvm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "emscripten-tests-third-party",
+    "version": "4.0.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Emscripten Tests Third Party provides third-party tests for the Emscripten compiler toolchain.",
+    "homepage": "https://emscripten.org/",
+    "installation": "pkg install emscripten-tests-third-party",
+    "usage": "After installing emscripten-tests-third-party, you can use it to run third-party tests for Emscripten.",
+    "features": [
+      "Third-Party Tests: Provides third-party tests for the Emscripten compiler toolchain.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Testing: Supports running comprehensive tests for Emscripten."
+    ],
+    "additional_resources": "For more information, visit the Emscripten documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to WebAssembly and Emscripten for support and discussions.",
+      "GitHub": "Visit the Emscripten GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "emscripten-tests",
+      "uninstall_the_game": "pkg uninstall emscripten-tests-third-party"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "emscripten",
+    "version": "4.0.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Emscripten is an open-source compiler toolchain to WebAssembly, using LLVM.",
+    "homepage": "https://emscripten.org/",
+    "installation": "pkg install emscripten",
+    "usage": "After installing emscripten, you can use it to compile C/C++ code to WebAssembly.",
+    "features": [
+      "Compiler Toolchain: Provides an open-source compiler toolchain to WebAssembly.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "WebAssembly Compilation: Supports compiling C/C++ code to WebAssembly."
+    ],
+    "additional_resources": "For more information, visit the Emscripten documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to WebAssembly and Emscripten for support and discussions.",
+      "GitHub": "Visit the Emscripten GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "emcc <source_file.c>",
+      "uninstall_the_game": "pkg uninstall emscripten"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "enblend",
+    "version": "4.2.0p20161007-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Enblend blends images with invisible seams.",
+    "homepage": "http://enblend.sourceforge.net/",
+    "installation": "pkg install enblend",
+    "usage": "After installing enblend, you can use it to blend multiple images seamlessly.",
+    "features": [
+      "Image Blending: Provides tools for blending images with invisible seams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Quality: Designed for high-quality image blending."
+    ],
+    "additional_resources": "For more information, visit the Enblend documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and blending for support and discussions.",
+      "GitHub": "Visit the Enblend GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "enblend <image_files>",
+      "uninstall_the_game": "pkg uninstall enblend"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "enchant-static",
+    "version": "2.8.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Enchant is a spellchecking library. This is the statically linked version.",
+    "homepage": "https://abiword.github.io/enchant/",
+    "installation": "pkg install enchant-static",
+    "usage": "After installing enchant-static, you can use it to integrate spellchecking in your applications.",
+    "features": [
+      "Spellchecking Library: Provides a library for spellchecking.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "additional_resources": "For more information, visit the Enchant documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spellchecking and language tools for support and discussions.",
+      "GitHub": "Visit the Enchant GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall enchant-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "enchant",
+    "version": "2.8.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Enchant is a spellchecking library.",
+    "homepage": "https://abiword.github.io/enchant/",
+    "installation": "pkg install enchant",
+    "usage": "After installing enchant, you can use it to integrate spellchecking in your applications.",
+    "features": [
+      "Spellchecking Library: Provides a library for spellchecking.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "additional_resources": "For more information, visit the Enchant documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spellchecking and language tools for support and discussions.",
+      "GitHub": "Visit the Enchant GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall enchant"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "enscript",
+    "version": "1.6.6-12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Enscript converts text files to PostScript, HTML, or RTF.",
+    "homepage": "https://www.gnu.org/software/enscript/",
+    "installation": "pkg install enscript",
+    "usage": "After installing enscript, you can use it to convert text files to various formats.",
+    "features": [
+      "Text Conversion: Converts text files to PostScript, HTML, or RTF.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Supports various output formats for text conversion."
+    ],
+    "additional_resources": "For more information, visit the Enscript documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and conversion tools for support and discussions.",
+      "GitHub": "Visit the Enscript GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "enscript <file.txt>",
+      "uninstall_the_game": "pkg uninstall enscript"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "entr",
+    "version": "5.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Entr is a utility for running arbitrary commands when files change.",
+    "homepage": "http://eradman.com/entrproject/",
+    "installation": "pkg install entr",
+    "usage": "After installing entr, you can use it to watch files and run commands when they change.",
+    "features": [
+      "File Watching: Runs arbitrary commands when files change.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Automation: Provides a simple way to automate tasks based on file changes."
+    ],
+    "additional_resources": "For more information, visit the Entr documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to automation tools and file watching for support and discussions.",
+      "GitHub": "Visit the Entr GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "ls *.txt | entr <command>",
+      "uninstall_the_game": "pkg uninstall entr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "erlang",
+    "version": "27.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability.",
+    "homepage": "https://www.erlang.org/",
+    "installation": "pkg install erlang",
+    "usage": "After installing erlang, you can use it to develop and run Erlang applications.",
+    "features": [
+      "Programming Language: Provides a language for building scalable and highly available systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Availability: Designed for building systems with high availability requirements."
+    ],
+    "additional_resources": "For more information, visit the Erlang documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Erlang development for support and discussions.",
+      "GitHub": "Visit the Erlang GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "erl",
+      "uninstall_the_game": "pkg uninstall erlang"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "esbuild",
+    "version": "0.24.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Esbuild is an extremely fast JavaScript and TypeScript bundler.",
+    "homepage": "https://esbuild.github.io/",
+    "installation": "pkg install esbuild",
+    "usage": "After installing esbuild, you can use it to bundle JavaScript and TypeScript code.",
+    "features": [
+      "Code Bundling: Provides an extremely fast bundler for JavaScript and TypeScript.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Performance: Designed for high performance and efficiency."
+    ],
+    "additional_resources": "For more information, visit the Esbuild documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JavaScript and TypeScript development for support and discussions.",
+      "GitHub": "Visit the Esbuild GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "esbuild <entry_point>",
+      "uninstall_the_game": "pkg uninstall esbuild"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "espeak-static",
+    "version": "1.52.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Espeak is a software speech synthesizer for English and other languages. This is the statically linked version.",
+    "homepage": "http://espeak.sourceforge.net/",
+    "installation": "pkg install espeak-static",
+    "usage": "After installing espeak-static, you can use it for text-to-speech synthesis.",
+    "features": [
+      "Text-to-Speech: Provides a software speech synthesizer.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "additional_resources": "For more information, visit the Espeak documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text-to-speech and accessibility tools for support and discussions.",
+      "GitHub": "Visit the Espeak GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "espeak 'Hello, world!'",
+      "uninstall_the_game": "pkg uninstall espeak-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "espeak",
+    "version": "1.52.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Espeak is a software speech synthesizer for English and other languages.",
+    "homepage": "http://espeak.sourceforge.net/",
+    "installation": "pkg install espeak",
+    "usage": "After installing espeak, you can use it for text-to-speech synthesis.",
+    "features": [
+      "Text-to-Speech: Provides a software speech synthesizer.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "additional_resources": "For more information, visit the Espeak documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text-to-speech and accessibility tools for support and discussions.",
+      "GitHub": "Visit the Espeak GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "espeak 'Hello, world!'",
+      "uninstall_the_game": "pkg uninstall espeak"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "et",
+    "version": "6.2.9-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ET (Eternal Terminal) is a remote shell that automatically reconnects without interrupting the session.",
+    "homepage": "https://mistertea.github.io/EternalTerminal/",
+    "installation": "pkg install et",
+    "usage": "After installing et, you can use it to establish persistent remote shell sessions.",
+    "features": [
+      "Persistent Shell: Provides a remote shell that automatically reconnects.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Seamless: Ensures seamless reconnection without interrupting the session."
+    ],
+    "additional_resources": "For more information, visit the ET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to remote shell tools and networking for support and discussions.",
+      "GitHub": "Visit the ET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "et <hostname>",
+      "uninstall_the_game": "pkg uninstall et"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "etsh",
+    "version": "5.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Etsh is an enhanced version of the original Thompson shell.",
+    "homepage": "http://etsh.sourceforge.net/",
+    "installation": "pkg install etsh",
+    "usage": "After installing etsh, you can use it as an enhanced shell for command-line interactions.",
+    "features": [
+      "Enhanced Shell: Provides an enhanced version of the original Thompson shell.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "User-Friendly: Offers additional features and improvements over the original Thompson shell."
+    ],
+    "additional_resources": "For more information, visit the Etsh documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shell development and command-line tools for support and discussions.",
+      "GitHub": "Visit the Etsh GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "etsh",
+      "uninstall_the_game": "pkg uninstall etsh"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "exercism",
+    "version": "3.5.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Exercism is a platform to gain fluency in programming languages through exercises.",
+    "homepage": "https://exercism.io/",
+    "installation": "pkg install exercism",
+    "usage": "After installing exercism, you can use it to practice programming exercises.",
+    "features": [
+      "Programming Exercises: Provides a platform to practice programming languages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Learning: Supports learning and gaining fluency in various programming languages."
+    ],
+    "additional_resources": "For more information, visit the Exercism documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to programming practice and Exercism for support and discussions.",
+      "GitHub": "Visit the Exercism GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "exercism configure --token=<your_token>",
+      "uninstall_the_game": "pkg uninstall exercism"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "exhale",
+    "version": "1.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Exhale is a library for creating high-quality HTML documentation from Doxygen-generated XML.",
+    "homepage": "https://exhale.readthedocs.io/",
+    "installation": "pkg install exhale",
+    "usage": "After installing exhale, you can use it to generate HTML documentation from Doxygen XML.",
+    "features": [
+      "Documentation Generation: Provides a library for creating HTML documentation from Doxygen XML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Quality: Designed for producing high-quality documentation."
+    ],
+    "additional_resources": "For more information, visit the Exhale documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to documentation generation and Doxygen for support and discussions.",
+      "GitHub": "Visit the Exhale GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "exhale",
+      "uninstall_the_game": "pkg uninstall exhale"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "exiftool",
+    "version": "13.17",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.",
+    "homepage": "https://exiftool.org/",
+    "installation": "pkg install exiftool",
+    "usage": "After installing exiftool, you can use it to read, write, and edit meta information in files.",
+    "features": [
+      "Meta Information: Provides tools for reading, writing, and editing meta information in files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Supports a wide variety of file formats."
+    ],
+    "additional_resources": "For more information, visit the ExifTool documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to metadata and file information for support and discussions.",
+      "GitHub": "Visit the ExifTool GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "exiftool <file>",
+      "uninstall_the_game": "pkg uninstall exiftool"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "exiv2",
+    "version": "0.28.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Exiv2 is a C++ library and a command-line utility to manage image metadata.",
+    "homepage": "https://www.exiv2.org/",
+    "installation": "pkg install exiv2",
+    "usage": "After installing exiv2, you can use it to manage image metadata.",
+    "features": [
+      "Image Metadata: Provides a C++ library and command-line utility to manage image metadata.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Supports various image formats for metadata management."
+    ],
+    "additional_resources": "For more information, visit the Exiv2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image metadata and Exiv2 for support and discussions.",
+      "GitHub": "Visit the Exiv2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "exiv2 <command> <file>",
+      "uninstall_the_game": "pkg uninstall exiv2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "expect",
+    "version": "5.45.4-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Expect is a tool for automating interactive applications such as telnet, ftp, passwd, fsck, rlogin, tip, etc.",
+    "homepage": "https://core.tcl-lang.org/expect/index",
+    "installation": "pkg install expect",
+    "usage": "After installing expect, you can use it to automate interactive applications by scripting their input and output.",
+    "features": [
+      "Automation: Automates interactive applications by scripting their input and output.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Supports a wide range of applications including telnet, ftp, passwd, fsck, rlogin, tip, and more.",
+      "Scripting Language: Uses Tcl (Tool Command Language) as its scripting language, allowing for powerful and flexible automation scripts.",
+      "Interactive Debugging: Provides facilities for interactive debugging of scripts, making it easier to develop and troubleshoot automation scripts."
+    ],
+    "additional_resources": "For more information, visit the Expect documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums and mailing lists dedicated to Expect and Tcl for support and discussions.",
+      "GitHub": "Visit the Expect GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "expect <script_file>",
+      "uninstall_the_game": "pkg uninstall expect"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "eza",
+    "version": "0.20.19",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Eza is a modern replacement for the 'ls' command with improved user experience and additional features.",
+    "homepage": "https://github.com/eza-community/eza",
+    "installation": "pkg install eza",
+    "usage": "After installing eza, you can use it to list directory contents with enhanced presentation and additional information.",
+    "features": [
+      "Modern Replacement: Acts as a modern replacement for the traditional 'ls' command.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Enhanced Presentation: Provides a more visually appealing and informative display of directory contents.",
+      "Additional Information: Displays additional information such as file sizes, permissions, and timestamps in a user-friendly format.",
+      "Color-Coding: Utilizes color-coding to differentiate between file types and statuses, improving readability.",
+      "Human-Readable Sizes: Displays file sizes in human-readable formats (e.g., KB, MB, GB) for easier interpretation.",
+      "Sorting and Filtering: Supports various sorting and filtering options to customize the display of directory contents."
+    ],
+    "additional_resources": "For more information, visit the Eza documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums and discussions dedicated to command-line tools and file management for support and discussions.",
+      "GitHub": "Visit the Eza GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "eza",
+      "uninstall_the_game": "pkg uninstall eza"
+    },
+    "isFavorite": false
+  }
+]

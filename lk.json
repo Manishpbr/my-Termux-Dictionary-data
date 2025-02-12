@@ -1,0 +1,1478 @@
+[
+  {
+    "name": "libsmartcols",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsmartcols is a library for handling column-based data.",
+    "homepage": "https://github.com/karelzak/util-linux",
+    "installation": "pkg install libsmartcols",
+    "usage": "After installing libsmartcols, you can use it to handle column-based data in your applications.",
+    "features": [
+      "Column-Based Data: Provides tools for handling column-based data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for data handling tasks.",
+      "Integration: Can be integrated into applications requiring column-based data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsmartcols documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data handling and Libsmartcols for support and discussions.",
+      "GitHub": "Visit the Libsmartcols GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_smartcols": "Not applicable",
+      "uninstall": "pkg uninstall libsmartcols"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsnappy",
+    "version": "1.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsnappy is a fast compression and decompression library.",
+    "homepage": "https://github.com/google/snappy",
+    "installation": "pkg install libsnappy",
+    "usage": "After installing libsnappy, you can use it to perform compression and decompression tasks in your applications.",
+    "features": [
+      "Compression and Decompression: Provides tools for fast compression and decompression.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring compression and decompression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Snappy documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression and Snappy for support and discussions.",
+      "GitHub": "Visit the Snappy GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_snappy": "Not applicable",
+      "uninstall": "pkg uninstall libsnappy"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsndfile-static",
+    "version": "1.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsndfile is a C library for reading and writing files containing sampled sound. This is the statically linked version.",
+    "homepage": "http://www.mega-nerd.com/libsndfile/",
+    "installation": "pkg install libsndfile-static",
+    "usage": "After installing libsndfile-static, you can use it to read and write sound files in your applications.",
+    "features": [
+      "Sound File Handling: Provides tools for reading and writing files containing sampled sound.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for sound file tasks.",
+      "Integration: Can be integrated into applications requiring sound file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsndfile documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Libsndfile for support and discussions.",
+      "GitHub": "Visit the Libsndfile GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sndfile": "Not applicable",
+      "uninstall": "pkg uninstall libsndfile-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsndfile",
+    "version": "1.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsndfile is a C library for reading and writing files containing sampled sound.",
+    "homepage": "http://www.mega-nerd.com/libsndfile/",
+    "installation": "pkg install libsndfile",
+    "usage": "After installing libsndfile, you can use it to read and write sound files in your applications.",
+    "features": [
+      "Sound File Handling: Provides tools for reading and writing files containing sampled sound.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for sound file tasks.",
+      "Integration: Can be integrated into applications requiring sound file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsndfile documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Libsndfile for support and discussions.",
+      "GitHub": "Visit the Libsndfile GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sndfile": "Not applicable",
+      "uninstall": "pkg uninstall libsndfile"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsodium-static",
+    "version": "1.0.20",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsodium is a modern, easy-to-use software library for encryption, decryption, signatures, password hashing and more. This is the statically linked version.",
+    "homepage": "https://libsodium.org/",
+    "installation": "pkg install libsodium-static",
+    "usage": "After installing libsodium-static, you can use it to implement encryption, decryption, and other security functionalities in your applications.",
+    "features": [
+      "Encryption and Decryption: Provides tools for implementing encryption and decryption.",
+      "Signatures: Tools for generating and verifying signatures.",
+      "Password Hashing: Provides tools for securely hashing passwords.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for security tasks.",
+      "Integration: Can be integrated into applications requiring security functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsodium documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to security and Libsodium for support and discussions.",
+      "GitHub": "Visit the Libsodium GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sodium": "Not applicable",
+      "uninstall": "pkg uninstall libsodium-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsodium",
+    "version": "1.0.20",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsodium is a modern, easy-to-use software library for encryption, decryption, signatures, password hashing and more.",
+    "homepage": "https://libsodium.org/",
+    "installation": "pkg install libsodium",
+    "usage": "After installing libsodium, you can use it to implement encryption, decryption, and other security functionalities in your applications.",
+    "features": [
+      "Encryption and Decryption: Provides tools for implementing encryption and decryption.",
+      "Signatures: Tools for generating and verifying signatures.",
+      "Password Hashing: Provides tools for securely hashing passwords.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for security tasks.",
+      "Integration: Can be integrated into applications requiring security functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsodium documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to security and Libsodium for support and discussions.",
+      "GitHub": "Visit the Libsodium GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sodium": "Not applicable",
+      "uninstall": "pkg uninstall libsodium"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsoldout-static",
+    "version": "1.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsoldout is a library for converting Markdown to HTML. This is the statically linked version.",
+    "homepage": "https://fossil.instinctive.eu/libsoldout/",
+    "installation": "pkg install libsoldout-static",
+    "usage": "After installing libsoldout-static, you can use it to convert Markdown to HTML in your applications.",
+    "features": [
+      "Markdown to HTML Conversion: Provides tools for converting Markdown to HTML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for conversion tasks.",
+      "Integration: Can be integrated into applications requiring Markdown to HTML conversion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsoldout documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Markdown and Libsoldout for support and discussions.",
+      "GitHub": "Visit the Libsoldout GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_soldout": "Not applicable",
+      "uninstall": "pkg uninstall libsoldout-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsoldout",
+    "version": "1.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsoldout is a library for converting Markdown to HTML.",
+    "homepage": "https://fossil.instinctive.eu/libsoldout/",
+    "installation": "pkg install libsoldout",
+    "usage": "After installing libsoldout, you can use it to convert Markdown to HTML in your applications.",
+    "features": [
+      "Markdown to HTML Conversion: Provides tools for converting Markdown to HTML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for conversion tasks.",
+      "Integration: Can be integrated into applications requiring Markdown to HTML conversion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsoldout documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Markdown and Libsoldout for support and discussions.",
+      "GitHub": "Visit the Libsoldout GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_soldout": "Not applicable",
+      "uninstall": "pkg uninstall libsoldout"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsophia-static",
+    "version": "2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsophia is a modern transactional key-value/row storage library. This is the statically linked version.",
+    "homepage": "https://github.com/pmwkaa/sophia",
+    "installation": "pkg install libsophia-static",
+    "usage": "After installing libsophia-static, you can use it to implement key-value storage in your applications.",
+    "features": [
+      "Key-Value Storage: Provides tools for implementing key-value storage.",
+      "Transactional: Supports transactions for data integrity.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for storage tasks.",
+      "Integration: Can be integrated into applications requiring key-value storage.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Sophia documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to key-value storage and Sophia for support and discussions.",
+      "GitHub": "Visit the Sophia GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sophia": "Not applicable",
+      "uninstall": "pkg uninstall libsophia-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsophia",
+    "version": "2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsophia is a modern transactional key-value/row storage library.",
+    "homepage": "https://github.com/pmwkaa/sophia",
+    "installation": "pkg install libsophia",
+    "usage": "After installing libsophia, you can use it to implement key-value storage in your applications.",
+    "features": [
+      "Key-Value Storage: Provides tools for implementing key-value storage.",
+      "Transactional: Supports transactions for data integrity.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for storage tasks.",
+      "Integration: Can be integrated into applications requiring key-value storage.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Sophia documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to key-value storage and Sophia for support and discussions.",
+      "GitHub": "Visit the Sophia GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sophia": "Not applicable",
+      "uninstall": "pkg uninstall libsophia"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsoundtouch-static",
+    "version": "2.3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsoundtouch is a library for audio processing. This is the statically linked version.",
+    "homepage": "http://www.surina.net/soundtouch/",
+    "installation": "pkg install libsoundtouch-static",
+    "usage": "After installing libsoundtouch-static, you can use it to process audio in your applications.",
+    "features": [
+      "Audio Processing: Provides tools for processing audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio processing tasks.",
+      "Integration: Can be integrated into applications requiring audio processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the SoundTouch documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and SoundTouch for support and discussions.",
+      "GitHub": "Visit the SoundTouch GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_soundtouch": "Not applicable",
+      "uninstall": "pkg uninstall libsoundtouch-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsoundtouch",
+    "version": "2.3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsoundtouch is a library for audio processing.",
+    "homepage": "http://www.surina.net/soundtouch/",
+    "installation": "pkg install libsoundtouch",
+    "usage": "After installing libsoundtouch, you can use it to process audio in your applications.",
+    "features": [
+      "Audio Processing: Provides tools for processing audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio processing tasks.",
+      "Integration: Can be integrated into applications requiring audio processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the SoundTouch documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and SoundTouch for support and discussions.",
+      "GitHub": "Visit the SoundTouch GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_soundtouch": "Not applicable",
+      "uninstall": "pkg uninstall libsoundtouch"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsoup3",
+    "version": "3.6.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsoup is an HTTP client/server library for GNOME.",
+    "homepage": "https://libsoup.org/",
+    "installation": "pkg install libsoup3",
+    "usage": "After installing libsoup3, you can use it to implement HTTP client and server functionalities in your applications.",
+    "features": [
+      "HTTP Client/Server: Provides tools for implementing HTTP client and server functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for HTTP tasks.",
+      "Integration: Can be integrated into applications requiring HTTP client/server functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsoup documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HTTP development and Libsoup for support and discussions.",
+      "GitHub": "Visit the Libsoup GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_soup": "Not applicable",
+      "uninstall": "pkg uninstall libsoup3"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsoup",
+    "version": "2.74.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsoup is an HTTP client/server library for GNOME.",
+    "homepage": "https://libsoup.org/",
+    "installation": "pkg install libsoup",
+    "usage": "After installing libsoup, you can use it to implement HTTP client and server functionalities in your applications.",
+    "features": [
+      "HTTP Client/Server: Provides tools for implementing HTTP client and server functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for HTTP tasks.",
+      "Integration: Can be integrated into applications requiring HTTP client/server functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsoup documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HTTP development and Libsoup for support and discussions.",
+      "GitHub": "Visit the Libsoup GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_soup": "Not applicable",
+      "uninstall": "pkg uninstall libsoup"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsoxr",
+    "version": "0.1.3-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsoxr is a high quality, one-dimensional sample-rate conversion library.",
+    "homepage": "https://sourceforge.net/projects/soxr/",
+    "installation": "pkg install libsoxr",
+    "usage": "After installing libsoxr, you can use it to perform sample-rate conversion in your applications.",
+    "features": [
+      "Sample-Rate Conversion: Provides tools for high quality, one-dimensional sample-rate conversion.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for sample-rate conversion tasks.",
+      "Integration: Can be integrated into applications requiring sample-rate conversion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsoxr documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Libsoxr for support and discussions.",
+      "GitHub": "Visit the Libsoxr GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_soxr": "Not applicable",
+      "uninstall": "pkg uninstall libsoxr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspatialindex",
+    "version": "2.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libspatialindex is a C++ library for spatial indexing.",
+    "homepage": "https://libspatialindex.github.io/",
+    "installation": "pkg install libspatialindex",
+    "usage": "After installing libspatialindex, you can use it to implement spatial indexing in your applications.",
+    "features": [
+      "Spatial Indexing: Provides tools for implementing spatial indexing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for spatial indexing tasks.",
+      "Integration: Can be integrated into applications requiring spatial indexing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libspatialindex documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spatial indexing and Libspatialindex for support and discussions.",
+      "GitHub": "Visit the Libspatialindex GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_spatialindex": "Not applicable",
+      "uninstall": "pkg uninstall libspatialindex"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspatialite-static",
+    "version": "5.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libspatialite is a library extending SQLite to support spatial data. This is the statically linked version.",
+    "homepage": "https://www.gaia-gis.it/fossil/libspatialite/",
+    "installation": "pkg install libspatialite-static",
+    "usage": "After installing libspatialite-static, you can use it to handle spatial data in your SQLite databases.",
+    "features": [
+      "Spatial Data: Provides tools for handling spatial data in SQLite databases.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for spatial data tasks.",
+      "Integration: Can be integrated into applications requiring spatial data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libspatialite documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spatial data and Libspatialite for support and discussions.",
+      "GitHub": "Visit the Libspatialite GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_spatialite": "Not applicable",
+      "uninstall": "pkg uninstall libspatialite-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspatialite",
+    "version": "5.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libspatialite is a library extending SQLite to support spatial data.",
+    "homepage": "https://www.gaia-gis.it/fossil/libspatialite/",
+    "installation": "pkg install libspatialite",
+    "usage": "After installing libspatialite, you can use it to handle spatial data in your SQLite databases.",
+    "features": [
+      "Spatial Data: Provides tools for handling spatial data in SQLite databases.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for spatial data tasks.",
+      "Integration: Can be integrated into applications requiring spatial data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libspatialite documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spatial data and Libspatialite for support and discussions.",
+      "GitHub": "Visit the Libspatialite GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_spatialite": "Not applicable",
+      "uninstall": "pkg uninstall libspatialite"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspdlog",
+    "version": "1.15.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libspdlog is a fast C++ logging library.",
+    "homepage": "https://github.com/gabime/spdlog",
+    "installation": "pkg install libspdlog",
+    "usage": "After installing libspdlog, you can use it to implement logging in your C++ applications.",
+    "features": [
+      "Logging: Provides tools for fast and efficient logging.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for logging tasks.",
+      "Integration: Can be integrated into applications requiring logging functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Spdlog documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development and Spdlog for support and discussions.",
+      "GitHub": "Visit the Spdlog GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_spdlog": "Not applicable",
+      "uninstall": "pkg uninstall libspdlog"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspectre-static",
+    "version": "0.2.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libspectre is a library for rendering PostScript documents. This is the statically linked version.",
+    "homepage": "http://libspectre.freedesktop.org/wiki/",
+    "installation": "pkg install libspectre-static",
+    "usage": "After installing libspectre-static, you can use it to render PostScript documents in your applications.",
+    "features": [
+      "PostScript Rendering: Provides tools for rendering PostScript documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for rendering tasks.",
+      "Integration: Can be integrated into applications requiring PostScript rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libspectre documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to document rendering and Libspectre for support and discussions.",
+      "GitHub": "Visit the Libspectre GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_spectre": "Not applicable",
+      "uninstall": "pkg uninstall libspectre-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspectre",
+    "version": "0.2.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libspectre is a library for rendering PostScript documents.",
+    "homepage": "http://libspectre.freedesktop.org/wiki/",
+    "installation": "pkg install libspectre",
+    "usage": "After installing libspectre, you can use it to render PostScript documents in your applications.",
+    "features": [
+      "PostScript Rendering: Provides tools for rendering PostScript documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for rendering tasks.",
+      "Integration: Can be integrated into applications requiring PostScript rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libspectre documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to document rendering and Libspectre for support and discussions.",
+      "GitHub": "Visit the Libspectre GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_spectre": "Not applicable",
+      "uninstall": "pkg uninstall libspectre"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspeex-static",
+    "version": "1.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libspeex is a library for encoding and decoding Speex audio. This is the statically linked version.",
+    "homepage": "https://www.speex.org/",
+    "installation": "pkg install libspeex-static",
+    "usage": "After installing libspeex-static, you can use it to encode and decode Speex audio in your applications.",
+    "features": [
+      "Speex Audio: Provides tools for encoding and decoding Speex audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring Speex audio encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Speex documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Speex for support and discussions.",
+      "GitHub": "Visit the Speex GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_speex": "Not applicable",
+      "uninstall": "pkg uninstall libspeex-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspeex",
+    "version": "1.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libspeex is a library for encoding and decoding Speex audio.",
+    "homepage": "https://www.speex.org/",
+    "installation": "pkg install libspeex",
+    "usage": "After installing libspeex, you can use it to encode and decode Speex audio in your applications.",
+    "features": [
+      "Speex Audio: Provides tools for encoding and decoding Speex audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring Speex audio encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Speex documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Speex for support and discussions.",
+      "GitHub": "Visit the Speex GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_speex": "Not applicable",
+      "uninstall": "pkg uninstall libspeex"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspice-protocol",
+    "version": "0.14.4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Libspice-protocol is a library for the Spice protocol, providing remote access to virtual machines.",
+    "homepage": "https://www.spice-space.org/",
+    "installation": "pkg install libspice-protocol",
+    "usage": "After installing libspice-protocol, you can use it to implement remote access functionalities in your virtual machines.",
+    "features": [
+      "Remote Access: Provides tools for implementing the Spice protocol for remote access to virtual machines.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for remote access tasks.",
+      "Integration: Can be integrated into applications requiring remote access to virtual machines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Spice documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to virtualization and Spice for support and discussions.",
+      "GitHub": "Visit the Spice GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_spice": "Not applicable",
+      "uninstall": "pkg uninstall libspice-protocol"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspice-server-static",
+    "version": "0.15.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libspice-server is a library for the Spice server, providing remote access to virtual machines. This is the statically linked version.",
+    "homepage": "https://www.spice-space.org/",
+    "installation": "pkg install libspice-server-static",
+    "usage": "After installing libspice-server-static, you can use it to implement remote access functionalities in your virtual machines.",
+    "features": [
+      "Remote Access: Provides tools for implementing the Spice protocol for remote access to virtual machines.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for remote access tasks.",
+      "Integration: Can be integrated into applications requiring remote access to virtual machines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Spice documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to virtualization and Spice for support and discussions.",
+      "GitHub": "Visit the Spice GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_spice_server": "Not applicable",
+      "uninstall": "pkg uninstall libspice-server-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libspice-server",
+    "version": "0.15.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libspice-server is a library for the Spice server, providing remote access to virtual machines.",
+    "homepage": "https://www.spice-space.org/",
+    "installation": "pkg install libspice-server",
+    "usage": "After installing libspice-server, you can use it to implement remote access functionalities in your virtual machines.",
+    "features": [
+      "Remote Access: Provides tools for implementing the Spice protocol for remote access to virtual machines.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for remote access tasks.",
+      "Integration: Can be integrated into applications requiring remote access to virtual machines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Spice documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to virtualization and Spice for support and discussions.",
+      "GitHub": "Visit the Spice GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_spice_server": "Not applicable",
+      "uninstall": "pkg uninstall libspice-server"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsqlite-static",
+    "version": "3.48.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsqlite is a C library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. This is the statically linked version.",
+    "homepage": "https://www.sqlite.org/",
+    "installation": "pkg install libsqlite-static",
+    "usage": "After installing libsqlite-static, you can use it to implement SQL database functionalities in your applications.",
+    "features": [
+      "SQL Database: Provides tools for implementing SQL database functionalities.",
+      "Self-Contained: Implements a self-contained, serverless, zero-configuration, transactional SQL database engine.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring SQL database functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the SQLite documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SQL databases and SQLite for support and discussions.",
+      "GitHub": "Visit the SQLite GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sqlite": "Not applicable",
+      "uninstall": "pkg uninstall libsqlite-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsqlite-tcl",
+    "version": "3.48.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsqlite-tcl is a TCL extension for SQLite.",
+    "homepage": "https://www.sqlite.org/",
+    "installation": "pkg install libsqlite-tcl",
+    "usage": "After installing libsqlite-tcl, you can use it to integrate SQLite functionalities in your TCL applications.",
+    "features": [
+      "TCL Extension: Provides tools for integrating SQLite functionalities in TCL applications.",
+      "SQL Database: Implements a self-contained, serverless, zero-configuration, transactional SQL database engine.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into TCL applications requiring SQL database functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the SQLite documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SQL databases and SQLite for support and discussions.",
+      "GitHub": "Visit the SQLite GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sqlite_tcl": "Not applicable",
+      "uninstall": "pkg uninstall libsqlite-tcl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsqlite",
+    "version": "3.48.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsqlite is a C library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.",
+    "homepage": "https://www.sqlite.org/",
+    "installation": "pkg install libsqlite",
+    "usage": "After installing libsqlite, you can use it to implement SQL database functionalities in your applications.",
+    "features": [
+      "SQL Database: Provides tools for implementing SQL database functionalities.",
+      "Self-Contained: Implements a self-contained, serverless, zero-configuration, transactional SQL database engine.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring SQL database functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the SQLite documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SQL databases and SQLite for support and discussions.",
+      "GitHub": "Visit the SQLite GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sqlite": "Not applicable",
+      "uninstall": "pkg uninstall libsqlite"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsrt",
+    "version": "1.5.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsrt is a library for Secure Reliable Transport (SRT), a protocol for high-performance video streaming.",
+    "homepage": "https://github.com/Haivision/srt",
+    "installation": "pkg install libsrt",
+    "usage": "After installing libsrt, you can use it to implement high-performance video streaming in your applications.",
+    "features": [
+      "Video Streaming: Provides tools for Secure Reliable Transport (SRT) protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for streaming tasks.",
+      "Integration: Can be integrated into applications requiring high-performance video streaming.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the SRT documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video streaming and SRT for support and discussions.",
+      "GitHub": "Visit the SRT GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_srt": "Not applicable",
+      "uninstall": "pkg uninstall libsrt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libssh2-static",
+    "version": "1.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libssh2 is a library implementing the SSH2 protocol. This is the statically linked version.",
+    "homepage": "https://libssh2.org/",
+    "installation": "pkg install libssh2-static",
+    "usage": "After installing libssh2-static, you can use it to implement SSH2 protocol functionalities in your applications.",
+    "features": [
+      "SSH2 Protocol: Provides tools for implementing the SSH2 protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for SSH tasks.",
+      "Integration: Can be integrated into applications requiring SSH2 functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libssh2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SSH and Libssh2 for support and discussions.",
+      "GitHub": "Visit the Libssh2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ssh2": "Not applicable",
+      "uninstall": "pkg uninstall libssh2-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libssh2",
+    "version": "1.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libssh2 is a library implementing the SSH2 protocol.",
+    "homepage": "https://libssh2.org/",
+    "installation": "pkg install libssh2",
+    "usage": "After installing libssh2, you can use it to implement SSH2 protocol functionalities in your applications.",
+    "features": [
+      "SSH2 Protocol: Provides tools for implementing the SSH2 protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for SSH tasks.",
+      "Integration: Can be integrated into applications requiring SSH2 functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libssh2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SSH and Libssh2 for support and discussions.",
+      "GitHub": "Visit the Libssh2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ssh2": "Not applicable",
+      "uninstall": "pkg uninstall libssh2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libssh",
+    "version": "0.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libssh is a library providing a C API for SSH client and server functionalities.",
+    "homepage": "https://www.libssh.org/",
+    "installation": "pkg install libssh",
+    "usage": "After installing libssh, you can use it to implement SSH client and server functionalities in your applications.",
+    "features": [
+      "SSH Client/Server: Provides tools for SSH client and server functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for SSH tasks.",
+      "Integration: Can be integrated into applications requiring SSH functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libssh documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SSH and Libssh for support and discussions.",
+      "GitHub": "Visit the Libssh GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ssh": "Not applicable",
+      "uninstall": "pkg uninstall libssh"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libstemmer-static",
+    "version": "2.2.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libstemmer is a library for stemming algorithms. This is the statically linked version.",
+    "homepage": "https://snowballstem.org/",
+    "installation": "pkg install libstemmer-static",
+    "usage": "After installing libstemmer-static, you can use it to implement stemming algorithms in your applications.",
+    "features": [
+      "Stemming Algorithms: Provides tools for implementing various stemming algorithms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for stemming tasks.",
+      "Integration: Can be integrated into applications requiring stemming functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Snowball Stemmer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to natural language processing and Snowball Stemmer for support and discussions.",
+      "GitHub": "Visit the Snowball Stemmer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_stemmer": "Not applicable",
+      "uninstall": "pkg uninstall libstemmer-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libstemmer",
+    "version": "2.2.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libstemmer is a library for stemming algorithms.",
+    "homepage": "https://snowballstem.org/",
+    "installation": "pkg install libstemmer",
+    "usage": "After installing libstemmer, you can use it to implement stemming algorithms in your applications.",
+    "features": [
+      "Stemming Algorithms: Provides tools for implementing various stemming algorithms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for stemming tasks.",
+      "Integration: Can be integrated into applications requiring stemming functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Snowball Stemmer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to natural language processing and Snowball Stemmer for support and discussions.",
+      "GitHub": "Visit the Snowball Stemmer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_stemmer": "Not applicable",
+      "uninstall": "pkg uninstall libstemmer"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libstrophe-static",
+    "version": "0.13.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libstrophe is a library for XMPP client and server communication. This is the statically linked version.",
+    "homepage": "https://github.com/strophe/libstrophe",
+    "installation": "pkg install libstrophe-static",
+    "usage": "After installing libstrophe-static, you can use it to implement XMPP communication in your applications.",
+    "features": [
+      "XMPP Communication: Provides tools for XMPP client and server communication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for XMPP tasks.",
+      "Integration: Can be integrated into applications requiring XMPP communication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libstrophe documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XMPP and Libstrophe for support and discussions.",
+      "GitHub": "Visit the Libstrophe GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_strophe": "Not applicable",
+      "uninstall": "pkg uninstall libstrophe-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libstrophe",
+    "version": "0.13.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libstrophe is a library for XMPP client and server communication.",
+    "homepage": "https://github.com/strophe/libstrophe",
+    "installation": "pkg install libstrophe",
+    "usage": "After installing libstrophe, you can use it to implement XMPP communication in your applications.",
+    "features": [
+      "XMPP Communication: Provides tools for XMPP client and server communication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for XMPP tasks.",
+      "Integration: Can be integrated into applications requiring XMPP communication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libstrophe documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XMPP and Libstrophe for support and discussions.",
+      "GitHub": "Visit the Libstrophe GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_strophe": "Not applicable",
+      "uninstall": "pkg uninstall libstrophe"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libt3config",
+    "version": "1.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libt3config is a library for reading and writing configuration files.",
+    "homepage": "https://github.com/textadept/t3config",
+    "installation": "pkg install libt3config",
+    "usage": "After installing libt3config, you can use it to handle configuration files in your applications.",
+    "features": [
+      "Configuration Files: Provides tools for reading and writing configuration files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for configuration tasks.",
+      "Integration: Can be integrated into applications requiring configuration file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the T3config documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to configuration file handling and T3config for support and discussions.",
+      "GitHub": "Visit the T3config GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_t3config": "Not applicable",
+      "uninstall": "pkg uninstall libt3config"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libt3highlight",
+    "version": "0.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libt3highlight is a library for syntax highlighting.",
+    "homepage": "https://github.com/textadept/t3highlight",
+    "installation": "pkg install libt3highlight",
+    "usage": "After installing libt3highlight, you can use it to implement syntax highlighting in your applications.",
+    "features": [
+      "Syntax Highlighting: Provides tools for implementing syntax highlighting.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for highlighting tasks.",
+      "Integration: Can be integrated into applications requiring syntax highlighting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the T3highlight documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to syntax highlighting and T3highlight for support and discussions.",
+      "GitHub": "Visit the T3highlight GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_t3highlight": "Not applicable",
+      "uninstall": "pkg uninstall libt3highlight"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libt3key",
+    "version": "0.2.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libt3key is a library for handling keyboard input.",
+    "homepage": "https://github.com/textadept/t3key",
+    "installation": "pkg install libt3key",
+    "usage": "After installing libt3key, you can use it to handle keyboard input in your applications.",
+    "features": [
+      "Keyboard Input: Provides tools for handling keyboard input.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for input tasks.",
+      "Integration: Can be integrated into applications requiring keyboard input handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the T3key documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to input handling and T3key for support and discussions.",
+      "GitHub": "Visit the T3key GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_t3key": "Not applicable",
+      "uninstall": "pkg uninstall libt3key"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libt3widget",
+    "version": "1.2.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libt3widget is a library for creating text-based user interfaces.",
+    "homepage": "https://github.com/textadept/t3widget",
+    "installation": "pkg install libt3widget",
+    "usage": "After installing libt3widget, you can use it to create text-based user interfaces in your applications.",
+    "features": [
+      "Text-Based UI: Provides tools for creating text-based user interfaces.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for UI tasks.",
+      "Integration: Can be integrated into applications requiring text-based UIs.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the T3widget documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text-based UIs and T3widget for support and discussions.",
+      "GitHub": "Visit the T3widget GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_t3widget": "Not applicable",
+      "uninstall": "pkg uninstall libt3widget"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libt3window",
+    "version": "0.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libt3window is a library for managing terminal windows.",
+    "homepage": "https://github.com/textadept/t3window",
+    "installation": "pkg install libt3window",
+    "usage": "After installing libt3window, you can use it to manage terminal windows in your applications.",
+    "features": [
+      "Terminal Windows: Provides tools for managing terminal windows.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for window management tasks.",
+      "Integration: Can be integrated into applications requiring terminal window management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the T3window documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal window management and T3window for support and discussions.",
+      "GitHub": "Visit the T3window GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_t3window": "Not applicable",
+      "uninstall": "pkg uninstall libt3window"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtalloc-static",
+    "version": "2.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtalloc is a hierarchical, reference counted memory pool system with destructors. This is the statically linked version.",
+    "homepage": "https://talloc.samba.org/",
+    "installation": "pkg install libtalloc-static",
+    "usage": "After installing libtalloc-static, you can use it to manage memory in a hierarchical and reference counted manner in your applications.",
+    "features": [
+      "Memory Management: Provides tools for hierarchical, reference counted memory management.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for memory management tasks.",
+      "Integration: Can be integrated into applications requiring advanced memory management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Talloc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to memory management and Talloc for support and discussions.",
+      "GitHub": "Visit the Talloc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_talloc": "Not applicable",
+      "uninstall": "pkg uninstall libtalloc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtalloc",
+    "version": "2.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtalloc is a hierarchical, reference counted memory pool system with destructors.",
+    "homepage": "https://talloc.samba.org/",
+    "installation": "pkg install libtalloc",
+    "usage": "After installing libtalloc, you can use it to manage memory in a hierarchical and reference counted manner in your applications.",
+    "features": [
+      "Memory Management: Provides tools for hierarchical, reference counted memory management.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for memory management tasks.",
+      "Integration: Can be integrated into applications requiring advanced memory management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Talloc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to memory management and Talloc for support and discussions.",
+      "GitHub": "Visit the Talloc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_talloc": "Not applicable",
+      "uninstall": "pkg uninstall libtalloc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtasn1-static",
+    "version": "4.19.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtasn1 is a library for Abstract Syntax Notation One (ASN.1) structures. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/libtasn1/",
+    "installation": "pkg install libtasn1-static",
+    "usage": "After installing libtasn1-static, you can use it to handle ASN.1 structures in your applications.",
+    "features": [
+      "ASN.1 Structures: Provides tools for handling Abstract Syntax Notation One (ASN.1) structures.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for ASN.1 tasks.",
+      "Integration: Can be integrated into applications requiring ASN.1 handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtasn1 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ASN.1 and Libtasn1 for support and discussions.",
+      "GitHub": "Visit the Libtasn1 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tasn1": "Not applicable",
+      "uninstall": "pkg uninstall libtasn1-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtasn1",
+    "version": "4.19.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtasn1 is a library for Abstract Syntax Notation One (ASN.1) structures.",
+    "homepage": "https://www.gnu.org/software/libtasn1/",
+    "installation": "pkg install libtasn1",
+    "usage": "After installing libtasn1, you can use it to handle ASN.1 structures in your applications.",
+    "features": [
+      "ASN.1 Structures: Provides tools for handling Abstract Syntax Notation One (ASN.1) structures.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for ASN.1 tasks.",
+      "Integration: Can be integrated into applications requiring ASN.1 handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtasn1 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ASN.1 and Libtasn1 for support and discussions.",
+      "GitHub": "Visit the Libtasn1 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tasn1": "Not applicable",
+      "uninstall": "pkg uninstall libtasn1"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtbb",
+    "version": "2022.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtbb (Threading Building Blocks) is a library that provides a rich set of threading building blocks to parallelize applications.",
+    "homepage": "https://www.threadingbuildingblocks.org/",
+    "installation": "pkg install libtbb",
+    "usage": "After installing libtbb, you can use it to parallelize your applications using threading building blocks.",
+    "features": [
+      "Threading: Provides a rich set of threading building blocks for parallelizing applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for threading tasks.",
+      "Integration: Can be integrated into applications requiring parallelization.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TBB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to parallelization and TBB for support and discussions.",
+      "GitHub": "Visit the TBB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tbb": "Not applicable",
+      "uninstall": "pkg uninstall libtbb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtd-static",
+    "version": "1.8.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtd is a library for Telegram Database (TD). This is the statically linked version.",
+    "homepage": "https://github.com/tdlib/td",
+    "installation": "pkg install libtd-static",
+    "usage": "After installing libtd-static, you can use it to implement Telegram functionalities in your applications.",
+    "features": [
+      "Telegram Database: Provides tools for implementing Telegram functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Telegram tasks.",
+      "Integration: Can be integrated into applications requiring Telegram functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TDLib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Telegram development and TDLib for support and discussions.",
+      "GitHub": "Visit the TDLib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_td": "Not applicable",
+      "uninstall": "pkg uninstall libtd-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtd",
+    "version": "1.8.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtd is a library for Telegram Database (TD).",
+    "homepage": "https://github.com/tdlib/td",
+    "installation": "pkg install libtd",
+    "usage": "After installing libtd, you can use it to implement Telegram functionalities in your applications.",
+    "features": [
+      "Telegram Database: Provides tools for implementing Telegram functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Telegram tasks.",
+      "Integration: Can be integrated into applications requiring Telegram functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TDLib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Telegram development and TDLib for support and discussions.",
+      "GitHub": "Visit the TDLib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_td": "Not applicable",
+      "uninstall": "pkg uninstall libtd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtdb",
+    "version": "1.4.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtdb is a library that provides a simple database API similar to gdbm but allows simultaneous commits and recovery after a crash.",
+    "homepage": "https://tdb.samba.org/",
+    "installation": "pkg install libtdb",
+    "usage": "After installing libtdb, you can use it to implement simple database functionalities with support for simultaneous commits and crash recovery.",
+    "features": [
+      "Simple Database: Provides tools for implementing simple database functionalities.",
+      "Simultaneous Commits: Supports simultaneous commits.",
+      "Crash Recovery: Allows recovery after a crash.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring simple database functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the TDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database development and TDB for support and discussions.",
+      "GitHub": "Visit the TDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_tdb": "Not applicable",
+      "uninstall": "pkg uninstall libtdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtermkey",
+    "version": "0.22-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtermkey is a library for processing keyboard entry from terminal-based programs.",
+    "homepage": "http://www.leonerd.org.uk/code/libtermkey/",
+    "installation": "pkg install libtermkey",
+    "usage": "After installing libtermkey, you can use it to process keyboard entry in your terminal-based applications.",
+    "features": [
+      "Keyboard Entry: Provides tools for processing keyboard entry from terminal-based programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for keyboard entry tasks.",
+      "Integration: Can be integrated into applications requiring keyboard entry processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libtermkey documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal-based programming and Libtermkey for support and discussions.",
+      "GitHub": "Visit the Libtermkey GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_termkey": "Not applicable",
+      "uninstall": "pkg uninstall libtermkey"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtheora-static",
+    "version": "1.1.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtheora is a library for encoding and decoding video streams in the Theora format. This is the statically linked version.",
+    "homepage": "https://www.theora.org/",
+    "installation": "pkg install libtheora-static",
+    "usage": "After installing libtheora-static, you can use it to encode and decode video streams in the Theora format in your applications.",
+    "features": [
+      "Theora Video: Provides tools for encoding and decoding video streams in the Theora format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for video tasks.",
+      "Integration: Can be integrated into applications requiring Theora video encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Theora documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video processing and Theora for support and discussions.",
+      "GitHub": "Visit the Theora GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_theora": "Not applicable",
+      "uninstall": "pkg uninstall libtheora-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libtheora",
+    "version": "1.1.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libtheora is a library for encoding and decoding video streams in the Theora format.",
+    "homepage": "https://www.theora.org/",
+    "installation": "pkg install libtheora",
+    "usage": "After installing libtheora, you can use it to encode and decode video streams in the Theora format in your applications.",
+    "features": [
+      "Theora Video: Provides tools for encoding and decoding video streams in the Theora format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for video tasks.",
+      "Integration: Can be integrated into applications requiring Theora video encoding and decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Theora documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video processing and Theora for support and discussions.",
+      "GitHub": "Visit the Theora GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_theora": "Not applicable",
+      "uninstall": "pkg uninstall libtheora"
+    },
+    "isFavorite": false
+  }
+]

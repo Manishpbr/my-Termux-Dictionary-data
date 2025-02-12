@@ -1,0 +1,1416 @@
+[
+  {
+    "name": "gitea",
+    "version": "1.23.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.",
+    "homepage": "https://gitea.io/",
+    "installation": "pkg install gitea",
+    "usage": "After installing gitea, you can use it to host your own Git repositories.",
+    "features": [
+      "Code Hosting: Provides tools for hosting Git repositories.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a web-based interface for repository management.",
+      "Collaboration: Supports collaboration features like pull requests and issue tracking.",
+      "Integration: Can be integrated into development workflows and CI/CD pipelines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gitea documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Gitea for support and discussions.",
+      "GitHub": "Visit the Gitea GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gitea": "gitea web",
+      "uninstall": "pkg uninstall gitea"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gitflow-avh",
+    "version": "1.12.3-9",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Gitflow is a collection of Git extensions to provide high-level repository operations for Vincent Driessen's branching model.",
+    "homepage": "https://github.com/petervanderdoes/gitflow-avh",
+    "installation": "pkg install gitflow-avh",
+    "usage": "After installing gitflow-avh, you can use it to manage your Git branches using the Gitflow model.",
+    "features": [
+      "Branching Model: Provides tools for managing Git branches using the Gitflow model.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for Gitflow tasks.",
+      "Integration: Can be integrated into development workflows using Git.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gitflow documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Gitflow for support and discussions.",
+      "GitHub": "Visit the Gitflow GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "initialize_gitflow": "git flow init",
+      "start_feature": "git flow feature start <feature_name>",
+      "uninstall": "pkg uninstall gitflow-avh"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gitoxide",
+    "version": "0.41.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gitoxide is a fast and secure Git implementation in Rust.",
+    "homepage": "https://github.com/Byron/gitoxide",
+    "installation": "pkg install gitoxide",
+    "usage": "After installing gitoxide, you can use it as an alternative Git implementation.",
+    "features": [
+      "Fast and Secure: Provides a fast and secure Git implementation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for Git tasks.",
+      "Rust-Based: Implemented in Rust for performance and safety.",
+      "Integration: Can be integrated into development workflows using Git.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gitoxide documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git and Gitoxide for support and discussions.",
+      "GitHub": "Visit the Gitoxide GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "initialize_repo": "gitoxide init",
+      "clone_repo": "gitoxide clone <repository_url>",
+      "uninstall": "pkg uninstall gitoxide"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gitui",
+    "version": "0.27.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GitUI provides a fast and intuitive terminal-based user interface for Git.",
+    "homepage": "https://github.com/extrawurst/gitui",
+    "installation": "pkg install gitui",
+    "usage": "After installing gitui, you can use it to manage your Git repositories through a terminal-based user interface.",
+    "features": [
+      "Terminal Interface: Provides a terminal-based user interface for Git.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for Git tasks.",
+      "Performance: Designed to be fast and responsive.",
+      "Integration: Can be integrated into development workflows using Git.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GitUI documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git and GitUI for support and discussions.",
+      "GitHub": "Visit the GitUI GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gitui": "gitui",
+      "uninstall": "pkg uninstall gitui"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gkermit",
+    "version": "2.01",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "G-Kermit is a free and open source software for transferring files using the Kermit protocol.",
+    "homepage": "http://www.columbia.edu/kermit/gkermit.html",
+    "installation": "pkg install gkermit",
+    "usage": "After installing gkermit, you can use it to transfer files using the Kermit protocol.",
+    "features": [
+      "File Transfer: Provides tools for transferring files using the Kermit protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for file transfer tasks.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the G-Kermit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file transfer protocols and G-Kermit for support and discussions.",
+      "GitHub": "Visit the G-Kermit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "transfer_file": "gkermit -s <file>",
+      "uninstall": "pkg uninstall gkermit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glab-cli",
+    "version": "1.52.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GLab CLI is a GitLab CLI tool to manage GitLab repositories and workflows from the command line.",
+    "homepage": "https://gitlab.com/gitlab-org/cli",
+    "installation": "pkg install glab-cli",
+    "usage": "After installing glab-cli, you can use it to manage your GitLab repositories and workflows from the command line.",
+    "features": [
+      "Repository Management: Provides tools for managing GitLab repositories, including creating issues, merge requests, and releases.",
+      "Workflow Integration: Allows integration with GitLab CI/CD pipelines.",
+      "Ease of Use: Offers a simple command-line interface for interacting with GitLab.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Authentication: Supports secure authentication with GitLab accounts.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GLab CLI documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GitLab and glab-cli for support and discussions.",
+      "GitHub": "Visit the GLab CLI GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_issue": "glab issue create",
+      "uninstall": "pkg uninstall glab-cli"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gleam",
+    "version": "1.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gleam is a fast, statically typed language for building scalable concurrent systems.",
+    "homepage": "https://gleam.run/",
+    "installation": "pkg install gleam",
+    "usage": "After installing gleam, you can use it to write and run Gleam programs.",
+    "features": [
+      "Statically Typed: Provides a statically typed language for building reliable systems.",
+      "Concurrency: Supports building scalable concurrent systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple and expressive syntax for building applications.",
+      "Integration: Can be integrated into existing ecosystems and toolchains.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gleam documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Gleam programming for support and discussions.",
+      "GitHub": "Visit the Gleam GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_program": "gleam build",
+      "run_program": "gleam run",
+      "uninstall": "pkg uninstall gleam"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glib-bin",
+    "version": "2.82.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GLib is a low-level core library that forms the basis for projects such as GTK+ and GNOME. This package contains the binary tools of GLib.",
+    "homepage": "https://developer.gnome.org/glib/",
+    "installation": "pkg install glib-bin",
+    "usage": "After installing glib-bin, you can use the GLib binary tools for various system and application tasks.",
+    "features": [
+      "Core Library: Provides foundational tools for building applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers command-line tools for system and application tasks.",
+      "Integration: Can be integrated into development and system maintenance workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GLib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GLib and GNOME development for support and discussions.",
+      "GitHub": "Visit the GLib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "glib_tool": "glib-compile-schemas",
+      "uninstall": "pkg uninstall glib-bin"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glib-cross",
+    "version": "2.82.4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "GLib is a low-level core library that forms the basis for projects such as GTK+ and GNOME. This package contains the cross-compilation tools of GLib.",
+    "homepage": "https://developer.gnome.org/glib/",
+    "installation": "pkg install glib-cross",
+    "usage": "After installing glib-cross, you can use the GLib cross-compilation tools for building applications for different architectures.",
+    "features": [
+      "Core Library: Provides foundational tools for building applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Cross-Compilation: Supports building applications for different architectures.",
+      "Ease of Use: Offers command-line tools for cross-compilation tasks.",
+      "Integration: Can be integrated into development and build workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GLib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GLib and GNOME development for support and discussions.",
+      "GitHub": "Visit the GLib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "cross_compile": "Not applicable",
+      "uninstall": "pkg uninstall glib-cross"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glib-networking",
+    "version": "2.80.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GLib Networking is a set of network-related libraries for GLib.",
+    "homepage": "https://developer.gnome.org/glib-networking/",
+    "installation": "pkg install glib-networking",
+    "usage": "After installing glib-networking, you can use the networking libraries in your GLib-based applications.",
+    "features": [
+      "Networking: Provides network-related libraries for GLib.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for networking tasks.",
+      "Integration: Can be integrated into GLib-based applications for network functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GLib Networking documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GLib and networking for support and discussions.",
+      "GitHub": "Visit the GLib Networking GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "network_task": "Not applicable",
+      "uninstall": "pkg uninstall glib-networking"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glib",
+    "version": "2.82.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GLib is a low-level core library that forms the basis for projects such as GTK+ and GNOME.",
+    "homepage": "https://developer.gnome.org/glib/",
+    "installation": "pkg install glib",
+    "usage": "After installing glib, you can use the GLib libraries in your applications.",
+    "features": [
+      "Core Library: Provides foundational tools for building applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for application development tasks.",
+      "Integration: Can be integrated into development workflows for building applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GLib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GLib and GNOME development for support and discussions.",
+      "GitHub": "Visit the GLib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "glib_task": "Not applicable",
+      "uninstall": "pkg uninstall glib"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glm",
+    "version": "1.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GLM is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.",
+    "homepage": "https://glm.g-truc.net/",
+    "installation": "pkg install glm",
+    "usage": "After installing glm, you can include it in your C++ projects for mathematical computations.",
+    "features": [
+      "Header Only: No need to compile or link against the library.",
+      "Mathematics: Provides a wide range of mathematical operations for graphics.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for mathematical tasks.",
+      "Integration: Can be integrated into graphics and game development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GLM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to graphics programming and GLM for support and discussions.",
+      "GitHub": "Visit the GLM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "include_glm": "#include <glm/glm.hpp>",
+      "uninstall": "pkg uninstall glm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "global",
+    "version": "6.6.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU GLOBAL is a source code tagging system that works the same way across diverse environments.",
+    "homepage": "https://www.gnu.org/software/global/",
+    "installation": "pkg install global",
+    "usage": "After installing global, you can use it to tag and search your source code.",
+    "features": [
+      "Source Code Tagging: Provides tools for tagging and searching source code.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for tagging tasks.",
+      "Integration: Can be integrated into development environments for code navigation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GLOBAL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to source code management and GLOBAL for support and discussions.",
+      "GitHub": "Visit the GLOBAL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "tag_source": "gtags",
+      "search_tag": "global <tag>",
+      "uninstall": "pkg uninstall global"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glow",
+    "version": "2.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Glow is a terminal-based markdown reader designed to bring out the beauty of markdown documents.",
+    "homepage": "https://github.com/charmbracelet/glow",
+    "installation": "pkg install glow",
+    "usage": "After installing glow, you can use it to view markdown files in the terminal.",
+    "features": [
+      "Markdown Reader: Provides a terminal-based reader for markdown files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for viewing markdown.",
+      "Customization: Allows customization of themes and styles.",
+      "Integration: Can be integrated into terminal workflows for quick markdown viewing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Glow documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to markdown and Glow for support and discussions.",
+      "GitHub": "Visit the Glow GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "view_markdown": "glow <file.md>",
+      "uninstall": "pkg uninstall glow"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glpk-static",
+    "version": "5.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GLPK (GNU Linear Programming Kit) is intended for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/glpk/",
+    "installation": "pkg install glpk-static",
+    "usage": "After installing glpk-static, you can use it to solve linear and mixed integer programming problems.",
+    "features": [
+      "Linear Programming: Provides tools for solving large-scale linear programming problems.",
+      "Integer Programming: Supports solving mixed integer programming problems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for optimization tasks.",
+      "Integration: Can be integrated into optimization and operations research workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GLPK documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to linear programming and GLPK for support and discussions.",
+      "GitHub": "Visit the GLPK GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "solve_lp": "glpsol --lp <file.lp>",
+      "uninstall": "pkg uninstall glpk-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glpk",
+    "version": "5.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GLPK (GNU Linear Programming Kit) is intended for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems.",
+    "homepage": "https://www.gnu.org/software/glpk/",
+    "installation": "pkg install glpk",
+    "usage": "After installing glpk, you can use it to solve linear and mixed integer programming problems.",
+    "features": [
+      "Linear Programming: Provides tools for solving large-scale linear programming problems.",
+      "Integer Programming: Supports solving mixed integer programming problems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for optimization tasks.",
+      "Integration: Can be integrated into optimization and operations research workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GLPK documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to linear programming and GLPK for support and discussions.",
+      "GitHub": "Visit the GLPK GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "solve_lp": "glpsol --lp <file.lp>",
+      "uninstall": "pkg uninstall glpk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glslang",
+    "version": "15.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GLSLang is the official reference compiler front end for the OpenGL ES and OpenGL shading languages.",
+    "homepage": "https://github.com/KhronosGroup/glslang",
+    "installation": "pkg install glslang",
+    "usage": "After installing glslang, you can use it to compile and validate GLSL shaders.",
+    "features": [
+      "Shader Compilation: Provides tools for compiling and validating GLSL shaders.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for shader compilation tasks.",
+      "Integration: Can be integrated into graphics and game development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GLSLang documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to graphics programming and GLSLang for support and discussions.",
+      "GitHub": "Visit the GLSLang GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_shader": "glslangValidator -V <shader.glsl>",
+      "uninstall": "pkg uninstall glslang"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gluelang",
+    "version": "0.2.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Glue is a language and environment for building scalable, distributed systems with a focus on simplicity and performance.",
+    "homepage": "https://gluelang.org/",
+    "installation": "pkg install gluelang",
+    "usage": "After installing gluelang, you can use it to write and run Glue programs.",
+    "features": [
+      "Distributed Systems: Provides tools for building scalable, distributed systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple and expressive syntax for building applications.",
+      "Performance: Designed for high performance in distributed environments.",
+      "Integration: Can be integrated into development workflows for distributed systems.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Glue documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to distributed systems and Glue for support and discussions.",
+      "GitHub": "Visit the Glue GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_program": "glue build",
+      "run_program": "glue run",
+      "uninstall": "pkg uninstall gluelang"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "glulxe",
+    "version": "0.5.4-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Glulxe is an interpreter for the Glulx VM, used for playing interactive fiction games.",
+    "homepage": "https://www.eblong.com/zarf/glulx/",
+    "installation": "pkg install glulxe",
+    "usage": "After installing glulxe, you can use it to play interactive fiction games written for the Glulx VM.",
+    "features": [
+      "Interactive Fiction: Provides tools for playing interactive fiction games.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for running interactive fiction games.",
+      "Compatibility: Supports games written for the Glulx VM.",
+      "Integration: Can be integrated into interactive fiction development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Glulxe documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to interactive fiction and Glulxe for support and discussions.",
+      "GitHub": "Visit the Glulxe GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "play_game": "glulxe <game.ulx>",
+      "uninstall": "pkg uninstall glulxe"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gmic-gm",
+    "version": "3.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "G'MIC is an open-source framework for image processing. This package includes the G'MIC interpreter and a set of predefined algorithms.",
+    "homepage": "https://gmic.eu/",
+    "installation": "pkg install gmic-gm",
+    "usage": "After installing gmic-gm, you can use it to perform various image processing tasks.",
+    "features": [
+      "Image Processing: Provides tools for a wide range of image processing tasks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for image processing tasks.",
+      "Customization: Allows customization and scripting of image processing workflows.",
+      "Integration: Can be integrated into graphics applications and workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the G'MIC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and G'MIC for support and discussions.",
+      "GitHub": "Visit the G'MIC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_image": "gmic <input_image> -blur 10 -o <output_image>",
+      "uninstall": "pkg uninstall gmic-gm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gmic",
+    "version": "3.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "G'MIC is an open-source framework for image processing. This package includes the G'MIC interpreter and a set of predefined algorithms.",
+    "homepage": "https://gmic.eu/",
+    "installation": "pkg install gmic",
+    "usage": "After installing gmic, you can use it to perform various image processing tasks.",
+    "features": [
+      "Image Processing: Provides tools for a wide range of image processing tasks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for image processing tasks.",
+      "Customization: Allows customization and scripting of image processing workflows.",
+      "Integration: Can be integrated into graphics applications and workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the G'MIC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and G'MIC for support and discussions.",
+      "GitHub": "Visit the G'MIC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_image": "gmic <input_image> -blur 10 -o <output_image>",
+      "uninstall": "pkg uninstall gmic"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gn",
+    "version": "20220502-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GN is a meta-build system that generates build files for Ninja.",
+    "homepage": "https://gn.googlesource.com/gn/",
+    "installation": "pkg install gn",
+    "usage": "After installing gn, you can use it to generate build files for Ninja.",
+    "features": [
+      "Build System: Provides tools for generating build files for Ninja.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for build file generation tasks.",
+      "Integration: Can be integrated into development workflows for building projects.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GN documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to build systems and GN for support and discussions.",
+      "GitHub": "Visit the GN GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_build_files": "gn gen out/Default",
+      "uninstall": "pkg uninstall gn"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnucap",
+    "version": "20210107-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNUcap is the GNU Circuit Analysis Package, a general purpose circuit simulator.",
+    "homepage": "https://www.gnu.org/software/gnucap/",
+    "installation": "pkg install gnucap",
+    "usage": "After installing gnucap, you can use it to simulate electronic circuits.",
+    "features": [
+      "Circuit Simulation: Provides tools for simulating electronic circuits.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for circuit simulation tasks.",
+      "Integration: Can be integrated into electronics and circuit design workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNUcap documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to circuit simulation and GNUcap for support and discussions.",
+      "GitHub": "Visit the GNUcap GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "simulate_circuit": "gnucap <circuit_file>",
+      "uninstall": "pkg uninstall gnucap"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnuchess",
+    "version": "6.2.9-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Chess is a free software chess engine developed as part of the GNU project.",
+    "homepage": "https://www.gnu.org/software/chess/",
+    "installation": "pkg install gnuchess",
+    "usage": "After installing gnuchess, you can use it to play chess against the computer or analyze chess games.",
+    "features": [
+      "Chess Engine: Provides a powerful chess engine for playing and analyzing chess games.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for playing chess.",
+      "Integration: Can be integrated into chess interfaces and applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNU Chess documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to chess and GNU Chess for support and discussions.",
+      "GitHub": "Visit the GNU Chess GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_game": "gnuchess",
+      "uninstall": "pkg uninstall gnuchess"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnucobol-static",
+    "version": "3.1.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GnuCOBOL is a free COBOL compiler. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/gnucobol/",
+    "installation": "pkg install gnucobol-static",
+    "usage": "After installing gnucobol-static, you can use it to compile and run COBOL programs.",
+    "features": [
+      "COBOL Compiler: Provides a free COBOL compiler.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for compiling and running COBOL programs.",
+      "Integration: Can be integrated into development workflows for COBOL applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GnuCOBOL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to COBOL and GnuCOBOL for support and discussions.",
+      "GitHub": "Visit the GnuCOBOL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_program": "cobc -x -o myprogram myprogram.cob",
+      "run_program": "./myprogram",
+      "uninstall": "pkg uninstall gnucobol-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnucobol",
+    "version": "3.1.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GnuCOBOL is a free COBOL compiler.",
+    "homepage": "https://www.gnu.org/software/gnucobol/",
+    "installation": "pkg install gnucobol",
+    "usage": "After installing gnucobol, you can use it to compile and run COBOL programs.",
+    "features": [
+      "COBOL Compiler: Provides a free COBOL compiler.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for compiling and running COBOL programs.",
+      "Integration: Can be integrated into development workflows for COBOL applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GnuCOBOL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to COBOL and GnuCOBOL for support and discussions.",
+      "GitHub": "Visit the GnuCOBOL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_program": "cobc -x -o myprogram myprogram.cob",
+      "run_program": "./myprogram",
+      "uninstall": "pkg uninstall gnucobol"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnugo",
+    "version": "3.8-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Go is a free software program developed by the GNU project that plays the game of Go.",
+    "homepage": "https://www.gnu.org/software/gnugo/",
+    "installation": "pkg install gnugo",
+    "usage": "After installing gnugo, you can use it to play Go against the computer or analyze Go games.",
+    "features": [
+      "Go Engine: Provides a powerful Go engine for playing and analyzing Go games.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for playing Go.",
+      "Integration: Can be integrated into Go interfaces and applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNU Go documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Go and GNU Go for support and discussions.",
+      "GitHub": "Visit the GNU Go GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_game": "gnugo",
+      "uninstall": "pkg uninstall gnugo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnuit",
+    "version": "4.9.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Interactive Tools (GNuit) is a set of file and text manipulation utilities.",
+    "homepage": "https://www.gnu.org/software/gnuit/",
+    "installation": "pkg install gnuit",
+    "usage": "After installing gnuit, you can use it to manipulate files and text from the command line.",
+    "features": [
+      "File Manipulation: Provides tools for manipulating files and directories.",
+      "Text Manipulation: Offers tools for viewing and editing text files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line and interactive interface for file and text manipulation tasks.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNuit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management and GNuit for support and discussions.",
+      "GitHub": "Visit the GNuit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gnuit": "gitfm",
+      "uninstall": "pkg uninstall gnuit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnunet-static",
+    "version": "0.19.4-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNUnet is a framework for secure peer-to-peer networking. This is the statically linked version.",
+    "homepage": "https://gnunet.org/",
+    "installation": "pkg install gnunet-static",
+    "usage": "After installing gnunet-static, you can use it to develop and deploy secure peer-to-peer applications.",
+    "features": [
+      "Peer-to-Peer Networking: Provides tools for developing secure peer-to-peer applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for networking tasks.",
+      "Integration: Can be integrated into development workflows for peer-to-peer applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNUnet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to peer-to-peer networking and GNUnet for support and discussions.",
+      "GitHub": "Visit the GNUnet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gnunet": "gnunet-arm -s",
+      "uninstall": "pkg uninstall gnunet-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnunet",
+    "version": "0.19.4-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNUnet is a framework for secure peer-to-peer networking.",
+    "homepage": "https://gnunet.org/",
+    "installation": "pkg install gnunet",
+    "usage": "After installing gnunet, you can use it to develop and deploy secure peer-to-peer applications.",
+    "features": [
+      "Peer-to-Peer Networking: Provides tools for developing secure peer-to-peer applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for networking tasks.",
+      "Integration: Can be integrated into development workflows for peer-to-peer applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNUnet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to peer-to-peer networking and GNUnet for support and discussions.",
+      "GitHub": "Visit the GNUnet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gnunet": "gnunet-arm -s",
+      "uninstall": "pkg uninstall gnunet"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnupg",
+    "version": "2.4.5-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GnuPG is a complete and free implementation of the OpenPGP standard for encrypting and signing data and communications.",
+    "homepage": "https://gnupg.org/",
+    "installation": "pkg install gnupg",
+    "usage": "After installing gnupg, you can use it to encrypt, decrypt, sign, and verify data.",
+    "features": [
+      "Encryption: Provides tools for encrypting and decrypting data.",
+      "Digital Signatures: Supports signing and verifying data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for encryption tasks.",
+      "Integration: Can be integrated into communication and data protection workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GnuPG documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to encryption and GnuPG for support and discussions.",
+      "GitHub": "Visit the GnuPG GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encrypt_file": "gpg --encrypt --recipient <user> <file>",
+      "decrypt_file": "gpg --decrypt <file>",
+      "uninstall": "pkg uninstall gnupg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnuplot",
+    "version": "6.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms.",
+    "homepage": "http://www.gnuplot.info/",
+    "installation": "pkg install gnuplot",
+    "usage": "After installing gnuplot, you can use it to plot mathematical functions and data.",
+    "features": [
+      "Graphing Utility: Provides tools for plotting mathematical functions and data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for plotting tasks.",
+      "Customization: Allows customization of plots and graphs.",
+      "Integration: Can be integrated into scientific and data analysis workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gnuplot documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to graphing and Gnuplot for support and discussions.",
+      "GitHub": "Visit the Gnuplot GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "plot_function": "gnuplot -e \"plot sin(x)\"",
+      "uninstall": "pkg uninstall gnuplot"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnurl-static",
+    "version": "7.72.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gnurl is a command-line tool for transferring data with URL syntax. This is the statically linked version.",
+    "homepage": "https://gnurl.org/",
+    "installation": "pkg install gnurl-static",
+    "usage": "After installing gnurl-static, you can use it to transfer data over various protocols.",
+    "features": [
+      "Data Transfer: Provides tools for transferring data over various protocols including HTTP, FTP, and more.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for data transfer tasks.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gnurl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data transfer and Gnurl for support and discussions.",
+      "GitHub": "Visit the Gnurl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "transfer_data": "gnurl -O <url>",
+      "uninstall": "pkg uninstall gnurl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnurl",
+    "version": "7.72.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gnurl is a command-line tool for transferring data with URL syntax.",
+    "homepage": "https://gnurl.org/",
+    "installation": "pkg install gnurl",
+    "usage": "After installing gnurl, you can use it to transfer data over various protocols.",
+    "features": [
+      "Data Transfer: Provides tools for transferring data over various protocols including HTTP, FTP, and more.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for data transfer tasks.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gnurl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data transfer and Gnurl for support and discussions.",
+      "GitHub": "Visit the Gnurl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "transfer_data": "gnurl -O <url>",
+      "uninstall": "pkg uninstall gnurl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnushogi",
+    "version": "1.4.2-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Shogi is a computer program that plays the game of Shogi (Japanese chess).",
+    "homepage": "https://www.gnu.org/software/gnushogi/",
+    "installation": "pkg install gnushogi",
+    "usage": "After installing gnushogi, you can use it to play Shogi against the computer or analyze Shogi games.",
+    "features": [
+      "Shogi Engine: Provides a powerful Shogi engine for playing and analyzing Shogi games.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for playing Shogi.",
+      "Integration: Can be integrated into Shogi interfaces and applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNU Shogi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Shogi and GNU Shogi for support and discussions.",
+      "GitHub": "Visit the GNU Shogi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_game": "gnushogi",
+      "uninstall": "pkg uninstall gnushogi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnuski",
+    "version": "0.3-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Ski is a simple arcade game where the player guides a skier down a slope.",
+    "homepage": "https://www.gnu.org/software/gnuski/",
+    "installation": "pkg install gnuski",
+    "usage": "After installing gnuski, you can use it to play a skiing game.",
+    "features": [
+      "Arcade Game: Provides an entertaining arcade game experience.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple interface for playing the game.",
+      "Integration: Can be integrated into gaming environments and arcade setups.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNU Ski documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to arcade games and GNU Ski for support and discussions.",
+      "GitHub": "Visit the GNU Ski GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_game": "gnuski",
+      "uninstall": "pkg uninstall gnuski"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnustep-make",
+    "version": "2.9.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNUstep Make is a build system for GNUstep software.",
+    "homepage": "http://gnustep.org/",
+    "installation": "pkg install gnustep-make",
+    "usage": "After installing gnustep-make, you can use it to build GNUstep applications and libraries.",
+    "features": [
+      "Build System: Provides a build system for GNUstep software.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for building tasks.",
+      "Integration: Can be integrated into development workflows for GNUstep projects.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNUstep Make documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GNUstep development for support and discussions.",
+      "GitHub": "Visit the GNUstep Make GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "build_project": "make -f GNUmakefile",
+      "uninstall": "pkg uninstall gnustep-make"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gnutls",
+    "version": "3.8.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GnuTLS is a secure communications library implementing the SSL, TLS, and DTLS protocols.",
+    "homepage": "https://www.gnutls.org/",
+    "installation": "pkg install gnutls",
+    "usage": "After installing gnutls, you can use it to implement secure communications in your applications.",
+    "features": [
+      "Secure Communications: Provides tools for implementing SSL, TLS, and DTLS protocols.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an API for secure communications tasks.",
+      "Integration: Can be integrated into applications requiring secure communications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GnuTLS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to secure communications and GnuTLS for support and discussions.",
+      "GitHub": "Visit the GnuTLS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "secure_communication": "Not applicable",
+      "uninstall": "pkg uninstall gnutls"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "go-findimagedupes",
+    "version": "2023.01.29-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Go-FindImageDupes is a tool to find duplicate images.",
+    "homepage": "https://github.com/davidnewhall/go-findimagedupes",
+    "installation": "pkg install go-findimagedupes",
+    "usage": "After installing go-findimagedupes, you can use it to find and remove duplicate images.",
+    "features": [
+      "Duplicate Finder: Provides tools to find duplicate images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for finding duplicate images.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Go-FindImageDupes documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Go-FindImageDupes for support and discussions.",
+      "GitHub": "Visit the Go-FindImageDupes GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "find_duplicates": "go-findimagedupes <directory>",
+      "uninstall": "pkg uninstall go-findimagedupes"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "go-musicfox",
+    "version": "4.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Go-MusicFox is a command-line music player with a rich feature set.",
+    "homepage": "https://github.com/go-musicfox/go-musicfox",
+    "installation": "pkg install go-musicfox",
+    "usage": "After installing go-musicfox, you can use it to play and manage your music library.",
+    "features": [
+      "Music Player: Provides a feature-rich command-line music player.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for playing music.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Go-MusicFox documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to music players and Go-MusicFox for support and discussions.",
+      "GitHub": "Visit the Go-MusicFox GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "play_music": "go-musicfox play <song>",
+      "uninstall": "pkg uninstall go-musicfox"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "goaccess",
+    "version": "1.9.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal or through a web interface.",
+    "homepage": "https://goaccess.io/",
+    "installation": "pkg install goaccess",
+    "usage": "After installing goaccess, you can use it to analyze web server logs in real-time.",
+    "features": [
+      "Log Analysis: Provides tools for real-time web log analysis.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface and web interface for log analysis.",
+      "Visualization: Provides various visualizations for log data.",
+      "Integration: Can be integrated into web server monitoring workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GoAccess documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web log analysis and GoAccess for support and discussions.",
+      "GitHub": "Visit the GoAccess GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "analyze_logs": "goaccess <logfile> -o report.html",
+      "uninstall": "pkg uninstall goaccess"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gobang",
+    "version": "0.1.0-alpha.5-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gobang is a configuration management tool written in Go.",
+    "homepage": "https://github.com/Tinywan/gobang",
+    "installation": "pkg install gobang",
+    "usage": "After installing gobang, you can use it to manage configurations in your projects.",
+    "features": [
+      "Configuration Management: Provides tools for managing configurations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for configuration tasks.",
+      "Integration: Can be integrated into development and deployment workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gobang documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to configuration management and Gobang for support and discussions.",
+      "GitHub": "Visit the Gobang GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "manage_configuration": "gobang config <file>",
+      "uninstall": "pkg uninstall gobang"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gobject-introspection",
+    "version": "1.82.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GObject Introspection is a middleware layer between C libraries (using GObject) and language bindings.",
+    "homepage": "https://gi.readthedocs.io/",
+    "installation": "pkg install gobject-introspection",
+    "usage": "After installing gobject-introspection, you can use it to generate introspection data for GObject-based libraries.",
+    "features": [
+      "Introspection: Provides tools for generating introspection data for GObject-based libraries.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers command-line tools for generating introspection data.",
+      "Integration: Can be integrated into build systems to automate introspection data generation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GObject Introspection documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GObject and language bindings for support and discussions.",
+      "GitHub": "Visit the GObject Introspection GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_introspection_data": "g-ir-scanner --namespace=MyLibrary --nsversion=1.0 MyLibrary.c -o MyLibrary-1.0.gir",
+      "uninstall": "pkg uninstall gobject-introspection"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gogs",
+    "version": "0.13.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gogs is a painless self-hosted Git service.",
+    "homepage": "https://gogs.io/",
+    "installation": "pkg install gogs",
+    "usage": "After installing gogs, you can use it to host your own Git repositories.",
+    "features": [
+      "Git Hosting: Provides a self-hosted Git service.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a web-based interface for managing Git repositories.",
+      "Collaboration: Supports collaboration features like pull requests and issue tracking.",
+      "Integration: Can be integrated into development workflows and CI/CD pipelines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gogs documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git hosting and Gogs for support and discussions.",
+      "GitHub": "Visit the Gogs GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gogs": "gogs web",
+      "uninstall": "pkg uninstall gogs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gojq",
+    "version": "0.12.17",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GoJQ is a Go implementation of jq, a lightweight and flexible command-line JSON processor.",
+    "homepage": "https://github.com/itchyny/gojq",
+    "installation": "pkg install gojq",
+    "usage": "After installing gojq, you can use it to process and manipulate JSON data in the terminal.",
+    "features": [
+      "JSON Processing: Provides tools for processing and manipulating JSON data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for JSON processing tasks.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GoJQ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON processing and GoJQ for support and discussions.",
+      "GitHub": "Visit the GoJQ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_json": "gojq '.' < file.json",
+      "uninstall": "pkg uninstall gojq"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "golang-doc",
+    "version": "3:1.23.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The Go programming language documentation.",
+    "homepage": "https://golang.org/doc/",
+    "installation": "pkg install golang-doc",
+    "usage": "After installing golang-doc, you can use it to access the Go programming language documentation.",
+    "features": [
+      "Documentation: Provides comprehensive documentation for the Go programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers easy access to documentation for Go developers.",
+      "Integration: Can be integrated into development environments and tools.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Go documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Go programming for support and discussions.",
+      "GitHub": "Visit the Go GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "access_doc": "go doc <package>",
+      "uninstall": "pkg uninstall golang-doc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "golang",
+    "version": "3:1.23.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The Go programming language is an open source project to make programmers more productive.",
+    "homepage": "https://golang.org/",
+    "installation": "pkg install golang",
+    "usage": "After installing golang, you can use it to write and run Go programs.",
+    "features": [
+      "Programming Language: Provides tools for writing and running Go programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple and productive syntax for building applications.",
+      "Performance: Designed for high performance and efficiency.",
+      "Integration: Can be integrated into development workflows and toolchains.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Go documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Go programming for support and discussions.",
+      "GitHub": "Visit the Go GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_program": "go build <file.go>",
+      "run_program": "go run <file.go>",
+      "uninstall": "pkg uninstall golang"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gomp",
+    "version": "2023.02.02-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gomp is a minimalistic terminal-based Pomodoro timer.",
+    "homepage": "https://github.com/zagortenay333/gomp",
+    "installation": "pkg install gomp",
+    "usage": "After installing gomp, you can use it to manage your work and break intervals using the Pomodoro technique.",
+    "features": [
+      "Pomodoro Timer: Provides a simple Pomodoro timer in the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a minimalistic interface for managing work and break intervals.",
+      "Integration: Can be integrated into productivity workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gomp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to productivity tools and Gomp for support and discussions.",
+      "GitHub": "Visit the Gomp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_pomodoro": "gomp",
+      "uninstall": "pkg uninstall gomp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gomuks",
+    "version": "0.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gomuks is a terminal-based Matrix client written in Go.",
+    "homepage": "https://github.com/tulir/gomuks",
+    "installation": "pkg install gomuks",
+    "usage": "After installing gomuks, you can use it to interact with the Matrix protocol from the terminal.",
+    "features": [
+      "Matrix Client: Provides tools for interacting with the Matrix protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a terminal-based interface for Matrix communication.",
+      "Integration: Can be integrated into communication workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gomuks documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Matrix and Gomuks for support and discussions.",
+      "GitHub": "Visit the Gomuks GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gomuks": "gomuks",
+      "uninstall": "pkg uninstall gomuks"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "google-drive-upload",
+    "version": "4.5",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Google Drive Upload is a command-line tool to upload files to Google Drive.",
+    "homepage": "https://github.com/labbots/google-drive-upload",
+    "installation": "pkg install google-drive-upload",
+    "usage": "After installing google-drive-upload, you can use it to upload files to Google Drive from the command line.",
+    "features": [
+      "File Upload: Provides tools for uploading files to Google Drive.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for file upload tasks.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Google Drive Upload documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Google Drive and Google Drive Upload for support and discussions.",
+      "GitHub": "Visit the Google Drive Upload GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "upload_file": "gupload <file>",
+      "uninstall": "pkg uninstall google-drive-upload"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "google-glog",
+    "version": "0.7.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Google's logging library for C++.",
+    "homepage": "https://github.com/google/glog",
+    "installation": "pkg install google-glog",
+    "usage": "After installing google-glog, you can use it to add logging capabilities to your C++ applications.",
+    "features": [
+      "Logging Library: Provides a robust logging library for C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for logging tasks.",
+      "Integration: Can be integrated into C++ development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Google Glog documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development and Google Glog for support and discussions.",
+      "GitHub": "Visit the Google Glog GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "include_glog": "#include <glog/logging.h>",
+      "uninstall": "pkg uninstall google-glog"
+    },
+    "isFavorite": false
+  }
+]

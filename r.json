@@ -1,0 +1,2041 @@
+[
+  {
+    "name": "rabbitmq-server",
+    "version": "4.0.5",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "RabbitMQ is an open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP).",
+    "homepage": "https://www.rabbitmq.com/",
+    "installation": "pkg install rabbitmq-server",
+    "usage": "After installing RabbitMQ, you can use it to manage message queues.",
+    "features": [
+      "Message Broker: Implements the Advanced Message Queuing Protocol (AMQP).",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official RabbitMQ website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to message brokers for support and discussions.",
+      "GitHub": "Search for repositories or forks of RabbitMQ to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_rabbitmq": "rabbitmq-server",
+      "uninstall": "pkg uninstall rabbitmq-server"
+    }
+  },
+  {
+    "name": "racket-static",
+    "version": "8.15-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Racket is a general-purpose programming language and the Racket-static package provides a static version of it.",
+    "homepage": "https://racket-lang.org/",
+    "installation": "pkg install racket-static",
+    "usage": "After installing racket-static, you can use it to develop applications using the Racket programming language.",
+    "features": [
+      "Static Version: Provides a static version of the Racket programming language.",
+      "General-Purpose: Suitable for a wide range of programming tasks.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Racket website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Racket for support and discussions.",
+      "GitHub": "Search for repositories or forks of Racket to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_racket": "racket-static script.rkt",
+      "uninstall": "pkg uninstall racket-static"
+    }
+  },
+  {
+    "name": "racket",
+    "version": "8.15-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Racket is a general-purpose programming language.",
+    "homepage": "https://racket-lang.org/",
+    "installation": "pkg install racket",
+    "usage": "After installing Racket, you can use it to develop applications using the Racket programming language.",
+    "features": [
+      "General-Purpose: Suitable for a wide range of programming tasks.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Racket website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Racket for support and discussions.",
+      "GitHub": "Search for repositories or forks of Racket to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_racket": "racket script.rkt",
+      "uninstall": "pkg uninstall racket"
+    }
+  },
+  {
+    "name": "radare2",
+    "version": "5.9.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "radare2 is an open-source software framework for reverse engineering and analyzing binaries.",
+    "homepage": "https://rada.re/n/",
+    "installation": "pkg install radare2",
+    "usage": "After installing radare2, you can use it to reverse engineer and analyze binaries.",
+    "features": [
+      "Reverse Engineering: Provides tools for reverse engineering and analyzing binaries.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official radare2 website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to reverse engineering for support and discussions.",
+      "GitHub": "Search for repositories or forks of radare2 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "analyze_binary": "r2 -A binaryfile",
+      "uninstall": "pkg uninstall radare2"
+    }
+  },
+  {
+    "name": "rage",
+    "version": "0.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rage is a simple, secure, and modern encryption tool.",
+    "homepage": "https://github.com/str4d/rage",
+    "installation": "pkg install rage",
+    "usage": "After installing rage, you can use it to securely encrypt and decrypt files.",
+    "features": [
+      "Encryption Tool: Provides a simple, secure, and modern encryption tool.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to encryption tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encrypt_file": "rage -e -p file.txt",
+      "decrypt_file": "rage -d -p file.txt.age",
+      "uninstall": "pkg uninstall rage"
+    }
+  },
+  {
+    "name": "ragel-static",
+    "version": "7.0.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ragel is a state machine compiler and the ragel-static package provides a static version of it.",
+    "homepage": "http://www.colm.net/open-source/ragel/",
+    "installation": "pkg install ragel-static",
+    "usage": "After installing ragel-static, you can use it to compile state machines.",
+    "features": [
+      "State Machine Compiler: Provides tools for compiling state machines.",
+      "Static Version: Provides a static version of the Ragel state machine compiler.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Ragel website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to state machine compilers for support and discussions.",
+      "GitHub": "Search for repositories or forks of Ragel to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_state_machine": "ragel-static -o output.c input.rl",
+      "uninstall": "pkg uninstall ragel-static"
+    }
+  },
+  {
+    "name": "ragel",
+    "version": "7.0.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ragel is a state machine compiler.",
+    "homepage": "http://www.colm.net/open-source/ragel/",
+    "installation": "pkg install ragel",
+    "usage": "After installing ragel, you can use it to compile state machines.",
+    "features": [
+      "State Machine Compiler: Provides tools for compiling state machines.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Ragel website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to state machine compilers for support and discussions.",
+      "GitHub": "Search for repositories or forks of Ragel to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_state_machine": "ragel -o output.c input.rl",
+      "uninstall": "pkg uninstall ragel"
+    }
+  },
+  {
+    "name": "railway-cli",
+    "version": "3.20.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Railway is a deployment platform and the railway-cli provides a command-line interface for it.",
+    "homepage": "https://railway.app/",
+    "installation": "pkg install railway-cli",
+    "usage": "After installing railway-cli, you can use it to manage and deploy applications on the Railway platform.",
+    "features": [
+      "Deployment Platform: Provides tools for managing and deploying applications on the Railway platform.",
+      "Command-Line Interface: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Railway website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to deployment platforms for support and discussions.",
+      "GitHub": "Search for repositories or forks of railway-cli to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "deploy_app": "railway up",
+      "uninstall": "pkg uninstall railway-cli"
+    }
+  },
+  {
+    "name": "range-v3",
+    "version": "0.12.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "range-v3 is a library for range algorithms, views, and actions for C++14/17/20.",
+    "homepage": "https://github.com/ericniebler/range-v3",
+    "installation": "pkg install range-v3",
+    "usage": "After installing range-v3, you can use it to implement range-based algorithms in C++.",
+    "features": [
+      "Range Algorithms: Provides a library for range algorithms, views, and actions.",
+      "C++ Support: Compatible with C++14, C++17, and C++20.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C++ for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include range-v3 in your C++ projects.",
+      "uninstall": "pkg uninstall range-v3"
+    }
+  },
+  {
+    "name": "ranger",
+    "version": "1.9.4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "ranger is a console file manager with VI key bindings.",
+    "homepage": "https://ranger.github.io/",
+    "installation": "pkg install ranger",
+    "usage": "After installing ranger, you can use it to manage files from the terminal.",
+    "features": [
+      "File Manager: Provides a console file manager with VI key bindings.",
+      "VI Key Bindings: Supports VI key bindings for navigation.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official ranger website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file managers for support and discussions.",
+      "GitHub": "Search for repositories or forks of ranger to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_ranger": "ranger",
+      "uninstall": "pkg uninstall ranger"
+    }
+  },
+  {
+    "name": "rapidjson",
+    "version": "1.1.0-5",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "RapidJSON is a fast JSON parser/generator for C++ with both SAX/DOM style API.",
+    "homepage": "https://rapidjson.org/",
+    "installation": "pkg install rapidjson",
+    "usage": "After installing rapidjson, you can use it to parse and generate JSON in C++.",
+    "features": [
+      "JSON Parser/Generator: Provides a fast JSON parser/generator for C++.",
+      "SAX/DOM API: Supports both SAX and DOM style API.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official RapidJSON website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to JSON parsing for support and discussions.",
+      "GitHub": "Search for repositories or forks of RapidJSON to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include rapidjson in your C++ projects.",
+      "uninstall": "pkg uninstall rapidjson"
+    }
+  },
+  {
+    "name": "rappel",
+    "version": "2022.11.07",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rappel is a Rust REPL written in Rust.",
+    "homepage": "https://github.com/KusionStack/rappel",
+    "installation": "pkg install rappel",
+    "usage": "After installing rappel, you can use it to interactively run Rust code.",
+    "features": [
+      "Rust REPL: Provides a REPL for interactively running Rust code.",
+      "Written in Rust: Built with Rust for performance and safety.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_repl": "rappel",
+      "uninstall": "pkg uninstall rappel"
+    }
+  },
+  {
+    "name": "ratt",
+    "version": "2023.02.02-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ratt is a tool to rebuild and test reverse dependencies of Debian packages.",
+    "homepage": "https://github.com/Debian/ratt",
+    "installation": "pkg install ratt",
+    "usage": "After installing ratt, you can use it to rebuild and test reverse dependencies of Debian packages.",
+    "features": [
+      "Dependency Testing: Provides tools for rebuilding and testing reverse dependencies of Debian packages.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Debian packaging for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "rebuild_dependencies": "ratt package.deb",
+      "uninstall": "pkg uninstall ratt"
+    }
+  },
+  {
+    "name": "rav1e",
+    "version": "0.7.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rav1e is an AV1 encoder written in Rust.",
+    "homepage": "https://github.com/xiph/rav1e",
+    "installation": "pkg install rav1e",
+    "usage": "After installing rav1e, you can use it to encode video files into the AV1 format.",
+    "features": [
+      "AV1 Encoding: Provides tools for encoding video files into the AV1 format.",
+      "Written in Rust: Built with Rust for performance and safety.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to video encoding for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_video": "rav1e input.y4m -o output.ivf",
+      "uninstall": "pkg uninstall rav1e"
+    }
+  },
+  {
+    "name": "ravencoin-static",
+    "version": "4.6.1-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ravencoin-static provides a static binary version of Ravencoin, a peer-to-peer blockchain.",
+    "homepage": "https://ravencoin.org/",
+    "installation": "pkg install ravencoin-static",
+    "usage": "After installing ravencoin-static, you can use it to run a Ravencoin node.",
+    "features": [
+      "Blockchain Node: Provides a static binary for running a Ravencoin node.",
+      "Peer-to-Peer: Supports peer-to-peer blockchain technology.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Ravencoin website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to blockchain technology for support and discussions.",
+      "GitHub": "Search for repositories or forks of Ravencoin to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_node": "ravend",
+      "uninstall": "pkg uninstall ravencoin-static"
+    }
+  },
+  {
+    "name": "ravencoin",
+    "version": "4.6.1-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ravencoin is a peer-to-peer blockchain that handles the efficient creation and transfer of assets from one party to another.",
+    "homepage": "https://ravencoin.org/",
+    "installation": "pkg install ravencoin",
+    "usage": "After installing Ravencoin, you can use it to participate in the Ravencoin network.",
+    "features": [
+      "Blockchain: Provides tools for participating in the Ravencoin blockchain network.",
+      "Peer-to-Peer: Supports peer-to-peer blockchain technology.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Ravencoin website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to blockchain technology for support and discussions.",
+      "GitHub": "Search for repositories or forks of Ravencoin to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_node": "ravend",
+      "uninstall": "pkg uninstall ravencoin"
+    }
+  },
+  {
+    "name": "rbw",
+    "version": "1.13.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rbw is a command-line client for the Bitwarden password manager.",
+    "homepage": "https://github.com/doy/rbw",
+    "installation": "pkg install rbw",
+    "usage": "After installing rbw, you can use it to manage your Bitwarden vault from the command line.",
+    "features": [
+      "Password Manager: Provides a command-line client for the Bitwarden password manager.",
+      "Secure: Designed for secure password management.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to password management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "login": "rbw login",
+      "uninstall": "pkg uninstall rbw"
+    }
+  },
+  {
+    "name": "rc",
+    "version": "1.7.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rc is a command interpreter for Plan 9, an operating system from Bell Labs.",
+    "homepage": "https://github.com/rakitzis/rc",
+    "installation": "pkg install rc",
+    "usage": "After installing rc, you can use it as a command interpreter for Plan 9.",
+    "features": [
+      "Command Interpreter: Provides a command interpreter for the Plan 9 operating system.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Plan 9 for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_shell": "rc",
+      "uninstall": "pkg uninstall rc"
+    }
+  },
+  {
+    "name": "rclone",
+    "version": "1.69.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rclone is a command-line program to manage files on cloud storage.",
+    "homepage": "https://rclone.org/",
+    "installation": "pkg install rclone",
+    "usage": "After installing rclone, you can use it to manage files on various cloud storage services.",
+    "features": [
+      "Cloud Storage: Provides tools for managing files on cloud storage services.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official rclone website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cloud storage for support and discussions.",
+      "GitHub": "Search for repositories or forks of rclone to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "sync_files": "rclone sync /path/to/local remote:bucket",
+      "uninstall": "pkg uninstall rclone"
+    }
+  },
+  {
+    "name": "rcm",
+    "version": "1.3.6",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rcm is a set of tools for managing dotfiles.",
+    "homepage": "https://github.com/thoughtbot/rcm",
+    "installation": "pkg install rcm",
+    "usage": "After installing rcm, you can use it to manage your dotfiles.",
+    "features": [
+      "Dotfiles Management: Provides tools for managing dotfiles.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to dotfiles management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_dotfiles": "rcup",
+      "uninstall": "pkg uninstall rcm"
+    }
+  },
+  {
+    "name": "rcs",
+    "version": "5.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rcs (Revision Control System) is a tool for managing multiple revisions of files.",
+    "homepage": "https://www.gnu.org/software/rcs/",
+    "installation": "pkg install rcs",
+    "usage": "After installing rcs, you can use it to manage multiple revisions of files.",
+    "features": [
+      "Revision Control: Provides tools for managing multiple revisions of files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official rcs website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to revision control for support and discussions.",
+      "GitHub": "Search for repositories or forks of rcs to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "check_in_file": "ci file.txt",
+      "check_out_file": "co file.txt",
+      "uninstall": "pkg uninstall rcs"
+    }
+  },
+  {
+    "name": "rdfind",
+    "version": "1.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rdfind is a program to find duplicate files in a directory structure.",
+    "homepage": "https://github.com/pauldreik/rdfind",
+    "installation": "pkg install rdfind",
+    "usage": "After installing rdfind, you can use it to find and manage duplicate files.",
+    "features": [
+      "Duplicate Finder: Provides tools for finding duplicate files in a directory structure.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "find_duplicates": "rdfind /path/to/directory",
+      "uninstall": "pkg uninstall rdfind"
+    }
+  },
+  {
+    "name": "rdiff-backup",
+    "version": "2.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rdiff-backup is a local/remote mirroring and incremental backup tool.",
+    "homepage": "https://www.nongnu.org/rdiff-backup/",
+    "installation": "pkg install rdiff-backup",
+    "usage": "After installing rdiff-backup, you can use it to create local or remote incremental backups.",
+    "features": [
+      "Incremental Backup: Provides tools for creating local or remote incremental backups.",
+      "Mirroring: Supports mirroring of directories.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official rdiff-backup website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to backup solutions for support and discussions.",
+      "GitHub": "Search for repositories or forks of rdiff-backup to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_backup": "rdiff-backup /source/dir /backup/dir",
+      "restore_backup": "rdiff-backup -r 5D /backup/dir /restore/dir",
+      "uninstall": "pkg uninstall rdiff-backup"
+    }
+  },
+  {
+    "name": "rdiff",
+    "version": "2.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rdiff is a utility to create and apply binary diffs.",
+    "homepage": "https://github.com/rdiff-backup/rdiff",
+    "installation": "pkg install rdiff",
+    "usage": "After installing rdiff, you can use it to create and apply binary diffs.",
+    "features": [
+      "Binary Diff: Provides tools for creating and applying binary diffs.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file comparison for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_diff": "rdiff signature oldfile newfile deltafile",
+      "apply_diff": "rdiff patch oldfile deltafile newfile",
+      "uninstall": "pkg uninstall rdiff"
+    }
+  },
+  {
+    "name": "rdircd",
+    "version": "2023.02.07-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rdircd is a minimalist IRC server.",
+    "homepage": "https://github.com/username/rdircd",
+    "installation": "pkg install rdircd",
+    "usage": "After installing rdircd, you can use it to run a minimalist IRC server.",
+    "features": [
+      "IRC Server: Provides a minimalist IRC server.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to IRC servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "rdircd -c config.conf",
+      "uninstall": "pkg uninstall rdircd"
+    }
+  },
+  {
+    "name": "rdrview",
+    "version": "1:0.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rdrview is a command-line tool for extracting the main content from web pages.",
+    "homepage": "https://github.com/eafer/rdrview",
+    "installation": "pkg install rdrview",
+    "usage": "After installing rdrview, you can use it to extract and view the main content from web pages.",
+    "features": [
+      "Content Extraction: Provides tools for extracting the main content from web pages.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to web scraping for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "extract_content": "rdrview https://example.com",
+      "uninstall": "pkg uninstall rdrview"
+    }
+  },
+  {
+    "name": "re2c",
+    "version": "4.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "re2c is a tool for generating fast lexical analyzers.",
+    "homepage": "https://re2c.org/",
+    "installation": "pkg install re2c",
+    "usage": "After installing re2c, you can use it to generate fast and flexible lexical analyzers from regular expressions.",
+    "features": [
+      "Lexical Analyzer Generation: Provides tools for generating lexical analyzers from regular expressions.",
+      "High Performance: Designed for generating fast lexical analyzers.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official re2c website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to lexical analysis for support and discussions.",
+      "GitHub": "Search for repositories or forks of re2c to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_analyzer": "re2c -o lexer.c lexer.re",
+      "uninstall": "pkg uninstall re2c"
+    }
+  },
+  {
+    "name": "readline-static",
+    "version": "8.2.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "readline-static provides a static library version of the GNU Readline library, which offers command-line editing and history capabilities.",
+    "homepage": "https://tiswww.case.edu/php/chet/readline/rltop.html",
+    "installation": "pkg install readline-static",
+    "usage": "After installing readline-static, you can link it with your applications to use command-line editing and history features.",
+    "features": [
+      "Command-Line Editing: Provides command-line editing capabilities.",
+      "History: Supports command history.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Readline website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line editing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Readline to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lreadline",
+      "uninstall": "pkg uninstall readline-static"
+    }
+  },
+  {
+    "name": "readline",
+    "version": "8.2.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Readline is a library that provides line-editing and history capabilities for interactive programs with a command-line interface.",
+    "homepage": "https://tiswww.case.edu/php/chet/readline/rltop.html",
+    "installation": "pkg install readline",
+    "usage": "After installing Readline, you can use it to enhance command-line editing and history features in your applications.",
+    "features": [
+      "Command-Line Editing: Provides line-editing capabilities.",
+      "History: Supports command history.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Readline website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line editing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Readline to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_readline": "Include Readline in your command-line applications.",
+      "uninstall": "pkg uninstall readline"
+    }
+  },
+  {
+    "name": "recode-static",
+    "version": "3.7.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "recode-static provides a static library version of the GNU Recode library, which converts files between different character sets and encodings.",
+    "homepage": "https://www.gnu.org/software/recode/recode.html",
+    "installation": "pkg install recode-static",
+    "usage": "After installing recode-static, you can link it with your applications to convert files between different character sets and encodings.",
+    "features": [
+      "Character Set Conversion: Provides tools for converting files between different character sets and encodings.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Recode website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to character set conversion for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Recode to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lrecode",
+      "uninstall": "pkg uninstall recode-static"
+    }
+  },
+  {
+    "name": "recode",
+    "version": "3.7.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Recode is a library and utility that converts files between different character sets and encodings.",
+    "homepage": "https://www.gnu.org/software/recode/recode.html",
+    "installation": "pkg install recode",
+    "usage": "After installing GNU Recode, you can use it to convert files between different character sets and encodings.",
+    "features": [
+      "Character Set Conversion: Provides tools for converting files between different character sets and encodings.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Recode website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to character set conversion for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Recode to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_file": "recode latin1..utf8 input.txt",
+      "uninstall": "pkg uninstall recode"
+    }
+  },
+  {
+    "name": "recoll-python",
+    "version": "1.41.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "recoll-python is a Python binding for Recoll, a desktop search tool.",
+    "homepage": "https://www.lesbonscomptes.com/recoll/",
+    "installation": "pkg install recoll-python",
+    "usage": "After installing recoll-python, you can use it to access Recoll's desktop search functionality from Python scripts.",
+    "features": [
+      "Desktop Search: Provides Python bindings for accessing Recoll's desktop search functionality.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Recoll website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to desktop search for support and discussions.",
+      "GitHub": "Search for repositories or forks of Recoll to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_recoll_python": "Include recoll-python in your Python scripts.",
+      "uninstall": "pkg uninstall recoll-python"
+    }
+  },
+  {
+    "name": "recoll",
+    "version": "1.41.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Recoll is a desktop search tool that provides full-text search capabilities.",
+    "homepage": "https://www.lesbonscomptes.com/recoll/",
+    "installation": "pkg install recoll",
+    "usage": "After installing Recoll, you can use it to search for files and documents on your desktop.",
+    "features": [
+      "Desktop Search: Provides full-text search capabilities for files and documents.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Recoll website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to desktop search for support and discussions.",
+      "GitHub": "Search for repositories or forks of Recoll to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_files": "recoll -q 'search query'",
+      "uninstall": "pkg uninstall recoll"
+    }
+  },
+  {
+    "name": "recutils-static",
+    "version": "1.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "recutils-static provides a static library version of the GNU Recutils, a set of tools and libraries to access human-editable, text-based databases called recfiles.",
+    "homepage": "https://www.gnu.org/software/recutils/",
+    "installation": "pkg install recutils-static",
+    "usage": "After installing recutils-static, you can link it with your applications to access recfiles.",
+    "features": [
+      "Text-Based Databases: Provides tools and libraries to access human-editable, text-based databases called recfiles.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Recutils website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text-based databases for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Recutils to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lrecutils",
+      "uninstall": "pkg uninstall recutils-static"
+    }
+  },
+  {
+    "name": "recutils",
+    "version": "1.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Recutils is a set of tools and libraries to access human-editable, text-based databases called recfiles.",
+    "homepage": "https://www.gnu.org/software/recutils/",
+    "installation": "pkg install recutils",
+    "usage": "After installing GNU Recutils, you can use it to access and manage recfiles.",
+    "features": [
+      "Text-Based Databases: Provides tools and libraries to access human-editable, text-based databases called recfiles.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Recutils website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text-based databases for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Recutils to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "access_recfiles": "recsel -p Name -e 'Age > 30' people.rec",
+      "uninstall": "pkg uninstall recutils"
+    }
+  },
+  {
+    "name": "redir",
+    "version": "3.3-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "redir is a tool to redirect TCP connections.",
+    "homepage": "https://github.com/troglobit/redir",
+    "installation": "pkg install redir",
+    "usage": "After installing redir, you can use it to redirect TCP connections from one IP address and port to another.",
+    "features": [
+      "TCP Redirection: Provides tools for redirecting TCP connections.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "redirect_connection": "redir --lport=8080 --cport=80 --caddr=example.com",
+      "uninstall": "pkg uninstall redir"
+    }
+  },
+  {
+    "name": "redis",
+    "version": "7.2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Redis is an open-source, in-memory data structure store, used as a database, cache, and message broker.",
+    "homepage": "https://redis.io/",
+    "installation": "pkg install redis",
+    "usage": "After installing Redis, you can use it to store data in-memory for fast access.",
+    "features": [
+      "In-Memory Data Store: Provides an in-memory data structure store.",
+      "Database, Cache, Message Broker: Can be used as a database, cache, and message broker.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Redis website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Redis for support and discussions.",
+      "GitHub": "Search for repositories or forks of Redis to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_redis": "redis-server",
+      "uninstall": "pkg uninstall redis"
+    }
+  },
+  {
+    "name": "remind",
+    "version": "1:05.02.03",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Remind is a sophisticated calendar and alarm program.",
+    "homepage": "https://dianne.skoll.ca/projects/remind/",
+    "installation": "pkg install remind",
+    "usage": "After installing Remind, you can use it to manage your calendar and set alarms.",
+    "features": [
+      "Calendar Management: Provides tools for managing your calendar.",
+      "Alarm Program: Supports setting alarms.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Remind website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to calendar management for support and discussions.",
+      "GitHub": "Search for repositories or forks of Remind to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "set_reminder": "remind -z2 .reminders",
+      "uninstall": "pkg uninstall remind"
+    }
+  },
+  {
+    "name": "renameutils",
+    "version": "0.12.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "renameutils is a set of programs designed to make renaming files faster and less cumbersome.",
+    "homepage": "https://www.nongnu.org/renameutils/",
+    "installation": "pkg install renameutils",
+    "usage": "After installing renameutils, you can use it to rename files more efficiently.",
+    "features": [
+      "File Renaming: Provides tools for renaming files.",
+      "Efficiency: Designed to make renaming files faster and less cumbersome.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Renameutils website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file management for support and discussions.",
+      "GitHub": "Search for repositories or forks of Renameutils to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "rename_files": "qmv",
+      "uninstall": "pkg uninstall renameutils"
+    }
+  },
+  {
+    "name": "reptyr",
+    "version": "0.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "reptyr is a utility for taking an existing running program and attaching it to a new terminal.",
+    "homepage": "https://github.com/nelhage/reptyr",
+    "installation": "pkg install reptyr",
+    "usage": "After installing reptyr, you can use it to move running programs between terminals.",
+    "features": [
+      "Terminal Reattachment: Allows reattaching running programs to new terminals.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "move_program": "reptyr PID",
+      "uninstall": "pkg uninstall reptyr"
+    }
+  },
+  {
+    "name": "resolv-conf",
+    "version": "1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "resolv-conf is a utility to manage /etc/resolv.conf, the configuration file for DNS resolver libraries.",
+    "homepage": "https://github.com/glensc/resolv-conf",
+    "installation": "pkg install resolv-conf",
+    "usage": "After installing resolv-conf, you can use it to manage DNS resolver configurations.",
+    "features": [
+      "DNS Configuration: Provides tools for managing /etc/resolv.conf.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to DNS configuration for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "update_resolv_conf": "resolvconf -u",
+      "uninstall": "pkg uninstall resolv-conf"
+    }
+  },
+  {
+    "name": "restic-server",
+    "version": "0.13.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "restic-server is a backup server for restic, a fast, secure, and efficient backup program.",
+    "homepage": "https://restic.net/",
+    "installation": "pkg install restic-server",
+    "usage": "After installing restic-server, you can use it to manage backup repositories for restic clients.",
+    "features": [
+      "Backup Server: Provides a server for managing restic backup repositories.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official restic website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to backup solutions for support and discussions.",
+      "GitHub": "Search for repositories or forks of restic-server to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "rest-server --listen :8000 --path /data/backup",
+      "uninstall": "pkg uninstall restic-server"
+    }
+  },
+  {
+    "name": "restic",
+    "version": "0.17.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "restic is a fast, secure, and efficient backup program.",
+    "homepage": "https://restic.net/",
+    "installation": "pkg install restic",
+    "usage": "After installing restic, you can use it to create and manage backups.",
+    "features": [
+      "Backup Program: Provides tools for creating and managing backups.",
+      "Security: Designed for secure backups.",
+      "Efficiency: Optimized for fast and efficient backups.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official restic website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to backup solutions for support and discussions.",
+      "GitHub": "Search for repositories or forks of restic to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_backup": "restic backup /path/to/data",
+      "restore_backup": "restic restore latest --target /restore/path",
+      "uninstall": "pkg uninstall restic"
+    }
+  },
+  {
+    "name": "restish",
+    "version": "0.20.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "restish is a CLI tool for interacting with REST APIs.",
+    "homepage": "https://rest.sh/",
+    "installation": "pkg install restish",
+    "usage": "After installing restish, you can use it to interact with REST APIs from the command line.",
+    "features": [
+      "REST API Interaction: Provides a CLI tool for interacting with REST APIs.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official restish website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to REST APIs for support and discussions.",
+      "GitHub": "Search for repositories or forks of restish to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "get_request": "restish get https://api.example.com/resource",
+      "post_request": "restish post https://api.example.com/resource --data '{\"key\":\"value\"}'",
+      "uninstall": "pkg uninstall restish"
+    }
+  },
+  {
+    "name": "rgbds",
+    "version": "0.9.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rgbds is a free assembler/linker package for the Game Boy and Game Boy Color.",
+    "homepage": "https://github.com/gbdev/rgbds",
+    "installation": "pkg install rgbds",
+    "usage": "After installing rgbds, you can use it to develop software for the Game Boy and Game Boy Color.",
+    "features": [
+      "Game Boy Development: Provides tools for developing software for the Game Boy and Game Boy Color.",
+      "Assembler/Linker: Includes an assembler and linker package.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Game Boy development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "assemble_code": "rgbasm -o output.o input.asm",
+      "link_code": "rgblink -o output.gb output.o",
+      "uninstall": "pkg uninstall rgbds"
+    }
+  },
+  {
+    "name": "rhash-static",
+    "version": "1.4.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rhash-static provides a static library version of RHash, a utility for computing and verifying hash sums.",
+    "homepage": "https://github.com/rhash/RHash",
+    "installation": "pkg install rhash-static",
+    "usage": "After installing rhash-static, you can link it with your applications to compute and verify hash sums.",
+    "features": [
+      "Hash Sums: Provides tools for computing and verifying hash sums.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to hash functions for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lrhash",
+      "uninstall": "pkg uninstall rhash-static"
+    }
+  },
+  {
+    "name": "rhash",
+    "version": "1.4.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "RHash is a utility for computing and verifying hash sums.",
+    "homepage": "https://github.com/rhash/RHash",
+    "installation": "pkg install rhash",
+    "usage": "After installing RHash, you can use it to compute and verify hash sums for files.",
+    "features": [
+      "Hash Sums: Provides tools for computing and verifying hash sums.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to hash functions for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compute_hash": "rhash file.txt",
+      "verify_hash": "rhash -c file.txt.hash",
+      "uninstall": "pkg uninstall rhash"
+    }
+  },
+  {
+    "name": "rig",
+    "version": "1.11-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rig is a utility to create random identities.",
+    "homepage": "https://github.com/saulpw/rig",
+    "installation": "pkg install rig",
+    "usage": "After installing rig, you can use it to generate random identities.",
+    "features": [
+      "Random Identities: Provides tools for generating random identities.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to random identity generation for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_identity": "rig",
+      "uninstall": "pkg uninstall rig"
+    }
+  },
+  {
+    "name": "rinetd",
+    "version": "0.73-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rinetd is an internet redirection server.",
+    "homepage": "https://github.com/samhocevar/rinetd",
+    "installation": "pkg install rinetd",
+    "usage": "After installing rinetd, you can use it to redirect TCP connections from one IP address and port to another.",
+    "features": [
+      "Internet Redirection: Provides tools for redirecting internet connections.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "redirect_connection": "rinetd -c /etc/rinetd.conf",
+      "uninstall": "pkg uninstall rinetd"
+    }
+  },
+  {
+    "name": "rip2",
+    "version": "0.9.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rip2 is a utility for reversing IP addresses.",
+    "homepage": "https://github.com/username/rip2",
+    "installation": "pkg install rip2",
+    "usage": "After installing rip2, you can use it to reverse IP addresses.",
+    "features": [
+      "IP Reversal: Provides tools for reversing IP addresses.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "reverse_ip": "rip2 192.0.2.1",
+      "uninstall": "pkg uninstall rip2"
+    }
+  },
+  {
+    "name": "ripgrep-all",
+    "version": "1.0.0-alpha.5-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ripgrep-all is a utility that recursively searches directories for a regex pattern, including searching in PDFs and other formats.",
+    "homepage": "https://github.com/phiresky/ripgrep-all",
+    "installation": "pkg install ripgrep-all",
+    "usage": "After installing ripgrep-all, you can use it to search directories for regex patterns, including in PDFs and other formats.",
+    "features": [
+      "Recursive Search: Provides tools for recursively searching directories for regex patterns.",
+      "Extended Format Support: Supports searching in PDFs and other formats.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to search utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_pattern": "rga 'pattern' /path/to/search",
+      "uninstall": "pkg uninstall ripgrep-all"
+    }
+  },
+  {
+    "name": "ripgrep",
+    "version": "14.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern.",
+    "homepage": "https://github.com/BurntSushi/ripgrep",
+    "installation": "pkg install ripgrep",
+    "usage": "After installing ripgrep, you can use it to search directories for regex patterns.",
+    "features": [
+      "Recursive Search: Provides tools for recursively searching directories for regex patterns.",
+      "High Performance: Designed for fast and efficient searches.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to search utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_pattern": "rg 'pattern' /path/to/search",
+      "uninstall": "pkg uninstall ripgrep"
+    }
+  },
+  {
+    "name": "ripsecrets",
+    "version": "0.1.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ripsecrets is a tool to find secrets in files using pattern matching.",
+    "homepage": "https://github.com/codespell-project/ripsecrets",
+    "installation": "pkg install ripsecrets",
+    "usage": "After installing ripsecrets, you can use it to scan files for secrets such as API keys and passwords.",
+    "features": [
+      "Secret Detection: Provides tools for finding secrets in files.",
+      "Pattern Matching: Uses pattern matching to detect secrets.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to security tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "scan_files": "ripsecrets /path/to/files",
+      "uninstall": "pkg uninstall ripsecrets"
+    }
+  },
+  {
+    "name": "rirc",
+    "version": "0.1.7-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rirc is a terminal-based IRC client.",
+    "homepage": "https://rcr.io/",
+    "installation": "pkg install rirc",
+    "usage": "After installing rirc, you can use it to connect to IRC servers and chat in channels from the terminal.",
+    "features": [
+      "IRC Client: Provides a terminal-based IRC client.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official rirc website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to IRC clients for support and discussions.",
+      "GitHub": "Search for repositories or forks of rirc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "connect_irc": "rirc -c irc.example.com",
+      "uninstall": "pkg uninstall rirc"
+    }
+  },
+  {
+    "name": "rizin",
+    "version": "0.7.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rizin is a free and open-source reverse engineering framework.",
+    "homepage": "https://rizin.re/",
+    "installation": "pkg install rizin",
+    "usage": "After installing rizin, you can use it to analyze binaries and perform reverse engineering tasks.",
+    "features": [
+      "Reverse Engineering: Provides tools for analyzing binaries and performing reverse engineering tasks.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official rizin website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to reverse engineering for support and discussions.",
+      "GitHub": "Search for repositories or forks of rizin to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "analyze_binary": "rizin -A binaryfile",
+      "uninstall": "pkg uninstall rizin"
+    }
+  },
+  {
+    "name": "rlwrap",
+    "version": "0.46.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rlwrap is a readline wrapper that adds readline support to command-line applications.",
+    "homepage": "https://github.com/hanslub42/rlwrap",
+    "installation": "pkg install rlwrap",
+    "usage": "After installing rlwrap, you can use it to add readline support to command-line applications that lack it.",
+    "features": [
+      "Readline Wrapper: Provides tools for adding readline support to command-line applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "wrap_command": "rlwrap your_command",
+      "uninstall": "pkg uninstall rlwrap"
+    }
+  },
+  {
+    "name": "rnr",
+    "version": "0.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rnr is a tool for renaming files using a text editor.",
+    "homepage": "https://github.com/andreyorst/rnr",
+    "installation": "pkg install rnr",
+    "usage": "After installing rnr, you can use it to rename files by editing their names in a text editor.",
+    "features": [
+      "File Renaming: Provides tools for renaming files using a text editor.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "rename_files": "rnr /path/to/files",
+      "uninstall": "pkg uninstall rnr"
+    }
+  },
+  {
+    "name": "robin-map",
+    "version": "1.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "robin-map is a C++ implementation of a fast, memory-efficient hash map and hash set.",
+    "homepage": "https://github.com/Tessil/robin-map",
+    "installation": "pkg install robin-map",
+    "usage": "After installing robin-map, you can use it to implement fast, memory-efficient hash maps and hash sets in C++.",
+    "features": [
+      "Hash Map and Hash Set: Provides a fast, memory-efficient implementation of hash maps and hash sets.",
+      "C++ Implementation: Written in C++.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C++ development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include robin-map in your C++ projects.",
+      "uninstall": "pkg uninstall robin-map"
+    }
+  },
+  {
+    "name": "robotfindskitten",
+    "version": "2022.05.21",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "robotfindskitten is a Zen simulation in which you play a robot searching for a kitten.",
+    "homepage": "https://robotfindskitten.org/",
+    "installation": "pkg install robotfindskitten",
+    "usage": "After installing robotfindskitten, you can play the game by running the command.",
+    "features": [
+      "Zen Simulation: Provides a Zen simulation game.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official robotfindskitten website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Zen simulations for support and discussions.",
+      "GitHub": "Search for repositories or forks of robotfindskitten to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_game": "robotfindskitten",
+      "uninstall": "pkg uninstall robotfindskitten"
+    }
+  },
+  {
+    "name": "root-repo",
+    "version": "2.4-3",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "root-repo is a package that provides a repository configuration for the ROOT data analysis framework.",
+    "homepage": "https://root.cern/",
+    "installation": "pkg install root-repo",
+    "usage": "After installing root-repo, you can use it to configure the repository for the ROOT data analysis framework.",
+    "features": [
+      "Repository Configuration: Provides a repository configuration for the ROOT data analysis framework.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official ROOT website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data analysis for support and discussions.",
+      "GitHub": "Search for repositories or forks of ROOT to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "configure_repo": "root-repo-configure",
+      "uninstall": "pkg uninstall root-repo"
+    }
+  },
+  {
+    "name": "roqet",
+    "version": "0.9.33-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "roqet is a command-line utility for querying RDF data using SPARQL.",
+    "homepage": "https://librdf.org/rasqal/roqet.html",
+    "installation": "pkg install roqet",
+    "usage": "After installing roqet, you can use it to query RDF data using SPARQL.",
+    "features": [
+      "RDF Querying: Provides tools for querying RDF data using SPARQL.",
+      "Command-Line Utility: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official roqet website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to RDF and SPARQL for support and discussions.",
+      "GitHub": "Search for repositories or forks of roqet to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "query_rdf": "roqet -q 'SELECT * WHERE { ?s ?p ?o }' -r xml -i data.rdf",
+      "uninstall": "pkg uninstall roqet"
+    }
+  },
+  {
+    "name": "rp-pppoe",
+    "version": "4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rp-pppoe is a PPPoE client and server suite for Linux.",
+    "homepage": "https://www.roaringpenguin.com/products/pppoe",
+    "installation": "pkg install rp-pppoe",
+    "usage": "After installing rp-pppoe, you can use it to set up PPPoE connections.",
+    "features": [
+      "PPPoE Client and Server: Provides a suite for setting up PPPoE connections.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official rp-pppoe website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network configuration for support and discussions.",
+      "GitHub": "Search for repositories or forks of rp-pppoe to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_pppoe": "pppoe-start",
+      "uninstall": "pkg uninstall rp-pppoe"
+    }
+  },
+  {
+    "name": "rpm",
+    "version": "4.18.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "RPM Package Manager (RPM) is a powerful package management system.",
+    "homepage": "http://rpm.org/",
+    "installation": "pkg install rpm",
+    "usage": "After installing rpm, you can use it to manage packages on your system.",
+    "features": [
+      "Package Management: Provides tools for managing packages.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official RPM website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to package management for support and discussions.",
+      "GitHub": "Search for repositories or forks of RPM to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_package": "rpm -i package.rpm",
+      "uninstall_package": "rpm -e package",
+      "uninstall": "pkg uninstall rpm"
+    }
+  },
+  {
+    "name": "rq",
+    "version": "1.0.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rq is a tool for performing record-oriented processing on streams of JSON data.",
+    "homepage": "https://github.com/dflemstr/rq",
+    "installation": "pkg install rq",
+    "usage": "After installing rq, you can use it to process streams of JSON data.",
+    "features": [
+      "JSON Processing: Provides tools for performing record-oriented processing on streams of JSON data.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to JSON processing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_json": "cat data.json | rq '.[] | {name: .name, age: .age}'",
+      "uninstall": "pkg uninstall rq"
+    }
+  },
+  {
+    "name": "rsgain",
+    "version": "3.5.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rsgain is a ReplayGain 2.0 scanner and tagger for audio files.",
+    "homepage": "https://github.com/complexlogic/rsgain",
+    "installation": "pkg install rsgain",
+    "usage": "After installing rsgain, you can use it to scan and tag audio files with ReplayGain 2.0 information.",
+    "features": [
+      "ReplayGain 2.0: Provides tools for scanning and tagging audio files with ReplayGain 2.0 information.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "scan_audio": "rsgain scan /path/to/audio/files",
+      "uninstall": "pkg uninstall rsgain"
+    }
+  },
+  {
+    "name": "ruff",
+    "version": "0.9.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ruff is a fast, lightweight, and extensible code linter for Python.",
+    "homepage": "https://github.com/charliermarsh/ruff",
+    "installation": "pkg install ruff",
+    "usage": "After installing ruff, you can use it to lint Python code for potential issues.",
+    "features": [
+      "Code Linting: Provides tools for linting Python code.",
+      "Fast and Lightweight: Designed for speed and efficiency.",
+      "Extensible: Supports plugins and custom rules.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Python development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "lint_code": "ruff check /path/to/code",
+      "uninstall": "pkg uninstall ruff"
+    }
+  },
+  {
+    "name": "runit-static",
+    "version": "2.1.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "runit-static provides a static binary version of runit, a UNIX init scheme with service supervision.",
+    "homepage": "http://smarden.org/runit/",
+    "installation": "pkg install runit-static",
+    "usage": "After installing runit-static, you can use it to supervise services with a static binary.",
+    "features": [
+      "Service Supervision: Provides tools for supervising services.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official runit website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to service supervision for support and discussions.",
+      "GitHub": "Search for repositories or forks of runit to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "supervise_service": "runit /path/to/service",
+      "uninstall": "pkg uninstall runit-static"
+    }
+  },
+  {
+    "name": "runit",
+    "version": "2.1.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "runit is a UNIX init scheme with service supervision.",
+    "homepage": "http://smarden.org/runit/",
+    "installation": "pkg install runit",
+    "usage": "After installing runit, you can use it to supervise services and manage the init process.",
+    "features": [
+      "Service Supervision: Provides tools for supervising services.",
+      "Init Scheme: Can be used as a replacement for the init system.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official runit website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to service supervision for support and discussions.",
+      "GitHub": "Search for repositories or forks of runit to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "supervise_service": "runit /path/to/service",
+      "uninstall": "pkg uninstall runit"
+    }
+  },
+  {
+    "name": "rush",
+    "version": "0.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rush is a cross-platform shell designed for task automation.",
+    "homepage": "https://rush.sh/",
+    "installation": "pkg install rush",
+    "usage": "After installing rush, you can use it to automate tasks and write scripts.",
+    "features": [
+      "Task Automation: Provides tools for automating tasks.",
+      "Cross-Platform Shell: Designed for use on various operating systems.",
+      "Scripting: Supports writing and running scripts."
+    ],
+    "additional_resources": "You can find more information and documentation on the official rush website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell scripting for support and discussions.",
+      "GitHub": "Search for repositories or forks of rush to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "rush /path/to/script.rush",
+      "uninstall": "pkg uninstall rush"
+    }
+  },
+  {
+    "name": "rust-analyzer",
+    "version": "20250120",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rust-analyzer is a modular compiler frontend for the Rust programming language.",
+    "homepage": "https://rust-analyzer.github.io/",
+    "installation": "pkg install rust-analyzer",
+    "usage": "After installing rust-analyzer, you can use it as a language server for Rust development.",
+    "features": [
+      "Language Server: Provides a language server for Rust development.",
+      "Modular Compiler Frontend: Designed to be modular and extensible.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official rust-analyzer website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of rust-analyzer to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "rust-analyzer",
+      "uninstall": "pkg uninstall rust-analyzer"
+    }
+  },
+  {
+    "name": "rust-bindgen",
+    "version": "0.71.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rust-bindgen is a tool to generate Rust bindings from C and C++ headers.",
+    "homepage": "https://rust-lang.github.io/rust-bindgen/",
+    "installation": "pkg install rust-bindgen",
+    "usage": "After installing rust-bindgen, you can use it to generate Rust bindings for C and C++ code.",
+    "features": [
+      "Binding Generation: Provides tools for generating Rust bindings from C and C++ headers.",
+      "Cross-Platform: Works on various operating systems.",
+      "Extensible: Supports custom options and configurations."
+    ],
+    "additional_resources": "You can find more information and documentation on the official rust-bindgen website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of rust-bindgen to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_bindings": "bindgen wrapper.h -o bindings.rs",
+      "uninstall": "pkg uninstall rust-bindgen"
+    }
+  },
+  {
+    "name": "rust-docs",
+    "version": "1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rust-docs provides the official documentation for the Rust programming language.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rust-docs",
+    "usage": "After installing rust-docs, you can access the official Rust documentation offline.",
+    "features": [
+      "Official Documentation: Provides the official documentation for the Rust programming language.",
+      "Offline Access: Allows you to access the documentation without an internet connection.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "access_docs": "rustup docs",
+      "uninstall": "pkg uninstall rust-docs"
+    }
+  },
+  {
+    "name": "rust-src",
+    "version": "1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rust-src provides the source code for the Rust standard library.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rust-src",
+    "usage": "After installing rust-src, you can access the source code for the Rust standard library.",
+    "features": [
+      "Source Code: Provides the source code for the Rust standard library.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "access_src": "rustup component add rust-src",
+      "uninstall": "pkg uninstall rust-src"
+    }
+  },
+  {
+    "name": "rust-std-aarch64-linux-android",
+    "version": "1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rust-std-aarch64-linux-android provides the standard library for Rust on the aarch64-linux-android target.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rust-std-aarch64-linux-android",
+    "usage": "After installing rust-std-aarch64-linux-android, you can use the Rust standard library for the aarch64-linux-android target.",
+    "features": [
+      "Standard Library: Provides the Rust standard library for the aarch64-linux-android target.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_target": "rustup target add aarch64-linux-android",
+      "uninstall": "pkg uninstall rust-std-aarch64-linux-android"
+    }
+  },
+  {
+    "name": "rust-std-armv7-linux-androideabi",
+    "version": "1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rust-std-armv7-linux-androideabi provides the standard library for Rust on the armv7-linux-androideabi target.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rust-std-armv7-linux-androideabi",
+    "usage": "After installing rust-std-armv7-linux-androideabi, you can use the Rust standard library for the armv7-linux-androideabi target.",
+    "features": [
+      "Standard Library: Provides the Rust standard library for the armv7-linux-androideabi target.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_target": "rustup target add armv7-linux-androideabi",
+      "uninstall": "pkg uninstall rust-std-armv7-linux-androideabi"
+    }
+  },
+  {
+    "name": "rust-std-i686-linux-android",
+    "version": "1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rust-std-i686-linux-android provides the standard library for Rust on the i686-linux-android target.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rust-std-i686-linux-android",
+    "usage": "After installing rust-std-i686-linux-android, you can use the Rust standard library for the i686-linux-android target.",
+    "features": [
+      "Standard Library: Provides the Rust standard library for the i686-linux-android target.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_target": "rustup target add i686-linux-android",
+      "uninstall": "pkg uninstall rust-std-i686-linux-android"
+    }
+  },
+  {
+    "name": "rust-std-wasm32-unknown-unknown",
+    "version": "1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rust-std-wasm32-unknown-unknown provides the standard library for Rust on the wasm32-unknown-unknown target.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rust-std-wasm32-unknown-unknown",
+    "usage": "After installing rust-std-wasm32-unknown-unknown, you can use the Rust standard library for the wasm32-unknown-unknown target.",
+    "features": [
+      "Standard Library: Provides the Rust standard library for the wasm32-unknown-unknown target.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_target": "rustup target add wasm32-unknown-unknown",
+      "uninstall": "pkg uninstall rust-std-wasm32-unknown-unknown"
+    }
+  },
+  {
+    "name": "rust-std-wasm32-wasip1",
+    "version": "1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rust-std-wasm32-wasip1 provides the standard library for Rust on the wasm32-wasip1 target.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rust-std-wasm32-wasip1",
+    "usage": "After installing rust-std-wasm32-wasip1, you can use the Rust standard library for the wasm32-wasip1 target.",
+    "features": [
+      "Standard Library: Provides the Rust standard library for the wasm32-wasip1 target.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_target": "rustup target add wasm32-wasip1",
+      "uninstall": "pkg uninstall rust-std-wasm32-wasip1"
+    }
+  },
+  {
+    "name": "rust-std-wasm32-wasip2",
+    "version": "1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rust-std-wasm32-wasip2 provides the standard library for Rust on the wasm32-wasip2 target.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rust-std-wasm32-wasip2",
+    "usage": "After installing rust-std-wasm32-wasip2, you can use the Rust standard library for the wasm32-wasip2 target.",
+    "features": [
+      "Standard Library: Provides the Rust standard library for the wasm32-wasip2 target.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_target": "rustup target add wasm32-wasip2",
+      "uninstall": "pkg uninstall rust-std-wasm32-wasip2"
+    }
+  },
+  {
+    "name": "rust-std-x86-64-linux-android",
+    "version": "1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rust-std-x86-64-linux-android provides the standard library for Rust on the x86_64-linux-android target.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rust-std-x86-64-linux-android",
+    "usage": "After installing rust-std-x86-64-linux-android, you can use the Rust standard library for the x86_64-linux-android target.",
+    "features": [
+      "Standard Library: Provides the Rust standard library for the x86_64-linux-android target.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_target": "rustup target add x86_64-linux-android",
+      "uninstall": "pkg uninstall rust-std-x86-64-linux-android"
+    }
+  },
+  {
+    "name": "rust",
+    "version": "1.84.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Rust is a programming language that empowers everyone to build reliable and efficient software.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rust",
+    "usage": "After installing Rust, you can use it to develop applications using the Rust programming language.",
+    "features": [
+      "Programming Language: Provides a programming language designed for reliability and efficiency.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open Source: Available as open source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "rustc script.rs",
+      "start_repl": "rustc --explain",
+      "uninstall": "pkg uninstall rust"
+    }
+  },
+  {
+    "name": "rustc-dev",
+    "version": "1.84.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rustc-dev provides the development components for the Rust compiler.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rustc-dev",
+    "usage": "After installing rustc-dev, you can use the development components for building and modifying the Rust compiler.",
+    "features": [
+      "Compiler Development: Provides tools for developing the Rust compiler.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open Source: Available as open source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "build_compiler": "rustc-dev build",
+      "uninstall": "pkg uninstall rustc-dev"
+    }
+  },
+  {
+    "name": "rustc-src",
+    "version": "1.84.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rustc-src provides the source code for the Rust compiler.",
+    "homepage": "https://www.rust-lang.org/",
+    "installation": "pkg install rustc-src",
+    "usage": "After installing rustc-src, you can access the source code for the Rust compiler.",
+    "features": [
+      "Source Code: Provides the source code for the Rust compiler.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open Source: Available as open source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rust website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Rust development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rust to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "access_src": "rustup component add rustc-src",
+      "uninstall": "pkg uninstall rustc-src"
+    }
+  },
+  {
+    "name": "rustscan",
+    "version": "2.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rustscan is a modern port scanner built in Rust.",
+    "homepage": "https://github.com/RustScan/RustScan",
+    "installation": "pkg install rustscan",
+    "usage": "After installing rustscan, you can use it to scan ports on a network.",
+    "features": [
+      "Port Scanner: Provides tools for scanning ports on a network.",
+      "Built in Rust: Utilizes the Rust programming language for performance and safety.",
+      "Cross-Platform: Works on various operating systems.",
+      "Modern Interface: Designed with a modern and user-friendly interface."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network security for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "scan_ports": "rustscan -a 192.168.1.1",
+      "uninstall": "pkg uninstall rustscan"
+    }
+  },
+  {
+    "name": "rw",
+    "version": "1.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rw is a tool for reading and writing files in various formats.",
+    "homepage": "https://github.com/username/rw",
+    "installation": "pkg install rw",
+    "usage": "After installing rw, you can use it to read and write files in various formats.",
+    "features": [
+      "File Operations: Provides tools for reading and writing files.",
+      "Supports Various Formats: Capable of handling multiple file formats.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "read_file": "rw read /path/to/file",
+      "write_file": "rw write /path/to/file",
+      "uninstall": "pkg uninstall rw"
+    }
+  },
+  {
+    "name": "rxfetch",
+    "version": "2023.01.07",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rxfetch is a system information tool for displaying system information in a visually appealing way.",
+    "homepage": "https://github.com/username/rxfetch",
+    "installation": "pkg install rxfetch",
+    "usage": "After installing rxfetch, you can use it to display system information in the terminal.",
+    "features": [
+      "System Information: Provides tools for displaying system information.",
+      "Visually Appealing: Designed to present information in a visually appealing way.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to system information tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "display_info": "rxfetch",
+      "uninstall": "pkg uninstall rxfetch"
+    }
+  }
+]

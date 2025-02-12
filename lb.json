@@ -1,0 +1,1413 @@
+[
+  {
+    "name": "libarchive",
+    "version": "3.7.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libarchive is a library for reading and writing streaming archives, including tar, cpio, pax, zip, and more.",
+    "homepage": "https://www.libarchive.org/",
+    "installation": "pkg install libarchive",
+    "usage": "After installing libarchive, you can use it to handle various archive formats in your applications.",
+    "features": [
+      "Archive Handling: Provides tools for reading and writing various archive formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for archive handling tasks.",
+      "Integration: Can be integrated into applications requiring archive handling support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libarchive documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to archive handling and Libarchive for support and discussions.",
+      "GitHub": "Visit the Libarchive GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libarchive": "Not applicable",
+      "uninstall": "pkg uninstall libarchive"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libarrow-cpp",
+    "version": "19.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libarrow-cpp is a C++ library for Apache Arrow, a cross-language development platform for in-memory data.",
+    "homepage": "https://arrow.apache.org/",
+    "installation": "pkg install libarrow-cpp",
+    "usage": "After installing libarrow-cpp, you can use it to work with in-memory data using Apache Arrow in your applications.",
+    "features": [
+      "In-Memory Data: Provides tools for working with in-memory data using Apache Arrow.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for in-memory data tasks.",
+      "Integration: Can be integrated into applications requiring in-memory data processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libarrow-cpp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to in-memory data processing and Libarrow-cpp for support and discussions.",
+      "GitHub": "Visit the Libarrow-cpp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libarrow_cpp": "Not applicable",
+      "uninstall": "pkg uninstall libarrow-cpp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libasio",
+    "version": "1.24.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Libasio is a cross-platform C++ library for network and low-level I/O programming.",
+    "homepage": "https://think-async.com/Asio/",
+    "installation": "pkg install libasio",
+    "usage": "After installing libasio, you can use it to perform network and low-level I/O programming in your applications.",
+    "features": [
+      "Network Programming: Provides tools for network and low-level I/O programming.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for network and I/O tasks.",
+      "Integration: Can be integrated into applications requiring network and I/O capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libasio documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network programming and Libasio for support and discussions.",
+      "GitHub": "Visit the Libasio GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libasio": "Not applicable",
+      "uninstall": "pkg uninstall libasio"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libasm-static",
+    "version": "0.192",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libasm is a library for disassembling x86/x86-64 binaries. This is the statically linked version.",
+    "homepage": "https://github.com/libasm/libasm",
+    "installation": "pkg install libasm-static",
+    "usage": "After installing libasm-static, you can use it to disassemble x86/x86-64 binaries.",
+    "features": [
+      "Disassembly: Provides tools for disassembling x86/x86-64 binaries.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for disassembly tasks.",
+      "Integration: Can be integrated into applications requiring disassembly support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libasm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disassembly and Libasm for support and discussions.",
+      "GitHub": "Visit the Libasm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libasm": "Not applicable",
+      "uninstall": "pkg uninstall libasm-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libasm",
+    "version": "0.192",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libasm is a library for disassembling x86/x86-64 binaries.",
+    "homepage": "https://github.com/libasm/libasm",
+    "installation": "pkg install libasm",
+    "usage": "After installing libasm, you can use it to disassemble x86/x86-64 binaries.",
+    "features": [
+      "Disassembly: Provides tools for disassembling x86/x86-64 binaries.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for disassembly tasks.",
+      "Integration: Can be integrated into applications requiring disassembly support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libasm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disassembly and Libasm for support and discussions.",
+      "GitHub": "Visit the Libasm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libasm": "Not applicable",
+      "uninstall": "pkg uninstall libasm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libass-static",
+    "version": "0.17.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libass is a portable library for rendering SSA/ASS subtitles. This is the statically linked version.",
+    "homepage": "https://github.com/libass/libass",
+    "installation": "pkg install libass-static",
+    "usage": "After installing libass-static, you can use it to render SSA/ASS subtitles in your applications.",
+    "features": [
+      "Subtitle Rendering: Provides tools for rendering SSA/ASS subtitles.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for subtitle rendering tasks.",
+      "Integration: Can be integrated into applications requiring subtitle rendering support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libass documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to subtitle rendering and Libass for support and discussions.",
+      "GitHub": "Visit the Libass GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libass": "Not applicable",
+      "uninstall": "pkg uninstall libass-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libass",
+    "version": "0.17.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libass is a portable library for rendering SSA/ASS subtitles.",
+    "homepage": "https://github.com/libass/libass",
+    "installation": "pkg install libass",
+    "usage": "After installing libass, you can use it to render SSA/ASS subtitles in your applications.",
+    "features": [
+      "Subtitle Rendering: Provides tools for rendering SSA/ASS subtitles.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for subtitle rendering tasks.",
+      "Integration: Can be integrated into applications requiring subtitle rendering support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libass documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to subtitle rendering and Libass for support and discussions.",
+      "GitHub": "Visit the Libass GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libass": "Not applicable",
+      "uninstall": "pkg uninstall libass"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libassuan-static",
+    "version": "3.0.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libassuan is a library that allows to build security protocols. This is the statically linked version.",
+    "homepage": "https://www.gnupg.org/related_software/libassuan/",
+    "installation": "pkg install libassuan-static",
+    "usage": "After installing libassuan-static, you can use it to build security protocols in your applications.",
+    "features": [
+      "Security Protocols: Provides tools for building security protocols.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for security protocol tasks.",
+      "Integration: Can be integrated into applications requiring security protocol support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libassuan documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to security protocols and Libassuan for support and discussions.",
+      "GitHub": "Visit the Libassuan GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libassuan": "Not applicable",
+      "uninstall": "pkg uninstall libassuan-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libassuan",
+    "version": "3.0.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libassuan is a library that allows to build security protocols.",
+    "homepage": "https://www.gnupg.org/related_software/libassuan/",
+    "installation": "pkg install libassuan",
+    "usage": "After installing libassuan, you can use it to build security protocols in your applications.",
+    "features": [
+      "Security Protocols: Provides tools for building security protocols.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for security protocol tasks.",
+      "Integration: Can be integrated into applications requiring security protocol support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libassuan documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to security protocols and Libassuan for support and discussions.",
+      "GitHub": "Visit the Libassuan GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libassuan": "Not applicable",
+      "uninstall": "pkg uninstall libassuan"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libatomic-ops-static",
+    "version": "7.8.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libatomic-ops is a library for atomic memory operations. This is the statically linked version.",
+    "homepage": "https://github.com/ivmai/libatomic_ops",
+    "installation": "pkg install libatomic-ops-static",
+    "usage": "After installing libatomic-ops-static, you can use it to perform atomic memory operations in your applications.",
+    "features": [
+      "Atomic Operations: Provides tools for atomic memory operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for atomic operations.",
+      "Integration: Can be integrated into applications requiring atomic memory operations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libatomic-ops documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to atomic operations and Libatomic-ops for support and discussions.",
+      "GitHub": "Visit the Libatomic-ops GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libatomic_ops": "Not applicable",
+      "uninstall": "pkg uninstall libatomic-ops-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libatomic-ops",
+    "version": "7.8.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libatomic-ops is a library for atomic memory operations.",
+    "homepage": "https://github.com/ivmai/libatomic_ops",
+    "installation": "pkg install libatomic-ops",
+    "usage": "After installing libatomic-ops, you can use it to perform atomic memory operations in your applications.",
+    "features": [
+      "Atomic Operations: Provides tools for atomic memory operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for atomic operations.",
+      "Integration: Can be integrated into applications requiring atomic memory operations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libatomic-ops documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to atomic operations and Libatomic-ops for support and discussions.",
+      "GitHub": "Visit the Libatomic-ops GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libatomic_ops": "Not applicable",
+      "uninstall": "pkg uninstall libatomic-ops"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libbcprov-java",
+    "version": "1.80",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Libbcprov-java is a library providing cryptographic algorithms for Java.",
+    "homepage": "https://www.bouncycastle.org/",
+    "installation": "pkg install libbcprov-java",
+    "usage": "After installing libbcprov-java, you can use it to implement cryptographic algorithms in your Java applications.",
+    "features": [
+      "Cryptographic Algorithms: Provides tools for implementing cryptographic algorithms in Java.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into Java applications requiring cryptographic support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Bouncy Castle documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Bouncy Castle for support and discussions.",
+      "GitHub": "Visit the Bouncy Castle GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libbcprov_java": "Not applicable",
+      "uninstall": "pkg uninstall libbcprov-java"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libblkid",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libblkid is a library to handle block device identification.",
+    "homepage": "https://www.kernel.org/",
+    "installation": "pkg install libblkid",
+    "usage": "After installing libblkid, you can use it to identify block devices in your applications.",
+    "features": [
+      "Block Device Identification: Provides tools for identifying block devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for block device identification tasks.",
+      "Integration: Can be integrated into applications requiring block device identification.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libblkid documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to block device management and Libblkid for support and discussions.",
+      "GitHub": "Visit the Libblkid GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "identify_block_device": "blkid /dev/sda1",
+      "uninstall": "pkg uninstall libblkid"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libblocksruntime",
+    "version": "1:6.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libblocksruntime is a library that provides runtime support for blocks in C, C++, and Objective-C.",
+    "homepage": "https://github.com/mackyle/blocksruntime",
+    "installation": "pkg install libblocksruntime",
+    "usage": "After installing libblocksruntime, you can use it to enable blocks in your C, C++, and Objective-C applications.",
+    "features": [
+      "Blocks Runtime: Provides runtime support for blocks in C, C++, and Objective-C.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for using blocks.",
+      "Integration: Can be integrated into applications requiring blocks support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libblocksruntime documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to blocks and Libblocksruntime for support and discussions.",
+      "GitHub": "Visit the Libblocksruntime GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libblocksruntime": "Not applicable",
+      "uninstall": "pkg uninstall libblocksruntime"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libblosc-static",
+    "version": "1.21.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libblosc is a high performance compressor optimized for binary data. This is the statically linked version.",
+    "homepage": "https://blosc.org/",
+    "installation": "pkg install libblosc-static",
+    "usage": "After installing libblosc-static, you can use it to compress and decompress binary data in your applications.",
+    "features": [
+      "Data Compression: Provides tools for compressing and decompressing binary data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for data compression tasks.",
+      "Integration: Can be integrated into applications requiring data compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libblosc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data compression and Libblosc for support and discussions.",
+      "GitHub": "Visit the Libblosc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libblosc": "Not applicable",
+      "uninstall": "pkg uninstall libblosc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libblosc",
+    "version": "1.21.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libblosc is a high performance compressor optimized for binary data.",
+    "homepage": "https://blosc.org/",
+    "installation": "pkg install libblosc",
+    "usage": "After installing libblosc, you can use it to compress and decompress binary data in your applications.",
+    "features": [
+      "Data Compression: Provides tools for compressing and decompressing binary data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for data compression tasks.",
+      "Integration: Can be integrated into applications requiring data compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libblosc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data compression and Libblosc for support and discussions.",
+      "GitHub": "Visit the Libblosc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libblosc": "Not applicable",
+      "uninstall": "pkg uninstall libblosc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libbluray-static",
+    "version": "1.3.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libbluray is an open-source library designed for Blu-Ray Discs playback for media players. This is the statically linked version.",
+    "homepage": "https://www.videolan.org/developers/libbluray.html",
+    "installation": "pkg install libbluray-static",
+    "usage": "After installing libbluray-static, you can use it to enable Blu-Ray Discs playback in your media players.",
+    "features": [
+      "Blu-Ray Playback: Provides tools for Blu-Ray Discs playback.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Blu-Ray playback tasks.",
+      "Integration: Can be integrated into media players requiring Blu-Ray playback.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libbluray documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Blu-Ray playback and Libbluray for support and discussions.",
+      "GitHub": "Visit the Libbluray GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libbluray": "Not applicable",
+      "uninstall": "pkg uninstall libbluray-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libbluray-utils",
+    "version": "1.3.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libbluray-utils provides utilities for working with Blu-Ray Discs using libbluray.",
+    "homepage": "https://www.videolan.org/developers/libbluray.html",
+    "installation": "pkg install libbluray-utils",
+    "usage": "After installing libbluray-utils, you can use the provided utilities to work with Blu-Ray Discs.",
+    "features": [
+      "Blu-Ray Utilities: Provides utilities for working with Blu-Ray Discs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers command-line utilities for Blu-Ray tasks.",
+      "Integration: Can be integrated into workflows requiring Blu-Ray utilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libbluray documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Blu-Ray playback and Libbluray for support and discussions.",
+      "GitHub": "Visit the Libbluray GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libbluray_utils": "Not applicable",
+      "uninstall": "pkg uninstall libbluray-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libbluray",
+    "version": "1.3.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libbluray is an open-source library designed for Blu-Ray Discs playback for media players.",
+    "homepage": "https://www.videolan.org/developers/libbluray.html",
+    "installation": "pkg install libbluray",
+    "usage": "After installing libbluray, you can use it to enable Blu-Ray Discs playback in your media players.",
+    "features": [
+      "Blu-Ray Playback: Provides tools for Blu-Ray Discs playback.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Blu-Ray playback tasks.",
+      "Integration: Can be integrated into media players requiring Blu-Ray playback.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libbluray documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Blu-Ray playback and Libbluray for support and discussions.",
+      "GitHub": "Visit the Libbluray GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libbluray": "Not applicable",
+      "uninstall": "pkg uninstall libbluray"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libbs2b-static",
+    "version": "3.1.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libbs2b is a library for Bauer stereophonic-to-binaural DSP. This is the statically linked version.",
+    "homepage": "http://bs2b.sourceforge.net/",
+    "installation": "pkg install libbs2b-static",
+    "usage": "After installing libbs2b-static, you can use it to apply Bauer stereophonic-to-binaural DSP in your applications.",
+    "features": [
+      "DSP Processing: Provides tools for applying Bauer stereophonic-to-binaural DSP.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for DSP tasks.",
+      "Integration: Can be integrated into applications requiring DSP processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libbs2b documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DSP and Libbs2b for support and discussions.",
+      "GitHub": "Visit the Libbs2b GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libbs2b": "Not applicable",
+      "uninstall": "pkg uninstall libbs2b-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libbs2b",
+    "version": "3.1.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libbs2b is a library for Bauer stereophonic-to-binaural DSP.",
+    "homepage": "http://bs2b.sourceforge.net/",
+    "installation": "pkg install libbs2b",
+    "usage": "After installing libbs2b, you can use it to apply Bauer stereophonic-to-binaural DSP in your applications.",
+    "features": [
+      "DSP Processing: Provides tools for applying Bauer stereophonic-to-binaural DSP.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for DSP tasks.",
+      "Integration: Can be integrated into applications requiring DSP processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libbs2b documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DSP and Libbs2b for support and discussions.",
+      "GitHub": "Visit the Libbs2b GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libbs2b": "Not applicable",
+      "uninstall": "pkg uninstall libbs2b"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libbsd-static",
+    "version": "0.12.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libbsd provides functions commonly found on BSD systems. This is the statically linked version.",
+    "homepage": "https://libbsd.freedesktop.org/",
+    "installation": "pkg install libbsd-static",
+    "usage": "After installing libbsd-static, you can use it to provide BSD functions in your applications.",
+    "features": [
+      "BSD Functions: Provides functions commonly found on BSD systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for BSD functions.",
+      "Integration: Can be integrated into applications requiring BSD functions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libbsd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to BSD functions and Libbsd for support and discussions.",
+      "GitHub": "Visit the Libbsd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libbsd": "Not applicable",
+      "uninstall": "pkg uninstall libbsd-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libbsd",
+    "version": "0.12.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libbsd provides functions commonly found on BSD systems.",
+    "homepage": "https://libbsd.freedesktop.org/",
+    "installation": "pkg install libbsd",
+    "usage": "After installing libbsd, you can use it to provide BSD functions in your applications.",
+    "features": [
+      "BSD Functions: Provides functions commonly found on BSD systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for BSD functions.",
+      "Integration: Can be integrated into applications requiring BSD functions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libbsd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to BSD functions and Libbsd for support and discussions.",
+      "GitHub": "Visit the Libbsd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libbsd": "Not applicable",
+      "uninstall": "pkg uninstall libbsd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libbullet",
+    "version": "3.25",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libbullet is a physics engine which can be used for collision detection, soft body and rigid body dynamics.",
+    "homepage": "https://pybullet.org/",
+    "installation": "pkg install libbullet",
+    "usage": "After installing libbullet, you can use it to add physics simulation capabilities to your applications.",
+    "features": [
+      "Physics Engine: Provides tools for collision detection, soft body, and rigid body dynamics.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for physics simulation tasks.",
+      "Integration: Can be integrated into applications requiring physics simulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libbullet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to physics simulation and Libbullet for support and discussions.",
+      "GitHub": "Visit the Libbullet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libbullet": "Not applicable",
+      "uninstall": "pkg uninstall libbullet"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libburn-static",
+    "version": "1.5.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libburn is a library for reading, mastering, and writing optical discs. This is the statically linked version.",
+    "homepage": "https://libburnia-project.org/",
+    "installation": "pkg install libburn-static",
+    "usage": "After installing libburn-static, you can use it to read, master, and write optical discs in your applications.",
+    "features": [
+      "Optical Disc Handling: Provides tools for reading, mastering, and writing optical discs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for optical disc tasks.",
+      "Integration: Can be integrated into applications requiring optical disc handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libburn documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optical disc handling and Libburn for support and discussions.",
+      "GitHub": "Visit the Libburn GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libburn": "Not applicable",
+      "uninstall": "pkg uninstall libburn-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libburn",
+    "version": "1.5.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libburn is a library for reading, mastering, and writing optical discs.",
+    "homepage": "https://libburnia-project.org/",
+    "installation": "pkg install libburn",
+    "usage": "After installing libburn, you can use it to read, master, and write optical discs in your applications.",
+    "features": [
+      "Optical Disc Handling: Provides tools for reading, mastering, and writing optical discs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for optical disc tasks.",
+      "Integration: Can be integrated into applications requiring optical disc handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libburn documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optical disc handling and Libburn for support and discussions.",
+      "GitHub": "Visit the Libburn GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libburn": "Not applicable",
+      "uninstall": "pkg uninstall libburn"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libbz2",
+    "version": "1.0.8-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libbz2 is a library for data compression using the bzip2 algorithm.",
+    "homepage": "https://sourceware.org/bzip2/",
+    "installation": "pkg install libbz2",
+    "usage": "After installing libbz2, you can use it to compress and decompress data using the bzip2 algorithm.",
+    "features": [
+      "Data Compression: Provides tools for compressing and decompressing data using the bzip2 algorithm.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for data compression tasks.",
+      "Integration: Can be integrated into applications requiring data compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libbz2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data compression and Libbz2 for support and discussions.",
+      "GitHub": "Visit the Libbz2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compress_data": "bzip2 input.txt",
+      "decompress_data": "bunzip2 input.txt.bz2",
+      "uninstall": "pkg uninstall libbz2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libc++",
+    "version": "27c",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libc++ is a new implementation of the C++ standard library, targeting C++11 and beyond.",
+    "homepage": "https://libcxx.llvm.org/",
+    "installation": "pkg install libc++",
+    "usage": "After installing libc++, you can use it to write C++11 and beyond standard library code in your applications.",
+    "features": [
+      "C++ Standard Library: Provides a new implementation of the C++ standard library, targeting C++11 and beyond.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for C++ standard library tasks.",
+      "Integration: Can be integrated into applications requiring C++11 and beyond standard library support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libc++ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ and Libc++ for support and discussions.",
+      "GitHub": "Visit the Libc++ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcxx": "Not applicable",
+      "uninstall": "pkg uninstall libc++"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libc++utilities",
+    "version": "5.27.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libc++utilities is a utility library for C++.",
+    "homepage": "https://github.com/libcxx/utilities",
+    "installation": "pkg install libc++utilities",
+    "usage": "After installing libc++utilities, you can use it to provide utility functions and classes in your C++ applications.",
+    "features": [
+      "Utility Library: Provides utility functions and classes for C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for utility tasks.",
+      "Integration: Can be integrated into applications requiring utility functions and classes.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libc++utilities documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ utilities and Libc++utilities for support and discussions.",
+      "GitHub": "Visit the Libc++utilities GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcxxutilities": "Not applicable",
+      "uninstall": "pkg uninstall libc++utilities"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libc-client-static",
+    "version": "2007f-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libc-client is a library that provides a C client interface to the IMAP and POP3 protocols. This is the statically linked version.",
+    "homepage": "https://www.washington.edu/imap/",
+    "installation": "pkg install libc-client-static",
+    "usage": "After installing libc-client-static, you can use it to provide IMAP and POP3 client functionality in your applications.",
+    "features": [
+      "IMAP and POP3 Client: Provides a C client interface to the IMAP and POP3 protocols.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for IMAP and POP3 client tasks.",
+      "Integration: Can be integrated into applications requiring IMAP and POP3 client functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libc-client documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to IMAP and POP3 and Libc-client for support and discussions.",
+      "GitHub": "Visit the Libc-client GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libc_client": "Not applicable",
+      "uninstall": "pkg uninstall libc-client-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libc-client",
+    "version": "2007f-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libc-client is a library that provides a C client interface to the IMAP and POP3 protocols.",
+    "homepage": "https://www.washington.edu/imap/",
+    "installation": "pkg install libc-client",
+    "usage": "After installing libc-client, you can use it to provide IMAP and POP3 client functionality in your applications.",
+    "features": [
+      "IMAP and POP3 Client: Provides a C client interface to the IMAP and POP3 protocols.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for IMAP and POP3 client tasks.",
+      "Integration: Can be integrated into applications requiring IMAP and POP3 client functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libc-client documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to IMAP and POP3 and Libc-client for support and discussions.",
+      "GitHub": "Visit the Libc-client GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libc_client": "Not applicable",
+      "uninstall": "pkg uninstall libc-client"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcaca-static",
+    "version": "0.99.beta20-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcaca is a graphics library that outputs text instead of pixels. This is the statically linked version.",
+    "homepage": "https://caca.zoy.org/wiki/libcaca",
+    "installation": "pkg install libcaca-static",
+    "usage": "After installing libcaca-static, you can use it to render graphics as text in your applications.",
+    "features": [
+      "Text Graphics: Provides tools for rendering graphics as text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for text graphics tasks.",
+      "Integration: Can be integrated into applications requiring text graphics.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcaca documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text graphics and Libcaca for support and discussions.",
+      "GitHub": "Visit the Libcaca GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcaca": "Not applicable",
+      "uninstall": "pkg uninstall libcaca-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcaca",
+    "version": "0.99.beta20-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcaca is a graphics library that outputs text instead of pixels.",
+    "homepage": "https://caca.zoy.org/wiki/libcaca",
+    "installation": "pkg install libcaca",
+    "usage": "After installing libcaca, you can use it to render graphics as text in your applications.",
+    "features": [
+      "Text Graphics: Provides tools for rendering graphics as text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for text graphics tasks.",
+      "Integration: Can be integrated into applications requiring text graphics.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcaca documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text graphics and Libcaca for support and discussions.",
+      "GitHub": "Visit the Libcaca GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcaca": "Not applicable",
+      "uninstall": "pkg uninstall libcaca"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcairo",
+    "version": "1.18.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcairo is a 2D graphics library with support for multiple output devices.",
+    "homepage": "https://cairographics.org/",
+    "installation": "pkg install libcairo",
+    "usage": "After installing libcairo, you can use it to draw 2D graphics in your applications.",
+    "features": [
+      "2D Graphics: Provides tools for drawing 2D graphics.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for graphics tasks.",
+      "Integration: Can be integrated into applications requiring 2D graphics support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcairo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to graphics programming and Libcairo for support and discussions.",
+      "GitHub": "Visit the Libcairo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcairo": "Not applicable",
+      "uninstall": "pkg uninstall libcairo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcairomm-1.0",
+    "version": "1.14.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcairomm-1.0 is a C++ wrapper for the cairo graphics library.",
+    "homepage": "https://cairographics.org/cairomm/",
+    "installation": "pkg install libcairomm-1.0",
+    "usage": "After installing libcairomm-1.0, you can use it to draw 2D graphics in your C++ applications.",
+    "features": [
+      "C++ Wrapper: Provides a C++ wrapper for the cairo graphics library.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive C++ API for graphics tasks.",
+      "Integration: Can be integrated into C++ applications requiring 2D graphics support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcairomm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to graphics programming and Libcairomm for support and discussions.",
+      "GitHub": "Visit the Libcairomm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcairomm": "Not applicable",
+      "uninstall": "pkg uninstall libcairomm-1.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcairomm-1.16",
+    "version": "1.18.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcairomm-1.16 is a C++ wrapper for the cairo graphics library.",
+    "homepage": "https://cairographics.org/cairomm/",
+    "installation": "pkg install libcairomm-1.16",
+    "usage": "After installing libcairomm-1.16, you can use it to draw 2D graphics in your C++ applications.",
+    "features": [
+      "C++ Wrapper: Provides a C++ wrapper for the cairo graphics library.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive C++ API for graphics tasks.",
+      "Integration: Can be integrated into C++ applications requiring 2D graphics support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcairomm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to graphics programming and Libcairomm for support and discussions.",
+      "GitHub": "Visit the Libcairomm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcairomm": "Not applicable",
+      "uninstall": "pkg uninstall libcairomm-1.16"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcap-ng-static",
+    "version": "0.8.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcap-ng is a library for Linux that makes using posix capabilities easier. This is the statically linked version.",
+    "homepage": "https://people.redhat.com/sgrubb/libcap-ng/",
+    "installation": "pkg install libcap-ng-static",
+    "usage": "After installing libcap-ng-static, you can use it to manage posix capabilities in your applications.",
+    "features": [
+      "Posix Capabilities: Provides tools for managing posix capabilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for posix capability tasks.",
+      "Integration: Can be integrated into applications requiring posix capability management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcap-ng documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to posix capabilities and Libcap-ng for support and discussions.",
+      "GitHub": "Visit the Libcap-ng GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcap_ng": "Not applicable",
+      "uninstall": "pkg uninstall libcap-ng-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcap-ng",
+    "version": "0.8.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcap-ng is a library for Linux that makes using posix capabilities easier.",
+    "homepage": "https://people.redhat.com/sgrubb/libcap-ng/",
+    "installation": "pkg install libcap-ng",
+    "usage": "After installing libcap-ng, you can use it to manage posix capabilities in your applications.",
+    "features": [
+      "Posix Capabilities: Provides tools for managing posix capabilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for posix capability tasks.",
+      "Integration: Can be integrated into applications requiring posix capability management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcap-ng documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to posix capabilities and Libcap-ng for support and discussions.",
+      "GitHub": "Visit the Libcap-ng GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcap_ng": "Not applicable",
+      "uninstall": "pkg uninstall libcap-ng"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcap-static",
+    "version": "2.69",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcap is a library for getting and setting POSIX.1e capabilities. This is the statically linked version.",
+    "homepage": "https://sites.google.com/site/fullycapable/",
+    "installation": "pkg install libcap-static",
+    "usage": "After installing libcap-static, you can use it to manage POSIX.1e capabilities in your applications.",
+    "features": [
+      "POSIX.1e Capabilities: Provides tools for managing POSIX.1e capabilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for capability tasks.",
+      "Integration: Can be integrated into applications requiring POSIX.1e capability management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcap documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to POSIX.1e capabilities and Libcap for support and discussions.",
+      "GitHub": "Visit the Libcap GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcap": "Not applicable",
+      "uninstall": "pkg uninstall libcap-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcap",
+    "version": "2.69",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcap is a library for getting and setting POSIX.1e capabilities.",
+    "homepage": "https://sites.google.com/site/fullycapable/",
+    "installation": "pkg install libcap",
+    "usage": "After installing libcap, you can use it to manage POSIX.1e capabilities in your applications.",
+    "features": [
+      "POSIX.1e Capabilities: Provides tools for managing POSIX.1e capabilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for capability tasks.",
+      "Integration: Can be integrated into applications requiring POSIX.1e capability management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcap documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to POSIX.1e capabilities and Libcap for support and discussions.",
+      "GitHub": "Visit the Libcap GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcap": "Not applicable",
+      "uninstall": "pkg uninstall libcap"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libccd",
+    "version": "2.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libccd is a library for collision detection between convex shapes.",
+    "homepage": "https://github.com/danfis/libccd",
+    "installation": "pkg install libccd",
+    "usage": "After installing libccd, you can use it to perform collision detection between convex shapes in your applications.",
+    "features": [
+      "Collision Detection: Provides tools for collision detection between convex shapes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for collision detection tasks.",
+      "Integration: Can be integrated into applications requiring collision detection.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libccd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to collision detection and Libccd for support and discussions.",
+      "GitHub": "Visit the Libccd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libccd": "Not applicable",
+      "uninstall": "pkg uninstall libccd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcddb-static",
+    "version": "1.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcddb is a library to access data on a CDDB server (freedb.org). This is the statically linked version.",
+    "homepage": "https://libcddb.sourceforge.io/",
+    "installation": "pkg install libcddb-static",
+    "usage": "After installing libcddb-static, you can use it to access data on a CDDB server in your applications.",
+    "features": [
+      "CDDB Access: Provides tools for accessing data on a CDDB server.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for CDDB access tasks.",
+      "Integration: Can be integrated into applications requiring CDDB access.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcddb documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CDDB and Libcddb for support and discussions.",
+      "GitHub": "Visit the Libcddb GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcddb": "Not applicable",
+      "uninstall": "pkg uninstall libcddb-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcddb",
+    "version": "1.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcddb is a library to access data on a CDDB server (freedb.org).",
+    "homepage": "https://libcddb.sourceforge.io/",
+    "installation": "pkg install libcddb",
+    "usage": "After installing libcddb, you can use it to access data on a CDDB server in your applications.",
+    "features": [
+      "CDDB Access: Provides tools for accessing data on a CDDB server.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for CDDB access tasks.",
+      "Integration: Can be integrated into applications requiring CDDB access.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcddb documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CDDB and Libcddb for support and discussions.",
+      "GitHub": "Visit the Libcddb GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcddb": "Not applicable",
+      "uninstall": "pkg uninstall libcddb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcdk",
+    "version": "5.0-20250116-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcdk is a library for the Curses Development Kit, providing a collection of widgets for curses programs.",
+    "homepage": "https://invisible-island.net/cdk/",
+    "installation": "pkg install libcdk",
+    "usage": "After installing libcdk, you can use it to create curses programs with a collection of widgets.",
+    "features": [
+      "Curses Widgets: Provides a collection of widgets for curses programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for curses development tasks.",
+      "Integration: Can be integrated into curses applications requiring widgets.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcdk documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to curses development and Libcdk for support and discussions.",
+      "GitHub": "Visit the Libcdk GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcdk": "Not applicable",
+      "uninstall": "pkg uninstall libcdk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcec",
+    "version": "6.0.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcec is an open-source library for HDMI-CEC communication.",
+    "homepage": "https://libcec.pulse-eight.com/",
+    "installation": "pkg install libcec",
+    "usage": "After installing libcec, you can use it to control HDMI-CEC enabled devices in your applications.",
+    "features": [
+      "HDMI-CEC Communication: Provides tools for HDMI-CEC communication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for HDMI-CEC tasks.",
+      "Integration: Can be integrated into applications requiring HDMI-CEC communication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcec documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HDMI-CEC and Libcec for support and discussions.",
+      "GitHub": "Visit the Libcec GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcec": "Not applicable",
+      "uninstall": "pkg uninstall libcec"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libceres-solver",
+    "version": "2.2.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ceres Solver is an open-source C++ library for modeling and solving large, complicated optimization problems.",
+    "homepage": "http://ceres-solver.org/",
+    "installation": "pkg install libceres-solver",
+    "usage": "After installing libceres-solver, you can use it to solve large-scale optimization problems in your applications.",
+    "features": [
+      "Optimization Library: Provides tools for modeling and solving optimization problems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for optimization tasks.",
+      "Integration: Can be integrated into applications requiring optimization capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ceres Solver documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optimization and Ceres Solver for support and discussions.",
+      "GitHub": "Visit the Ceres Solver GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ceres_solver": "Not applicable",
+      "uninstall": "pkg uninstall libceres-solver"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libchipmunk",
+    "version": "7.0.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Chipmunk is a fast and lightweight 2D game physics library.",
+    "homepage": "https://chipmunk-physics.net/",
+    "installation": "pkg install libchipmunk",
+    "usage": "After installing libchipmunk, you can use it to add 2D physics simulation to your games.",
+    "features": [
+      "2D Physics: Provides tools for 2D physics simulation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for physics simulation tasks.",
+      "Integration: Can be integrated into game development workflows requiring physics simulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Chipmunk documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to game development and Chipmunk for support and discussions.",
+      "GitHub": "Visit the Chipmunk GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_chipmunk": "Not applicable",
+      "uninstall": "pkg uninstall libchipmunk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcln-static",
+    "version": "1.3.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CLN is a library for efficient computations with all kinds of numbers. This is the statically linked version.",
+    "homepage": "https://www.ginac.de/CLN/",
+    "installation": "pkg install libcln-static",
+    "usage": "After installing libcln-static, you can use it to perform efficient computations with numbers in your applications.",
+    "features": [
+      "Numerical Computation: Provides tools for efficient computations with numbers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for numerical computation tasks.",
+      "Integration: Can be integrated into applications requiring numerical computations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the CLN documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computation and CLN for support and discussions.",
+      "GitHub": "Visit the CLN GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_cln": "Not applicable",
+      "uninstall": "pkg uninstall libcln-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcln",
+    "version": "1.3.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CLN is a library for efficient computations with all kinds of numbers.",
+    "homepage": "https://www.ginac.de/CLN/",
+    "installation": "pkg install libcln",
+    "usage": "After installing libcln, you can use it to perform efficient computations with numbers in your applications.",
+    "features": [
+      "Numerical Computation: Provides tools for efficient computations with numbers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for numerical computation tasks.",
+      "Integration: Can be integrated into applications requiring numerical computations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the CLN documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computation and CLN for support and discussions.",
+      "GitHub": "Visit the CLN GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_cln": "Not applicable",
+      "uninstall": "pkg uninstall libcln"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcloog-static",
+    "version": "0.21.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CLooG is a free software library to generate code for scanning Z-polyhedra. This is the statically linked version.",
+    "homepage": "http://www.cloog.org/",
+    "installation": "pkg install libcloog-static",
+    "usage": "After installing libcloog-static, you can use it to generate code for scanning Z-polyhedra in your applications.",
+    "features": [
+      "Code Generation: Provides tools for generating code for scanning Z-polyhedra.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for code generation tasks.",
+      "Integration: Can be integrated into applications requiring code generation for Z-polyhedra.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the CLooG documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to code generation and CLooG for support and discussions.",
+      "GitHub": "Visit the CLooG GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_cloog": "Not applicable",
+      "uninstall": "pkg uninstall libcloog-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcloog",
+    "version": "0.21.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CLooG is a free software library to generate code for scanning Z-polyhedra.",
+    "homepage": "http://www.cloog.org/",
+    "installation": "pkg install libcloog",
+    "usage": "After installing libcloog, you can use it to generate code for scanning Z-polyhedra in your applications.",
+    "features": [
+      "Code Generation: Provides tools for generating code for scanning Z-polyhedra.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for code generation tasks.",
+      "Integration: Can be integrated into applications requiring code generation for Z-polyhedra.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the CLooG documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to code generation and CLooG for support and discussions.",
+      "GitHub": "Visit the CLooG GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_cloog": "Not applicable",
+      "uninstall": "pkg uninstall libcloog"
+    },
+    "isFavorite": false
+  }
+]

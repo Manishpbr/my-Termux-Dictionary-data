@@ -1,0 +1,1416 @@
+[
+  {
+    "name": "haproxy",
+    "version": "3.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HAProxy is a free, very fast, and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.",
+    "homepage": "http://www.haproxy.org/",
+    "installation": "pkg install haproxy",
+    "usage": "After installing haproxy, you can use it to set up load balancing and high availability for your web applications.",
+    "features": [
+      "Load Balancing: Distributes incoming network traffic across multiple servers.",
+      "High Availability: Provides redundancy and failover capabilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a configuration-based setup for managing load balancing.",
+      "Integration: Can be integrated into web server and application server setups.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HAProxy documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to load balancing and HAProxy for support and discussions.",
+      "GitHub": "Visit the HAProxy GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_haproxy": "haproxy -f /etc/haproxy/haproxy.cfg",
+      "uninstall": "pkg uninstall haproxy"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "harfbuzz-icu",
+    "version": "10.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HarfBuzz ICU is a library for text shaping using ICU (International Components for Unicode).",
+    "homepage": "https://harfbuzz.github.io/",
+    "installation": "pkg install harfbuzz-icu",
+    "usage": "After installing harfbuzz-icu, you can use it to perform text shaping with ICU support in your applications.",
+    "features": [
+      "Text Shaping: Provides tools for shaping text using ICU.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for text shaping tasks.",
+      "Integration: Can be integrated into applications requiring complex text layout and rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HarfBuzz documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text shaping and HarfBuzz for support and discussions.",
+      "GitHub": "Visit the HarfBuzz GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_harfbuzz_icu": "Not applicable",
+      "uninstall": "pkg uninstall harfbuzz-icu"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "harfbuzz-utils",
+    "version": "10.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HarfBuzz Utils provides a set of command-line utilities for HarfBuzz, a text shaping library.",
+    "homepage": "https://harfbuzz.github.io/",
+    "installation": "pkg install harfbuzz-utils",
+    "usage": "After installing harfbuzz-utils, you can use the command-line utilities to shape text and inspect font files.",
+    "features": [
+      "Text Shaping Utilities: Provides command-line tools for shaping text and inspecting font files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple interface for text shaping tasks.",
+      "Integration: Can be integrated into text processing and font management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HarfBuzz documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text shaping and HarfBuzz for support and discussions.",
+      "GitHub": "Visit the HarfBuzz GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "shape_text": "hb-shape font-file.ttf 'Hello, world!'",
+      "uninstall": "pkg uninstall harfbuzz-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "harfbuzz",
+    "version": "10.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HarfBuzz is an OpenType text shaping engine.",
+    "homepage": "https://harfbuzz.github.io/",
+    "installation": "pkg install harfbuzz",
+    "usage": "After installing harfbuzz, you can use it to perform text shaping in your applications.",
+    "features": [
+      "Text Shaping: Provides tools for shaping text according to the OpenType specification.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for text shaping tasks.",
+      "Integration: Can be integrated into applications requiring complex text layout and rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HarfBuzz documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text shaping and HarfBuzz for support and discussions.",
+      "GitHub": "Visit the HarfBuzz GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_harfbuzz": "Not applicable",
+      "uninstall": "pkg uninstall harfbuzz"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "has",
+    "version": "1.5.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Has is a command-line tool to check for the presence of various command-line utilities on the PATH.",
+    "homepage": "https://github.com/kdabir/has",
+    "installation": "pkg install has",
+    "usage": "After installing has, you can use it to check if specific command-line utilities are available on your system.",
+    "features": [
+      "Utility Checker: Provides tools for checking the presence of command-line utilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for checking utilities.",
+      "Integration: Can be integrated into scripts and automation workflows to ensure required utilities are available.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Has documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line tools and Has for support and discussions.",
+      "GitHub": "Visit the Has GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "check_utility": "has curl",
+      "uninstall": "pkg uninstall has"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hash-slinger",
+    "version": "3.3-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Hash Slinger is a tool for generating DNSSEC keys and other cryptographic materials.",
+    "homepage": "https://github.com/DNS-OARC/hash-slinger",
+    "installation": "pkg install hash-slinger",
+    "usage": "After installing hash-slinger, you can use it to generate DNSSEC keys and manage cryptographic materials.",
+    "features": [
+      "DNSSEC Key Generation: Provides tools for generating DNSSEC keys.",
+      "Cryptographic Management: Supports managing various cryptographic materials.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for cryptographic tasks.",
+      "Integration: Can be integrated into DNSSEC and cryptographic workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hash Slinger documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNSSEC and Hash Slinger for support and discussions.",
+      "GitHub": "Visit the Hash Slinger GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_key": "hash-slinger -a rsa-sha256 -b 2048",
+      "uninstall": "pkg uninstall hash-slinger"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hashdeep",
+    "version": "4.4-8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hashdeep is a cross-platform tools to compute, match, and audit hashes for multiple files.",
+    "homepage": "https://github.com/jessek/hashdeep",
+    "installation": "pkg install hashdeep",
+    "usage": "After installing hashdeep, you can use it to compute and audit file hashes across your system.",
+    "features": [
+      "File Hashing: Provides tools for computing and auditing file hashes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for hashing tasks.",
+      "Integration: Can be integrated into scripts and automation workflows for file integrity checking.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hashdeep documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file integrity and Hashdeep for support and discussions.",
+      "GitHub": "Visit the Hashdeep GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compute_hashes": "hashdeep -r -c sha256 /path/to/files",
+      "uninstall": "pkg uninstall hashdeep"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hcl",
+    "version": "2.23.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HCL (HashiCorp Configuration Language) is a configuration language used with HashiCorp tools.",
+    "homepage": "https://github.com/hashicorp/hcl",
+    "installation": "pkg install hcl",
+    "usage": "After installing hcl, you can use it to write configuration files for HashiCorp tools such as Terraform and Consul.",
+    "features": [
+      "Configuration Language: Provides a language for writing configuration files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive syntax for writing configurations.",
+      "Integration: Can be integrated into HashiCorp tools for infrastructure management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HCL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to infrastructure management and HCL for support and discussions.",
+      "GitHub": "Visit the HCL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "write_configuration": "Not applicable",
+      "uninstall": "pkg uninstall hcl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hcloud",
+    "version": "1.50.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hcloud is a command-line interface for managing Hetzner Cloud resources.",
+    "homepage": "https://github.com/hetznercloud/cli",
+    "installation": "pkg install hcloud",
+    "usage": "After installing hcloud, you can use it to manage your Hetzner Cloud resources from the command line.",
+    "features": [
+      "Cloud Management: Provides tools for managing Hetzner Cloud resources.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for cloud management tasks.",
+      "Integration: Can be integrated into cloud automation and management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hcloud documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cloud management and Hcloud for support and discussions.",
+      "GitHub": "Visit the Hcloud GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "list_servers": "hcloud server list",
+      "uninstall": "pkg uninstall hcloud"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "helix-grammars",
+    "version": "25.01.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Helix Grammars provides syntax highlighting grammars for the Helix text editor.",
+    "homepage": "https://helix-editor.com/",
+    "installation": "pkg install helix-grammars",
+    "usage": "After installing helix-grammars, you can use it to enable syntax highlighting for various programming languages in the Helix editor.",
+    "features": [
+      "Syntax Highlighting: Provides syntax highlighting grammars for the Helix text editor.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a straightforward setup for enabling syntax highlighting.",
+      "Integration: Can be integrated into the Helix editor for improved code readability.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Helix documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editing and Helix for support and discussions.",
+      "GitHub": "Visit the Helix GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "enable_highlighting": "Not applicable",
+      "uninstall": "pkg uninstall helix-grammars"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "helix",
+    "version": "25.01.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Helix is a post-modern modal text editor.",
+    "homepage": "https://helix-editor.com/",
+    "installation": "pkg install helix",
+    "usage": "After installing helix, you can use it to edit text files with modern features and modal editing capabilities.",
+    "features": [
+      "Text Editing: Provides tools for editing text files with modal editing capabilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a modern interface for text editing tasks.",
+      "Integration: Can be integrated into development workflows for efficient text editing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Helix documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editing and Helix for support and discussions.",
+      "GitHub": "Visit the Helix GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_helix": "hx",
+      "uninstall": "pkg uninstall helix"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "helm-ls",
+    "version": "0.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Helm LS is a language server for Helm, a package manager for Kubernetes.",
+    "homepage": "https://github.com/helm/helm-ls",
+    "installation": "pkg install helm-ls",
+    "usage": "After installing helm-ls, you can use it to enable IDE features for Helm charts in your editor.",
+    "features": [
+      "Language Server: Provides IDE features for Helm charts.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple setup for enabling IDE features in editors.",
+      "Integration: Can be integrated into LSP-compatible editors for Helm chart development.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Helm LS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Helm and Kubernetes for support and discussions.",
+      "GitHub": "Visit the Helm LS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_helm_ls": "helm-ls",
+      "uninstall": "pkg uninstall helm-ls"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "helm",
+    "version": "3.17.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Helm helps you manage Kubernetes applications — Helm Charts help you define, install, and upgrade even the most complex Kubernetes applications.",
+    "homepage": "https://helm.sh/",
+    "installation": "pkg install helm",
+    "usage": "After installing Helm, you can use it to manage your Kubernetes applications.",
+    "features": [
+      "Package Management: Provides tools for managing Kubernetes packages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for managing Helm charts.",
+      "Integration: Can be integrated into Kubernetes workflows for application management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Helm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Kubernetes and Helm for support and discussions.",
+      "GitHub": "Visit the Helm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "install_chart": "helm install my-release my-chart",
+      "uninstall": "pkg uninstall helm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "help2man",
+    "version": "1.49.3",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Help2man is a program that creates simple manual pages from the --help and --version output of other programs.",
+    "homepage": "https://www.gnu.org/software/help2man/",
+    "installation": "pkg install help2man",
+    "usage": "After installing help2man, you can use it to generate simple manual pages for your programs.",
+    "features": [
+      "Manual Page Generation: Provides tools for generating manual pages from program output.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for generating manual pages.",
+      "Integration: Can be integrated into development workflows for documentation generation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Help2man documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to documentation and Help2man for support and discussions.",
+      "GitHub": "Visit the Help2man GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_man_page": "help2man -o myprogram.1 ./myprogram",
+      "uninstall": "pkg uninstall help2man"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hexcurse",
+    "version": "1.60.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HexCurse is a ncurses-based hex editor, allowing you to edit files in hexadecimal mode.",
+    "homepage": "https://github.com/Lokaltog/hexcurse",
+    "installation": "pkg install hexcurse",
+    "usage": "After installing hexcurse, you can use it to edit files in hexadecimal mode.",
+    "features": [
+      "Hex Editor: Provides tools for editing files in hexadecimal mode.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a ncurses-based interface for hex editing.",
+      "Integration: Can be integrated into development and debugging workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HexCurse documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to hex editing and HexCurse for support and discussions.",
+      "GitHub": "Visit the HexCurse GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_file": "hexcurse myfile.bin",
+      "uninstall": "pkg uninstall hexcurse"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hexedit",
+    "version": "1.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HexEdit is a simple terminal-based hex editor.",
+    "homepage": "https://github.com/pixel/hexedit",
+    "installation": "pkg install hexedit",
+    "usage": "After installing hexedit, you can use it to edit files in hexadecimal mode.",
+    "features": [
+      "Hex Editor: Provides tools for editing files in hexadecimal mode.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a terminal-based interface for hex editing.",
+      "Integration: Can be integrated into development and debugging workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HexEdit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to hex editing and HexEdit for support and discussions.",
+      "GitHub": "Visit the HexEdit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_file": "hexedit myfile.bin",
+      "uninstall": "pkg uninstall hexedit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hexer",
+    "version": "1.0.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hexer is a hex editor with vi-like interface and scripting support.",
+    "homepage": "https://github.com/pixel/hexer",
+    "installation": "pkg install hexer",
+    "usage": "After installing hexer, you can use it to edit files in hexadecimal mode with vi-like commands.",
+    "features": [
+      "Hex Editor: Provides tools for editing files in hexadecimal mode.",
+      "Vi-like Interface: Offers a vi-like interface for hex editing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for hex editing.",
+      "Integration: Can be integrated into development and debugging workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hexer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to hex editing and Hexer for support and discussions.",
+      "GitHub": "Visit the Hexer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_file": "hexer myfile.bin",
+      "uninstall": "pkg uninstall hexer"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hexyl",
+    "version": "0.16.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hexyl is a simple hex viewer for the terminal with colored output.",
+    "homepage": "https://github.com/sharkdp/hexyl",
+    "installation": "pkg install hexyl",
+    "usage": "After installing hexyl, you can use it to view files in hexadecimal mode with colored output.",
+    "features": [
+      "Hex Viewer: Provides tools for viewing files in hexadecimal mode.",
+      "Colored Output: Offers colored output for easier reading.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for hex viewing.",
+      "Integration: Can be integrated into development and debugging workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hexyl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to hex viewing and Hexyl for support and discussions.",
+      "GitHub": "Visit the Hexyl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "view_file": "hexyl myfile.bin",
+      "uninstall": "pkg uninstall hexyl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "heyu",
+    "version": "1:2.10.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Heyu is a command line utility for controlling X10 devices.",
+    "homepage": "http://www.heyu.org/",
+    "installation": "pkg install heyu",
+    "usage": "After installing heyu, you can use it to control X10 devices from the command line.",
+    "features": [
+      "X10 Control: Provides tools for controlling X10 devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for X10 control.",
+      "Integration: Can be integrated into home automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Heyu documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to home automation and Heyu for support and discussions.",
+      "GitHub": "Visit the Heyu GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "turn_on_light": "heyu on A1",
+      "uninstall": "pkg uninstall heyu"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hfsutils",
+    "version": "3.2.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HFSUtils is a software package that provides tools for accessing and manipulating HFS (Hierarchical File System) volumes.",
+    "homepage": "http://www.mars.org/home/rob/proj/hfs/",
+    "installation": "pkg install hfsutils",
+    "usage": "After installing hfsutils, you can use it to access and manipulate HFS volumes.",
+    "features": [
+      "HFS Access: Provides tools for accessing and manipulating HFS volumes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for HFS tasks.",
+      "Integration: Can be integrated into workflows requiring access to HFS volumes.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HFSUtils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file systems and HFSUtils for support and discussions.",
+      "GitHub": "Visit the HFSUtils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "list_hfs_volume": "hls /path/to/hfs/volume",
+      "uninstall": "pkg uninstall hfsutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hilbish",
+    "version": "2024.07.30",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hilbish is a shell with a focus on user customization and interactivity.",
+    "homepage": "https://hilbish.dev/",
+    "installation": "pkg install hilbish",
+    "usage": "After installing hilbish, you can use it as an interactive shell with advanced customization options.",
+    "features": [
+      "Interactive Shell: Provides a shell with advanced interactivity and customization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for shell tasks.",
+      "Integration: Can be integrated into development and system management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hilbish documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shell customization and Hilbish for support and discussions.",
+      "GitHub": "Visit the Hilbish GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_hilbish": "hilbish",
+      "uninstall": "pkg uninstall hilbish"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hnterm",
+    "version": "1.0.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HNTerm is a terminal client for browsing Hacker News.",
+    "homepage": "https://github.com/hn-term/hnterm",
+    "installation": "pkg install hnterm",
+    "usage": "After installing hnterm, you can use it to browse Hacker News from the terminal.",
+    "features": [
+      "Hacker News Client: Provides a terminal client for browsing Hacker News.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple interface for browsing Hacker News.",
+      "Integration: Can be integrated into terminal workflows for quick access to Hacker News.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HNTerm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Hacker News and HNTerm for support and discussions.",
+      "GitHub": "Visit the HNTerm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "browse_hacker_news": "hnterm",
+      "uninstall": "pkg uninstall hnterm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hoedown-static",
+    "version": "3.0.7-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hoedown is a Markdown parser written in C. This is the statically linked version.",
+    "homepage": "https://github.com/hoedown/hoedown",
+    "installation": "pkg install hoedown-static",
+    "usage": "After installing hoedown-static, you can use it to parse Markdown documents in your applications.",
+    "features": [
+      "Markdown Parsing: Provides tools for parsing Markdown documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Markdown parsing tasks.",
+      "Integration: Can be integrated into applications requiring Markdown parsing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hoedown documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Markdown and Hoedown for support and discussions.",
+      "GitHub": "Visit the Hoedown GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "parse_markdown": "Not applicable",
+      "uninstall": "pkg uninstall hoedown-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hoedown",
+    "version": "3.0.7-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hoedown is a Markdown parser written in C.",
+    "homepage": "https://github.com/hoedown/hoedown",
+    "installation": "pkg install hoedown",
+    "usage": "After installing hoedown, you can use it to parse Markdown documents in your applications.",
+    "features": [
+      "Markdown Parsing: Provides tools for parsing Markdown documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Markdown parsing tasks.",
+      "Integration: Can be integrated into applications requiring Markdown parsing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hoedown documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Markdown and Hoedown for support and discussions.",
+      "GitHub": "Visit the Hoedown GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "parse_markdown": "Not applicable",
+      "uninstall": "pkg uninstall hoedown"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hollywood",
+    "version": "1.22",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Hollywood is a utility to fill your console with Hollywood melodrama technobabble.",
+    "homepage": "https://github.com/dustinkirkland/hollywood",
+    "installation": "pkg install hollywood",
+    "usage": "After installing hollywood, you can use it to fill your console with entertaining technobabble.",
+    "features": [
+      "Entertainment: Provides a fun and entertaining experience for your console.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hollywood documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal utilities and Hollywood for support and discussions.",
+      "GitHub": "Visit the Hollywood GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_hollywood": "hollywood",
+      "uninstall": "pkg uninstall hollywood"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hors",
+    "version": "0.8.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hors is a terminal-based tool for generating cheat sheets.",
+    "homepage": "https://github.com/WindSoilder/hors",
+    "installation": "pkg install hors",
+    "usage": "After installing hors, you can use it to generate and view cheat sheets for various commands.",
+    "features": [
+      "Cheat Sheet Generation: Provides tools for generating and viewing cheat sheets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for generating cheat sheets.",
+      "Integration: Can be integrated into development workflows for quick access to command references.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hors documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal utilities and Hors for support and discussions.",
+      "GitHub": "Visit the Hors GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_cheat_sheet": "hors cheat <command>",
+      "uninstall": "pkg uninstall hors"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hr",
+    "version": "1.4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Hr is a simple horizontal ruler for your terminal.",
+    "homepage": "https://github.com/LuRsT/hr",
+    "installation": "pkg install hr",
+    "usage": "After installing hr, you can use it to add horizontal rulers to your terminal output.",
+    "features": [
+      "Horizontal Ruler: Provides a simple tool for adding horizontal rulers to terminal output.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for adding rulers.",
+      "Integration: Can be integrated into scripts and command output for better readability.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hr documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal utilities and Hr for support and discussions.",
+      "GitHub": "Visit the Hr GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "add_ruler": "hr",
+      "uninstall": "pkg uninstall hr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hstr",
+    "version": "3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hstr (HSTR) is a command-line utility that brings improved command completion to Bash and Zsh.",
+    "homepage": "https://github.com/dvorka/hstr",
+    "installation": "pkg install hstr",
+    "usage": "After installing hstr, you can use it to enhance command completion in your terminal.",
+    "features": [
+      "Command Completion: Provides improved command completion for Bash and Zsh.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for command completion.",
+      "Integration: Can be integrated into Bash and Zsh for better command completion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hstr documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal utilities and Hstr for support and discussions.",
+      "GitHub": "Visit the Hstr GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_hstr": "hstr",
+      "uninstall": "pkg uninstall hstr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "html-xml-utils",
+    "version": "8.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HTML-XML-utils is a set of simple utilities for manipulating HTML and XML files.",
+    "homepage": "https://www.w3.org/Tools/HTML-XML-utils/",
+    "installation": "pkg install html-xml-utils",
+    "usage": "After installing html-xml-utils, you can use it to manipulate HTML and XML files.",
+    "features": [
+      "HTML/XML Manipulation: Provides tools for manipulating HTML and XML files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for HTML and XML tasks.",
+      "Integration: Can be integrated into web development and data processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HTML-XML-utils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HTML/XML processing and HTML-XML-utils for support and discussions.",
+      "GitHub": "Visit the HTML-XML-utils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "tidy_html": "hxnormalize < input.html > output.html",
+      "uninstall": "pkg uninstall html-xml-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "html2text",
+    "version": "2.2.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HTML2Text is a command-line utility that converts HTML documents into plain text.",
+    "homepage": "https://github.com/aaronsw/html2text",
+    "installation": "pkg install html2text",
+    "usage": "After installing html2text, you can use it to convert HTML documents into plain text.",
+    "features": [
+      "HTML to Text Conversion: Provides tools for converting HTML documents into plain text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for HTML to text conversion.",
+      "Integration: Can be integrated into web scraping and data processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HTML2Text documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HTML processing and HTML2Text for support and discussions.",
+      "GitHub": "Visit the HTML2Text GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "convert_html": "html2text input.html > output.txt",
+      "uninstall": "pkg uninstall html2text"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "htop",
+    "version": "3.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Htop is an interactive process viewer for Unix systems.",
+    "homepage": "https://htop.dev/",
+    "installation": "pkg install htop",
+    "usage": "After installing htop, you can use it to monitor system processes and resource usage.",
+    "features": [
+      "Process Monitoring: Provides tools for monitoring system processes and resource usage.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an interactive interface for process monitoring.",
+      "Integration: Can be integrated into system administration and monitoring workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Htop documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system monitoring and Htop for support and discussions.",
+      "GitHub": "Visit the Htop GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_htop": "htop",
+      "uninstall": "pkg uninstall htop"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "htslib-static",
+    "version": "1.21",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HTSlib is a C library for reading/writing high-throughput sequencing data. This is the statically linked version.",
+    "homepage": "https://www.htslib.org/",
+    "installation": "pkg install htslib-static",
+    "usage": "After installing htslib-static, you can use it to work with high-throughput sequencing data in your C applications.",
+    "features": [
+      "Sequencing Data Handling: Provides tools for reading/writing high-throughput sequencing data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for sequencing data tasks.",
+      "Integration: Can be integrated into bioinformatics workflows requiring sequencing data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HTSlib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to bioinformatics and HTSlib for support and discussions.",
+      "GitHub": "Visit the HTSlib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_with_htslib": "gcc -o myprogram myprogram.c -lhts",
+      "uninstall": "pkg uninstall htslib-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "htslib",
+    "version": "1.21",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HTSlib is a C library for reading/writing high-throughput sequencing data.",
+    "homepage": "https://www.htslib.org/",
+    "installation": "pkg install htslib",
+    "usage": "After installing htslib, you can use it to work with high-throughput sequencing data in your C applications.",
+    "features": [
+      "Sequencing Data Handling: Provides tools for reading/writing high-throughput sequencing data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for sequencing data tasks.",
+      "Integration: Can be integrated into bioinformatics workflows requiring sequencing data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HTSlib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to bioinformatics and HTSlib for support and discussions.",
+      "GitHub": "Visit the HTSlib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_with_htslib": "gcc -o myprogram myprogram.c -lhts",
+      "uninstall": "pkg uninstall htslib"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "httping",
+    "version": "3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Httping is a ping-like tool for HTTP requests.",
+    "homepage": "https://github.com/flok99/httping",
+    "installation": "pkg install httping",
+    "usage": "After installing httping, you can use it to measure the latency of HTTP requests.",
+    "features": [
+      "HTTP Ping: Provides tools for measuring the latency of HTTP requests.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for HTTP ping tasks.",
+      "Integration: Can be integrated into web performance monitoring workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Httping documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web performance and Httping for support and discussions.",
+      "GitHub": "Visit the Httping GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "ping_http": "httping -g http://example.com",
+      "uninstall": "pkg uninstall httping"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "httrack-data",
+    "version": "3.49.5",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "HTTrack is a website copier and offline browser utility. This package contains the data files.",
+    "homepage": "https://www.httrack.com/",
+    "installation": "pkg install httrack-data",
+    "usage": "After installing httrack-data, you can use it in conjunction with httrack to copy websites for offline browsing.",
+    "features": [
+      "Offline Browsing: Provides tools for copying websites for offline browsing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for website copying tasks.",
+      "Integration: Can be integrated into web archiving workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HTTrack documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web archiving and HTTrack for support and discussions.",
+      "GitHub": "Visit the HTTrack GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "copy_website": "httrack http://example.com",
+      "uninstall": "pkg uninstall httrack-data"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "httrack-static",
+    "version": "3.49.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HTTrack is a website copier and offline browser utility. This is the statically linked version.",
+    "homepage": "https://www.httrack.com/",
+    "installation": "pkg install httrack-static",
+    "usage": "After installing httrack-static, you can use it to copy websites for offline browsing.",
+    "features": [
+      "Offline Browsing: Provides tools for copying websites for offline browsing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for website copying tasks.",
+      "Integration: Can be integrated into web archiving workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HTTrack documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web archiving and HTTrack for support and discussions.",
+      "GitHub": "Visit the HTTrack GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "copy_website": "httrack http://example.com",
+      "uninstall": "pkg uninstall httrack-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "httrack",
+    "version": "3.49.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "HTTrack is a website copier and offline browser utility.",
+    "homepage": "https://www.httrack.com/",
+    "installation": "pkg install httrack",
+    "usage": "After installing httrack, you can use it to copy websites for offline browsing.",
+    "features": [
+      "Offline Browsing: Provides tools for copying websites for offline browsing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for website copying tasks.",
+      "Integration: Can be integrated into web archiving workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HTTrack documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web archiving and HTTrack for support and discussions.",
+      "GitHub": "Visit the HTTrack GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "copy_website": "httrack http://example.com",
+      "uninstall": "pkg uninstall httrack"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hub",
+    "version": "2.14.2-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hub is a command-line tool that wraps Git to make it easier to work with GitHub.",
+    "homepage": "https://hub.github.com/",
+    "installation": "pkg install hub",
+    "usage": "After installing hub, you can use it to interact with GitHub from the command line.",
+    "features": [
+      "GitHub Integration: Provides tools for interacting with GitHub from the command line.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for GitHub tasks.",
+      "Integration: Can be integrated into Git workflows for better GitHub integration.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hub documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GitHub and Hub for support and discussions.",
+      "GitHub": "Visit the Hub GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "clone_repo": "hub clone owner/repo",
+      "uninstall": "pkg uninstall hub"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hugo",
+    "version": "0.141.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hugo is a fast and flexible static site generator written in Go.",
+    "homepage": "https://gohugo.io/",
+    "installation": "pkg install hugo",
+    "usage": "After installing hugo, you can use it to generate static websites quickly and easily.",
+    "features": [
+      "Static Site Generation: Provides tools for generating static websites.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for static site generation tasks.",
+      "Integration: Can be integrated into web development workflows for static site generation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hugo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to static site generation and Hugo for support and discussions.",
+      "GitHub": "Visit the Hugo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_site": "hugo new site mysite",
+      "uninstall": "pkg uninstall hugo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hummin",
+    "version": "2021.05.18-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hummin is a command-line tool for generating humming sound effects.",
+    "homepage": "https://github.com/hummin/hummin",
+    "installation": "pkg install hummin",
+    "usage": "After installing hummin, you can use it to generate humming sound effects from the command line.",
+    "features": [
+      "Sound Effect Generation: Provides tools for generating humming sound effects.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for sound effect generation.",
+      "Integration: Can be integrated into multimedia and sound design workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hummin documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to sound design and Hummin for support and discussions.",
+      "GitHub": "Visit the Hummin GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_hum": "hummin -o hum.wav",
+      "uninstall": "pkg uninstall hummin"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hunspell-en-us",
+    "version": "20240129",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Hunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding and character encoding. This package provides the English (US) dictionary.",
+    "homepage": "https://hunspell.github.io/",
+    "installation": "pkg install hunspell-en-us",
+    "usage": "After installing hunspell-en-us, you can use it to check spelling for English (US) text.",
+    "features": [
+      "Spell Checking: Provides tools for checking spelling in English (US) text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for spell checking tasks.",
+      "Integration: Can be integrated into text editing and word processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hunspell documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spell checking and Hunspell for support and discussions.",
+      "GitHub": "Visit the Hunspell GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "check_spelling": "hunspell -d en_US textfile.txt",
+      "uninstall": "pkg uninstall hunspell-en-us"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hunspell-fr",
+    "version": "20221031",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Hunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding and character encoding. This package provides the French dictionary.",
+    "homepage": "https://hunspell.github.io/",
+    "installation": "pkg install hunspell-fr",
+    "usage": "After installing hunspell-fr, you can use it to check spelling for French text.",
+    "features": [
+      "Spell Checking: Provides tools for checking spelling in French text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for spell checking tasks.",
+      "Integration: Can be integrated into text editing and word processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hunspell documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spell checking and Hunspell for support and discussions.",
+      "GitHub": "Visit the Hunspell GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "check_spelling": "hunspell -d fr textfile.txt",
+      "uninstall": "pkg uninstall hunspell-fr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hunspell-hu",
+    "version": "2024.03.28",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Hunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding and character encoding. This package provides the Hungarian dictionary.",
+    "homepage": "https://hunspell.github.io/",
+    "installation": "pkg install hunspell-hu",
+    "usage": "After installing hunspell-hu, you can use it to check spelling for Hungarian text.",
+    "features": [
+      "Spell Checking: Provides tools for checking spelling in Hungarian text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for spell checking tasks.",
+      "Integration: Can be integrated into text editing and word processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hunspell documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spell checking and Hunspell for support and discussions.",
+      "GitHub": "Visit the Hunspell GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "check_spelling": "hunspell -d hu textfile.txt",
+      "uninstall": "pkg uninstall hunspell-hu"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hunspell-nl",
+    "version": "2013.07.22",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Hunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding and character encoding. This package provides the Dutch dictionary.",
+    "homepage": "https://hunspell.github.io/",
+    "installation": "pkg install hunspell-nl",
+    "usage": "After installing hunspell-nl, you can use it to check spelling for Dutch text.",
+    "features": [
+      "Spell Checking: Provides tools for checking spelling in Dutch text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for spell checking tasks.",
+      "Integration: Can be integrated into text editing and word processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hunspell documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spell checking and Hunspell for support and discussions.",
+      "GitHub": "Visit the Hunspell GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "check_spelling": "hunspell -d nl textfile.txt",
+      "uninstall": "pkg uninstall hunspell-nl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hunspell-ru",
+    "version": "20210731",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Hunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding and character encoding. This package provides the Russian dictionary.",
+    "homepage": "https://hunspell.github.io/",
+    "installation": "pkg install hunspell-ru",
+    "usage": "After installing hunspell-ru, you can use it to check spelling for Russian text.",
+    "features": [
+      "Spell Checking: Provides tools for checking spelling in Russian text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for spell checking tasks.",
+      "Integration: Can be integrated into text editing and word processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hunspell documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spell checking and Hunspell for support and discussions.",
+      "GitHub": "Visit the Hunspell GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "check_spelling": "hunspell -d ru textfile.txt",
+      "uninstall": "pkg uninstall hunspell-ru"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hunspell-static",
+    "version": "1.7.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding and character encoding. This is the statically linked version.",
+    "homepage": "https://hunspell.github.io/",
+    "installation": "pkg install hunspell-static",
+    "usage": "After installing hunspell-static, you can use it to check spelling and analyze morphology in your applications.",
+    "features": [
+      "Spell Checking: Provides tools for checking spelling and analyzing morphology.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for spell checking tasks.",
+      "Integration: Can be integrated into applications requiring spell checking and morphological analysis.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hunspell documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spell checking and Hunspell for support and discussions.",
+      "GitHub": "Visit the Hunspell GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_with_hunspell": "gcc -o myprogram myprogram.c -lhunspell",
+      "uninstall": "pkg uninstall hunspell-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hunspell",
+    "version": "1.7.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hunspell is a spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding and character encoding.",
+    "homepage": "https://hunspell.github.io/",
+    "installation": "pkg install hunspell",
+    "usage": "After installing hunspell, you can use it to check spelling and analyze morphology in your applications.",
+    "features": [
+      "Spell Checking: Provides tools for checking spelling and analyzing morphology.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for spell checking tasks.",
+      "Integration: Can be integrated into applications requiring spell checking and morphological analysis.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hunspell documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to spell checking and Hunspell for support and discussions.",
+      "GitHub": "Visit the Hunspell GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_with_hunspell": "gcc -o myprogram myprogram.c -lhunspell",
+      "uninstall": "pkg uninstall hunspell"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hut",
+    "version": "0.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hut is a command-line interface for Gitea and Gogs.",
+    "homepage": "https://github.com/gitleaks/hut",
+    "installation": "pkg install hut",
+    "usage": "After installing hut, you can use it to interact with Gitea and Gogs from the command line.",
+    "features": [
+      "Gitea/Gogs Integration: Provides tools for interacting with Gitea and Gogs from the command line.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for Gitea and Gogs tasks.",
+      "Integration: Can be integrated into Git workflows for better Gitea and Gogs integration.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hut documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Gitea, Gogs, and Hut for support and discussions.",
+      "GitHub": "Visit the Hut GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "list_repos": "hut repo list",
+      "uninstall": "pkg uninstall hut"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hwdata",
+    "version": "0.391",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hwdata provides hardware identification and configuration data.",
+    "homepage": "https://github.com/vcrhonek/hwdata",
+    "installation": "pkg install hwdata",
+    "usage": "After installing hwdata, you can use it to access hardware identification and configuration data.",
+    "features": [
+      "Hardware Identification: Provides data for identifying and configuring hardware.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for accessing hardware data.",
+      "Integration: Can be integrated into system administration and hardware management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hwdata documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to hardware data and Hwdata for support and discussions.",
+      "GitHub": "Visit the Hwdata GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "list_hardware": "hwdata --list",
+      "uninstall": "pkg uninstall hwdata"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hydroxide",
+    "version": "0.2.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hydroxide is a third-party ProtonMail, ProtonDrive, and ProtonCalendar client.",
+    "homepage": "https://github.com/emersion/hydroxide",
+    "installation": "pkg install hydroxide",
+    "usage": "After installing hydroxide, you can use it to interact with ProtonMail, ProtonDrive, and ProtonCalendar from the command line.",
+    "features": [
+      "Proton Services: Provides tools for interacting with ProtonMail, ProtonDrive, and ProtonCalendar.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for Proton services.",
+      "Integration: Can be integrated into email and file management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hydroxide documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Proton services and Hydroxide for support and discussions.",
+      "GitHub": "Visit the Hydroxide GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_hydroxide": "hydroxide serve",
+      "uninstall": "pkg uninstall hydroxide"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hyperfine",
+    "version": "1.19.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hyperfine is a command-line benchmarking tool.",
+    "homepage": "https://github.com/sharkdp/hyperfine",
+    "installation": "pkg install hyperfine",
+    "usage": "After installing hyperfine, you can use it to benchmark command-line programs.",
+    "features": [
+      "Benchmarking: Provides tools for benchmarking command-line programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for benchmarking tasks.",
+      "Integration: Can be integrated into development and performance testing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hyperfine documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to benchmarking and Hyperfine for support and discussions.",
+      "GitHub": "Visit the Hyperfine GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "benchmark_command": "hyperfine 'my_command --option'",
+      "uninstall": "pkg uninstall hyperfine"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "hz",
+    "version": "0.9.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Hz is a simple, fast, and intuitive HTTP load testing tool.",
+    "homepage": "https://github.com/inancgumus/hz",
+    "installation": "pkg install hz",
+    "usage": "After installing hz, you can use it to perform load testing on your HTTP services.",
+    "features": [
+      "Load Testing: Provides tools for load testing HTTP services.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for load testing tasks.",
+      "Integration: Can be integrated into performance testing and monitoring workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hz documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to load testing and Hz for support and discussions.",
+      "GitHub": "Visit the Hz GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "load_test": "hz http://example.com",
+      "uninstall": "pkg uninstall hz"
+    },
+    "isFavorite": false
+  }
+]

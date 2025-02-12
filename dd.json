@@ -1,0 +1,1282 @@
+[
+  {
+    "name": "docopt-static",
+    "version": "0.6.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Docopt creates command-line interfaces by parsing usage patterns. This is the statically linked version.",
+    "homepage": "https://docopt.org/",
+    "installation": "pkg install docopt-static",
+    "usage": "After installing docopt-static, you can use it to create command-line interfaces by parsing usage patterns.",
+    "features": [
+      "Command-Line Interface: Creates command-line interfaces by parsing usage patterns.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "additional_resources": "For more information, visit the Docopt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line interfaces and parsing tools for support and discussions.",
+      "GitHub": "Visit the Docopt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall docopt-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "docopt",
+    "version": "0.6.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Docopt creates command-line interfaces by parsing usage patterns.",
+    "homepage": "https://docopt.org/",
+    "installation": "pkg install docopt",
+    "usage": "After installing docopt, you can use it to create command-line interfaces by parsing usage patterns.",
+    "features": [
+      "Command-Line Interface: Creates command-line interfaces by parsing usage patterns.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Provides a simple and intuitive way to define command-line interfaces."
+    ],
+    "additional_resources": "For more information, visit the Docopt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line interfaces and parsing tools for support and discussions.",
+      "GitHub": "Visit the Docopt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall docopt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "doctest",
+    "version": "2.4.11-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Doctest is a fast and feature-rich C++98/C++11 single-header testing framework for unit tests and TDD.",
+    "homepage": "https://github.com/onqtam/doctest",
+    "installation": "pkg install doctest",
+    "usage": "After installing doctest, you can use it to write and run unit tests for C++ programs.",
+    "features": [
+      "Unit Testing: Provides a framework for writing and running unit tests in C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Single-Header: Designed to be a single-header library for ease of use."
+    ],
+    "additional_resources": "For more information, visit the Doctest documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development and testing for support and discussions.",
+      "GitHub": "Visit the Doctest GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall doctest"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "doge",
+    "version": "0.2.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Doge is a command-line tool for displaying the popular Doge meme in the terminal.",
+    "homepage": "https://github.com/thiderman/doge",
+    "installation": "pkg install doge",
+    "usage": "After installing doge, you can use it to display the Doge meme in the terminal.",
+    "features": [
+      "Meme Display: Displays the popular Doge meme in the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Fun: Provides a fun and humorous way to brighten up your terminal sessions."
+    ],
+    "additional_resources": "For more information, visit the Doge documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line fun and memes for support and discussions.",
+      "GitHub": "Visit the Doge GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "doge",
+      "uninstall_the_game": "pkg uninstall doge"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dopewars",
+    "version": "1.6.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dopewars is a turn-based strategy game where you play as a drug dealer trying to make money.",
+    "homepage": "http://dopewars.sourceforge.net/",
+    "installation": "pkg install dopewars",
+    "usage": "After installing dopewars, you can play the game by running the dopewars command.",
+    "features": [
+      "Turn-Based Strategy: Provides a turn-based strategy game experience.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Entertaining: Offers a fun and challenging gameplay experience."
+    ],
+    "gameplay": {
+      "objective": "The main objective is to make as much money as possible by buying and selling drugs.",
+      "controls": "The game is controlled via keyboard inputs for various actions.",
+      "environment": "The game takes place in a text-based environment with different locations and events."
+    },
+    "additional_resources": "For more information, visit the Dopewars documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to strategy games and Dopewars for support and discussions.",
+      "GitHub": "Visit the Dopewars GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dopewars",
+      "uninstall_the_game": "pkg uninstall dopewars"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dos2unix",
+    "version": "7.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dos2unix converts text files with DOS or Mac line endings to Unix line endings.",
+    "homepage": "https://waterlan.home.xs4all.nl/dos2unix.html",
+    "installation": "pkg install dos2unix",
+    "usage": "After installing dos2unix, you can use it to convert text files to Unix line endings.",
+    "features": [
+      "Line Ending Conversion: Converts text files with DOS or Mac line endings to Unix line endings.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Provides a simple and efficient command-line interface for conversion."
+    ],
+    "additional_resources": "For more information, visit the Dos2unix documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text file manipulation and command-line tools for support and discussions.",
+      "GitHub": "Visit the Dos2unix GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dos2unix <file>",
+      "uninstall_the_game": "pkg uninstall dos2unix"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dosfstools",
+    "version": "4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dosfstools is a collection of utilities to create and check MS-DOS FAT filesystems.",
+    "homepage": "https://github.com/dosfstools/dosfstools",
+    "installation": "pkg install dosfstools",
+    "usage": "After installing dosfstools, you can use it to create and check MS-DOS FAT filesystems.",
+    "features": [
+      "Filesystem Utilities: Provides tools to create and check MS-DOS FAT filesystems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Includes various utilities for managing FAT filesystems."
+    ],
+    "additional_resources": "For more information, visit the Dosfstools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to filesystem management and utilities for support and discussions.",
+      "GitHub": "Visit the Dosfstools GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "mkfs.fat <device>",
+      "uninstall_the_game": "pkg uninstall dosfstools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotconf-static",
+    "version": "1.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotconf is a configuration file parser library written in C. This is the statically linked version.",
+    "homepage": "http://www.azzit.de/dotconf/",
+    "installation": "pkg install dotconf-static",
+    "usage": "After installing dotconf-static, you can use it to parse configuration files in C programs.",
+    "features": [
+      "Configuration File Parsing: Provides a library for parsing configuration files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "additional_resources": "For more information, visit the Dotconf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C programming and configuration file parsing for support and discussions.",
+      "GitHub": "Visit the Dotconf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall dotconf-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotconf",
+    "version": "1.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotconf is a configuration file parser library written in C.",
+    "homepage": "http://www.azzit.de/dotconf/",
+    "installation": "pkg install dotconf",
+    "usage": "After installing dotconf, you can use it to parse configuration files in C programs.",
+    "features": [
+      "Configuration File Parsing: Provides a library for parsing configuration files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Designed to be easy to integrate into C programs."
+    ],
+    "additional_resources": "For more information, visit the Dotconf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C programming and configuration file parsing for support and discussions.",
+      "GitHub": "Visit the Dotconf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall dotconf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-apphost-pack-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet AppHost Pack 8.0 provides the .NET runtime and SDK host for version 8.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-apphost-pack-8.0",
+    "usage": "After installing dotnet-apphost-pack-8.0, you can use it to run and develop .NET applications targeting version 8.0.",
+    "features": [
+      "AppHost: Provides the .NET runtime and SDK host for version 8.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports running and developing .NET applications targeting version 8.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --list-sdks",
+      "uninstall_the_game": "pkg uninstall dotnet-apphost-pack-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-apphost-pack-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet AppHost Pack 9.0 provides the .NET runtime and SDK host for version 9.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-apphost-pack-9.0",
+    "usage": "After installing dotnet-apphost-pack-9.0, you can use it to run and develop .NET applications targeting version 9.0.",
+    "features": [
+      "AppHost: Provides the .NET runtime and SDK host for version 9.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports running and developing .NET applications targeting version 9.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --list-sdks",
+      "uninstall_the_game": "pkg uninstall dotnet-apphost-pack-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-host-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Host 8.0 provides the .NET runtime host for version 8.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-host-8.0",
+    "usage": "After installing dotnet-host-8.0, you can use it to run .NET applications targeting version 8.0.",
+    "features": [
+      "Runtime Host: Provides the .NET runtime host for version 8.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports running .NET applications targeting version 8.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --version",
+      "uninstall_the_game": "pkg uninstall dotnet-host-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-host-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Host 9.0 provides the .NET runtime host for version 9.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-host-9.0",
+    "usage": "After installing dotnet-host-9.0, you can use it to run .NET applications targeting version 9.0.",
+    "features": [
+      "Runtime Host: Provides the .NET runtime host for version 9.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports running .NET applications targeting version 9.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --version",
+      "uninstall_the_game": "pkg uninstall dotnet-host-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-host",
+    "version": "9.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Dotnet Host provides the .NET runtime host.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-host",
+    "usage": "After installing dotnet-host, you can use it to run .NET applications.",
+    "features": [
+      "Runtime Host: Provides the .NET runtime host.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports running .NET applications."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --version",
+      "uninstall_the_game": "pkg uninstall dotnet-host"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-hostfxr-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Host FXR 8.0 provides the .NET Core host resolver for version 8.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-hostfxr-8.0",
+    "usage": "After installing dotnet-hostfxr-8.0, you can use it as the host resolver for .NET Core applications targeting version 8.0.",
+    "features": [
+      "Host Resolver: Provides the .NET Core host resolver for version 8.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports running and resolving .NET Core applications targeting version 8.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --list-runtimes",
+      "uninstall_the_game": "pkg uninstall dotnet-hostfxr-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-hostfxr-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Host FXR 9.0 provides the .NET Core host resolver for version 9.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-hostfxr-9.0",
+    "usage": "After installing dotnet-hostfxr-9.0, you can use it as the host resolver for .NET Core applications targeting version 9.0.",
+    "features": [
+      "Host Resolver: Provides the .NET Core host resolver for version 9.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports running and resolving .NET Core applications targeting version 9.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --list-runtimes",
+      "uninstall_the_game": "pkg uninstall dotnet-hostfxr-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-runtime-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Runtime 8.0 provides the .NET Core runtime for version 8.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-runtime-8.0",
+    "usage": "After installing dotnet-runtime-8.0, you can use it to run .NET Core applications targeting version 8.0.",
+    "features": [
+      "Runtime: Provides the .NET Core runtime for version 8.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports running .NET Core applications targeting version 8.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --version",
+      "uninstall_the_game": "pkg uninstall dotnet-runtime-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-runtime-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Runtime 9.0 provides the .NET Core runtime for version 9.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-runtime-9.0",
+    "usage": "After installing dotnet-runtime-9.0, you can use it to run .NET Core applications targeting version 9.0.",
+    "features": [
+      "Runtime: Provides the .NET Core runtime for version 9.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports running .NET Core applications targeting version 9.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --version",
+      "uninstall_the_game": "pkg uninstall dotnet-runtime-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-runtime-dbg-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Runtime Debug 8.0 provides the .NET Core runtime with debugging symbols for version 8.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-runtime-dbg-8.0",
+    "usage": "After installing dotnet-runtime-dbg-8.0, you can use it to debug .NET Core applications targeting version 8.0.",
+    "features": [
+      "Runtime with Debug Symbols: Provides the .NET Core runtime with debugging symbols for version 8.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports debugging .NET Core applications targeting version 8.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development and debugging for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --info",
+      "uninstall_the_game": "pkg uninstall dotnet-runtime-dbg-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-runtime-dbg-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Runtime Debug 9.0 provides the .NET Core runtime with debugging symbols for version 9.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-runtime-dbg-9.0",
+    "usage": "After installing dotnet-runtime-dbg-9.0, you can use it to debug .NET Core applications targeting version 9.0.",
+    "features": [
+      "Runtime with Debug Symbols: Provides the .NET Core runtime with debugging symbols for version 9.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports debugging .NET Core applications targeting version 9.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development and debugging for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet --info",
+      "uninstall_the_game": "pkg uninstall dotnet-runtime-dbg-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-sdk-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet SDK 8.0 provides the .NET Core SDK for version 8.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-sdk-8.0",
+    "usage": "After installing dotnet-sdk-8.0, you can use it to develop .NET Core applications targeting version 8.0.",
+    "features": [
+      "SDK: Provides the .NET Core SDK for version 8.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports developing .NET Core applications targeting version 8.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new console -o MyApp",
+      "uninstall_the_game": "pkg uninstall dotnet-sdk-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-sdk-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet SDK 9.0 provides the .NET Core SDK for version 9.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-sdk-9.0",
+    "usage": "After installing dotnet-sdk-9.0, you can use it to develop .NET Core applications targeting version 9.0.",
+    "features": [
+      "SDK: Provides the .NET Core SDK for version 9.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports developing .NET Core applications targeting version 9.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new console -o MyApp",
+      "uninstall_the_game": "pkg uninstall dotnet-sdk-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-sdk-dbg-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet SDK Debug 8.0 provides the .NET Core SDK with debugging symbols for version 8.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-sdk-dbg-8.0",
+    "usage": "After installing dotnet-sdk-dbg-8.0, you can use it to develop and debug .NET Core applications targeting version 8.0.",
+    "features": [
+      "SDK with Debug Symbols: Provides the .NET Core SDK with debugging symbols for version 8.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports developing and debugging .NET Core applications targeting version 8.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development and debugging for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new console -o MyApp",
+      "uninstall_the_game": "pkg uninstall dotnet-sdk-dbg-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-sdk-dbg-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet SDK Debug 9.0 provides the .NET Core SDK with debugging symbols for version 9.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-sdk-dbg-9.0",
+    "usage": "After installing dotnet-sdk-dbg-9.0, you can use it to develop and debug .NET Core applications targeting version 9.0.",
+    "features": [
+      "SDK with Debug Symbols: Provides the .NET Core SDK with debugging symbols for version 9.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports developing and debugging .NET Core applications targeting version 9.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development and debugging for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new console -o MyApp",
+      "uninstall_the_game": "pkg uninstall dotnet-sdk-dbg-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-targeting-pack-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Targeting Pack 8.0 provides the .NET Core targeting pack for version 8.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-targeting-pack-8.0",
+    "usage": "After installing dotnet-targeting-pack-8.0, you can use it to target .NET Core applications for version 8.0.",
+    "features": [
+      "Targeting Pack: Provides the .NET Core targeting pack for version 8.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports targeting .NET Core applications for version 8.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new classlib -f net8.0",
+      "uninstall_the_game": "pkg uninstall dotnet-targeting-pack-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-targeting-pack-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Targeting Pack 9.0 provides the .NET Core targeting pack for version 9.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-targeting-pack-9.0",
+    "usage": "After installing dotnet-targeting-pack-9.0, you can use it to target .NET Core applications for version 9.0.",
+    "features": [
+      "Targeting Pack: Provides the .NET Core targeting pack for version 9.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports targeting .NET Core applications for version 9.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new classlib -f net9.0",
+      "uninstall_the_game": "pkg uninstall dotnet-targeting-pack-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-templates-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Templates 8.0 provides project templates for .NET Core 8.0 applications.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-templates-8.0",
+    "usage": "After installing dotnet-templates-8.0, you can use it to create .NET Core 8.0 projects from templates.",
+    "features": [
+      "Project Templates: Provides project templates for .NET Core 8.0 applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports creating .NET Core 8.0 projects from templates."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new console -o MyApp",
+      "uninstall_the_game": "pkg uninstall dotnet-templates-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet-templates-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet Templates 9.0 provides project templates for .NET Core 9.0 applications.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet-templates-9.0",
+    "usage": "After installing dotnet-templates-9.0, you can use it to create .NET Core 9.0 projects from templates.",
+    "features": [
+      "Project Templates: Provides project templates for .NET Core 9.0 applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports creating .NET Core 9.0 projects from templates."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new console -o MyApp",
+      "uninstall_the_game": "pkg uninstall dotnet-templates-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet 8.0 provides the .NET Core SDK and runtime for version 8.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet8.0",
+    "usage": "After installing dotnet8.0, you can use it to develop and run .NET Core applications targeting version 8.0.",
+    "features": [
+      "SDK and Runtime: Provides the .NET Core SDK and runtime for version 8.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports developing and running .NET Core applications targeting version 8.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new console -o MyApp",
+      "uninstall_the_game": "pkg uninstall dotnet8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dotnet9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dotnet 9.0 provides the .NET Core SDK and runtime for version 9.0.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install dotnet9.0",
+    "usage": "After installing dotnet9.0, you can use it to develop and run .NET Core applications targeting version 9.0.",
+    "features": [
+      "SDK and Runtime: Provides the .NET Core SDK and runtime for version 9.0.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Development: Supports developing and running .NET Core applications targeting version 9.0."
+    ],
+    "additional_resources": "For more information, visit the .NET documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to .NET development for support and discussions.",
+      "GitHub": "Visit the .NET GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new console -o MyApp",
+      "uninstall_the_game": "pkg uninstall dotnet9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "double-conversion",
+    "version": "3.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Double-conversion provides binary-decimal and decimal-binary routines for IEEE doubles.",
+    "homepage": "https://github.com/google/double-conversion",
+    "installation": "pkg install double-conversion",
+    "usage": "After installing double-conversion, you can use it for efficient binary-decimal and decimal-binary conversions.",
+    "features": [
+      "Binary-Decimal Conversion: Provides efficient routines for binary-decimal and decimal-binary conversions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Performance: Designed for efficient and accurate conversions."
+    ],
+    "additional_resources": "For more information, visit the Double-conversion documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and floating-point conversions for support and discussions.",
+      "GitHub": "Visit the Double-conversion GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall double-conversion"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "doxygen",
+    "version": "1.13.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Doxygen is a documentation generator for C++, C, Java, and other programming languages.",
+    "homepage": "https://www.doxygen.nl/",
+    "installation": "pkg install doxygen",
+    "usage": "After installing doxygen, you can use it to generate documentation for your source code.",
+    "features": [
+      "Documentation Generator: Generates documentation for C++, C, Java, and other programming languages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Supports various output formats including HTML, PDF, and more."
+    ],
+    "additional_resources": "For more information, visit the Doxygen documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to code documentation and Doxygen for support and discussions.",
+      "GitHub": "Visit the Doxygen GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "doxygen <config_file>",
+      "uninstall_the_game": "pkg uninstall doxygen"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dpkg-perl",
+    "version": "1.22.6-3",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Dpkg-perl provides Perl modules used for interfacing with dpkg, the Debian package management system.",
+    "homepage": "https://wiki.debian.org/Teams/Dpkg",
+    "installation": "pkg install dpkg-perl",
+    "usage": "After installing dpkg-perl, you can use it to interface with dpkg in Perl scripts.",
+    "features": [
+      "Perl Modules: Provides Perl modules for interfacing with dpkg.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Debian Package Management: Supports managing Debian packages using Perl."
+    ],
+    "additional_resources": "For more information, visit the Dpkg-perl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Debian package management and Perl programming for support and discussions.",
+      "GitHub": "Visit the Dpkg-perl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall dpkg-perl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dpkg-scanpackages",
+    "version": "1.22.6-3",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Dpkg-scanpackages creates the Packages file required by the Debian package management tools.",
+    "homepage": "https://wiki.debian.org/Teams/Dpkg",
+    "installation": "pkg install dpkg-scanpackages",
+    "usage": "After installing dpkg-scanpackages, you can use it to create the Packages file for a Debian repository.",
+    "features": [
+      "Packages File Creation: Creates the Packages file required by Debian package management tools.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Debian Repository Management: Supports managing Debian repositories."
+    ],
+    "additional_resources": "For more information, visit the Dpkg-scanpackages documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Debian package management and repository management for support and discussions.",
+      "GitHub": "Visit the Dpkg-scanpackages GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dpkg-scanpackages <directory> /dev/null > Packages",
+      "uninstall_the_game": "pkg uninstall dpkg-scanpackages"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dpkg",
+    "version": "1.22.6-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dpkg is the Debian package manager.",
+    "homepage": "https://wiki.debian.org/Teams/Dpkg",
+    "installation": "pkg install dpkg",
+    "usage": "After installing dpkg, you can use it to manage Debian packages.",
+    "features": [
+      "Package Management: Provides tools for managing Debian packages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Includes various utilities for package installation, removal, and querying."
+    ],
+    "additional_resources": "For more information, visit the Dpkg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Debian package management for support and discussions.",
+      "GitHub": "Visit the Dpkg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dpkg -i <package.deb>",
+      "uninstall_the_game": "pkg uninstall dpkg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dropbear",
+    "version": "2024.86",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dropbear is a lightweight SSH server and client.",
+    "homepage": "https://matt.ucc.asn.au/dropbear/dropbear.html",
+    "installation": "pkg install dropbear",
+    "usage": "After installing dropbear, you can use it as an SSH server or client.",
+    "features": [
+      "SSH Server and Client: Provides a lightweight SSH server and client.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Lightweight: Designed to be lightweight and efficient for embedded systems."
+    ],
+    "additional_resources": "For more information, visit the Dropbear documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SSH and network security for support and discussions.",
+      "GitHub": "Visit the Dropbear GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dropbear -R",
+      "uninstall_the_game": "pkg uninstall dropbear"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dtach",
+    "version": "0.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dtach is a program that emulates the detach feature of screen.",
+    "homepage": "https://dtach.sourceforge.io/",
+    "installation": "pkg install dtach",
+    "usage": "After installing dtach, you can use it to detach and reattach programs.",
+    "features": [
+      "Program Detachment: Emulates the detach feature of screen.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Lightweight: Designed to be a simple and lightweight alternative to screen."
+    ],
+    "additional_resources": "For more information, visit the Dtach documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal multiplexers and detachment tools for support and discussions.",
+      "GitHub": "Visit the Dtach GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dtach -A /tmp/session_name <command>",
+      "uninstall_the_game": "pkg uninstall dtach"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dtc-static",
+    "version": "1.7.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "DTC (Device Tree Compiler) is a toolchain for working with device tree source files. This is the statically linked version.",
+    "homepage": "https://www.devicetree.org/",
+    "installation": "pkg install dtc-static",
+    "usage": "After installing dtc-static, you can use it to compile and manipulate device tree source files.",
+    "features": [
+      "Device Tree Compilation: Provides tools for compiling and manipulating device tree source files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "additional_resources": "For more information, visit the DTC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to device trees and embedded systems for support and discussions.",
+      "GitHub": "Visit the DTC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dtc -I dts -O dtb -o <output_file.dtb> <input_file.dts>",
+      "uninstall_the_game": "pkg uninstall dtc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dtc",
+    "version": "1.7.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "DTC (Device Tree Compiler) is a toolchain for working with device tree source files.",
+    "homepage": "https://www.devicetree.org/",
+    "installation": "pkg install dtc",
+    "usage": "After installing dtc, you can use it to compile and manipulate device tree source files.",
+    "features": [
+      "Device Tree Compilation: Provides tools for compiling and manipulating device tree source files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "additional_resources": "For more information, visit the DTC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to device trees and embedded systems for support and discussions.",
+      "GitHub": "Visit the DTC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dtc -I dts -O dtb -o <output_file.dtb> <input_file.dts>",
+      "uninstall_the_game": "pkg uninstall dtc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dte",
+    "version": "1.11.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dte is a small, configurable text editor for the console.",
+    "homepage": "https://craigbarnes.gitlab.io/dte/",
+    "installation": "pkg install dte",
+    "usage": "After installing dte, you can use it to edit text files in the console.",
+    "features": [
+      "Text Editing: Provides a small, configurable text editor for the console.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Offers various options for customization and configuration."
+    ],
+    "additional_resources": "For more information, visit the Dte documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editors and console applications for support and discussions.",
+      "GitHub": "Visit the Dte GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dte <file>",
+      "uninstall_the_game": "pkg uninstall dte"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dua",
+    "version": "2.30.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dua (Disk Usage Analyzer) is a tool to conveniently learn about the usage of disk space.",
+    "homepage": "https://github.com/Byron/dua-cli",
+    "installation": "pkg install dua",
+    "usage": "After installing dua, you can use it to analyze disk usage.",
+    "features": [
+      "Disk Usage Analysis: Provides a tool to conveniently learn about the usage of disk space.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "User-Friendly: Offers a simple and intuitive interface for disk usage analysis."
+    ],
+    "additional_resources": "For more information, visit the Dua documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disk usage analysis and system utilities for support and discussions.",
+      "GitHub": "Visit the Dua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dua",
+      "uninstall_the_game": "pkg uninstall dua"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "duc",
+    "version": "1.4.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Duc is a collection of tools for indexing, inspecting, and visualizing disk usage.",
+    "homepage": "https://duc.zevv.nl/",
+    "installation": "pkg install duc",
+    "usage": "After installing duc, you can use it to index, inspect, and visualize disk usage.",
+    "features": [
+      "Disk Usage Tools: Provides tools for indexing, inspecting, and visualizing disk usage.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Visualization: Offers various options for visualizing disk usage."
+    ],
+    "additional_resources": "For more information, visit the Duc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disk usage analysis and visualization tools for support and discussions.",
+      "GitHub": "Visit the Duc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "duc index",
+      "uninstall_the_game": "pkg uninstall duc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "duckdb",
+    "version": "1.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "DuckDB is an in-process SQL OLAP database management system.",
+    "homepage": "https://duckdb.org/",
+    "installation": "pkg install duckdb",
+    "usage": "After installing duckdb, you can use it to manage SQL OLAP databases.",
+    "features": [
+      "SQL OLAP Database: Provides an in-process SQL OLAP database management system.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Performance: Designed for high performance and efficiency."
+    ],
+    "additional_resources": "For more information, visit the DuckDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SQL databases and OLAP systems for support and discussions.",
+      "GitHub": "Visit the DuckDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "duckdb <database_file>",
+      "uninstall_the_game": "pkg uninstall duckdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "duf",
+    "version": "0.8.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Duf is a disk usage/free utility with a user-friendly interface.",
+    "homepage": "https://github.com/muesli/duf",
+    "installation": "pkg install duf",
+    "usage": "After installing duf, you can use it to check disk usage and free space.",
+    "features": [
+      "Disk Usage/Free: Provides a utility for checking disk usage and free space.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "User-Friendly: Offers a simple and intuitive interface for disk usage and free space information."
+    ],
+    "additional_resources": "For more information, visit the Duf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disk usage and system utilities for support and discussions.",
+      "GitHub": "Visit the Duf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "duf",
+      "uninstall_the_game": "pkg uninstall duf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dufs",
+    "version": "0.43.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dufs is a simple, fast, and user-friendly static file server.",
+    "homepage": "https://github.com/sigoden/dufs",
+    "installation": "pkg install dufs",
+    "usage": "After installing dufs, you can use it to serve static files.",
+    "features": [
+      "Static File Server: Provides a simple, fast, and user-friendly static file server.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "User-Friendly: Offers a simple and intuitive interface for serving static files."
+    ],
+    "additional_resources": "For more information, visit the Dufs documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to static file servers and web development for support and discussions.",
+      "GitHub": "Visit the Dufs GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dufs",
+      "uninstall_the_game": "pkg uninstall dufs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "duktape",
+    "version": "2.7.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Duktape is an embeddable JavaScript engine with a focus on portability and compact footprint.",
+    "homepage": "https://duktape.org/",
+    "installation": "pkg install duktape",
+    "usage": "After installing duktape, you can use it to run JavaScript code in embedded systems.",
+    "features": [
+      "JavaScript Engine: Provides an embeddable JavaScript engine.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Compact Footprint: Designed for portability and a compact footprint."
+    ],
+    "additional_resources": "For more information, visit the Duktape documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JavaScript engines and embedded systems for support and discussions.",
+      "GitHub": "Visit the Duktape GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "duktape <script.js>",
+      "uninstall_the_game": "pkg uninstall duktape"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dust",
+    "version": "1.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dust is a more intuitive version of du written in Rust.",
+    "homepage": "https://github.com/bootandy/dust",
+    "installation": "pkg install dust",
+    "usage": "After installing dust, you can use it to check disk usage.",
+    "features": [
+      "Disk Usage: Provides a more intuitive version of du.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "User-Friendly: Offers a simple and intuitive interface for disk usage information."
+    ],
+    "additional_resources": "For more information, visit the Dust documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disk usage and system utilities for support and discussions.",
+      "GitHub": "Visit the Dust GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dust",
+      "uninstall_the_game": "pkg uninstall dust"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dvdauthor",
+    "version": "0.7.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dvdauthor is a set of tools to help author a DVD.",
+    "homepage": "http://dvdauthor.sourceforge.net/",
+    "installation": "pkg install dvdauthor",
+    "usage": "After installing dvdauthor, you can use it to create DVDs from video files.",
+    "features": [
+      "DVD Authoring: Provides tools to help author a DVD.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Includes various utilities for DVD creation."
+    ],
+    "additional_resources": "For more information, visit the Dvdauthor documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DVD authoring and video editing for support and discussions.",
+      "GitHub": "Visit the Dvdauthor GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dvdauthor -o <output_dir> -t <video_file>",
+      "uninstall_the_game": "pkg uninstall dvdauthor"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dvtm",
+    "version": "0.15-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dvtm is a dynamic virtual terminal manager.",
+    "homepage": "https://www.brain-dump.org/projects/dvtm/",
+    "installation": "pkg install dvtm",
+    "usage": "After installing dvtm, you can use it to manage multiple terminal windows within a single terminal session.",
+    "features": [
+      "Terminal Manager: Provides a dynamic virtual terminal manager.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "User-Friendly: Offers a simple and intuitive interface for managing terminal windows."
+    ],
+    "additional_resources": "For more information, visit the Dvtm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal managers and command-line tools for support and discussions.",
+      "GitHub": "Visit the Dvtm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dvtm",
+      "uninstall_the_game": "pkg uninstall dvtm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dwarves",
+    "version": "1.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dwarves is a set of tools that use the debugging information inserted in ELF binaries by compilers.",
+    "homepage": "https://fedoraproject.org/wiki/Features/DwarfTools",
+    "installation": "pkg install dwarves",
+    "usage": "After installing dwarves, you can use it to analyze and manipulate debugging information in ELF binaries.",
+    "features": [
+      "Debugging Tools: Provides tools that use the debugging information in ELF binaries.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Includes various utilities for debugging and analysis."
+    ],
+    "additional_resources": "For more information, visit the Dwarves documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and ELF binaries for support and discussions.",
+      "GitHub": "Visit the Dwarves GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dwarves <binary_file>",
+      "uninstall_the_game": "pkg uninstall dwarves"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dx",
+    "version": "1.16-7",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "DX is a tool for managing and manipulating Dalvik Executable (DEX) files.",
+    "homepage": "https://source.android.com/devices/tech/dalvik",
+    "installation": "pkg install dx",
+    "usage": "After installing dx, you can use it to manage and manipulate DEX files.",
+    "features": [
+      "DEX File Management: Provides tools for managing and manipulating Dalvik Executable (DEX) files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Includes various utilities for DEX file manipulation."
+    ],
+    "additional_resources": "For more information, visit the DX documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Android development and DEX files for support and discussions.",
+      "GitHub": "Visit the DX GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dx --dex --output=<output_file> <input_files>",
+      "uninstall_the_game": "pkg uninstall dx"
+    },
+    "isFavorite": false
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "name": "yadm",
+    "version": "3.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "yadm (Yet Another Dotfiles Manager) is a tool for managing your dotfiles.",
+    "homepage": "https://yadm.io/",
+    "installation": "pkg install yadm",
+    "usage": "After installing yadm, you can use it to manage your dotfiles.",
+    "features": [
+      "Dotfiles Management: Provides tools for managing your dotfiles.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official yadm website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to dotfiles management for support and discussions.",
+      "GitHub": "Search for repositories or forks of yadm to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "clone_dotfiles": "yadm clone URL",
+      "uninstall": "pkg uninstall yadm"
+    }
+  },
+  {
+    "name": "yajl-static",
+    "version": "2.1.0-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "yajl-static provides a static library version of YAJL (Yet Another JSON Library), a small event-driven (SAX-style) JSON parser in C.",
+    "homepage": "https://github.com/lloyd/yajl",
+    "installation": "pkg install yajl-static",
+    "usage": "After installing yajl-static, you can link it with your applications to use YAJL functionalities.",
+    "features": [
+      "JSON Parsing: Provides a static library for parsing JSON in C.",
+      "Event-Driven: Uses a small event-driven (SAX-style) JSON parser.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to JSON parsing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lyajl",
+      "uninstall": "pkg uninstall yajl-static"
+    }
+  },
+  {
+    "name": "yajl",
+    "version": "2.1.0-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "YAJL (Yet Another JSON Library) is a small event-driven (SAX-style) JSON parser in C.",
+    "homepage": "https://github.com/lloyd/yajl",
+    "installation": "pkg install yajl",
+    "usage": "After installing yajl, you can use it to parse JSON in C applications.",
+    "features": [
+      "JSON Parsing: Provides tools for parsing JSON in C.",
+      "Event-Driven: Uses a small event-driven (SAX-style) JSON parser.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to JSON parsing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_json": "Include YAJL in your C projects.",
+      "uninstall": "pkg uninstall yajl"
+    }
+  },
+  {
+    "name": "yara-static",
+    "version": "4.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "yara-static provides a static library version of YARA, a tool aimed at helping malware researchers identify and classify malware samples.",
+    "homepage": "https://github.com/VirusTotal/yara",
+    "installation": "pkg install yara-static",
+    "usage": "After installing yara-static, you can link it with your applications to use YARA functionalities.",
+    "features": [
+      "Malware Research: Provides a static library for identifying and classifying malware samples.",
+      "Pattern Matching: Uses pattern matching to identify malware.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to malware research for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lyara",
+      "uninstall": "pkg uninstall yara-static"
+    }
+  },
+  {
+    "name": "yara",
+    "version": "4.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "YARA is a tool aimed at helping malware researchers identify and classify malware samples.",
+    "homepage": "https://github.com/VirusTotal/yara",
+    "installation": "pkg install yara",
+    "usage": "After installing YARA, you can use it to identify and classify malware samples.",
+    "features": [
+      "Malware Research: Provides tools for identifying and classifying malware samples.",
+      "Pattern Matching: Uses pattern matching to identify malware.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to malware research for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "scan_for_malware": "yara -r rules.yar /path/to/scan",
+      "uninstall": "pkg uninstall yara"
+    }
+  },
+  {
+    "name": "yarn",
+    "version": "1.22.22",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Yarn is a fast, reliable, and secure dependency management tool for JavaScript.",
+    "homepage": "https://yarnpkg.com/",
+    "installation": "pkg install yarn",
+    "usage": "After installing yarn, you can use it to manage dependencies in JavaScript projects.",
+    "features": [
+      "Dependency Management: Provides tools for managing dependencies in JavaScript projects.",
+      "Fast and Reliable: Ensures fast and reliable package installations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Yarn website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to JavaScript development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Yarn to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_dependencies": "yarn install",
+      "add_dependency": "yarn add package_name",
+      "uninstall": "pkg uninstall yarn"
+    }
+  },
+  {
+    "name": "yasm-static",
+    "version": "1.3.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "yasm-static provides a static library version of YASM, a modular assembler for x86 and x86-64 architectures.",
+    "homepage": "https://yasm.tortall.net/",
+    "installation": "pkg install yasm-static",
+    "usage": "After installing yasm-static, you can link it with your applications to use YASM functionalities.",
+    "features": [
+      "Assembler: Provides a static library for assembling x86 and x86-64 code.",
+      "Modular: Designed to be modular and flexible.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official YASM website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to assembly language programming for support and discussions.",
+      "GitHub": "Search for repositories or forks of YASM to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.asm -lyasm",
+      "uninstall": "pkg uninstall yasm-static"
+    }
+  },
+  {
+    "name": "yasm",
+    "version": "1.3.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "YASM is a modular assembler for x86 and x86-64 architectures.",
+    "homepage": "https://yasm.tortall.net/",
+    "installation": "pkg install yasm",
+    "usage": "After installing yasm, you can use it to assemble x86 and x86-64 code.",
+    "features": [
+      "Assembler: Provides tools for assembling x86 and x86-64 code.",
+      "Modular: Designed to be modular and flexible.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official YASM website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to assembly language programming for support and discussions.",
+      "GitHub": "Search for repositories or forks of YASM to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "assemble_code": "yasm -f elf64 file.asm",
+      "uninstall": "pkg uninstall yasm"
+    }
+  },
+  {
+    "name": "yazi",
+    "version": "0.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "yazi is a terminal file manager written in Rust.",
+    "homepage": "https://github.com/sxyazi/yazi",
+    "installation": "pkg install yazi",
+    "usage": "After installing yazi, you can use it to manage files from the terminal.",
+    "features": [
+      "File Manager: Provides a terminal-based file manager.",
+      "Written in Rust: Built with Rust for performance and safety.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_yazi": "yazi",
+      "uninstall": "pkg uninstall yazi"
+    }
+  },
+  {
+    "name": "yosys",
+    "version": "0.48",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Yosys is a framework for Verilog RTL synthesis.",
+    "homepage": "http://www.clifford.at/yosys/",
+    "installation": "pkg install yosys",
+    "usage": "After installing yosys, you can use it for Verilog RTL synthesis.",
+    "features": [
+      "RTL Synthesis: Provides tools for Verilog RTL synthesis.",
+      "Framework: Designed to be a flexible synthesis framework.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Yosys website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to hardware design for support and discussions.",
+      "GitHub": "Search for repositories or forks of Yosys to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "synthesize_verilog": "yosys -p 'synth; write_verilog output.v' input.v",
+      "uninstall": "pkg uninstall yosys"
+    }
+  },
+  {
+    "name": "youtubedr",
+    "version": "2.10.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "youtubedr is a Go library for downloading YouTube videos.",
+    "homepage": "https://github.com/kkdai/youtube",
+    "installation": "pkg install youtubedr",
+    "usage": "After installing youtubedr, you can use it to download YouTube videos.",
+    "features": [
+      "Video Downloading: Provides tools for downloading YouTube videos.",
+      "Written in Go: Built with Go for performance.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to video downloading for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "download_video": "youtubedr download URL",
+      "uninstall": "pkg uninstall youtubedr"
+    }
+  },
+  {
+    "name": "yq",
+    "version": "4.45.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "yq is a lightweight and portable command-line YAML processor.",
+    "homepage": "https://github.com/mikefarah/yq",
+    "installation": "pkg install yq",
+    "usage": "After installing yq, you can use it to process YAML files from the command line.",
+    "features": [
+      "YAML Processing: Provides tools for processing YAML files.",
+      "Command-Line Tool: Lightweight and portable command-line tool.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to YAML processing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "read_yaml": "yq e '.key' file.yaml",
+      "write_yaml": "yq e '.key = \"value\"' -i file.yaml",
+      "uninstall": "pkg uninstall yq"
+    }
+  },
+  {
+    "name": "ytfzf",
+    "version": "2.6.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "ytfzf is a POSIX script that allows you to search and play YouTube videos from the terminal.",
+    "homepage": "https://github.com/pystardust/ytfzf",
+    "installation": "pkg install ytfzf",
+    "usage": "After installing ytfzf, you can use it to search and play YouTube videos from the terminal.",
+    "features": [
+      "YouTube Search: Provides tools for searching YouTube videos from the terminal.",
+      "Video Playback: Allows playing YouTube videos from the terminal.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_videos": "ytfzf -t 'search query'",
+      "uninstall": "pkg uninstall ytfzf"
+    }
+  },
+  {
+    "name": "ytui-music",
+    "version": "2.0.0-beta-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ytui-music is a terminal-based YouTube music player.",
+    "homepage": "https://github.com/ytui-music/ytui",
+    "installation": "pkg install ytui-music",
+    "usage": "After installing ytui-music, you can use it to play YouTube music from the terminal.",
+    "features": [
+      "YouTube Music Player: Provides a terminal-based player for YouTube music.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_music": "ytui-music 'song name'",
+      "uninstall": "pkg uninstall ytui-music"
+    }
+  },
+  {
+    "name": "yuma123-static",
+    "version": "2.13-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "yuma123-static provides a static library version of Yuma123, a YANG data modeling language library and tools.",
+    "homepage": "https://sourceforge.net/projects/yuma123/",
+    "installation": "pkg install yuma123-static",
+    "usage": "After installing yuma123-static, you can link it with your applications to use Yuma123 functionalities.",
+    "features": [
+      "YANG Data Modeling: Provides a static library for YANG data modeling language.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data modeling for support and discussions.",
+      "GitHub": "Search for repositories or forks of Yuma123 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lyuma123",
+      "uninstall": "pkg uninstall yuma123-static"
+    }
+  },
+  {
+    "name": "yuma123",
+    "version": "2.13-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Yuma123 is a YANG data modeling language library and tools.",
+    "homepage": "https://sourceforge.net/projects/yuma123/",
+    "installation": "pkg install yuma123",
+    "usage": "After installing Yuma123, you can use it for YANG data modeling.",
+    "features": [
+      "YANG Data Modeling: Provides tools for YANG data modeling language.",
+      "Library and Tools: Includes both a library and tools for data modeling.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data modeling for support and discussions.",
+      "GitHub": "Search for repositories or forks of Yuma123 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_yuma123": "Include Yuma123 in your YANG data modeling projects.",
+      "uninstall": "pkg uninstall yuma123"
+    }
+  }
+]

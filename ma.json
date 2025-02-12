@@ -1,0 +1,1252 @@
+[
+  {
+    "name": "mediamtx",
+    "version": "1.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mediamtx is a media server that supports streaming protocols such as RTSP, RTMP, and HLS.",
+    "homepage": "https://github.com/bluenviron/mediamtx",
+    "installation": "pkg install mediamtx",
+    "usage": "After installing mediamtx, you can start the server by typing: mediamtx",
+    "features": [
+      "Streaming Protocols: Supports RTSP, RTMP, and HLS streaming protocols.",
+      "Media Server: Acts as a media server for streaming applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to media servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "mediamtx",
+      "uninstall": "pkg uninstall mediamtx"
+    }
+  },
+  {
+    "name": "megacmd",
+    "version": "1.7.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "megacmd is a command line tool for interacting with the MEGA cloud storage service.",
+    "homepage": "https://github.com/meganz/MEGAcmd",
+    "installation": "pkg install megacmd",
+    "usage": "After installing megacmd, you can use it to manage your MEGA cloud storage from the command line.",
+    "features": [
+      "Cloud Storage: Manage your MEGA cloud storage from the command line.",
+      "Command Line Tool: Use the command line to interact with the MEGA service.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cloud storage for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "login": "megacmd login",
+      "upload_file": "megacmd put localfile.txt /remote/path/",
+      "uninstall": "pkg uninstall megacmd"
+    }
+  },
+  {
+    "name": "megatools",
+    "version": "1.11.1.20230212",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "megatools is a collection of command line tools for interacting with the MEGA cloud storage service.",
+    "homepage": "https://github.com/megous/megatools",
+    "installation": "pkg install megatools",
+    "usage": "After installing megatools, you can use the tools to manage your MEGA cloud storage from the command line.",
+    "features": [
+      "Cloud Storage: Manage your MEGA cloud storage from the command line.",
+      "Command Line Tools: Use command line tools to interact with the MEGA service.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cloud storage for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "login": "megatools login",
+      "upload_file": "megatools put localfile.txt /remote/path/",
+      "uninstall": "pkg uninstall megatools"
+    }
+  },
+  {
+    "name": "memcached",
+    "version": "1.6.34",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "memcached is a high-performance, distributed memory object caching system, used to speed up dynamic web applications by alleviating database load.",
+    "homepage": "https://memcached.org/",
+    "installation": "pkg install memcached",
+    "usage": "After installing memcached, you can start the server by typing: memcached",
+    "features": [
+      "Distributed Cache: Provides a high-performance, distributed memory object caching system.",
+      "Database Load Reduction: Reduces database load to speed up dynamic web applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to caching systems for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "memcached",
+      "uninstall": "pkg uninstall memcached"
+    }
+  },
+  {
+    "name": "mercury-static",
+    "version": "22.01.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mercury-static is a static library for the Mercury programming language, which is designed for real-time and embedded applications.",
+    "homepage": "https://mercurylang.org/",
+    "installation": "pkg install mercury-static",
+    "usage": "After installing mercury-static, you can link it with your applications for real-time and embedded programming.",
+    "features": [
+      "Static Library: Provides a static library for the Mercury programming language.",
+      "Real-Time and Embedded: Designed for real-time and embedded applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to programming languages for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lmercury",
+      "uninstall": "pkg uninstall mercury-static"
+    }
+  },
+  {
+    "name": "mercury",
+    "version": "22.01.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mercury is a programming language designed for real-time and embedded applications.",
+    "homepage": "https://mercurylang.org/",
+    "installation": "pkg install mercury",
+    "usage": "After installing mercury, you can use it to develop real-time and embedded applications.",
+    "features": [
+      "Programming Language: Designed for real-time and embedded applications.",
+      "High Performance: Provides high performance for real-time systems.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to programming languages for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_code": "mercury myapp.m",
+      "uninstall": "pkg uninstall mercury"
+    }
+  },
+  {
+    "name": "mesa-dev",
+    "version": "24.3.4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "mesa-dev is a development package for the Mesa 3D Graphics Library, providing headers and other development files.",
+    "homepage": "https://mesa3d.org/",
+    "installation": "pkg install mesa-dev",
+    "usage": "After installing mesa-dev, you can use it to develop applications using the Mesa 3D Graphics Library.",
+    "features": [
+      "Development Package: Provides headers and development files for the Mesa 3D Graphics Library.",
+      "3D Graphics: Used for developing 3D graphics applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to 3D graphics development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_headers": "pkg install mesa-dev",
+      "uninstall": "pkg uninstall mesa-dev"
+    }
+  },
+  {
+    "name": "mesa-vulkan-icd-freedreno-dri3",
+    "version": "24.0.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mesa-vulkan-icd-freedreno-dri3 is a Vulkan ICD (Installable Client Driver) for the Freedreno driver with DRI3 support.",
+    "homepage": "https://mesa3d.org/",
+    "installation": "pkg install mesa-vulkan-icd-freedreno-dri3",
+    "usage": "After installing mesa-vulkan-icd-freedreno-dri3, you can use it for Vulkan applications with DRI3 support on Freedreno.",
+    "features": [
+      "Vulkan ICD: Provides Vulkan Installable Client Driver for Freedreno.",
+      "DRI3 Support: Supports DRI3 for improved performance.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to 3D graphics development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_driver": "pkg install mesa-vulkan-icd-freedreno-dri3",
+      "uninstall": "pkg uninstall mesa-vulkan-icd-freedreno-dri3"
+    }
+  },
+  {
+    "name": "mesa-vulkan-icd-freedreno",
+    "version": "24.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mesa-vulkan-icd-freedreno is a Vulkan ICD (Installable Client Driver) for the Freedreno driver.",
+    "homepage": "https://mesa3d.org/",
+    "installation": "pkg install mesa-vulkan-icd-freedreno",
+    "usage": "After installing mesa-vulkan-icd-freedreno, you can use it for Vulkan applications on Freedreno.",
+    "features": [
+      "Vulkan ICD: Provides Vulkan Installable Client Driver for Freedreno.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to 3D graphics development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_driver": "pkg install mesa-vulkan-icd-freedreno",
+      "uninstall": "pkg uninstall mesa-vulkan-icd-freedreno"
+    }
+  },
+  {
+    "name": "mesa-vulkan-icd-swrast",
+    "version": "24.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mesa-vulkan-icd-swrast is a Vulkan ICD (Installable Client Driver) for the SWRast driver.",
+    "homepage": "https://mesa3d.org/",
+    "installation": "pkg install mesa-vulkan-icd-swrast",
+    "usage": "After installing mesa-vulkan-icd-swrast, you can use it for Vulkan applications on SWRast.",
+    "features": [
+      "Vulkan ICD: Provides Vulkan Installable Client Driver for SWRast.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to 3D graphics development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_driver": "pkg install mesa-vulkan-icd-swrast",
+      "uninstall": "pkg uninstall mesa-vulkan-icd-swrast"
+    }
+  },
+  {
+    "name": "mesa",
+    "version": "24.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mesa is a 3D Graphics Library that provides an open-source implementation of the OpenGL, Vulkan, and other specifications.",
+    "homepage": "https://mesa3d.org/",
+    "installation": "pkg install mesa",
+    "usage": "After installing mesa, you can use it for 3D graphics development and applications.",
+    "features": [
+      "3D Graphics Library: Provides an open-source implementation of the OpenGL, Vulkan, and other specifications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to 3D graphics development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_library": "pkg install mesa",
+      "uninstall": "pkg uninstall mesa"
+    }
+  },
+  {
+    "name": "mfcuk",
+    "version": "2018.07.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mfcuk is a tool for performing nested card-only attacks on MIFARE Classic RFID tags, aiming to recover the authentication keys.",
+    "homepage": "https://github.com/nfc-tools/mfcuk",
+    "installation": "pkg install mfcuk",
+    "usage": "After installing mfcuk, you can use it to perform attacks on MIFARE Classic RFID tags.",
+    "features": [
+      "RFID Attacks: Perform nested card-only attacks on MIFARE Classic RFID tags.",
+      "Key Recovery: Aims to recover the authentication keys.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to RFID security for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "perform_attack": "mfcuk -C -R 0:A -v 3",
+      "uninstall": "pkg uninstall mfcuk"
+    }
+  },
+  {
+    "name": "mg",
+    "version": "20240709",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mg is a small, fast, and portable text editor based on the classic ‘MicroEMACS’.",
+    "homepage": "https://github.com/hboetes/mg",
+    "installation": "pkg install mg",
+    "usage": "After installing mg, you can start the text editor by typing: mg",
+    "features": [
+      "Text Editor: Provides a small, fast, and portable text editor.",
+      "MicroEMACS Based: Based on the classic ‘MicroEMACS’.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editors for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_editor": "mg",
+      "uninstall": "pkg uninstall mg"
+    }
+  },
+  {
+    "name": "micro",
+    "version": "2.0.14-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "micro is a modern and intuitive terminal-based text editor with features such as syntax highlighting, multiple cursors, and more.",
+    "homepage": "https://micro-editor.github.io/",
+    "installation": "pkg install micro",
+    "usage": "After installing micro, you can start the editor by typing: micro",
+    "features": [
+      "Modern Text Editor: Provides a modern and intuitive terminal-based text editor.",
+      "Syntax Highlighting: Supports syntax highlighting for various programming languages.",
+      "Multiple Cursors: Allows multiple cursors for efficient editing."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website and GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editors for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_editor": "micro",
+      "uninstall": "pkg uninstall micro"
+    }
+  },
+  {
+    "name": "microsocks",
+    "version": "1.0.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "microsocks is a lightweight and fast SOCKS5 proxy server.",
+    "homepage": "https://github.com/rofl0r/microsocks",
+    "installation": "pkg install microsocks",
+    "usage": "After installing microsocks, you can start the proxy server by typing: microsocks",
+    "features": [
+      "SOCKS5 Proxy: Provides a lightweight and fast SOCKS5 proxy server.",
+      "High Performance: Designed for high performance and low resource usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to proxy servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_proxy": "microsocks",
+      "uninstall": "pkg uninstall microsocks"
+    }
+  },
+  {
+    "name": "miller",
+    "version": "6.13.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "miller is a tool for handling CSV, TSV, and other tabular data formats with functions for data analysis, transformation, and manipulation.",
+    "homepage": "https://miller.readthedocs.io/",
+    "installation": "pkg install miller",
+    "usage": "After installing miller, you can use it to process tabular data files by typing: mlr",
+    "features": [
+      "Tabular Data Processing: Handles CSV, TSV, and other tabular data formats.",
+      "Data Transformation: Provides functions for data analysis, transformation, and manipulation.",
+      "Command Line Tool: Use the command line to process data files."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official documentation and GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data processing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_csv": "mlr --csv cat mydata.csv",
+      "uninstall": "pkg uninstall miller"
+    }
+  },
+  {
+    "name": "mimetic-static",
+    "version": "0.9.8-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mimetic-static is a static library for mimetic, a MIME library written in C++.",
+    "homepage": "http://www.codesink.org/mimetic_mime_library.html",
+    "installation": "pkg install mimetic-static",
+    "usage": "After installing mimetic-static, you can link it with your applications to handle MIME messages.",
+    "features": [
+      "MIME Library: Provides a library for handling MIME messages.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MIME libraries for support and discussions.",
+      "GitHub": "Search for repositories or forks of mimetic to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lmimetic",
+      "uninstall": "pkg uninstall mimetic-static"
+    }
+  },
+  {
+    "name": "mimetic",
+    "version": "0.9.8-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mimetic is a MIME library written in C++ for parsing, generating, and manipulating MIME messages.",
+    "homepage": "http://www.codesink.org/mimetic_mime_library.html",
+    "installation": "pkg install mimetic",
+    "usage": "After installing mimetic, you can use it in your applications to handle MIME messages.",
+    "features": [
+      "MIME Library: Provides a library for handling MIME messages.",
+      "C++ Library: Written in C++ for parsing, generating, and manipulating MIME messages.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MIME libraries for support and discussions.",
+      "GitHub": "Search for repositories or forks of mimetic to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "gcc -o myapp myapp.c -lmimetic",
+      "uninstall": "pkg uninstall mimetic"
+    }
+  },
+  {
+    "name": "minesweeper",
+    "version": "0.3.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "minesweeper is a terminal-based implementation of the classic Minesweeper game.",
+    "homepage": "https://github.com/rliou92/minesweeper",
+    "installation": "pkg install minesweeper",
+    "usage": "After installing minesweeper, you can start the game by typing: minesweeper",
+    "features": [
+      "Classic Gameplay: Provides the classic Minesweeper gameplay in the terminal.",
+      "Terminal-Based: Runs in the terminal, suitable for environments without a graphical user interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "minesweeper",
+      "uninstall": "pkg uninstall minesweeper"
+    }
+  },
+  {
+    "name": "minicom",
+    "version": "2.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "minicom is a text-based modem control and terminal emulation program for Unix-like operating systems.",
+    "homepage": "https://alioth.debian.org/projects/minicom/",
+    "installation": "pkg install minicom",
+    "usage": "After installing minicom, you can start the terminal emulator by typing: minicom",
+    "features": [
+      "Modem Control: Provides control for modems.",
+      "Terminal Emulation: Emulates a terminal for communication with serial devices.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal emulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of minicom to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_emulator": "minicom",
+      "uninstall": "pkg uninstall minicom"
+    }
+  },
+  {
+    "name": "minidlna",
+    "version": "1.3.3-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "minidlna is a media server software with the aim of being fully compliant with DLNA/UPnP-AV clients.",
+    "homepage": "https://sourceforge.net/projects/minidlna/",
+    "installation": "pkg install minidlna",
+    "usage": "After installing minidlna, you can start the media server by typing: minidlna",
+    "features": [
+      "DLNA/UPnP-AV: Fully compliant with DLNA/UPnP-AV clients.",
+      "Media Server: Acts as a media server for streaming media files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to media servers for support and discussions.",
+      "GitHub": "Search for repositories or forks of minidlna to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "minidlna",
+      "uninstall": "pkg uninstall minidlna"
+    }
+  },
+  {
+    "name": "miniflux",
+    "version": "2.2.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "miniflux is a minimalist and open-source web-based RSS reader.",
+    "homepage": "https://miniflux.app/",
+    "installation": "pkg install miniflux",
+    "usage": "After installing miniflux, you can start the web server by typing: miniflux",
+    "features": [
+      "RSS Reader: Provides a minimalist web-based RSS reader.",
+      "Open Source: Available for modification and redistribution.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to RSS readers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "miniflux",
+      "uninstall": "pkg uninstall miniflux"
+    }
+  },
+  {
+    "name": "minimodem",
+    "version": "0.24-1-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "minimodem is a general-purpose software audio FSK modem, suitable for use with radio, telephone, or any other audio communications medium.",
+    "homepage": "https://github.com/kamalmostafa/minimodem",
+    "installation": "pkg install minimodem",
+    "usage": "After installing minimodem, you can use it to send and receive data via audio signals.",
+    "features": [
+      "Audio FSK Modem: Provides a software audio FSK modem.",
+      "General-Purpose: Suitable for use with radio, telephone, or any other audio communications medium.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio communications for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "send_data": "minimodem --tx 1200 < mydata.txt",
+      "receive_data": "minimodem --rx 1200",
+      "uninstall": "pkg uninstall minimodem"
+    }
+  },
+  {
+    "name": "minio",
+    "version": "2025.01.18.00.31.37",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "minio is a high performance, distributed object storage server, designed for large-scale data infrastructure.",
+    "homepage": "https://min.io/",
+    "installation": "pkg install minio",
+    "usage": "After installing minio, you can start the server by typing: minio server /data",
+    "features": [
+      "Object Storage: Provides high performance, distributed object storage.",
+      "Scalable: Designed for large-scale data infrastructure.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to object storage for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "minio server /data",
+      "uninstall": "pkg uninstall minio"
+    }
+  },
+  {
+    "name": "miniserve",
+    "version": "0.28.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "miniserve is a simple, fast, and self-contained file server for sharing files over HTTP.",
+    "homepage": "https://github.com/svenstaro/miniserve",
+    "installation": "pkg install miniserve",
+    "usage": "After installing miniserve, you can start the file server by typing: miniserve",
+    "features": [
+      "File Server: Provides a simple and fast file server for sharing files over HTTP.",
+      "Self-Contained: Does not require any external dependencies.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "miniserve",
+      "uninstall": "pkg uninstall miniserve"
+    }
+  },
+  {
+    "name": "minisign",
+    "version": "0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "minisign is a simple and secure tool to sign files and verify signatures.",
+    "homepage": "https://jedisct1.github.io/minisign/",
+    "installation": "pkg install minisign",
+    "usage": "After installing minisign, you can sign files and verify signatures using the command line.",
+    "features": [
+      "File Signing: Provides a simple and secure tool to sign files.",
+      "Signature Verification: Verify signatures to ensure the integrity of files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file signing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "sign_file": "minisign -S -m myfile.txt",
+      "verify_signature": "minisign -V -m myfile.txt",
+      "uninstall": "pkg uninstall minisign"
+    }
+  },
+  {
+    "name": "miniupnpc-static",
+    "version": "2.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "miniupnpc-static is a static library for MiniUPnP client, which provides a simple API to access the functionalities of a UPnP IGD (Internet Gateway Device).",
+    "homepage": "https://miniupnp.tuxfamily.org/",
+    "installation": "pkg install miniupnpc-static",
+    "usage": "After installing miniupnpc-static, you can link it with your applications to use UPnP functionalities.",
+    "features": [
+      "UPnP Client: Provides a simple API to access UPnP IGD functionalities.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to UPnP for support and discussions.",
+      "GitHub": "Search for repositories or forks of MiniUPnP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lminiupnpc",
+      "uninstall": "pkg uninstall miniupnpc-static"
+    }
+  },
+  {
+    "name": "miniupnpc",
+    "version": "2.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "miniupnpc is a client library for UPnP IGD (Internet Gateway Device) which provides a simple API to access UPnP functionalities.",
+    "homepage": "https://miniupnp.tuxfamily.org/",
+    "installation": "pkg install miniupnpc",
+    "usage": "After installing miniupnpc, you can use it in your applications to access UPnP functionalities.",
+    "features": [
+      "UPnP Client: Provides a simple API to access UPnP IGD functionalities.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to UPnP for support and discussions.",
+      "GitHub": "Search for repositories or forks of MiniUPnP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "gcc -o myapp myapp.c -lminiupnpc",
+      "uninstall": "pkg uninstall miniupnpc"
+    }
+  },
+  {
+    "name": "minizinc-static",
+    "version": "2.8.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "minizinc-static is a static library for MiniZinc, a high-level constraint modeling language.",
+    "homepage": "https://www.minizinc.org/",
+    "installation": "pkg install minizinc-static",
+    "usage": "After installing minizinc-static, you can link it with your applications to use MiniZinc functionalities.",
+    "features": [
+      "Constraint Modeling: Provides a high-level constraint modeling language.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to constraint programming for support and discussions.",
+      "GitHub": "Search for repositories or forks of MiniZinc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lminizinc",
+      "uninstall": "pkg uninstall minizinc-static"
+    }
+  },
+  {
+    "name": "minizinc",
+    "version": "2.8.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "minizinc is a high-level constraint modeling language used to solve constraint satisfaction and optimization problems.",
+    "homepage": "https://www.minizinc.org/",
+    "installation": "pkg install minizinc",
+    "usage": "After installing minizinc, you can use it to model and solve constraint satisfaction problems.",
+    "features": [
+      "Constraint Modeling: Provides a high-level constraint modeling language.",
+      "Solver Integration: Integrates with various solvers for solving constraints.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to constraint programming for support and discussions.",
+      "GitHub": "Search for repositories or forks of MiniZinc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "solve_problem": "minizinc mymodel.mzn",
+      "uninstall": "pkg uninstall minizinc"
+    }
+  },
+  {
+    "name": "mkbootimg",
+    "version": "2022.11.09",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mkbootimg is a tool used to create Android boot images.",
+    "homepage": "https://android.googlesource.com/platform/system/core/",
+    "installation": "pkg install mkbootimg",
+    "usage": "After installing mkbootimg, you can create Android boot images by typing: mkbootimg",
+    "features": [
+      "Android Boot Images: Creates boot images for Android devices.",
+      "Command Line Tool: Use the command line to create boot images.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Android development for support and discussions.",
+      "GitHub": "Search for repositories or forks of mkbootimg to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_boot_image": "mkbootimg --kernel zImage --ramdisk ramdisk.img -o boot.img",
+      "uninstall": "pkg uninstall mkbootimg"
+    }
+  },
+  {
+    "name": "mkp224o",
+    "version": "1.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mkp224o is a vanity address generator for the Tor .onion v3 protocol.",
+    "homepage": "https://github.com/cathugger/mkp224o",
+    "installation": "pkg install mkp224o",
+    "usage": "After installing mkp224o, you can generate Tor .onion v3 vanity addresses by typing: mkp224o",
+    "features": [
+      "Vanity Address Generator: Generates vanity addresses for the Tor .onion v3 protocol.",
+      "Command Line Tool: Use the command line to generate addresses.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tor and privacy for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_address": "mkp224o example",
+      "uninstall": "pkg uninstall mkp224o"
+    }
+  },
+  {
+    "name": "mksh",
+    "version": "59c-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mksh (MirBSD Korn Shell) is a shell that is largely compatible with the Korn shell (ksh) and the Bourne shell (sh).",
+    "homepage": "https://www.mirbsd.org/mksh.htm",
+    "installation": "pkg install mksh",
+    "usage": "After installing mksh, you can start the shell by typing: mksh",
+    "features": [
+      "Shell: Provides a shell largely compatible with Korn shell (ksh) and Bourne shell (sh).",
+      "Portable: Designed to be portable across many Unix-like operating systems.",
+      "Scripting: Suitable for both interactive use and scripting."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell scripting for support and discussions.",
+      "GitHub": "Search for repositories or forks of mksh to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_shell": "mksh",
+      "uninstall": "pkg uninstall mksh"
+    }
+  },
+  {
+    "name": "mktorrent",
+    "version": "1.1-p20210130-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mktorrent is a simple command line utility to create BitTorrent metainfo files.",
+    "homepage": "https://github.com/Rudde/mktorrent",
+    "installation": "pkg install mktorrent",
+    "usage": "After installing mktorrent, you can create Torrent files by typing: mktorrent",
+    "features": [
+      "Torrent Creation: Creates BitTorrent metainfo files.",
+      "Command Line Tool: Use the command line to create Torrent files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to BitTorrent for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_torrent": "mktorrent -o myfile.torrent myfile",
+      "uninstall": "pkg uninstall mktorrent"
+    }
+  },
+  {
+    "name": "mlir",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mlir (Multi-Level Intermediate Representation) is a library that provides infrastructure for building reusable and extensible compiler and optimization infrastructures.",
+    "homepage": "https://mlir.llvm.org/",
+    "installation": "pkg install mlir",
+    "usage": "After installing mlir, you can use it to build compiler and optimization infrastructures.",
+    "features": [
+      "Compiler Infrastructure: Provides infrastructure for building reusable and extensible compiler and optimization infrastructures.",
+      "Multi-Level: Supports multiple levels of intermediate representation.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to compiler development for support and discussions.",
+      "GitHub": "Search for repositories or forks of MLIR to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "clang -Xclang -load -Xclang libMLIR.so myfile.c",
+      "uninstall": "pkg uninstall mlir"
+    }
+  },
+  {
+    "name": "mlocate",
+    "version": "0.26-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mlocate is a command line utility that finds files on a filesystem using a database maintained by updatedb.",
+    "homepage": "https://carolina.mff.cuni.cz/~trmac/blog/mlocate/",
+    "installation": "pkg install mlocate",
+    "usage": "After installing mlocate, you can use it to find files by typing: locate",
+    "features": [
+      "File Search: Finds files on a filesystem using a database.",
+      "Efficient: Uses a database maintained by updatedb for efficient searching.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Unix utilities for support and discussions.",
+      "GitHub": "Search for repositories or forks of mlocate to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "find_file": "locate myfile",
+      "update_database": "updatedb",
+      "uninstall": "pkg uninstall mlocate"
+    }
+  },
+  {
+    "name": "moar",
+    "version": "1.31.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "moar is a pager similar to less, but with a focus on usability and modern features.",
+    "homepage": "https://github.com/walles/moar/",
+    "installation": "pkg install moar",
+    "usage": "After installing moar, you can use it to view files by typing: moar",
+    "features": [
+      "Modern Pager: Provides a pager similar to less but with modern features.",
+      "Usability: Focuses on usability with features like mouse support and search highlighting.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_file": "moar myfile.txt",
+      "uninstall": "pkg uninstall moar"
+    }
+  },
+  {
+    "name": "mold",
+    "version": "2.36.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mold is a high-performance linker that speeds up the linking process for large C/C++ applications.",
+    "homepage": "https://github.com/rui314/mold",
+    "installation": "pkg install mold",
+    "usage": "After installing mold, you can use it to link large applications by typing: mold",
+    "features": [
+      "High-Performance Linker: Speeds up the linking process for large C/C++ applications.",
+      "Command Line Tool: Use the command line to link applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to compiler development for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_application": "mold -run gcc -o myapp myapp.o",
+      "uninstall": "pkg uninstall mold"
+    }
+  },
+  {
+    "name": "monero",
+    "version": "0.18.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "monero is a secure, private, and untraceable cryptocurrency that uses advanced cryptographic techniques to ensure privacy and security.",
+    "homepage": "https://www.getmonero.org/",
+    "installation": "pkg install monero",
+    "usage": "After installing monero, you can use it to manage Monero wallets and transactions.",
+    "features": [
+      "Private Cryptocurrency: Provides a secure, private, and untraceable cryptocurrency.",
+      "Advanced Cryptography: Uses advanced cryptographic techniques to ensure privacy and security.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cryptocurrencies for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_wallet": "monero-wallet-cli",
+      "start_daemon": "monerod",
+      "uninstall": "pkg uninstall monero"
+    }
+  },
+  {
+    "name": "monetdb",
+    "version": "11.51.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "MonetDB is an open-source column-oriented database management system (DBMS) designed to deliver high performance on complex queries against large databases.",
+    "homepage": "https://www.monetdb.org/",
+    "installation": "pkg install monetdb",
+    "usage": "After installing MonetDB, you can start the database server by typing: monetdbd start /path/to/dbfarm",
+    "features": [
+      "Column-Oriented: Designed for high performance on complex queries against large databases.",
+      "Open Source: Available for modification and redistribution.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to database management systems for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "monetdbd start /path/to/dbfarm",
+      "uninstall": "pkg uninstall monetdb"
+    }
+  },
+  {
+    "name": "mono-libs",
+    "version": "6.12.0.206",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "mono-libs is a package that provides the runtime libraries for Mono, an open-source implementation of Microsoft's .NET Framework.",
+    "homepage": "https://www.mono-project.com/",
+    "installation": "pkg install mono-libs",
+    "usage": "After installing mono-libs, you can use the provided libraries to run .NET applications with Mono.",
+    "features": [
+      "Runtime Libraries: Provides the runtime libraries for Mono.",
+      "Open Source: Available for modification and redistribution.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to .NET and Mono for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_mono": "mono myapp.exe",
+      "uninstall": "pkg uninstall mono-libs"
+    }
+  },
+  {
+    "name": "mono-static",
+    "version": "6.12.0.206",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mono-static is a package that provides the static libraries for Mono, an open-source implementation of Microsoft's .NET Framework.",
+    "homepage": "https://www.mono-project.com/",
+    "installation": "pkg install mono-static",
+    "usage": "After installing mono-static, you can link the provided static libraries with your applications.",
+    "features": [
+      "Static Libraries: Provides the static libraries for Mono.",
+      "Open Source: Available for modification and redistribution.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to .NET and Mono for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lmonostatic",
+      "uninstall": "pkg uninstall mono-static"
+    }
+  },
+  {
+    "name": "mono",
+    "version": "6.12.0.206",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mono is an open-source implementation of Microsoft's .NET Framework that allows developers to build cross-platform applications with .NET.",
+    "homepage": "https://www.mono-project.com/",
+    "installation": "pkg install mono",
+    "usage": "After installing mono, you can use it to run .NET applications by typing: mono myapp.exe",
+    "features": [
+      "Cross-Platform: Build and run cross-platform applications with .NET.",
+      "Open Source: Available for modification and redistribution.",
+      "Comprehensive: Includes a C# compiler, runtime, and class libraries."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to .NET and Mono for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_app": "mono myapp.exe",
+      "uninstall": "pkg uninstall mono"
+    }
+  },
+  {
+    "name": "monolith",
+    "version": "2.8.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "monolith is a tool that allows you to save web pages as a single HTML file with all resources inlined.",
+    "homepage": "https://github.com/Y2Z/monolith",
+    "installation": "pkg install monolith",
+    "usage": "After installing monolith, you can save web pages by typing: monolith https://example.com",
+    "features": [
+      "Save Web Pages: Save web pages as a single HTML file with all resources inlined.",
+      "Command Line Tool: Use the command line to save web pages.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to web tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "save_page": "monolith https://example.com",
+      "uninstall": "pkg uninstall monolith"
+    }
+  },
+  {
+    "name": "moon-buggy",
+    "version": "1.0.51-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "moon-buggy is a simple game where you drive a car across the moon's surface, avoiding craters and rocks.",
+    "homepage": "https://www.seehuhn.de/pages/moon-buggy",
+    "installation": "pkg install moon-buggy",
+    "usage": "After installing moon-buggy, you can start the game by typing: moon-buggy",
+    "features": [
+      "Simple Game: Drive a car across the moon's surface, avoiding craters and rocks.",
+      "Terminal-Based: Runs in the terminal, suitable for environments without a graphical user interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Search for repositories or forks of moon-buggy to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "moon-buggy",
+      "uninstall": "pkg uninstall moon-buggy"
+    }
+  },
+  {
+    "name": "moreutils",
+    "version": "0.70",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "moreutils is a collection of useful Unix utilities that complement those provided by GNU coreutils.",
+    "homepage": "https://joeyh.name/code/moreutils/",
+    "installation": "pkg install moreutils",
+    "usage": "After installing moreutils, you can use the various utilities provided by the package.",
+    "features": [
+      "Utility Collection: Provides a collection of useful Unix utilities.",
+      "Complementary: Complements the utilities provided by GNU coreutils.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Unix utilities for support and discussions.",
+      "GitHub": "Search for repositories or forks of moreutils to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_utility": "vidir .",
+      "uninstall": "pkg uninstall moreutils"
+    }
+  },
+  {
+    "name": "moria",
+    "version": "5.7.15-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "moria is a roguelike dungeon crawl game where players explore dungeons, fight monsters, and find treasure.",
+    "homepage": "https://umoria.org/",
+    "installation": "pkg install moria",
+    "usage": "After installing moria, you can start the game by typing: moria",
+    "features": [
+      "Roguelike Game: Explore dungeons, fight monsters, and find treasure.",
+      "Turn-Based: Features turn-based gameplay typical of roguelike games.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to roguelike games for support and discussions.",
+      "GitHub": "Search for repositories or forks of moria to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "moria",
+      "uninstall": "pkg uninstall moria"
+    }
+  },
+  {
+    "name": "morse2ascii",
+    "version": "0.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "morse2ascii is a tool that converts Morse code to ASCII text.",
+    "homepage": "https://github.com/schwehr/morse2ascii",
+    "installation": "pkg install morse2ascii",
+    "usage": "After installing morse2ascii, you can convert Morse code to ASCII text by typing: morse2ascii < inputfile",
+    "features": [
+      "Morse Code Conversion: Converts Morse code to ASCII text.",
+      "Command Line Tool: Use the command line to convert Morse code.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Morse code and telecommunications for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_morse": "morse2ascii < inputfile",
+      "uninstall": "pkg uninstall morse2ascii"
+    }
+  },
+  {
+    "name": "mosh-perl",
+    "version": "1.4.0-11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mosh-perl is a mobile shell that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing.",
+    "homepage": "https://mosh.org/",
+    "installation": "pkg install mosh-perl",
+    "usage": "After installing mosh-perl, you can start a mosh session by typing: mosh user@hostname",
+    "features": [
+      "Mobile Shell: Allows roaming and supports intermittent connectivity.",
+      "Local Echo: Provides intelligent local echo and line editing.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell utilities for support and discussions.",
+      "GitHub": "Search for repositories or forks of mosh-perl to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_session": "mosh user@hostname",
+      "uninstall": "pkg uninstall mosh-perl"
+    }
+  },
+  {
+    "name": "mosh",
+    "version": "1.4.0-11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mosh is a mobile shell that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing.",
+    "homepage": "https://mosh.org/",
+    "installation": "pkg install mosh",
+    "usage": "After installing mosh, you can start a mosh session by typing: mosh user@hostname",
+    "features": [
+      "Mobile Shell: Allows roaming and supports intermittent connectivity.",
+      "Local Echo: Provides intelligent local echo and line editing.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell utilities for support and discussions.",
+      "GitHub": "Search for repositories or forks of mosh to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_session": "mosh user@hostname",
+      "uninstall": "pkg uninstall mosh"
+    }
+  },
+  {
+    "name": "mosquitto",
+    "version": "2.0.20",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mosquitto is an open-source message broker that implements the MQTT protocol, providing lightweight messaging for IoT devices.",
+    "homepage": "https://mosquitto.org/",
+    "installation": "pkg install mosquitto",
+    "usage": "After installing mosquitto, you can start the broker by typing: mosquitto",
+    "features": [
+      "MQTT Broker: Implements the MQTT protocol for lightweight messaging.",
+      "IoT Messaging: Provides messaging for IoT devices.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to IoT and MQTT for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_broker": "mosquitto",
+      "uninstall": "pkg uninstall mosquitto"
+    }
+  },
+  {
+    "name": "most",
+    "version": "5.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "most is a terminal pager similar to 'more' and 'less', but with additional features such as multiple file viewing and window splitting.",
+    "homepage": "http://www.jedsoft.org/most/",
+    "installation": "pkg install most",
+    "usage": "After installing most, you can use it to view files by typing: most",
+    "features": [
+      "Terminal Pager: Similar to 'more' and 'less' with additional features.",
+      "Multiple File Viewing: Allows viewing multiple files simultaneously.",
+      "Window Splitting: Supports window splitting for better file navigation."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal utilities for support and discussions.",
+      "GitHub": "Search for repositories or forks of most to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_file": "most myfile.txt",
+      "uninstall": "pkg uninstall most"
+    }
+  }
+]

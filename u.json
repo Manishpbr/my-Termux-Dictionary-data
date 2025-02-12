@@ -1,0 +1,896 @@
+[
+  {
+    "name": "uchardet",
+    "version": "0.0.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Uchardet is an encoding detector library.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/uchardet/",
+    "installation": "pkg install uchardet",
+    "usage": "After installing Uchardet, you can use it to detect the encoding of text files.",
+    "features": [
+      "Encoding Detection: Provides tools for detecting the encoding of text files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Uchardet website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to encoding detection for support and discussions.",
+      "GitHub": "Search for repositories or forks of Uchardet to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "detect_encoding": "uchardet file.txt",
+      "uninstall": "pkg uninstall uchardet"
+    }
+  },
+  {
+    "name": "udftools",
+    "version": "2.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Udftools is a collection of tools for UDF filesystems.",
+    "homepage": "https://github.com/pali/udftools",
+    "installation": "pkg install udftools",
+    "usage": "After installing Udftools, you can use it to manage UDF filesystems.",
+    "features": [
+      "UDF Filesystems: Provides tools for managing UDF filesystems.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Udftools repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to filesystems for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_udf": "mkudffs /dev/sdX",
+      "uninstall": "pkg uninstall udftools"
+    }
+  },
+  {
+    "name": "uftrace",
+    "version": "0.17",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Uftrace is a function tracer for C/C++ programs.",
+    "homepage": "https://github.com/namhyung/uftrace",
+    "installation": "pkg install uftrace",
+    "usage": "After installing Uftrace, you can use it to trace the execution of functions in C/C++ programs.",
+    "features": [
+      "Function Tracing: Provides tools for tracing the execution of functions in C/C++ programs.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Uftrace repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to debugging for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "trace_functions": "uftrace ./program",
+      "uninstall": "pkg uninstall uftrace"
+    }
+  },
+  {
+    "name": "ugit",
+    "version": "5.8",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Ugit is an intuitive CLI for Git.",
+    "homepage": "https://github.com/Bhupesh-V/ugit",
+    "installation": "pkg install ugit",
+    "usage": "After installing Ugit, you can use it to interact with Git repositories using an intuitive CLI.",
+    "features": [
+      "Git CLI: Provides an intuitive CLI for interacting with Git repositories.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Ugit repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Git for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_ugit": "ugit",
+      "uninstall": "pkg uninstall ugit"
+    }
+  },
+  {
+    "name": "ugrep",
+    "version": "7.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ugrep is an ultra-fast grep with interactive query UI.",
+    "homepage": "https://github.com/Genivia/ugrep",
+    "installation": "pkg install ugrep",
+    "usage": "After installing Ugrep, you can use it to search files with ultra-fast performance and interactive query UI.",
+    "features": [
+      "Fast Search: Provides ultra-fast search capabilities.",
+      "Interactive UI: Comes with an interactive query UI.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Ugrep repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text search for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_files": "ugrep pattern",
+      "uninstall": "pkg uninstall ugrep"
+    }
+  },
+  {
+    "name": "unar",
+    "version": "1.10.7-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Unar is a command-line tool for extracting RAR archives.",
+    "homepage": "https://theunarchiver.com/command-line",
+    "installation": "pkg install unar",
+    "usage": "After installing Unar, you can use it to extract RAR archives from the command line.",
+    "features": [
+      "RAR Extraction: Provides tools for extracting RAR archives.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Unar website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file extraction for support and discussions.",
+      "GitHub": "Search for repositories or forks of Unar to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "extract_rar": "unar archive.rar",
+      "uninstall": "pkg uninstall unar"
+    }
+  },
+  {
+    "name": "unbound",
+    "version": "1.22.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Unbound is a validating, recursive, and caching DNS resolver.",
+    "homepage": "https://www.nlnetlabs.nl/projects/unbound/about/",
+    "installation": "pkg install unbound",
+    "usage": "After installing Unbound, you can use it as a DNS resolver.",
+    "features": [
+      "DNS Resolver: Provides a validating, recursive, and caching DNS resolver.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Unbound website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to DNS for support and discussions.",
+      "GitHub": "Search for repositories or forks of Unbound to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_unbound": "unbound",
+      "uninstall": "pkg uninstall unbound"
+    }
+  },
+  {
+    "name": "unicode-data",
+    "version": "16.0.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Unicode-data provides Unicode character data files.",
+    "homepage": "https://www.unicode.org/",
+    "installation": "pkg install unicode-data",
+    "usage": "After installing Unicode-data, you can use it to access Unicode character data files.",
+    "features": [
+      "Unicode Data: Provides Unicode character data files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Unicode website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Unicode for support and discussions.",
+      "GitHub": "Search for repositories or forks of Unicode-data to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "access_unicode_data": "Include Unicode-data in your project to access Unicode character data files.",
+      "uninstall": "pkg uninstall unicode-data"
+    }
+  },
+  {
+    "name": "unicorn-static",
+    "version": "2.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Unicorn-static provides a static binary version of the Unicorn CPU emulator.",
+    "homepage": "https://www.unicorn-engine.org/",
+    "installation": "pkg install unicorn-static",
+    "usage": "After installing Unicorn-static, you can use it to emulate CPU architectures.",
+    "features": [
+      "CPU Emulation: Provides a static binary version of the Unicorn CPU emulator.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Unicorn website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to CPU emulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of Unicorn to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_cpu": "unicorn-static",
+      "uninstall": "pkg uninstall unicorn-static"
+    }
+  },
+  {
+    "name": "unicorn",
+    "version": "2.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Unicorn is a CPU emulator framework.",
+    "homepage": "https://www.unicorn-engine.org/",
+    "installation": "pkg install unicorn",
+    "usage": "After installing Unicorn, you can use it to emulate CPU architectures.",
+    "features": [
+      "CPU Emulation: Provides a CPU emulator framework.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Unicorn website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to CPU emulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of Unicorn to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "emulate_cpu": "unicorn",
+      "uninstall": "pkg uninstall unicorn"
+    }
+  },
+  {
+    "name": "unifdef",
+    "version": "2.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Unifdef selectively processes conditional C preprocessor directives.",
+    "homepage": "https://dotat.at/prog/unifdef/",
+    "installation": "pkg install unifdef",
+    "usage": "After installing Unifdef, you can use it to selectively process conditional C preprocessor directives.",
+    "features": [
+      "Preprocessor Directives: Provides tools for selectively processing conditional C preprocessor directives.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Unifdef website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C programming for support and discussions.",
+      "GitHub": "Search for repositories or forks of Unifdef to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_directives": "unifdef -DFOO file.c",
+      "uninstall": "pkg uninstall unifdef"
+    }
+  },
+  {
+    "name": "units-cur",
+    "version": "2.24",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Units-cur provides currency conversion data files for the units program.",
+    "homepage": "https://www.gnu.org/software/units/",
+    "installation": "pkg install units-cur",
+    "usage": "After installing Units-cur, you can use it to access currency conversion data files in the units program.",
+    "features": [
+      "Currency Conversion: Provides currency conversion data files for the units program.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official GNU Units website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to currency conversion for support and discussions.",
+      "GitHub": "Search for repositories or forks of Units-cur to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_currency": "units -c units_cur.dat",
+      "uninstall": "pkg uninstall units-cur"
+    }
+  },
+  {
+    "name": "units",
+    "version": "2.24",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Units is a program for conversion of units of quantities.",
+    "homepage": "https://www.gnu.org/software/units/",
+    "installation": "pkg install units",
+    "usage": "After installing Units, you can use it to convert units of quantities.",
+    "features": [
+      "Unit Conversion: Provides tools for conversion of units of quantities.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official GNU Units website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to unit conversion for support and discussions.",
+      "GitHub": "Search for repositories or forks of Units to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_units": "units 'meters' 'feet'",
+      "uninstall": "pkg uninstall units"
+    }
+  },
+  {
+    "name": "unixodbc-static",
+    "version": "2.3.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "unixODBC-static provides a static binary version of unixODBC, an ODBC driver manager.",
+    "homepage": "http://www.unixodbc.org/",
+    "installation": "pkg install unixodbc-static",
+    "usage": "After installing unixODBC-static, you can use it to manage ODBC drivers with a static binary.",
+    "features": [
+      "ODBC Driver Manager: Provides a static binary version of unixODBC for managing ODBC drivers.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official unixODBC website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ODBC for support and discussions.",
+      "GitHub": "Search for repositories or forks of unixODBC to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_odbc": "unixodbc-static",
+      "uninstall": "pkg uninstall unixodbc-static"
+    }
+  },
+  {
+    "name": "unixodbc",
+    "version": "2.3.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "unixODBC is an ODBC driver manager.",
+    "homepage": "http://www.unixodbc.org/",
+    "installation": "pkg install unixodbc",
+    "usage": "After installing unixODBC, you can use it to manage ODBC drivers.",
+    "features": [
+      "ODBC Driver Manager: Provides tools for managing ODBC drivers.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official unixODBC website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ODBC for support and discussions.",
+      "GitHub": "Search for repositories or forks of unixODBC to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_odbc": "unixodbc",
+      "uninstall": "pkg uninstall unixodbc"
+    }
+  },
+  {
+    "name": "unpaper",
+    "version": "1:7.0.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Unpaper is a tool for post-processing scanned and photocopied book pages.",
+    "homepage": "https://github.com/Flameeyes/unpaper",
+    "installation": "pkg install unpaper",
+    "usage": "After installing Unpaper, you can use it to post-process scanned and photocopied book pages.",
+    "features": [
+      "Post-Processing: Provides tools for post-processing scanned and photocopied book pages.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Unpaper repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to scanning and photocopying for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_pages": "unpaper input.pnm output.pnm",
+      "uninstall": "pkg uninstall unpaper"
+    }
+  },
+  {
+    "name": "unrar",
+    "version": "7.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Unrar is a command-line tool for extracting RAR archives.",
+    "homepage": "https://www.rarlab.com/rar_add.htm",
+    "installation": "pkg install unrar",
+    "usage": "After installing Unrar, you can use it to extract RAR archives from the command line.",
+    "features": [
+      "RAR Extraction: Provides tools for extracting RAR archives.",
+      "Cross-Platform: Works on various operating systems.",
+      "Proprietary: Available as proprietary software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Unrar website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file extraction for support and discussions.",
+      "GitHub": "Search for repositories or forks of Unrar to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "extract_rar": "unrar x archive.rar",
+      "uninstall": "pkg uninstall unrar"
+    }
+  },
+  {
+    "name": "unshield",
+    "version": "1.5.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Unshield is a tool to extract CAB files from InstallShield installers.",
+    "homepage": "https://github.com/twogood/unshield",
+    "installation": "pkg install unshield",
+    "usage": "After installing Unshield, you can use it to extract CAB files from InstallShield installers.",
+    "features": [
+      "CAB Extraction: Provides tools to extract CAB files from InstallShield installers.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Unshield repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file extraction for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "extract_cab": "unshield x data1.cab",
+      "uninstall": "pkg uninstall unshield"
+    }
+  },
+  {
+    "name": "unzip",
+    "version": "6.0-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Unzip is a command-line tool for extracting ZIP archives.",
+    "homepage": "https://infozip.sourceforge.net/",
+    "installation": "pkg install unzip",
+    "usage": "After installing Unzip, you can use it to extract ZIP archives from the command line.",
+    "features": [
+      "ZIP Extraction: Provides tools for extracting ZIP archives.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Unzip website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file extraction for support and discussions.",
+      "GitHub": "Search for repositories or forks of Unzip to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "extract_zip": "unzip archive.zip",
+      "uninstall": "pkg uninstall unzip"
+    }
+  },
+  {
+    "name": "up",
+    "version": "0.4-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Up is the Ultimate Plumber, a tool for writing Linux pipes with instant live preview.",
+    "homepage": "https://github.com/akavel/up",
+    "installation": "pkg install up",
+    "usage": "After installing Up, you can use it to write Linux pipes with instant live preview.",
+    "features": [
+      "Pipe Writing: Provides tools for writing Linux pipes with instant live preview.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Up repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Linux tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "write_pipe": "up",
+      "uninstall": "pkg uninstall up"
+    }
+  },
+  {
+    "name": "update-info-dir",
+    "version": "7.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Update-info-dir is a tool for updating the info directory in GNU Info.",
+    "homepage": "https://www.gnu.org/software/texinfo/",
+    "installation": "pkg install update-info-dir",
+    "usage": "After installing Update-info-dir, you can use it to update the info directory in GNU Info.",
+    "features": [
+      "Info Directory: Provides tools for updating the info directory in GNU Info.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official GNU Texinfo website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to GNU Info for support and discussions.",
+      "GitHub": "Search for repositories or forks of Update-info-dir to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "update_info": "update-info-dir",
+      "uninstall": "pkg uninstall update-info-dir"
+    }
+  },
+  {
+    "name": "upscaledb-tools",
+    "version": "2.2.1p20210820-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Upscaledb-tools provides a set of tools for Upscaledb, a high-performance embedded key-value database.",
+    "homepage": "http://upscaledb.com/",
+    "installation": "pkg install upscaledb-tools",
+    "usage": "After installing Upscaledb-tools, you can use it to manage Upscaledb databases.",
+    "features": [
+      "Database Management: Provides tools for managing Upscaledb databases.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Upscaledb website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to databases for support and discussions.",
+      "GitHub": "Search for repositories or forks of Upscaledb to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_database": "upscaledb",
+      "uninstall": "pkg uninstall upscaledb-tools"
+    }
+  },
+  {
+    "name": "upx",
+    "version": "4.2.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "UPX is the Ultimate Packer for eXecutables.",
+    "homepage": "https://upx.github.io/",
+    "installation": "pkg install upx",
+    "usage": "After installing UPX, you can use it to compress and decompress executables.",
+    "features": [
+      "Executable Compression: Provides tools for compressing and decompressing executables.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official UPX website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to executable compression for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_executable": "upx program",
+      "uninstall": "pkg uninstall upx"
+    }
+  },
+  {
+    "name": "urdfdom-headers",
+    "version": "1.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Urdfdom-headers provides headers for URDF (Unified Robot Description Format).",
+    "homepage": "https://github.com/ros/urdfdom_headers",
+    "installation": "pkg install urdfdom-headers",
+    "usage": "After installing Urdfdom-headers, you can use it to develop applications that use URDF.",
+    "features": [
+      "URDF Headers: Provides headers for URDF (Unified Robot Description Format).",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Urdfdom-headers repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to robotics for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_headers": "Include Urdfdom-headers in your project to use URDF.",
+      "uninstall": "pkg uninstall urdfdom-headers"
+    }
+  },
+  {
+    "name": "urdfdom",
+    "version": "3.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Urdfdom is a library for parsing URDF (Unified Robot Description Format) files.",
+    "homepage": "https://github.com/ros/urdfdom",
+    "installation": "pkg install urdfdom",
+    "usage": "After installing Urdfdom, you can use it to parse URDF files.",
+    "features": [
+      "URDF Parsing: Provides tools for parsing URDF (Unified Robot Description Format) files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Urdfdom repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to robotics for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_urdf": "urdfdom",
+      "uninstall": "pkg uninstall urdfdom"
+    }
+  },
+  {
+    "name": "usql",
+    "version": "0.19.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Usql is a universal command-line interface for SQL databases.",
+    "homepage": "https://github.com/xo/usql",
+    "installation": "pkg install usql",
+    "usage": "After installing Usql, you can use it as a universal command-line interface for various SQL databases.",
+    "features": [
+      "Universal SQL Interface: Provides a command-line interface for various SQL databases.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Usql repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SQL databases for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "connect_database": "usql postgres://user:pass@localhost/dbname",
+      "uninstall": "pkg uninstall usql"
+    }
+  },
+  {
+    "name": "utf8cpp",
+    "version": "4.0.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Utf8cpp is a C++ library for handling UTF-8 encoded strings.",
+    "homepage": "https://github.com/nemtrif/utfcpp",
+    "installation": "pkg install utf8cpp",
+    "usage": "After installing Utf8cpp, you can use it to handle UTF-8 encoded strings in C++.",
+    "features": [
+      "UTF-8 Handling: Provides a C++ library for handling UTF-8 encoded strings.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Utf8cpp repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C++ programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_utf8cpp": "Include Utf8cpp in your C++ project to handle UTF-8 encoded strings.",
+      "uninstall": "pkg uninstall utf8cpp"
+    }
+  },
+  {
+    "name": "utf8proc-static",
+    "version": "2.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Utf8proc-static provides a static binary version of utf8proc, a library for processing UTF-8 encoded Unicode strings.",
+    "homepage": "https://juliastrings.github.io/utf8proc/",
+    "installation": "pkg install utf8proc-static",
+    "usage": "After installing Utf8proc-static, you can use it to process UTF-8 encoded Unicode strings.",
+    "features": [
+      "UTF-8 Processing: Provides a static binary version of utf8proc for processing UTF-8 encoded Unicode strings.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Utf8proc website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Unicode processing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_utf8": "utf8proc-static",
+      "uninstall": "pkg uninstall utf8proc-static"
+    }
+  },
+  {
+    "name": "utf8proc",
+    "version": "2.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Utf8proc is a library for processing UTF-8 encoded Unicode strings.",
+    "homepage": "https://juliastrings.github.io/utf8proc/",
+    "installation": "pkg install utf8proc",
+    "usage": "After installing Utf8proc, you can use it to process UTF-8 encoded Unicode strings.",
+    "features": [
+      "UTF-8 Processing: Provides tools for processing UTF-8 encoded Unicode strings.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Utf8proc website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Unicode processing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_utf8": "utf8proc",
+      "uninstall": "pkg uninstall utf8proc"
+    }
+  },
+  {
+    "name": "utfdecode",
+    "version": "0.3.4-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Utfdecode is a tool for decoding and encoding UTF-8 characters.",
+    "homepage": "https://github.com/jhermsmeier/utfdecode",
+    "installation": "pkg install utfdecode",
+    "usage": "After installing Utfdecode, you can use it to decode and encode UTF-8 characters.",
+    "features": [
+      "UTF-8 Decoding/Encoding: Provides tools for decoding and encoding UTF-8 characters.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Utfdecode repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Unicode processing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "decode_utf8": "utfdecode decode",
+      "encode_utf8": "utfdecode encode",
+      "uninstall": "pkg uninstall utfdecode"
+    }
+  },
+  {
+    "name": "uthash",
+    "version": "2.3.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Uthash is a C library for hash tables and other data structures.",
+    "homepage": "https://troydhanson.github.io/uthash/",
+    "installation": "pkg install uthash",
+    "usage": "After installing Uthash, you can use it to implement hash tables and other data structures in C.",
+    "features": [
+      "Data Structures: Provides a C library for hash tables and other data structures.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Uthash website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_uthash": "Include Uthash in your C project to implement hash tables.",
+      "uninstall": "pkg uninstall uthash"
+    }
+  },
+  {
+    "name": "util-linux-static",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Util-linux-static provides a static binary version of util-linux, a collection of essential utilities for Linux systems.",
+    "homepage": "https://github.com/util-linux/util-linux",
+    "installation": "pkg install util-linux-static",
+    "usage": "After installing Util-linux-static, you can use the static binaries of essential utilities for Linux systems.",
+    "features": [
+      "Essential Utilities: Provides a static binary version of util-linux for essential utilities.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Util-linux repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Linux tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_util_linux_static": "util-linux-static",
+      "uninstall": "pkg uninstall util-linux-static"
+    }
+  },
+  {
+    "name": "util-linux",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Util-linux is a collection of essential utilities for Linux systems.",
+    "homepage": "https://github.com/util-linux/util-linux",
+    "installation": "pkg install util-linux",
+    "usage": "After installing Util-linux, you can use various essential utilities for Linux systems.",
+    "features": [
+      "Essential Utilities: Provides tools for essential utilities for Linux systems.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Util-linux repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Linux tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_util_linux": "util-linux",
+      "uninstall": "pkg uninstall util-linux"
+    }
+  },
+  {
+    "name": "uucp",
+    "version": "1.07-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "UUCP is a set of computer programs and protocols allowing remote execution of commands and transfer of files, email, and netnews between computers.",
+    "homepage": "https://www.gnu.org/software/uucp/",
+    "installation": "pkg install uucp",
+    "usage": "After installing UUCP, you can use it for remote execution of commands and transfer of files, email, and netnews between computers.",
+    "features": [
+      "Remote Execution: Provides tools for remote execution of commands.",
+      "File Transfer: Allows transfer of files, email, and netnews between computers.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official UUCP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to remote execution and file transfer for support and discussions.",
+      "GitHub": "Search for repositories or forks of UUCP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "remote_execution": "uucp command",
+      "uninstall": "pkg uninstall uucp"
+    }
+  },
+  {
+    "name": "uuid-utils",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Uuid-utils provides tools for generating and working with UUIDs (Universally Unique Identifiers).",
+    "homepage": "https://github.com/util-linux/util-linux",
+    "installation": "pkg install uuid-utils",
+    "usage": "After installing Uuid-utils, you can use it to generate and work with UUIDs.",
+    "features": [
+      "UUID Management: Provides tools for generating and working with UUIDs.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Util-linux repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to UUIDs for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_uuid": "uuidgen",
+      "uninstall": "pkg uninstall uuid-utils"
+    }
+  },
+  {
+    "name": "uv",
+    "version": "0.5.25",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Uv is a collection of utilities for working with UEFI variables.",
+    "homepage": "https://github.com/rhboot/efivar",
+    "installation": "pkg install uv",
+    "usage": "After installing Uv, you can use it to work with UEFI variables.",
+    "features": [
+      "UEFI Variables: Provides tools for working with UEFI variables.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Efivar repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to UEFI for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_uefi_variables": "uv list",
+      "uninstall": "pkg uninstall uv"
+    }
+  },
+  {
+    "name": "uwsgi",
+    "version": "2.0.28",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "uWSGI is a fast, self-healing, polyglot WSGI server.",
+    "homepage": "https://uwsgi-docs.readthedocs.io/en/latest/",
+    "installation": "pkg install uwsgi",
+    "usage": "After installing uWSGI, you can use it to serve WSGI applications.",
+    "features": [
+      "WSGI Server: Provides a fast, self-healing, polyglot WSGI server.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official uWSGI documentation.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to WSGI for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "serve_wsgi": "uwsgi --ini uwsgi.ini",
+      "uninstall": "pkg uninstall uwsgi"
+    }
+  }
+]

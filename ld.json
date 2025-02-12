@@ -1,0 +1,1451 @@
+[
+  {
+    "name": "libdvdread",
+    "version": "6.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdvdread provides a simple foundation for reading DVD-Video images.",
+    "homepage": "https://www.videolan.org/developers/libdvdread.html",
+    "installation": "pkg install libdvdread",
+    "usage": "After installing libdvdread, you can use it to read DVD-Video images in your applications.",
+    "features": [
+      "DVD Reading: Provides tools for reading DVD-Video images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for DVD reading tasks.",
+      "Integration: Can be integrated into applications requiring DVD reading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdvdread documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DVD reading and Libdvdread for support and discussions.",
+      "GitHub": "Visit the Libdvdread GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdvdread": "Not applicable",
+      "uninstall": "pkg uninstall libdvdread"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdw-static",
+    "version": "0.192",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdw is a library for accessing DWARF debugging information. This is the statically linked version.",
+    "homepage": "https://sourceware.org/elfutils/",
+    "installation": "pkg install libdw-static",
+    "usage": "After installing libdw-static, you can use it to access DWARF debugging information in your applications.",
+    "features": [
+      "DWARF Debugging: Provides tools for accessing DWARF debugging information.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for debugging tasks.",
+      "Integration: Can be integrated into applications requiring DWARF debugging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdw documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and Libdw for support and discussions.",
+      "GitHub": "Visit the Libdw GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdw": "Not applicable",
+      "uninstall": "pkg uninstall libdw-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdw",
+    "version": "0.192",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdw is a library for accessing DWARF debugging information.",
+    "homepage": "https://sourceware.org/elfutils/",
+    "installation": "pkg install libdw",
+    "usage": "After installing libdw, you can use it to access DWARF debugging information in your applications.",
+    "features": [
+      "DWARF Debugging: Provides tools for accessing DWARF debugging information.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for debugging tasks.",
+      "Integration: Can be integrated into applications requiring DWARF debugging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdw documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and Libdw for support and discussions.",
+      "GitHub": "Visit the Libdw GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdw": "Not applicable",
+      "uninstall": "pkg uninstall libdw"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libebml",
+    "version": "1.4.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libebml is a library for parsing EBML (Extensible Binary Meta Language) files.",
+    "homepage": "https://matroska.org/downloads/libebml/index.html",
+    "installation": "pkg install libebml",
+    "usage": "After installing libebml, you can use it to parse EBML files in your applications.",
+    "features": [
+      "EBML Parsing: Provides tools for parsing EBML files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for EBML tasks.",
+      "Integration: Can be integrated into applications requiring EBML parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libebml documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to EBML parsing and Libebml for support and discussions.",
+      "GitHub": "Visit the Libebml GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libebml": "Not applicable",
+      "uninstall": "pkg uninstall libebml"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libebur128",
+    "version": "1.2.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libebur128 is a library for loudness measurement according to the EBU R128 standard.",
+    "homepage": "https://github.com/jiixyj/libebur128",
+    "installation": "pkg install libebur128",
+    "usage": "After installing libebur128, you can use it to measure loudness according to the EBU R128 standard in your applications.",
+    "features": [
+      "Loudness Measurement: Provides tools for measuring loudness according to the EBU R128 standard.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for loudness measurement tasks.",
+      "Integration: Can be integrated into applications requiring loudness measurement.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libebur128 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Libebur128 for support and discussions.",
+      "GitHub": "Visit the Libebur128 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libebur128": "Not applicable",
+      "uninstall": "pkg uninstall libebur128"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libedit-static",
+    "version": "20240517-3.1-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libedit is an autotool- and libtoolized port of the NetBSD Editline library. This is the statically linked version.",
+    "homepage": "https://thrysoee.dk/editline/",
+    "installation": "pkg install libedit-static",
+    "usage": "After installing libedit-static, you can use it to provide command line editing, history, and tokenization functionalities in your applications.",
+    "features": [
+      "Command Line Editing: Provides tools for command line editing, history, and tokenization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for command line editing tasks.",
+      "Integration: Can be integrated into applications requiring command line editing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libedit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command line editing and Libedit for support and discussions.",
+      "GitHub": "Visit the Libedit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libedit": "Not applicable",
+      "uninstall": "pkg uninstall libedit-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libedit",
+    "version": "20240517-3.1-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libedit is an autotool- and libtoolized port of the NetBSD Editline library.",
+    "homepage": "https://thrysoee.dk/editline/",
+    "installation": "pkg install libedit",
+    "usage": "After installing libedit, you can use it to provide command line editing, history, and tokenization functionalities in your applications.",
+    "features": [
+      "Command Line Editing: Provides tools for command line editing, history, and tokenization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for command line editing tasks.",
+      "Integration: Can be integrated into applications requiring command line editing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libedit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command line editing and Libedit for support and discussions.",
+      "GitHub": "Visit the Libedit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libedit": "Not applicable",
+      "uninstall": "pkg uninstall libedit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libelf-static",
+    "version": "0.192",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libelf is a library for accessing ELF object files. This is the statically linked version.",
+    "homepage": "https://sourceware.org/elfutils/",
+    "installation": "pkg install libelf-static",
+    "usage": "After installing libelf-static, you can use it to access and manipulate ELF object files in your applications.",
+    "features": [
+      "ELF Object Files: Provides tools for accessing and manipulating ELF object files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for ELF tasks.",
+      "Integration: Can be integrated into applications requiring ELF file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libelf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ELF file handling and Libelf for support and discussions.",
+      "GitHub": "Visit the Libelf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libelf": "Not applicable",
+      "uninstall": "pkg uninstall libelf-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libelf",
+    "version": "0.192",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libelf is a library for accessing ELF object files.",
+    "homepage": "https://sourceware.org/elfutils/",
+    "installation": "pkg install libelf",
+    "usage": "After installing libelf, you can use it to access and manipulate ELF object files in your applications.",
+    "features": [
+      "ELF Object Files: Provides tools for accessing and manipulating ELF object files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for ELF tasks.",
+      "Integration: Can be integrated into applications requiring ELF file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libelf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ELF file handling and Libelf for support and discussions.",
+      "GitHub": "Visit the Libelf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libelf": "Not applicable",
+      "uninstall": "pkg uninstall libelf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libenet-static",
+    "version": "1.3.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libenet is a networking library that provides reliable, in-order delivery of packets. This is the statically linked version.",
+    "homepage": "http://enet.bespin.org/",
+    "installation": "pkg install libenet-static",
+    "usage": "After installing libenet-static, you can use it to manage reliable, in-order delivery of packets in your networking applications.",
+    "features": [
+      "Networking: Provides tools for reliable, in-order delivery of packets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for networking tasks.",
+      "Integration: Can be integrated into applications requiring reliable packet delivery.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libenet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to networking and Libenet for support and discussions.",
+      "GitHub": "Visit the Libenet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libenet": "Not applicable",
+      "uninstall": "pkg uninstall libenet-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libenet",
+    "version": "1.3.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libenet is a networking library that provides reliable, in-order delivery of packets.",
+    "homepage": "http://enet.bespin.org/",
+    "installation": "pkg install libenet",
+    "usage": "After installing libenet, you can use it to manage reliable, in-order delivery of packets in your networking applications.",
+    "features": [
+      "Networking: Provides tools for reliable, in-order delivery of packets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for networking tasks.",
+      "Integration: Can be integrated into applications requiring reliable packet delivery.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libenet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to networking and Libenet for support and discussions.",
+      "GitHub": "Visit the Libenet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libenet": "Not applicable",
+      "uninstall": "pkg uninstall libenet"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libepoxy",
+    "version": "1.5.10-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libepoxy is a library that handles OpenGL function pointer management for you.",
+    "homepage": "https://github.com/anholt/libepoxy",
+    "installation": "pkg install libepoxy",
+    "usage": "After installing libepoxy, you can use it to manage OpenGL function pointers in your applications.",
+    "features": [
+      "OpenGL Management: Provides tools for managing OpenGL function pointers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for OpenGL tasks.",
+      "Integration: Can be integrated into applications requiring OpenGL management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libepoxy documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to OpenGL and Libepoxy for support and discussions.",
+      "GitHub": "Visit the Libepoxy GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libepoxy": "Not applicable",
+      "uninstall": "pkg uninstall libepoxy"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libev-static",
+    "version": "4.33-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libev is a high-performance event loop/event model with lots of features. This is the statically linked version.",
+    "homepage": "http://software.schmorp.de/pkg/libev.html",
+    "installation": "pkg install libev-static",
+    "usage": "After installing libev-static, you can use it to manage event loops in your applications.",
+    "features": [
+      "Event Loop: Provides tools for managing event loops with high performance.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for event loop tasks.",
+      "Integration: Can be integrated into applications requiring event loop management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libev documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to event loops and Libev for support and discussions.",
+      "GitHub": "Visit the Libev GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libev": "Not applicable",
+      "uninstall": "pkg uninstall libev-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libev",
+    "version": "4.33-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libev is a high-performance event loop/event model with lots of features.",
+    "homepage": "http://software.schmorp.de/pkg/libev.html",
+    "installation": "pkg install libev",
+    "usage": "After installing libev, you can use it to manage event loops in your applications.",
+    "features": [
+      "Event Loop: Provides tools for managing event loops with high performance.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for event loop tasks.",
+      "Integration: Can be integrated into applications requiring event loop management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libev documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to event loops and Libev for support and discussions.",
+      "GitHub": "Visit the Libev GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libev": "Not applicable",
+      "uninstall": "pkg uninstall libev"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libevent",
+    "version": "2.1.12-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libevent is an event notification library that provides a mechanism to execute a callback function when a specific event occurs on a file descriptor or after a timeout has been reached.",
+    "homepage": "http://libevent.org/",
+    "installation": "pkg install libevent",
+    "usage": "After installing libevent, you can use it to manage event notifications in your applications.",
+    "features": [
+      "Event Notification: Provides tools for managing event notifications and executing callback functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for event notification tasks.",
+      "Integration: Can be integrated into applications requiring event notification management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libevent documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to event notification and Libevent for support and discussions.",
+      "GitHub": "Visit the Libevent GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libevent": "Not applicable",
+      "uninstall": "pkg uninstall libevent"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libexif-static",
+    "version": "0.6.25",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libexif is a library for parsing, editing, and saving EXIF data. This is the statically linked version.",
+    "homepage": "https://libexif.github.io/",
+    "installation": "pkg install libexif-static",
+    "usage": "After installing libexif-static, you can use it to handle EXIF data in your applications.",
+    "features": [
+      "EXIF Data: Provides tools for parsing, editing, and saving EXIF data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for EXIF tasks.",
+      "Integration: Can be integrated into applications requiring EXIF data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libexif documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to EXIF data and Libexif for support and discussions.",
+      "GitHub": "Visit the Libexif GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libexif": "Not applicable",
+      "uninstall": "pkg uninstall libexif-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libexif",
+    "version": "0.6.25",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libexif is a library for parsing, editing, and saving EXIF data.",
+    "homepage": "https://libexif.github.io/",
+    "installation": "pkg install libexif",
+    "usage": "After installing libexif, you can use it to handle EXIF data in your applications.",
+    "features": [
+      "EXIF Data: Provides tools for parsing, editing, and saving EXIF data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for EXIF tasks.",
+      "Integration: Can be integrated into applications requiring EXIF data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libexif documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to EXIF data and Libexif for support and discussions.",
+      "GitHub": "Visit the Libexif GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libexif": "Not applicable",
+      "uninstall": "pkg uninstall libexif"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libexpat-static",
+    "version": "2.6.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libexpat is a stream-oriented XML parser library written in C. This is the statically linked version.",
+    "homepage": "https://libexpat.github.io/",
+    "installation": "pkg install libexpat-static",
+    "usage": "After installing libexpat-static, you can use it to parse XML data in your applications.",
+    "features": [
+      "XML Parsing: Provides tools for stream-oriented XML parsing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for XML parsing tasks.",
+      "Integration: Can be integrated into applications requiring XML parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libexpat documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML parsing and Libexpat for support and discussions.",
+      "GitHub": "Visit the Libexpat GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libexpat": "Not applicable",
+      "uninstall": "pkg uninstall libexpat-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libexpat",
+    "version": "2.6.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libexpat is a stream-oriented XML parser library written in C.",
+    "homepage": "https://libexpat.github.io/",
+    "installation": "pkg install libexpat",
+    "usage": "After installing libexpat, you can use it to parse XML data in your applications.",
+    "features": [
+      "XML Parsing: Provides tools for stream-oriented XML parsing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for XML parsing tasks.",
+      "Integration: Can be integrated into applications requiring XML parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libexpat documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML parsing and Libexpat for support and discussions.",
+      "GitHub": "Visit the Libexpat GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libexpat": "Not applicable",
+      "uninstall": "pkg uninstall libexpat"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libfann",
+    "version": "2.2.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libfann is a fast and easy-to-use neural network library.",
+    "homepage": "http://leenissen.dk/fann/wp/",
+    "installation": "pkg install libfann",
+    "usage": "After installing libfann, you can use it to create and train neural networks in your applications.",
+    "features": [
+      "Neural Networks: Provides tools for creating and training neural networks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for neural network tasks.",
+      "Integration: Can be integrated into applications requiring neural network support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libfann documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to neural networks and Libfann for support and discussions.",
+      "GitHub": "Visit the Libfann GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libfann": "Not applicable",
+      "uninstall": "pkg uninstall libfann"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libfcl",
+    "version": "0.7.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libfcl is a library for performing collision detection and distance computation between geometric shapes.",
+    "homepage": "https://github.com/flexible-collision-library/fcl",
+    "installation": "pkg install libfcl",
+    "usage": "After installing libfcl, you can use it to perform collision detection and distance computation in your applications.",
+    "features": [
+      "Collision Detection: Provides tools for collision detection between geometric shapes.",
+      "Distance Computation: Provides tools for computing distances between geometric shapes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for collision detection and distance computation tasks.",
+      "Integration: Can be integrated into applications requiring collision detection and distance computation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libfcl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to collision detection and Libfcl for support and discussions.",
+      "GitHub": "Visit the Libfcl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libfcl": "Not applicable",
+      "uninstall": "pkg uninstall libfcl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libfdisk",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libfdisk is a library that provides a uniform way to access partition tables.",
+    "homepage": "https://github.com/karelzak/util-linux",
+    "installation": "pkg install libfdisk",
+    "usage": "After installing libfdisk, you can use it to access and manipulate partition tables in your applications.",
+    "features": [
+      "Partition Tables: Provides tools for accessing and manipulating partition tables.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for partition table tasks.",
+      "Integration: Can be integrated into applications requiring partition table access.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libfdisk documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to partition management and Libfdisk for support and discussions.",
+      "GitHub": "Visit the Libfdisk GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libfdisk": "Not applicable",
+      "uninstall": "pkg uninstall libfdisk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libfdk-aac-static",
+    "version": "2.0.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libfdk-aac is a library for encoding and decoding AAC audio. This is the statically linked version.",
+    "homepage": "https://github.com/mstorsjo/fdk-aac",
+    "installation": "pkg install libfdk-aac-static",
+    "usage": "After installing libfdk-aac-static, you can use it to encode and decode AAC audio in your applications.",
+    "features": [
+      "AAC Audio: Provides tools for encoding and decoding AAC audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring AAC audio support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libfdk-aac documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Libfdk-aac for support and discussions.",
+      "GitHub": "Visit the Libfdk-aac GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_audio": "fdk-aac-encoder input.wav output.aac",
+      "decode_audio": "fdk-aac-decoder input.aac output.wav",
+      "uninstall": "pkg uninstall libfdk-aac-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libfdk-aac",
+    "version": "2.0.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libfdk-aac is a library for encoding and decoding AAC audio.",
+    "homepage": "https://github.com/mstorsjo/fdk-aac",
+    "installation": "pkg install libfdk-aac",
+    "usage": "After installing libfdk-aac, you can use it to encode and decode AAC audio in your applications.",
+    "features": [
+      "AAC Audio: Provides tools for encoding and decoding AAC audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring AAC audio support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libfdk-aac documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Libfdk-aac for support and discussions.",
+      "GitHub": "Visit the Libfdk-aac GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_audio": "fdk-aac-encoder input.wav output.aac",
+      "decode_audio": "fdk-aac-decoder input.aac output.wav",
+      "uninstall": "pkg uninstall libfdk-aac"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libffi-static",
+    "version": "3.4.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libffi is a library that provides a portable, high level programming interface to various calling conventions. This is the statically linked version.",
+    "homepage": "https://sourceware.org/libffi/",
+    "installation": "pkg install libffi-static",
+    "usage": "After installing libffi-static, you can use it to call functions with different calling conventions in your applications.",
+    "features": [
+      "Calling Conventions: Provides tools for calling functions with different calling conventions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for calling convention tasks.",
+      "Integration: Can be integrated into applications requiring calling convention handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libffi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to programming interfaces and Libffi for support and discussions.",
+      "GitHub": "Visit the Libffi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libffi": "Not applicable",
+      "uninstall": "pkg uninstall libffi-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libffi",
+    "version": "3.4.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libffi is a library that provides a portable, high level programming interface to various calling conventions.",
+    "homepage": "https://sourceware.org/libffi/",
+    "installation": "pkg install libffi",
+    "usage": "After installing libffi, you can use it to call functions with different calling conventions in your applications.",
+    "features": [
+      "Calling Conventions: Provides tools for calling functions with different calling conventions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for calling convention tasks.",
+      "Integration: Can be integrated into applications requiring calling convention handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libffi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to programming interfaces and Libffi for support and discussions.",
+      "GitHub": "Visit the Libffi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libffi": "Not applicable",
+      "uninstall": "pkg uninstall libffi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libfixposix-static",
+    "version": "0.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libfixposix is a thin POSIX system call wrapper library. This is the statically linked version.",
+    "homepage": "https://github.com/sustrik/libfixposix",
+    "installation": "pkg install libfixposix-static",
+    "usage": "After installing libfixposix-static, you can use it to wrap POSIX system calls in your applications.",
+    "features": [
+      "POSIX System Calls: Provides tools for wrapping POSIX system calls.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for POSIX system call tasks.",
+      "Integration: Can be integrated into applications requiring POSIX system call handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libfixposix documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to POSIX system calls and Libfixposix for support and discussions.",
+      "GitHub": "Visit the Libfixposix GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libfixposix": "Not applicable",
+      "uninstall": "pkg uninstall libfixposix-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libfixposix",
+    "version": "0.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libfixposix is a thin POSIX system call wrapper library.",
+    "homepage": "https://github.com/sustrik/libfixposix",
+    "installation": "pkg install libfixposix",
+    "usage": "After installing libfixposix, you can use it to wrap POSIX system calls in your applications.",
+    "features": [
+      "POSIX System Calls: Provides tools for wrapping POSIX system calls.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for POSIX system call tasks.",
+      "Integration: Can be integrated into applications requiring POSIX system call handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libfixposix documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to POSIX system calls and Libfixposix for support and discussions.",
+      "GitHub": "Visit the Libfixposix GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libfixposix": "Not applicable",
+      "uninstall": "pkg uninstall libfixposix"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libflac-static",
+    "version": "1.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libflac is a library for encoding and decoding FLAC audio. This is the statically linked version.",
+    "homepage": "https://xiph.org/flac/",
+    "installation": "pkg install libflac-static",
+    "usage": "After installing libflac-static, you can use it to encode and decode FLAC audio in your applications.",
+    "features": [
+      "FLAC Audio: Provides tools for encoding and decoding FLAC audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring FLAC audio support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libflac documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Libflac for support and discussions.",
+      "GitHub": "Visit the Libflac GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_audio": "flac -o output.flac input.wav",
+      "decode_audio": "flac -d output.flac",
+      "uninstall": "pkg uninstall libflac-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libflac",
+    "version": "1.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libflac is a library for encoding and decoding FLAC audio.",
+    "homepage": "https://xiph.org/flac/",
+    "installation": "pkg install libflac",
+    "usage": "After installing libflac, you can use it to encode and decode FLAC audio in your applications.",
+    "features": [
+      "FLAC Audio: Provides tools for encoding and decoding FLAC audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring FLAC audio support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libflac documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Libflac for support and discussions.",
+      "GitHub": "Visit the Libflac GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_audio": "flac -o output.flac input.wav",
+      "decode_audio": "flac -d output.flac",
+      "uninstall": "pkg uninstall libflac"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libflann",
+    "version": "2022.10.27-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libflann is a library for performing fast approximate nearest neighbor searches in high-dimensional spaces.",
+    "homepage": "https://github.com/mariusmuja/flann",
+    "installation": "pkg install libflann",
+    "usage": "After installing libflann, you can use it to perform fast approximate nearest neighbor searches in your applications.",
+    "features": [
+      "Nearest Neighbor Search: Provides tools for performing fast approximate nearest neighbor searches.",
+      "High-Dimensional Spaces: Supports searches in high-dimensional spaces.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for nearest neighbor search tasks.",
+      "Integration: Can be integrated into applications requiring nearest neighbor searches.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libflann documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to nearest neighbor searches and Libflann for support and discussions.",
+      "GitHub": "Visit the Libflann GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libflann": "Not applicable",
+      "uninstall": "pkg uninstall libflann"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libforestdb",
+    "version": "1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libforestdb is a fast key-value storage engine based on a hierarchical B+-tree.",
+    "homepage": "https://github.com/couchbase/forestdb",
+    "installation": "pkg install libforestdb",
+    "usage": "After installing libforestdb, you can use it to manage key-value storage in your applications.",
+    "features": [
+      "Key-Value Storage: Provides tools for managing key-value storage.",
+      "Hierarchical B+-Tree: Utilizes a hierarchical B+-tree for fast storage and retrieval.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for storage tasks.",
+      "Integration: Can be integrated into applications requiring key-value storage.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libforestdb documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to key-value storage and Libforestdb for support and discussions.",
+      "GitHub": "Visit the Libforestdb GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libforestdb": "Not applicable",
+      "uninstall": "pkg uninstall libforestdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libfreexl-static",
+    "version": "2.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libfreexl is a library to extract valid data from within an Excel (.xls) spreadsheet. This is the statically linked version.",
+    "homepage": "https://www.gaia-gis.it/fossil/freexl/index",
+    "installation": "pkg install libfreexl-static",
+    "usage": "After installing libfreexl-static, you can use it to extract data from Excel spreadsheets in your applications.",
+    "features": [
+      "Excel Data Extraction: Provides tools for extracting data from Excel (.xls) spreadsheets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for data extraction tasks.",
+      "Integration: Can be integrated into applications requiring Excel data extraction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libfreexl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data extraction and Libfreexl for support and discussions.",
+      "GitHub": "Visit the Libfreexl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libfreexl": "Not applicable",
+      "uninstall": "pkg uninstall libfreexl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libfreexl",
+    "version": "2.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libfreexl is a library to extract valid data from within an Excel (.xls) spreadsheet.",
+    "homepage": "https://www.gaia-gis.it/fossil/freexl/index",
+    "installation": "pkg install libfreexl",
+    "usage": "After installing libfreexl, you can use it to extract data from Excel spreadsheets in your applications.",
+    "features": [
+      "Excel Data Extraction: Provides tools for extracting data from Excel (.xls) spreadsheets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for data extraction tasks.",
+      "Integration: Can be integrated into applications requiring Excel data extraction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libfreexl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data extraction and Libfreexl for support and discussions.",
+      "GitHub": "Visit the Libfreexl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libfreexl": "Not applicable",
+      "uninstall": "pkg uninstall libfreexl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libftxui",
+    "version": "5.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libftxui is a simple C++ library for creating text user interfaces.",
+    "homepage": "https://github.com/ArthurSonzogni/FTXUI",
+    "installation": "pkg install libftxui",
+    "usage": "After installing libftxui, you can use it to create text user interfaces in your applications.",
+    "features": [
+      "Text User Interfaces: Provides tools for creating text user interfaces.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for TUI tasks.",
+      "Integration: Can be integrated into applications requiring text user interfaces.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libftxui documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text user interfaces and Libftxui for support and discussions.",
+      "GitHub": "Visit the Libftxui GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libftxui": "Not applicable",
+      "uninstall": "pkg uninstall libftxui"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgc-static",
+    "version": "8.2.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgc, also known as the Boehm-Demers-Weiser garbage collector, is a garbage collecting storage allocator for C and C++. This is the statically linked version.",
+    "homepage": "https://www.hboehm.info/gc/",
+    "installation": "pkg install libgc-static",
+    "usage": "After installing libgc-static, you can use it to manage garbage collection in your C and C++ applications.",
+    "features": [
+      "Garbage Collection: Provides tools for garbage collection in C and C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for garbage collection tasks.",
+      "Integration: Can be integrated into applications requiring garbage collection.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to garbage collection and Libgc for support and discussions.",
+      "GitHub": "Visit the Libgc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgc": "Not applicable",
+      "uninstall": "pkg uninstall libgc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgc",
+    "version": "8.2.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgc, also known as the Boehm-Demers-Weiser garbage collector, is a garbage collecting storage allocator for C and C++.",
+    "homepage": "https://www.hboehm.info/gc/",
+    "installation": "pkg install libgc",
+    "usage": "After installing libgc, you can use it to manage garbage collection in your C and C++ applications.",
+    "features": [
+      "Garbage Collection: Provides tools for garbage collection in C and C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for garbage collection tasks.",
+      "Integration: Can be integrated into applications requiring garbage collection.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to garbage collection and Libgc for support and discussions.",
+      "GitHub": "Visit the Libgc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgc": "Not applicable",
+      "uninstall": "pkg uninstall libgc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgcrypt-static",
+    "version": "1.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgcrypt is a general-purpose cryptographic library based on the code from GnuPG. This is the statically linked version.",
+    "homepage": "https://www.gnupg.org/software/libgcrypt/index.html",
+    "installation": "pkg install libgcrypt-static",
+    "usage": "After installing libgcrypt-static, you can use it to perform cryptographic functions in your applications.",
+    "features": [
+      "Cryptographic Functions: Provides tools for performing cryptographic functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into applications requiring cryptographic functions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgcrypt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libgcrypt for support and discussions.",
+      "GitHub": "Visit the Libgcrypt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgcrypt": "Not applicable",
+      "uninstall": "pkg uninstall libgcrypt-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgcrypt",
+    "version": "1.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgcrypt is a general-purpose cryptographic library based on the code from GnuPG.",
+    "homepage": "https://www.gnupg.org/software/libgcrypt/index.html",
+    "installation": "pkg install libgcrypt",
+    "usage": "After installing libgcrypt, you can use it to perform cryptographic functions in your applications.",
+    "features": [
+      "Cryptographic Functions: Provides tools for performing cryptographic functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into applications requiring cryptographic functions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgcrypt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libgcrypt for support and discussions.",
+      "GitHub": "Visit the Libgcrypt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgcrypt": "Not applicable",
+      "uninstall": "pkg uninstall libgcrypt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgd",
+    "version": "2.3.3-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgd is a library for the dynamic creation of images by programmers.",
+    "homepage": "https://libgd.github.io/",
+    "installation": "pkg install libgd",
+    "usage": "After installing libgd, you can use it to create and manipulate images in your applications.",
+    "features": [
+      "Image Creation: Provides tools for the dynamic creation of images.",
+      "Image Manipulation: Provides tools for manipulating images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image tasks.",
+      "Integration: Can be integrated into applications requiring image creation and manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libgd for support and discussions.",
+      "GitHub": "Visit the Libgd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgd": "Not applicable",
+      "uninstall": "pkg uninstall libgd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgedit-gfls",
+    "version": "0.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgedit-gfls is a library for extending the functionality of the Gedit text editor.",
+    "homepage": "https://wiki.gnome.org/Apps/Gedit",
+    "installation": "pkg install libgedit-gfls",
+    "usage": "After installing libgedit-gfls, you can use it to extend the functionality of the Gedit text editor in your applications.",
+    "features": [
+      "Gedit Extension: Provides tools for extending the functionality of the Gedit text editor.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for Gedit extension tasks.",
+      "Integration: Can be integrated into applications requiring Gedit extensions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gedit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editors and Gedit for support and discussions.",
+      "GitHub": "Visit the Gedit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgedit_gfls": "Not applicable",
+      "uninstall": "pkg uninstall libgedit-gfls"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgee-static",
+    "version": "0.20.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgee is a collection library providing GObject-based interfaces and classes for commonly used data structures. This is the statically linked version.",
+    "homepage": "https://wiki.gnome.org/Projects/Libgee",
+    "installation": "pkg install libgee-static",
+    "usage": "After installing libgee-static, you can use it to manage data structures in your applications.",
+    "features": [
+      "Data Structures: Provides tools for managing commonly used data structures.",
+      "GObject-Based: Utilizes GObject-based interfaces and classes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for data structure tasks.",
+      "Integration: Can be integrated into applications requiring data structure management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgee documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data structures and Libgee for support and discussions.",
+      "GitHub": "Visit the Libgee GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgee": "Not applicable",
+      "uninstall": "pkg uninstall libgee-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgee",
+    "version": "0.20.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgee is a collection library providing GObject-based interfaces and classes for commonly used data structures.",
+    "homepage": "https://wiki.gnome.org/Projects/Libgee",
+    "installation": "pkg install libgee",
+    "usage": "After installing libgee, you can use it to manage data structures in your applications.",
+    "features": [
+      "Data Structures: Provides tools for managing commonly used data structures.",
+      "GObject-Based: Utilizes GObject-based interfaces and classes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for data structure tasks.",
+      "Integration: Can be integrated into applications requiring data structure management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgee documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data structures and Libgee for support and discussions.",
+      "GitHub": "Visit the Libgee GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgee": "Not applicable",
+      "uninstall": "pkg uninstall libgee"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgeos",
+    "version": "3.13.0beta2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgeos is a C++ library for performing geometric operations, such as intersections, unions, and differences.",
+    "homepage": "https://libgeos.org/",
+    "installation": "pkg install libgeos",
+    "usage": "After installing libgeos, you can use it to perform geometric operations in your applications.",
+    "features": [
+      "Geometric Operations: Provides tools for performing geometric operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for geometric tasks.",
+      "Integration: Can be integrated into applications requiring geometric operations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgeos documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to geometric operations and Libgeos for support and discussions.",
+      "GitHub": "Visit the Libgeos GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgeos": "Not applicable",
+      "uninstall": "pkg uninstall libgeos"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgeotiff",
+    "version": "1.7.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgeotiff is a library for reading and writing GeoTIFF information tags.",
+    "homepage": "https://github.com/OSGeo/libgeotiff",
+    "installation": "pkg install libgeotiff",
+    "usage": "After installing libgeotiff, you can use it to read and write GeoTIFF information tags in your applications.",
+    "features": [
+      "GeoTIFF Tags: Provides tools for reading and writing GeoTIFF information tags.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for GeoTIFF tasks.",
+      "Integration: Can be integrated into applications requiring GeoTIFF information handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgeotiff documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GeoTIFF and Libgeotiff for support and discussions.",
+      "GitHub": "Visit the Libgeotiff GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgeotiff": "Not applicable",
+      "uninstall": "pkg uninstall libgeotiff"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgf2x-static",
+    "version": "1.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgf2x is a library for fast arithmetic in GF(2)[x]. This is the statically linked version.",
+    "homepage": "https://gitlab.inria.fr/gf2x/gf2x",
+    "installation": "pkg install libgf2x-static",
+    "usage": "After installing libgf2x-static, you can use it to perform fast arithmetic in GF(2)[x] in your applications.",
+    "features": [
+      "GF(2)[x] Arithmetic: Provides tools for fast arithmetic in GF(2)[x].",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for arithmetic tasks.",
+      "Integration: Can be integrated into applications requiring GF(2)[x] arithmetic.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgf2x documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to arithmetic and Libgf2x for support and discussions.",
+      "GitHub": "Visit the Libgf2x GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgf2x": "Not applicable",
+      "uninstall": "pkg uninstall libgf2x-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgf2x",
+    "version": "1.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgf2x is a library for fast arithmetic in GF(2)[x].",
+    "homepage": "https://gitlab.inria.fr/gf2x/gf2x",
+    "installation": "pkg install libgf2x",
+    "usage": "After installing libgf2x, you can use it to perform fast arithmetic in GF(2)[x] in your applications.",
+    "features": [
+      "GF(2)[x] Arithmetic: Provides tools for fast arithmetic in GF(2)[x].",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for arithmetic tasks.",
+      "Integration: Can be integrated into applications requiring GF(2)[x] arithmetic.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgf2x documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to arithmetic and Libgf2x for support and discussions.",
+      "GitHub": "Visit the Libgf2x GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgf2x": "Not applicable",
+      "uninstall": "pkg uninstall libgf2x"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgfshare-static",
+    "version": "2.0.0-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgfshare is a library for sharing secrets using Shamir's Secret Sharing Scheme. This is the statically linked version.",
+    "homepage": "https://packages.debian.org/sid/libgfshare-dev",
+    "installation": "pkg install libgfshare-static",
+    "usage": "After installing libgfshare-static, you can use it to share secrets using Shamir's Secret Sharing Scheme in your applications.",
+    "features": [
+      "Secret Sharing: Provides tools for sharing secrets using Shamir's Secret Sharing Scheme.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for secret sharing tasks.",
+      "Integration: Can be integrated into applications requiring secret sharing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgfshare documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to secret sharing and Libgfshare for support and discussions.",
+      "GitHub": "Visit the Libgfshare GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgfshare": "Not applicable",
+      "uninstall": "pkg uninstall libgfshare-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgfshare",
+    "version": "2.0.0-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgfshare is a library for sharing secrets using Shamir's Secret Sharing Scheme.",
+    "homepage": "https://packages.debian.org/sid/libgfshare-dev",
+    "installation": "pkg install libgfshare",
+    "usage": "After installing libgfshare, you can use it to share secrets using Shamir's Secret Sharing Scheme in your applications.",
+    "features": [
+      "Secret Sharing: Provides tools for sharing secrets using Shamir's Secret Sharing Scheme.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for secret sharing tasks.",
+      "Integration: Can be integrated into applications requiring secret sharing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgfshare documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to secret sharing and Libgfshare for support and discussions.",
+      "GitHub": "Visit the Libgfshare GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgfshare": "Not applicable",
+      "uninstall": "pkg uninstall libgfshare"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgit2",
+    "version": "1.9.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgit2 is a portable, pure C implementation of the Git core methods provided as a re-entrant linkable library.",
+    "homepage": "https://libgit2.org/",
+    "installation": "pkg install libgit2",
+    "usage": "After installing libgit2, you can use it to implement Git functionalities in your applications.",
+    "features": [
+      "Git Implementation: Provides a portable, pure C implementation of Git core methods.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for Git tasks.",
+      "Integration: Can be integrated into applications requiring Git functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgit2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git and Libgit2 for support and discussions.",
+      "GitHub": "Visit the Libgit2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgit2": "Not applicable",
+      "uninstall": "pkg uninstall libgit2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libglibmm-2.4",
+    "version": "2.66.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libglibmm-2.4 is a C++ wrapper for the GLib library.",
+    "homepage": "https://developer.gnome.org/glibmm/",
+    "installation": "pkg install libglibmm-2.4",
+    "usage": "After installing libglibmm-2.4, you can use it to create C++ applications using GLib functionalities.",
+    "features": [
+      "GLib Wrapper: Provides a C++ wrapper for the GLib library.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for GLib tasks.",
+      "Integration: Can be integrated into C++ applications requiring GLib functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libglibmm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GLib and Libglibmm for support and discussions.",
+      "GitHub": "Visit the Libglibmm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libglibmm": "Not applicable",
+      "uninstall": "pkg uninstall libglibmm-2.4"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libglibmm-2.68",
+    "version": "2.82.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libglibmm-2.68 is a C++ wrapper for the GLib library.",
+    "homepage": "https://developer.gnome.org/glibmm/",
+    "installation": "pkg install libglibmm-2.68",
+    "usage": "After installing libglibmm-2.68, you can use it to create C++ applications using GLib functionalities.",
+    "features": [
+      "GLib Wrapper: Provides a C++ wrapper for the GLib library.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for GLib tasks.",
+      "Integration: Can be integrated into C++ applications requiring GLib functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libglibmm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GLib and Libglibmm for support and discussions.",
+      "GitHub": "Visit the Libglibmm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libglibmm": "Not applicable",
+      "uninstall": "pkg uninstall libglibmm-2.68"
+    },
+    "isFavorite": false
+  }
+]

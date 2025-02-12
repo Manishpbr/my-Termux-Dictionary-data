@@ -1,0 +1,1243 @@
+[
+  {
+    "name": "n-t-roff-sc",
+    "version": "7.16-1.1.3-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "n-t-roff-sc is a collection of tools for text formatting using the nroff and troff text processors.",
+    "homepage": "https://www.gnu.org/software/groff/",
+    "installation": "pkg install n-t-roff-sc",
+    "usage": "After installing n-t-roff-sc, you can format text files using the provided tools.",
+    "features": [
+      "Text Formatting: Provides tools for formatting text files using nroff and troff.",
+      "Command Line Tools: Use the command line to format text files.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of n-t-roff-sc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "format_text": "nroff -ms file.txt",
+      "uninstall": "pkg uninstall n-t-roff-sc"
+    }
+  },
+  {
+    "name": "n2n",
+    "version": "3.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "n2n is a lightweight, decentralized, and encrypted virtual private network (VPN) software.",
+    "homepage": "https://github.com/ntop/n2n",
+    "installation": "pkg install n2n",
+    "usage": "After installing n2n, you can set up a VPN by typing: edge -c community -a 10.0.0.1",
+    "features": [
+      "Decentralized VPN: Provides a lightweight, decentralized, and encrypted virtual private network.",
+      "Secure: Uses encryption to ensure secure communication.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to VPNs for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "setup_vpn": "edge -c community -a 10.0.0.1",
+      "uninstall": "pkg uninstall n2n"
+    }
+  },
+  {
+    "name": "nala",
+    "version": "0.15.4-2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "nala is a front-end for apt, providing a better user experience with enhanced output and additional features.",
+    "homepage": "https://gitlab.com/volian/nala",
+    "installation": "pkg install nala",
+    "usage": "After installing nala, you can manage packages by typing: nala install package_name",
+    "features": [
+      "APT Front-End: Provides a better user experience for managing packages with apt.",
+      "Enhanced Output: Offers enhanced and readable output for package management commands.",
+      "Cross-Platform: Works on various Debian-based operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the GitLab repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to package management for support and discussions.",
+      "GitHub": "Search for repositories or forks of nala to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_package": "nala install package_name",
+      "uninstall": "pkg uninstall nala"
+    }
+  },
+  {
+    "name": "nali",
+    "version": "0.8.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nali is a command line tool for displaying IP geographic information.",
+    "homepage": "https://github.com/zu1k/nali",
+    "installation": "pkg install nali",
+    "usage": "After installing nali, you can get IP geographic information by typing: nali ip 8.8.8.8",
+    "features": [
+      "IP Geolocation: Provides geographic information for IP addresses.",
+      "Command Line Tool: Use the command line to get IP information.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to IP geolocation for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "get_ip_info": "nali ip 8.8.8.8",
+      "uninstall": "pkg uninstall nali"
+    }
+  },
+  {
+    "name": "nano",
+    "version": "8.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nano is a simple and easy-to-use text editor for Unix-like systems.",
+    "homepage": "https://www.nano-editor.org/",
+    "installation": "pkg install nano",
+    "usage": "After installing nano, you can start the text editor by typing: nano",
+    "features": [
+      "Text Editor: Provides a simple and easy-to-use text editor.",
+      "User-Friendly: Designed to be user-friendly with a minimal learning curve.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editors for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_editor": "nano",
+      "uninstall": "pkg uninstall nano"
+    }
+  },
+  {
+    "name": "nasm",
+    "version": "2.16.03",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nasm (Netwide Assembler) is an assembler for the x86 CPU architecture.",
+    "homepage": "https://www.nasm.us/",
+    "installation": "pkg install nasm",
+    "usage": "After installing nasm, you can assemble source files by typing: nasm -f elf file.asm",
+    "features": [
+      "Assembler: Provides an assembler for the x86 CPU architecture.",
+      "Cross-Platform: Works on various operating systems.",
+      "Flexible: Supports a wide range of output formats and debugging options."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to assembly language programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "assemble_file": "nasm -f elf file.asm",
+      "uninstall": "pkg uninstall nasm"
+    }
+  },
+  {
+    "name": "natpmpc-static",
+    "version": "20230423-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "natpmpc-static is a static library for NAT-PMP (Network Address Translation Port Mapping Protocol) client.",
+    "homepage": "https://miniupnp.tuxfamily.org/",
+    "installation": "pkg install natpmpc-static",
+    "usage": "After installing natpmpc-static, you can link it with your applications to use NAT-PMP functionalities.",
+    "features": [
+      "NAT-PMP Client: Provides a client for Network Address Translation Port Mapping Protocol.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to NAT-PMP for support and discussions.",
+      "GitHub": "Search for repositories or forks of natpmpc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lnatpmpc",
+      "uninstall": "pkg uninstall natpmpc-static"
+    }
+  },
+  {
+    "name": "natpmpc",
+    "version": "20230423-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "natpmpc is a client for NAT-PMP (Network Address Translation Port Mapping Protocol).",
+    "homepage": "https://miniupnp.tuxfamily.org/",
+    "installation": "pkg install natpmpc",
+    "usage": "After installing natpmpc, you can use it in your applications to use NAT-PMP functionalities.",
+    "features": [
+      "NAT-PMP Client: Provides a client for Network Address Translation Port Mapping Protocol.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to NAT-PMP for support and discussions.",
+      "GitHub": "Search for repositories or forks of natpmpc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "gcc -o myapp myapp.c -lnatpmpc",
+      "uninstall": "pkg uninstall natpmpc"
+    }
+  },
+  {
+    "name": "navi",
+    "version": "2.23.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "navi is an interactive cheatsheet tool for the command line.",
+    "homepage": "https://github.com/denisidoro/navi",
+    "installation": "pkg install navi",
+    "usage": "After installing navi, you can view and use cheatsheets by typing: navi",
+    "features": [
+      "Cheatsheet Tool: Provides an interactive cheatsheet tool for the command line.",
+      "Customizable: Allows for the creation and use of custom cheatsheets.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command line tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_cheatsheets": "navi",
+      "uninstall": "pkg uninstall navi"
+    }
+  },
+  {
+    "name": "navidrome",
+    "version": "0.54.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "navidrome is a self-hosted music server and streamer compatible with Subsonic/Airsonic.",
+    "homepage": "https://www.navidrome.org/",
+    "installation": "pkg install navidrome",
+    "usage": "After installing navidrome, you can start the server by typing: navidrome",
+    "features": [
+      "Music Server: Provides a self-hosted music server and streamer.",
+      "Subsonic Compatibility: Compatible with Subsonic/Airsonic clients.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to music servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "navidrome",
+      "uninstall": "pkg uninstall navidrome"
+    }
+  },
+  {
+    "name": "ncdc",
+    "version": "1.24.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncdc is a modern and lightweight Direct Connect client with a friendly text-mode interface.",
+    "homepage": "https://dev.yorhel.nl/ncdc",
+    "installation": "pkg install ncdc",
+    "usage": "After installing ncdc, you can start the client by typing: ncdc",
+    "features": [
+      "Direct Connect Client: Provides a modern and lightweight Direct Connect client.",
+      "Text-Mode Interface: Offers a friendly text-mode interface.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Direct Connect for support and discussions.",
+      "GitHub": "Search for repositories or forks of ncdc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "ncdc",
+      "uninstall": "pkg uninstall ncdc"
+    }
+  },
+  {
+    "name": "ncdu",
+    "version": "1.21",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncdu (NCurses Disk Usage) is a disk usage analyzer with an ncurses interface.",
+    "homepage": "https://dev.yorhel.nl/ncdu",
+    "installation": "pkg install ncdu",
+    "usage": "After installing ncdu, you can analyze disk usage by typing: ncdu",
+    "features": [
+      "Disk Usage Analyzer: Provides a disk usage analyzer with an ncurses interface.",
+      "Interactive: Offers an interactive interface for navigating disk usage.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to disk management for support and discussions.",
+      "GitHub": "Search for repositories or forks of ncdu to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "analyze_disk_usage": "ncdu",
+      "uninstall": "pkg uninstall ncdu"
+    }
+  },
+  {
+    "name": "ncftp",
+    "version": "3.2.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncftp is a set of free application programs implementing the File Transfer Protocol (FTP).",
+    "homepage": "http://www.ncftp.com/",
+    "installation": "pkg install ncftp",
+    "usage": "After installing ncftp, you can start the FTP client by typing: ncftp",
+    "features": [
+      "FTP Client: Provides a set of application programs implementing the File Transfer Protocol.",
+      "Command Line Interface: Offers a command line interface for FTP.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file transfer for support and discussions.",
+      "GitHub": "Search for repositories or forks of ncftp to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_ftp_client": "ncftp",
+      "uninstall": "pkg uninstall ncftp"
+    }
+  },
+  {
+    "name": "ncmpcpp",
+    "version": "0.10.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncmpcpp is a ncurses-based client for the Music Player Daemon (MPD).",
+    "homepage": "https://github.com/ncmpcpp/ncmpcpp",
+    "installation": "pkg install ncmpcpp",
+    "usage": "After installing ncmpcpp, you can start the client by typing: ncmpcpp",
+    "features": [
+      "MPD Client: Provides a ncurses-based client for Music Player Daemon.",
+      "User-Friendly: Offers a user-friendly interface for managing your music library.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPD clients for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "ncmpcpp",
+      "uninstall": "pkg uninstall ncmpcpp"
+    }
+  },
+  {
+    "name": "ncompress",
+    "version": "5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncompress is a compression utility based on the LZW algorithm.",
+    "homepage": "https://ncompress.sourceforge.io/",
+    "installation": "pkg install ncompress",
+    "usage": "After installing ncompress, you can compress files by typing: compress file",
+    "features": [
+      "File Compression: Provides a compression utility based on the LZW algorithm.",
+      "Command Line Tool: Use the command line to compress and decompress files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file compression for support and discussions.",
+      "GitHub": "Search for repositories or forks of ncompress to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_file": "compress file",
+      "decompress_file": "uncompress file",
+      "uninstall": "pkg uninstall ncompress"
+    }
+  },
+  {
+    "name": "ncpamixer",
+    "version": "1.3.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncpamixer is an ncurses-based audio mixer for PulseAudio.",
+    "homepage": "https://github.com/fulhax/ncpamixer",
+    "installation": "pkg install ncpamixer",
+    "usage": "After installing ncpamixer, you can start the mixer by typing: ncpamixer",
+    "features": [
+      "Audio Mixer: Provides an ncurses-based audio mixer for PulseAudio.",
+      "User-Friendly: Offers a user-friendly interface for managing audio levels.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio mixers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_mixer": "ncpamixer",
+      "uninstall": "pkg uninstall ncpamixer"
+    }
+  },
+  {
+    "name": "ncspot",
+    "version": "1.2.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncspot is a ncurses-based Spotify client written in Rust.",
+    "homepage": "https://github.com/hrkfdn/ncspot",
+    "installation": "pkg install ncspot",
+    "usage": "After installing ncspot, you can start the client by typing: ncspot",
+    "features": [
+      "Spotify Client: Provides a ncurses-based Spotify client.",
+      "Written in Rust: Built using the Rust programming language.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Spotify clients for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "ncspot",
+      "uninstall": "pkg uninstall ncspot"
+    }
+  },
+  {
+    "name": "ncurses-static",
+    "version": "6.5.20240831-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncurses-static is a static library for ncurses, a library for creating text-based user interfaces.",
+    "homepage": "https://invisible-island.net/ncurses/",
+    "installation": "pkg install ncurses-static",
+    "usage": "After installing ncurses-static, you can link it with your applications to create text-based user interfaces.",
+    "features": [
+      "Text-Based UI: Provides a library for creating text-based user interfaces.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ncurses for support and discussions.",
+      "GitHub": "Search for repositories or forks of ncurses to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lncurses",
+      "uninstall": "pkg uninstall ncurses-static"
+    }
+  },
+  {
+    "name": "ncurses-ui-libs-static",
+    "version": "6.5.20240831-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncurses-ui-libs-static is a static library for ncurses UI libraries.",
+    "homepage": "https://invisible-island.net/ncurses/",
+    "installation": "pkg install ncurses-ui-libs-static",
+    "usage": "After installing ncurses-ui-libs-static, you can link it with your applications to use ncurses UI libraries.",
+    "features": [
+      "UI Libraries: Provides static libraries for ncurses UI functionalities.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ncurses for support and discussions.",
+      "GitHub": "Search for repositories or forks of ncurses to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lncurses_ui",
+      "uninstall": "pkg uninstall ncurses-ui-libs-static"
+    }
+  },
+  {
+    "name": "ncurses-ui-libs",
+    "version": "6.5.20240831-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncurses-ui-libs is a library for ncurses UI functionalities.",
+    "homepage": "https://invisible-island.net/ncurses/",
+    "installation": "pkg install ncurses-ui-libs",
+    "usage": "After installing ncurses-ui-libs, you can link it with your applications to use ncurses UI libraries.",
+    "features": [
+      "UI Libraries: Provides libraries for ncurses UI functionalities.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ncurses for support and discussions.",
+      "GitHub": "Search for repositories or forks of ncurses to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lncurses_ui",
+      "uninstall": "pkg uninstall ncurses-ui-libs"
+    }
+  },
+  {
+    "name": "ncurses-utils",
+    "version": "6.5.20240831-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncurses-utils provides a collection of utilities for managing ncurses-based applications.",
+    "homepage": "https://invisible-island.net/ncurses/",
+    "installation": "pkg install ncurses-utils",
+    "usage": "After installing ncurses-utils, you can use the provided utilities to manage ncurses-based applications.",
+    "features": [
+      "Utilities: Provides a collection of utilities for managing ncurses-based applications.",
+      "Command Line Tools: Use the command line to manage ncurses-based applications.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ncurses for support and discussions.",
+      "GitHub": "Search for repositories or forks of ncurses to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_utility": "clear",
+      "uninstall": "pkg uninstall ncurses-utils"
+    }
+  },
+  {
+    "name": "ncurses",
+    "version": "6.5.20240831-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ncurses is a library for creating text-based user interfaces.",
+    "homepage": "https://invisible-island.net/ncurses/",
+    "installation": "pkg install ncurses",
+    "usage": "After installing ncurses, you can link it with your applications to create text-based user interfaces.",
+    "features": [
+      "Text-Based UI: Provides a library for creating text-based user interfaces.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ncurses for support and discussions.",
+      "GitHub": "Search for repositories or forks of ncurses to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lncurses",
+      "uninstall": "pkg uninstall ncurses"
+    }
+  },
+  {
+    "name": "ndk-multilib-native-static",
+    "version": "27c",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ndk-multilib-native-static is a static library for NDK (Native Development Kit) multilib support.",
+    "homepage": "https://developer.android.com/ndk",
+    "installation": "pkg install ndk-multilib-native-static",
+    "usage": "After installing ndk-multilib-native-static, you can link it with your applications to use NDK multilib support.",
+    "features": [
+      "NDK Multilib: Provides multilib support for the Native Development Kit.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to NDK for support and discussions.",
+      "GitHub": "Search for repositories or forks of NDK to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lndk_multilib",
+      "uninstall": "pkg uninstall ndk-multilib-native-static"
+    }
+  },
+  {
+    "name": "ndk-multilib-native-stubs",
+    "version": "27c",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ndk-multilib-native-stubs provides stub libraries for NDK (Native Development Kit) multilib support.",
+    "homepage": "https://developer.android.com/ndk",
+    "installation": "pkg install ndk-multilib-native-stubs",
+    "usage": "After installing ndk-multilib-native-stubs, you can link it with your applications to use NDK multilib support.",
+    "features": [
+      "NDK Multilib: Provides stub libraries for the Native Development Kit.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to NDK for support and discussions.",
+      "GitHub": "Search for repositories or forks of NDK to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lndk_multilib_stubs",
+      "uninstall": "pkg uninstall ndk-multilib-native-stubs"
+    }
+  },
+  {
+    "name": "ndk-multilib",
+    "version": "27c",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "ndk-multilib provides multilib support for the NDK (Native Development Kit).",
+    "homepage": "https://developer.android.com/ndk",
+    "installation": "pkg install ndk-multilib",
+    "usage": "After installing ndk-multilib, you can link it with your applications to use NDK multilib support.",
+    "features": [
+      "NDK Multilib: Provides multilib support for the Native Development Kit.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to NDK for support and discussions.",
+      "GitHub": "Search for repositories or forks of NDK to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lndk_multilib",
+      "uninstall": "pkg uninstall ndk-multilib"
+    }
+  },
+  {
+    "name": "ndk-sysroot",
+    "version": "27c",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ndk-sysroot provides the sysroot for the NDK (Native Development Kit).",
+    "homepage": "https://developer.android.com/ndk",
+    "installation": "pkg install ndk-sysroot",
+    "usage": "After installing ndk-sysroot, you can use it as the sysroot for NDK development.",
+    "features": [
+      "NDK Sysroot: Provides the sysroot for the Native Development Kit.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to NDK for support and discussions.",
+      "GitHub": "Search for repositories or forks of NDK to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_sysroot": "export SYSROOT=/path/to/ndk-sysroot",
+      "uninstall": "pkg uninstall ndk-sysroot"
+    }
+  },
+  {
+    "name": "ne",
+    "version": "3.3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ne (the nice editor) is a text editor for Unix-like systems that provides an easy-to-use interface and powerful features.",
+    "homepage": "https://ne.di.unimi.it/",
+    "installation": "pkg install ne",
+    "usage": "After installing ne, you can start the text editor by typing: ne",
+    "features": [
+      "Text Editor: Provides a user-friendly text editor for Unix-like systems.",
+      "Powerful Features: Includes features such as syntax highlighting, multiple undo/redo, and more.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editors for support and discussions.",
+      "GitHub": "Search for repositories or forks of ne to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_editor": "ne",
+      "uninstall": "pkg uninstall ne"
+    }
+  },
+  {
+    "name": "nelua",
+    "version": "2024.01.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nelua is a systems programming language with a focus on performance, safety, and ease of use.",
+    "homepage": "https://nelua.io/",
+    "installation": "pkg install nelua",
+    "usage": "After installing nelua, you can compile Nelua source files by typing: nelua file.nelua",
+    "features": [
+      "Systems Programming: Provides a systems programming language with a focus on performance and safety.",
+      "Ease of Use: Designed to be easy to use with a clean syntax.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to programming languages for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_file": "nelua file.nelua",
+      "uninstall": "pkg uninstall nelua"
+    }
+  },
+  {
+    "name": "neocmakelsp",
+    "version": "0.8.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "neocmakelsp is a Language Server Protocol (LSP) server for CMake, providing code completion, diagnostics, and more.",
+    "homepage": "https://github.com/maskray/neocmakelsp",
+    "installation": "pkg install neocmakelsp",
+    "usage": "After installing neocmakelsp, you can use it with your preferred LSP client to get CMake support.",
+    "features": [
+      "LSP Server: Provides a Language Server Protocol server for CMake.",
+      "Code Completion: Offers code completion for CMake scripts.",
+      "Diagnostics: Provides diagnostics and error checking for CMake scripts."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to CMake and LSP for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_lsp_server": "neocmakelsp",
+      "uninstall": "pkg uninstall neocmakelsp"
+    }
+  },
+  {
+    "name": "neofetch",
+    "version": "7.1.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "neofetch is a command-line system information tool that displays system information in a visually appealing way.",
+    "homepage": "https://github.com/dylanaraps/neofetch",
+    "installation": "pkg install neofetch",
+    "usage": "After installing neofetch, you can display system information by typing: neofetch",
+    "features": [
+      "System Information: Displays system information in a visually appealing way.",
+      "Customizable: Highly customizable with various configuration options.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to system information tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "display_info": "neofetch",
+      "uninstall": "pkg uninstall neofetch"
+    }
+  },
+  {
+    "name": "neomutt",
+    "version": "20250113",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "neomutt is a text-based email client for Unix-like operating systems, providing powerful features and configurability.",
+    "homepage": "https://neomutt.org/",
+    "installation": "pkg install neomutt",
+    "usage": "After installing neomutt, you can start the email client by typing: neomutt",
+    "features": [
+      "Email Client: Provides a text-based email client for Unix-like operating systems.",
+      "Powerful Features: Includes features such as threading, MIME support, and more.",
+      "Configurable: Highly configurable with support for various email protocols."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to email clients for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "neomutt",
+      "uninstall": "pkg uninstall neomutt"
+    }
+  },
+  {
+    "name": "neovim",
+    "version": "0.10.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "neovim is a hyperextensible and modernized fork of Vim, providing additional features and improved performance.",
+    "homepage": "https://neovim.io/",
+    "installation": "pkg install neovim",
+    "usage": "After installing neovim, you can start the editor by typing: nvim",
+    "features": [
+      "Text Editor: Provides a modernized fork of Vim with additional features.",
+      "Hyperextensible: Designed to be highly extensible with plugins and custom configurations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editors for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_editor": "nvim",
+      "uninstall": "pkg uninstall neovim"
+    }
+  },
+  {
+    "name": "nerdfix",
+    "version": "0.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nerdfix is a command-line tool for fixing font issues in Nerd Fonts.",
+    "homepage": "https://github.com/loichyan/nerdfix",
+    "installation": "pkg install nerdfix",
+    "usage": "After installing nerdfix, you can fix font issues by typing: nerdfix",
+    "features": [
+      "Font Fixing: Provides a tool for fixing font issues in Nerd Fonts.",
+      "Command Line Tool: Use the command line to fix font issues.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to fonts for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "fix_fonts": "nerdfix",
+      "uninstall": "pkg uninstall nerdfix"
+    }
+  },
+  {
+    "name": "net-snmp-static",
+    "version": "5.9.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "net-snmp-static is a static library version of the Net-SNMP toolkit, providing SNMP protocol support for network management.",
+    "homepage": "https://www.net-snmp.org/",
+    "installation": "pkg install net-snmp-static",
+    "usage": "After installing net-snmp-static, you can link it with your applications to use SNMP functionalities.",
+    "features": [
+      "SNMP Support: Provides a static library for SNMP protocol support.",
+      "Network Management: Suitable for network management applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network management for support and discussions.",
+      "GitHub": "Search for repositories or forks of Net-SNMP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lnetsnmp",
+      "uninstall": "pkg uninstall net-snmp-static"
+    }
+  },
+  {
+    "name": "net-snmp",
+    "version": "5.9.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "net-snmp is a toolkit providing SNMP protocol support for network management.",
+    "homepage": "https://www.net-snmp.org/",
+    "installation": "pkg install net-snmp",
+    "usage": "After installing net-snmp, you can use the provided tools to manage network devices via SNMP.",
+    "features": [
+      "SNMP Support: Provides SNMP protocol support for network management.",
+      "Command Line Tools: Use the command line to manage network devices.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network management for support and discussions.",
+      "GitHub": "Search for repositories or forks of Net-SNMP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_device": "snmpget -v 2c -c public device_ip",
+      "uninstall": "pkg uninstall net-snmp"
+    }
+  },
+  {
+    "name": "net-tools",
+    "version": "2.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "net-tools is a collection of programs for controlling the network subsystem of the Linux kernel.",
+    "homepage": "https://github.com/giftnuss/net-tools",
+    "installation": "pkg install net-tools",
+    "usage": "After installing net-tools, you can use the provided tools to manage network configurations.",
+    "features": [
+      "Network Management: Provides tools for controlling the network subsystem of the Linux kernel.",
+      "Command Line Tools: Use the command line to manage network configurations.",
+      "Cross-Platform: Works on various Linux distributions."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_interfaces": "ifconfig",
+      "uninstall": "pkg uninstall net-tools"
+    }
+  },
+  {
+    "name": "netcat-openbsd",
+    "version": "1.228-1-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "netcat-openbsd is a networking utility for reading from and writing to network connections using TCP or UDP.",
+    "homepage": "http://nc110.sourceforge.net/",
+    "installation": "pkg install netcat-openbsd",
+    "usage": "After installing netcat-openbsd, you can use it to create network connections by typing: nc",
+    "features": [
+      "Networking Utility: Provides a utility for reading from and writing to network connections.",
+      "TCP/UDP Support: Supports both TCP and UDP protocols.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to networking for support and discussions.",
+      "GitHub": "Search for repositories or forks of netcat to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_connection": "nc -l -p 1234",
+      "uninstall": "pkg uninstall netcat-openbsd"
+    }
+  },
+  {
+    "name": "netcdf-c-static",
+    "version": "4.9.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "netcdf-c-static is a static library for the NetCDF C library, used for array-oriented scientific data.",
+    "homepage": "https://www.unidata.ucar.edu/software/netcdf/",
+    "installation": "pkg install netcdf-c-static",
+    "usage": "After installing netcdf-c-static, you can link it with your applications to use NetCDF functionalities.",
+    "features": [
+      "Scientific Data: Provides a library for array-oriented scientific data.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to scientific computing for support and discussions.",
+      "GitHub": "Search for repositories or forks of NetCDF to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lnetcdf",
+      "uninstall": "pkg uninstall netcdf-c-static"
+    }
+  },
+  {
+    "name": "netcdf-c",
+    "version": "4.9.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "netcdf-c is a library for array-oriented scientific data, widely used in scientific computing.",
+    "homepage": "https://www.unidata.ucar.edu/software/netcdf/",
+    "installation": "pkg install netcdf-c",
+    "usage": "After installing netcdf-c, you can use it in your applications to handle scientific data.",
+    "features": [
+      "Scientific Data: Provides a library for array-oriented scientific data.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to scientific computing for support and discussions.",
+      "GitHub": "Search for repositories or forks of NetCDF to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "gcc -o myapp myapp.c -lnetcdf",
+      "uninstall": "pkg uninstall netcdf-c"
+    }
+  },
+  {
+    "name": "nethack",
+    "version": "3.6.7-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "NetHack is a single-player roguelike video game that features dungeon exploration and character development.",
+    "homepage": "https://www.nethack.org/",
+    "installation": "pkg install nethack",
+    "usage": "After installing NetHack, you can start the game by typing: nethack",
+    "features": [
+      "Roguelike Game: Provides a single-player dungeon exploration and character development game.",
+      "Rich Gameplay: Includes complex gameplay mechanics and a variety of dungeon features.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to NetHack for support and discussions.",
+      "GitHub": "Search for repositories or forks of NetHack to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "nethack",
+      "uninstall": "pkg uninstall nethack"
+    }
+  },
+  {
+    "name": "netpbm",
+    "version": "10.73.43-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "netpbm is a package of graphics programs and a programming library for creating and converting image files.",
+    "homepage": "http://netpbm.sourceforge.net/",
+    "installation": "pkg install netpbm",
+    "usage": "After installing netpbm, you can use the provided tools to manipulate images.",
+    "features": [
+      "Image Manipulation: Provides tools for creating and converting image files.",
+      "Command Line Tools: Use the command line to manipulate images.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to image processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of netpbm to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_image": "pnmtopng image.pnm > image.png",
+      "uninstall": "pkg uninstall netpbm"
+    }
+  },
+  {
+    "name": "netsed",
+    "version": "1.3-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "netsed is a tool designed to alter network packets in real-time, useful for testing and debugging network services.",
+    "homepage": "https://github.com/haad/netsed",
+    "installation": "pkg install netsed",
+    "usage": "After installing netsed, you can start altering network packets by typing: netsed tcp 8080",
+    "features": [
+      "Network Packet Alteration: Provides a tool for altering network packets in real-time.",
+      "Testing and Debugging: Useful for testing and debugging network services.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network testing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "alter_packets": "netsed tcp 8080",
+      "uninstall": "pkg uninstall netsed"
+    }
+  },
+  {
+    "name": "netstandard-targeting-pack-2.1-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "netstandard-targeting-pack-2.1-8.0 is a targeting pack for .NET Standard 2.1, version 8.0.",
+    "homepage": "https://docs.microsoft.com/en-us/dotnet/standard/net-standard",
+    "installation": "pkg install netstandard-targeting-pack-2.1-8.0",
+    "usage": "After installing netstandard-targeting-pack-2.1-8.0, you can use it in your .NET projects to target .NET Standard 2.1.",
+    "features": [
+      "Targeting Pack: Provides a targeting pack for .NET Standard 2.1.",
+      "Version 8.0: Compatible with .NET Standard 2.1, version 8.0.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official Microsoft Docs.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to .NET for support and discussions.",
+      "GitHub": "Search for repositories or forks of .NET Standard to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_targeting_pack": "dotnet add package NETStandard.Library --version 2.1.8.0",
+      "uninstall": "pkg uninstall netstandard-targeting-pack-2.1-8.0"
+    }
+  },
+  {
+    "name": "netstandard-targeting-pack-2.1-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "netstandard-targeting-pack-2.1-9.0 is a targeting pack for .NET Standard 2.1, version 9.0.",
+    "homepage": "https://docs.microsoft.com/en-us/dotnet/standard/net-standard",
+    "installation": "pkg install netstandard-targeting-pack-2.1-9.0",
+    "usage": "After installing netstandard-targeting-pack-2.1-9.0, you can use it in your .NET projects to target .NET Standard 2.1.",
+    "features": [
+      "Targeting Pack: Provides a targeting pack for .NET Standard 2.1.",
+      "Version 9.0: Compatible with .NET Standard 2.1, version 9.0.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official Microsoft Docs.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to .NET for support and discussions.",
+      "GitHub": "Search for repositories or forks of .NET Standard to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_targeting_pack": "dotnet add package NETStandard.Library --version 2.1.9.0",
+      "uninstall": "pkg uninstall netstandard-targeting-pack-2.1-9.0"
+    }
+  },
+  {
+    "name": "netstandard-targeting-pack-2.1",
+    "version": "9.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "netstandard-targeting-pack-2.1 is a targeting pack for .NET Standard 2.1.",
+    "homepage": "https://docs.microsoft.com/en-us/dotnet/standard/net-standard",
+    "installation": "pkg install netstandard-targeting-pack-2.1",
+    "usage": "After installing netstandard-targeting-pack-2.1, you can use it in your .NET projects to target .NET Standard 2.1.",
+    "features": [
+      "Targeting Pack: Provides a targeting pack for .NET Standard 2.1.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official Microsoft Docs.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to .NET for support and discussions.",
+      "GitHub": "Search for repositories or forks of .NET Standard to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_targeting_pack": "dotnet add package NETStandard.Library --version 2.1",
+      "uninstall": "pkg uninstall netstandard-targeting-pack-2.1"
+    }
+  },
+  {
+    "name": "nettle",
+    "version": "3.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nettle is a low-level cryptographic library that provides cryptographic algorithms for developers.",
+    "homepage": "https://www.lysator.liu.se/~nisse/nettle/",
+    "installation": "pkg install nettle",
+    "usage": "After installing nettle, you can use it in your applications to provide cryptographic functionalities.",
+    "features": [
+      "Cryptographic Library: Provides low-level cryptographic algorithms.",
+      "Wide Range of Algorithms: Includes algorithms such as AES, SHA, RSA, and more.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cryptography for support and discussions.",
+      "GitHub": "Search for repositories or forks of nettle to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "gcc -o myapp myapp.c -lnettle",
+      "uninstall": "pkg uninstall nettle"
+    }
+  },
+  {
+    "name": "newsboat",
+    "version": "2.38",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "newsboat is an RSS/Atom feed reader for the terminal, designed to be fast and easy to use.",
+    "homepage": "https://newsboat.org/",
+    "installation": "pkg install newsboat",
+    "usage": "After installing newsboat, you can start the feed reader by typing: newsboat",
+    "features": [
+      "Feed Reader: Provides an RSS/Atom feed reader for the terminal.",
+      "Fast and Easy: Designed to be fast and easy to use.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to RSS readers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_reader": "newsboat",
+      "uninstall": "pkg uninstall newsboat"
+    }
+  },
+  {
+    "name": "nginx",
+    "version": "1.27.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nginx is a high-performance HTTP server and reverse proxy, as well as an IMAP/POP3 proxy server.",
+    "homepage": "https://nginx.org/",
+    "installation": "pkg install nginx",
+    "usage": "After installing nginx, you can start the server by typing: nginx",
+    "features": [
+      "HTTP Server: Provides a high-performance HTTP server.",
+      "Reverse Proxy: Acts as a reverse proxy server for HTTP, IMAP, and POP3.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to web servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "nginx",
+      "uninstall": "pkg uninstall nginx"
+    }
+  },
+  {
+    "name": "ngircd",
+    "version": "27",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ngircd is a free, portable and lightweight Internet Relay Chat server for small or private networks.",
+    "homepage": "https://ngircd.barton.de/",
+    "installation": "pkg install ngircd",
+    "usage": "After installing ngircd, you can start the server by typing: ngircd",
+    "features": [
+      "IRC Server: Provides a lightweight Internet Relay Chat server.",
+      "Portable: Designed to be portable across various operating systems.",
+      "Lightweight: Suitable for small or private networks."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to IRC for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "ngircd",
+      "uninstall": "pkg uninstall ngircd"
+    }
+  },
+  {
+    "name": "ngspice",
+    "version": "44.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ngspice is a mixed-level/mixed-signal electronic circuit simulator.",
+    "homepage": "http://ngspice.sourceforge.net/",
+    "installation": "pkg install ngspice",
+    "usage": "After installing ngspice, you can simulate electronic circuits by typing: ngspice",
+    "features": [
+      "Circuit Simulation: Provides a mixed-level/mixed-signal electronic circuit simulator.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open Source: Available for modification and redistribution."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to electronic circuit simulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of ngspice to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "simulate_circuit": "ngspice circuit.sp",
+      "uninstall": "pkg uninstall ngspice"
+    }
+  },
+  {
+    "name": "nim",
+    "version": "2.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nim is a statically typed compiled systems programming language designed for efficiency, expressiveness, and elegance.",
+    "homepage": "https://nim-lang.org/",
+    "installation": "pkg install nim",
+    "usage": "After installing nim, you can compile Nim source files by typing: nim compile file.nim",
+    "features": [
+      "Systems Programming: Provides a statically typed compiled systems programming language.",
+      "Efficiency: Designed for high performance and low resource usage.",
+      "Expressiveness: Offers an expressive and elegant syntax."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to programming languages for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_file": "nim compile file.nim",
+      "uninstall": "pkg uninstall nim"
+    }
+  },
+  {
+    "name": "ninja",
+    "version": "1.12.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ninja is a small build system with a focus on speed, designed to replace Make.",
+    "homepage": "https://ninja-build.org/",
+    "installation": "pkg install ninja",
+    "usage": "After installing ninja, you can build projects by typing: ninja",
+    "features": [
+      "Build System: Provides a small build system with a focus on speed.",
+      "Make Replacement: Designed to replace Make for faster builds.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to build systems for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "build_project": "ninja",
+      "uninstall": "pkg uninstall ninja"
+    }
+  }
+]

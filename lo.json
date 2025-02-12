@@ -1,0 +1,1485 @@
+[
+  {
+    "name": "litespeedtest",
+    "version": "0.15.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Litespeedtest is a lightweight tool for testing internet connection speed.",
+    "homepage": "https://github.com/litespeedtech/litespeedtest",
+    "installation": "pkg install litespeedtest",
+    "usage": "After installing litespeedtest, you can use it to test the speed of your internet connection.",
+    "features": [
+      "Internet Speed Testing: Provides tools for testing internet connection speed.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for speed testing tasks.",
+      "Integration: Can be integrated into applications requiring internet speed testing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Litespeedtest documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to internet speed testing and Litespeedtest for support and discussions.",
+      "GitHub": "Visit the Litespeedtest GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_litespeedtest": "Not applicable",
+      "uninstall": "pkg uninstall litespeedtest"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "littlecms-static",
+    "version": "2.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LittleCMS is a small-footprint, speed-optimized color management engine. This is the statically linked version.",
+    "homepage": "https://littlecms.com/",
+    "installation": "pkg install littlecms-static",
+    "usage": "After installing littlecms-static, you can use it for color management in your applications.",
+    "features": [
+      "Color Management: Provides tools for color management in various applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for color management tasks.",
+      "Integration: Can be integrated into applications requiring color management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LittleCMS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to color management and LittleCMS for support and discussions.",
+      "GitHub": "Visit the LittleCMS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_littlecms": "Not applicable",
+      "uninstall": "pkg uninstall littlecms-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "littlecms-utils",
+    "version": "2.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LittleCMS-utils is a set of utilities for the LittleCMS color management engine.",
+    "homepage": "https://littlecms.com/",
+    "installation": "pkg install littlecms-utils",
+    "usage": "After installing littlecms-utils, you can use the utilities for various color management tasks.",
+    "features": [
+      "Color Management Utilities: Provides a set of utilities for color management.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers intuitive interfaces for various color management tasks.",
+      "Integration: Can be integrated into applications requiring color management utilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LittleCMS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to color management and LittleCMS for support and discussions.",
+      "GitHub": "Visit the LittleCMS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_littlecms_utils": "Not applicable",
+      "uninstall": "pkg uninstall littlecms-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "littlecms",
+    "version": "2.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LittleCMS is a small-footprint, speed-optimized color management engine.",
+    "homepage": "https://littlecms.com/",
+    "installation": "pkg install littlecms",
+    "usage": "After installing littlecms, you can use it for color management in your applications.",
+    "features": [
+      "Color Management: Provides tools for color management in various applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for color management tasks.",
+      "Integration: Can be integrated into applications requiring color management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LittleCMS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to color management and LittleCMS for support and discussions.",
+      "GitHub": "Visit the LittleCMS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_littlecms": "Not applicable",
+      "uninstall": "pkg uninstall littlecms"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "llbuild",
+    "version": "6.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Llbuild is a low-level build system designed to be fast and flexible.",
+    "homepage": "https://github.com/apple/swift-llbuild",
+    "installation": "pkg install llbuild",
+    "usage": "After installing llbuild, you can use it to manage and execute build processes in your projects.",
+    "features": [
+      "Build System: Provides tools for managing and executing build processes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for build management tasks.",
+      "Integration: Can be integrated into applications and projects requiring build system support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Llbuild documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to build systems and Llbuild for support and discussions.",
+      "GitHub": "Visit the Llbuild GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_llbuild": "Not applicable",
+      "uninstall": "pkg uninstall llbuild"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lld",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LLD is a high-performance linker that is part of the LLVM project.",
+    "homepage": "https://lld.llvm.org/",
+    "installation": "pkg install lld",
+    "usage": "After installing lld, you can use it as a drop-in replacement for other linkers to link your applications.",
+    "features": [
+      "High Performance: Designed to be a fast and efficient linker.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Compatibility: Can be used as a drop-in replacement for other linkers like GNU ld.",
+      "Ease of Use: Offers an intuitive interface for linking tasks.",
+      "Integration: Can be integrated into build systems requiring high-performance linking.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLD documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to linking and LLD for support and discussions.",
+      "GitHub": "Visit the LLVM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lld": "Not applicable",
+      "uninstall": "pkg uninstall lld"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lldb",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LLDB is a next-generation, high-performance debugger that is part of the LLVM project.",
+    "homepage": "https://lldb.llvm.org/",
+    "installation": "pkg install lldb",
+    "usage": "After installing lldb, you can use it to debug your applications with high performance and flexibility.",
+    "features": [
+      "High Performance: Designed to be a fast and efficient debugger.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Compatibility: Supports debugging for multiple programming languages.",
+      "Ease of Use: Offers an intuitive interface for debugging tasks.",
+      "Integration: Can be integrated into development environments requiring high-performance debugging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and LLDB for support and discussions.",
+      "GitHub": "Visit the LLVM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lldb": "Not applicable",
+      "uninstall": "pkg uninstall lldb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "llvm-mingw-w64-libcompiler-rt",
+    "version": "20241030",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "LLVM MinGW-w64 Libcompiler-rt is a runtime library for the LLVM MinGW-w64 toolchain.",
+    "homepage": "https://github.com/mstorsjo/llvm-mingw",
+    "installation": "pkg install llvm-mingw-w64-libcompiler-rt",
+    "usage": "After installing llvm-mingw-w64-libcompiler-rt, you can use it as part of the LLVM MinGW-w64 toolchain for compiling and linking applications.",
+    "features": [
+      "Runtime Library: Provides runtime support for the LLVM MinGW-w64 toolchain.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Compatibility: Designed to work seamlessly with the LLVM MinGW-w64 toolchain.",
+      "Ease of Use: Offers an intuitive interface for runtime support tasks.",
+      "Integration: Can be integrated into build systems requiring LLVM MinGW-w64 runtime support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLVM MinGW-w64 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to the LLVM MinGW-w64 toolchain for support and discussions.",
+      "GitHub": "Visit the LLVM MinGW-w64 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_llvm_mingw_w64_libcompiler_rt": "Not applicable",
+      "uninstall": "pkg uninstall llvm-mingw-w64-libcompiler-rt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "llvm-mingw-w64-tools",
+    "version": "12.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LLVM MinGW-w64 Tools is a set of tools for the LLVM MinGW-w64 toolchain.",
+    "homepage": "https://github.com/mstorsjo/llvm-mingw",
+    "installation": "pkg install llvm-mingw-w64-tools",
+    "usage": "After installing llvm-mingw-w64-tools, you can use the tools for compiling and linking applications with the LLVM MinGW-w64 toolchain.",
+    "features": [
+      "Toolchain Tools: Provides tools for the LLVM MinGW-w64 toolchain.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Compatibility: Designed to work seamlessly with the LLVM MinGW-w64 toolchain.",
+      "Ease of Use: Offers an intuitive interface for toolchain tasks.",
+      "Integration: Can be integrated into build systems requiring LLVM MinGW-w64 tools.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLVM MinGW-w64 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to the LLVM MinGW-w64 toolchain for support and discussions.",
+      "GitHub": "Visit the LLVM MinGW-w64 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_llvm_mingw_w64_tools": "Not applicable",
+      "uninstall": "pkg uninstall llvm-mingw-w64-tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "llvm-mingw-w64-ucrt",
+    "version": "20241030",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "LLVM MinGW-w64 UCRT is the Universal C Runtime library for the LLVM MinGW-w64 toolchain.",
+    "homepage": "https://github.com/mstorsjo/llvm-mingw",
+    "installation": "pkg install llvm-mingw-w64-ucrt",
+    "usage": "After installing llvm-mingw-w64-ucrt, you can use it as part of the LLVM MinGW-w64 toolchain for compiling and linking applications.",
+    "features": [
+      "Universal C Runtime: Provides the Universal C Runtime library for the LLVM MinGW-w64 toolchain.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Compatibility: Designed to work seamlessly with the LLVM MinGW-w64 toolchain.",
+      "Ease of Use: Offers an intuitive interface for runtime library tasks.",
+      "Integration: Can be integrated into build systems requiring LLVM MinGW-w64 Universal C Runtime.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLVM MinGW-w64 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to the LLVM MinGW-w64 toolchain for support and discussions.",
+      "GitHub": "Visit the LLVM MinGW-w64 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_llvm_mingw_w64_ucrt": "Not applicable",
+      "uninstall": "pkg uninstall llvm-mingw-w64-ucrt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "llvm-mingw-w64",
+    "version": "20241030",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "LLVM MinGW-w64 is a toolchain for compiling and linking applications for Windows using LLVM.",
+    "homepage": "https://github.com/mstorsjo/llvm-mingw",
+    "installation": "pkg install llvm-mingw-w64",
+    "usage": "After installing llvm-mingw-w64, you can use the toolchain for compiling and linking applications for Windows using LLVM.",
+    "features": [
+      "Windows Toolchain: Provides a toolchain for compiling and linking applications for Windows using LLVM.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Compatibility: Designed to work seamlessly with the LLVM toolchain.",
+      "Ease of Use: Offers an intuitive interface for toolchain tasks.",
+      "Integration: Can be integrated into build systems requiring LLVM MinGW-w64 toolchain.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLVM MinGW-w64 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to the LLVM MinGW-w64 toolchain for support and discussions.",
+      "GitHub": "Visit the LLVM MinGW-w64 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_llvm_mingw_w64": "Not applicable",
+      "uninstall": "pkg uninstall llvm-mingw-w64"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "llvm-tools",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LLVM Tools is a collection of tools for the LLVM project, including Clang, LLDB, and more.",
+    "homepage": "https://llvm.org/",
+    "installation": "pkg install llvm-tools",
+    "usage": "After installing llvm-tools, you can use the tools for various development tasks such as compiling, linking, and debugging.",
+    "features": [
+      "Development Tools: Provides a collection of tools for the LLVM project, including Clang, LLDB, and more.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for development tasks.",
+      "Integration: Can be integrated into development environments requiring LLVM tools.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLVM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to LLVM development tools for support and discussions.",
+      "GitHub": "Visit the LLVM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_llvm_tools": "Not applicable",
+      "uninstall": "pkg uninstall llvm-tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "llvm",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LLVM is a collection of modular and reusable compiler and toolchain technologies.",
+    "homepage": "https://llvm.org/",
+    "installation": "pkg install llvm",
+    "usage": "After installing llvm, you can use it to compile and link applications using the LLVM toolchain.",
+    "features": [
+      "Compiler and Toolchain: Provides a collection of modular and reusable compiler and toolchain technologies.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for compiler and toolchain tasks.",
+      "Integration: Can be integrated into development environments requiring LLVM technologies.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLVM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to LLVM for support and discussions.",
+      "GitHub": "Visit the LLVM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_llvm": "Not applicable",
+      "uninstall": "pkg uninstall llvm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "llvmgold",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LLVMgold is a plugin for the GNU gold linker to support LTO (Link Time Optimization) with LLVM.",
+    "homepage": "https://llvm.org/docs/GoldPlugin.html",
+    "installation": "pkg install llvmgold",
+    "usage": "After installing llvmgold, you can use it to enable Link Time Optimization (LTO) with the GNU gold linker.",
+    "features": [
+      "Link Time Optimization: Provides support for LTO with the GNU gold linker.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for LTO tasks.",
+      "Integration: Can be integrated into build systems requiring LTO with the GNU gold linker.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LLVMgold documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to LTO and LLVMgold for support and discussions.",
+      "GitHub": "Visit the LLVM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_llvmgold": "Not applicable",
+      "uninstall": "pkg uninstall llvmgold"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lnav",
+    "version": "0.12.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lnav is an advanced log file viewer for the small-scale.",
+    "homepage": "https://lnav.org/",
+    "installation": "pkg install lnav",
+    "usage": "After installing lnav, you can use it to view and analyze log files with ease.",
+    "features": [
+      "Log File Viewing: Provides tools for viewing and analyzing log files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for log file analysis tasks.",
+      "Integration: Can be integrated into development environments requiring log file viewing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lnav documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to log file analysis and Lnav for support and discussions.",
+      "GitHub": "Visit the Lnav GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lnav": "Not applicable",
+      "uninstall": "pkg uninstall lnav"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lnd",
+    "version": "0.17.0-beta-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LND (Lightning Network Daemon) is a complete implementation of a Lightning Network node.",
+    "homepage": "https://github.com/lightningnetwork/lnd",
+    "installation": "pkg install lnd",
+    "usage": "After installing lnd, you can use it to run a Lightning Network node for Bitcoin transactions.",
+    "features": [
+      "Lightning Network: Provides a complete implementation of a Lightning Network node.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for managing a Lightning Network node.",
+      "Integration: Can be integrated into applications requiring Lightning Network capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LND documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to the Lightning Network and LND for support and discussions.",
+      "GitHub": "Visit the LND GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lnd": "Not applicable",
+      "uninstall": "pkg uninstall lnd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "locustdb",
+    "version": "0.4.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LocustDB is a fast and scalable database for real-time analytics.",
+    "homepage": "https://github.com/cswinter/LocustDB",
+    "installation": "pkg install locustdb",
+    "usage": "After installing locustdb, you can use it to perform real-time analytics on large datasets.",
+    "features": [
+      "Real-Time Analytics: Provides tools for performing real-time analytics on large datasets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Scalability: Designed to be fast and scalable for handling large datasets.",
+      "Ease of Use: Offers an intuitive interface for analytics tasks.",
+      "Integration: Can be integrated into applications requiring real-time analytics.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LocustDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to real-time analytics and LocustDB for support and discussions.",
+      "GitHub": "Visit the LocustDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_locustdb": "Not applicable",
+      "uninstall": "pkg uninstall locustdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "logo-ls",
+    "version": "2024.07.17",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Logo-ls is a command-line tool that displays directory contents with colorful logos.",
+    "homepage": "https://github.com/Yash-Handa/logo-ls",
+    "installation": "pkg install logo-ls",
+    "usage": "After installing logo-ls, you can use it to list directory contents with colorful logos in your terminal.",
+    "features": [
+      "Colorful Logos: Displays directory contents with colorful logos.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for listing directory contents.",
+      "Integration: Can be integrated into terminal workflows requiring colorful directory listings.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Logo-ls documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line tools and Logo-ls for support and discussions.",
+      "GitHub": "Visit the Logo-ls GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_logo_ls": "logo-ls /path/to/directory",
+      "uninstall": "pkg uninstall logo-ls"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "logrotate",
+    "version": "3.22.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Logrotate is a utility for managing the automatic rotation and compression of log files.",
+    "homepage": "https://github.com/logrotate/logrotate",
+    "installation": "pkg install logrotate",
+    "usage": "After installing logrotate, you can configure and use it to automatically rotate and compress log files.",
+    "features": [
+      "Log Management: Provides tools for the automatic rotation and compression of log files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive configuration interface for log rotation tasks.",
+      "Integration: Can be integrated into systems requiring automated log management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Logrotate documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to log management and Logrotate for support and discussions.",
+      "GitHub": "Visit the Logrotate GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_logrotate": "logrotate /etc/logrotate.conf",
+      "uninstall": "pkg uninstall logrotate"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "loksh",
+    "version": "7.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Loksh is a lightweight and portable Korn shell (ksh) implementation.",
+    "homepage": "https://github.com/dimkr/loksh",
+    "installation": "pkg install loksh",
+    "usage": "After installing loksh, you can use it as a lightweight and portable Korn shell in your terminal.",
+    "features": [
+      "Korn Shell: Provides a lightweight and portable implementation of the Korn shell (ksh).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for shell tasks.",
+      "Integration: Can be integrated into terminal workflows requiring a lightweight Korn shell.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Loksh documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shell implementations and Loksh for support and discussions.",
+      "GitHub": "Visit the Loksh GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_loksh": "loksh",
+      "uninstall": "pkg uninstall loksh"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lowdown-static",
+    "version": "1.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lowdown is a simple and fast Markdown converter and viewer. This is the statically linked version.",
+    "homepage": "https://kristaps.bsd.lv/lowdown/",
+    "installation": "pkg install lowdown-static",
+    "usage": "After installing lowdown-static, you can use it to convert and view Markdown files in your terminal.",
+    "features": [
+      "Markdown Conversion: Provides tools for converting and viewing Markdown files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive command-line interface for Markdown tasks.",
+      "Integration: Can be integrated into terminal workflows requiring Markdown conversion and viewing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lowdown documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Markdown and Lowdown for support and discussions.",
+      "GitHub": "Visit the Lowdown GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lowdown": "lowdown /path/to/markdown.md",
+      "uninstall": "pkg uninstall lowdown-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lowdown",
+    "version": "1.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lowdown is a simple and fast Markdown converter and viewer.",
+    "homepage": "https://kristaps.bsd.lv/lowdown/",
+    "installation": "pkg install lowdown",
+    "usage": "After installing lowdown, you can use it to convert and view Markdown files in your terminal.",
+    "features": [
+      "Markdown Conversion: Provides tools for converting and viewing Markdown files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for Markdown tasks.",
+      "Integration: Can be integrated into terminal workflows requiring Markdown conversion and viewing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lowdown documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Markdown and Lowdown for support and discussions.",
+      "GitHub": "Visit the Lowdown GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lowdown": "lowdown /path/to/markdown.md",
+      "uninstall": "pkg uninstall lowdown"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lr",
+    "version": "1.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lr is a tool for generating and managing log reports.",
+    "homepage": "https://github.com/lfittl/lr",
+    "installation": "pkg install lr",
+    "usage": "After installing lr, you can use it to generate and manage log reports for your applications.",
+    "features": [
+      "Log Reports: Provides tools for generating and managing log reports.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for log report tasks.",
+      "Integration: Can be integrated into applications requiring log report management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lr documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to log management and Lr for support and discussions.",
+      "GitHub": "Visit the Lr GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lr": "lr generate /path/to/logfile",
+      "uninstall": "pkg uninstall lr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lrzip",
+    "version": "0.651",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lrzip is a compression tool that specializes in compressing large files.",
+    "homepage": "https://github.com/ckolivas/lrzip",
+    "installation": "pkg install lrzip",
+    "usage": "After installing lrzip, you can use it to compress and decompress large files efficiently.",
+    "features": [
+      "Large File Compression: Provides tools for compressing and decompressing large files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for compression tasks.",
+      "Integration: Can be integrated into workflows requiring efficient compression of large files.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lrzip documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression tools and Lrzip for support and discussions.",
+      "GitHub": "Visit the Lrzip GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lrzip": "lrzip /path/to/largefile",
+      "uninstall": "pkg uninstall lrzip"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lrzsz",
+    "version": "0.12.21-rc1-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lrzsz is a set of tools for ZMODEM, XMODEM, and YMODEM file transfer protocols.",
+    "homepage": "https://ohse.de/uwe/software/lrzsz.html",
+    "installation": "pkg install lrzsz",
+    "usage": "After installing lrzsz, you can use it to transfer files using ZMODEM, XMODEM, and YMODEM protocols.",
+    "features": [
+      "File Transfer Protocols: Provides tools for transferring files using ZMODEM, XMODEM, and YMODEM protocols.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for file transfer tasks.",
+      "Integration: Can be integrated into workflows requiring reliable file transfers.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lrzsz documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file transfer protocols and Lrzsz for support and discussions.",
+      "GitHub": "Visit the Lrzsz GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lrzsz": "lrz /path/to/file",
+      "uninstall": "pkg uninstall lrzsz"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lsd",
+    "version": "1.1.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LSD is a modern replacement for the `ls` command with additional features like icons and colors.",
+    "homepage": "https://github.com/Peltoche/lsd",
+    "installation": "pkg install lsd",
+    "usage": "After installing lsd, you can use it as a modern replacement for the `ls` command with additional features.",
+    "features": [
+      "Modern `ls` Replacement: Provides a modern replacement for the `ls` command with additional features.",
+      "Icons and Colors: Displays directory contents with icons and colors for better visualization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for listing directory contents.",
+      "Integration: Can be integrated into terminal workflows requiring enhanced directory listings.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LSD documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line tools and LSD for support and discussions.",
+      "GitHub": "Visit the LSD GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lsd": "lsd /path/to/directory",
+      "uninstall": "pkg uninstall lsd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lsix",
+    "version": "1.9.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Lsix is a tool to display images in the terminal using sixel graphics.",
+    "homepage": "https://github.com/hackerb9/lsix",
+    "installation": "pkg install lsix",
+    "usage": "After installing lsix, you can use it to display images directly in your terminal.",
+    "features": [
+      "Image Display: Provides tools for displaying images directly in the terminal using sixel graphics.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for image display tasks.",
+      "Integration: Can be integrated into terminal workflows requiring image display capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lsix documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal graphics and Lsix for support and discussions.",
+      "GitHub": "Visit the Lsix GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lsix": "lsix /path/to/image.png",
+      "uninstall": "pkg uninstall lsix"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lsof-static",
+    "version": "4.99.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lsof is a tool for listing open files in the system. This is the statically linked version.",
+    "homepage": "https://github.com/lsof-org/lsof",
+    "installation": "pkg install lsof-static",
+    "usage": "After installing lsof-static, you can use it to list open files in the system.",
+    "features": [
+      "Open Files Listing: Provides tools for listing open files in the system.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive command-line interface for listing open files.",
+      "Integration: Can be integrated into system administration workflows requiring open file listings.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lsof documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system administration and Lsof for support and discussions.",
+      "GitHub": "Visit the Lsof GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lsof": "lsof",
+      "uninstall": "pkg uninstall lsof-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lsof",
+    "version": "4.99.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lsof is a tool for listing open files in the system.",
+    "homepage": "https://github.com/lsof-org/lsof",
+    "installation": "pkg install lsof",
+    "usage": "After installing lsof, you can use it to list open files in the system.",
+    "features": [
+      "Open Files Listing: Provides tools for listing open files in the system.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for listing open files.",
+      "Integration: Can be integrated into system administration workflows requiring open file listings.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lsof documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system administration and Lsof for support and discussions.",
+      "GitHub": "Visit the Lsof GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lsof": "lsof",
+      "uninstall": "pkg uninstall lsof"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ltrace",
+    "version": "0.7.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ltrace is a debugging utility that intercepts and records the dynamic library calls which are called by an executed process and the signals received by that process.",
+    "homepage": "https://www.ltrace.org/",
+    "installation": "pkg install ltrace",
+    "usage": "After installing ltrace, you can use it to trace the dynamic library calls made by a process.",
+    "features": [
+      "Dynamic Library Call Tracing: Intercepts and records dynamic library calls.",
+      "Signal Tracing: Records the signals received by a process.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for tracing tasks.",
+      "Integration: Can be integrated into debugging workflows requiring dynamic library call tracing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ltrace documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and Ltrace for support and discussions.",
+      "GitHub": "Visit the Ltrace GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ltrace": "ltrace /path/to/executable",
+      "uninstall": "pkg uninstall ltrace"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lua-language-server",
+    "version": "3.13.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lua-language-server is a language server for the Lua programming language, providing features like code completion, linting, and more.",
+    "homepage": "https://github.com/sumneko/lua-language-server",
+    "installation": "pkg install lua-language-server",
+    "usage": "After installing lua-language-server, you can use it to enhance your development experience with Lua by providing advanced code features.",
+    "features": [
+      "Code Completion: Provides intelligent code completion for Lua.",
+      "Linting: Offers linting capabilities to help identify and fix code issues.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for code development tasks.",
+      "Integration: Can be integrated into development environments requiring advanced Lua code features.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua-language-server documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and Lua-language-server for support and discussions.",
+      "GitHub": "Visit the Lua-language-server GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lua_language_server": "lua-language-server",
+      "uninstall": "pkg uninstall lua-language-server"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lua-lgi",
+    "version": "0.9.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lua-lgi is a Lua binding for GObject Introspection, allowing Lua code to interact with GObject-based libraries.",
+    "homepage": "https://github.com/pavouk/lgi",
+    "installation": "pkg install lua-lgi",
+    "usage": "After installing lua-lgi, you can use it to interact with GObject-based libraries in your Lua code.",
+    "features": [
+      "GObject Binding: Provides a binding for GObject Introspection.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for interacting with GObject-based libraries.",
+      "Integration: Can be integrated into applications requiring interaction with GObject-based libraries.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua-lgi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and Lua-lgi for support and discussions.",
+      "GitHub": "Visit the Lua-lgi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lua_lgi": "lua -e 'require(\"lgi\").GObject'",
+      "uninstall": "pkg uninstall lua-lgi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lua-lpeg",
+    "version": "1.1.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lua-lpeg is a pattern-matching library for Lua, based on Parsing Expression Grammars (PEGs).",
+    "homepage": "http://www.inf.puc-rio.br/~roberto/lpeg/",
+    "installation": "pkg install lua-lpeg",
+    "usage": "After installing lua-lpeg, you can use it to perform pattern matching in your Lua code using PEGs.",
+    "features": [
+      "Pattern Matching: Provides tools for performing pattern matching using Parsing Expression Grammars (PEGs).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for pattern matching tasks.",
+      "Integration: Can be integrated into applications requiring pattern matching capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua-lpeg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and Lua-lpeg for support and discussions.",
+      "GitHub": "Visit the Lua-lpeg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lua_lpeg": "lua -e 'require(\"lpeg\").match(pattern, subject)'",
+      "uninstall": "pkg uninstall lua-lpeg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lua51-lpeg",
+    "version": "1.1.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lua51-lpeg is a pattern-matching library for Lua 5.1, based on Parsing Expression Grammars (PEGs).",
+    "homepage": "http://www.inf.puc-rio.br/~roberto/lpeg/",
+    "installation": "pkg install lua51-lpeg",
+    "usage": "After installing lua51-lpeg, you can use it to perform pattern matching in your Lua 5.1 code using PEGs.",
+    "features": [
+      "Pattern Matching: Provides tools for performing pattern matching using Parsing Expression Grammars (PEGs).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for pattern matching tasks.",
+      "Integration: Can be integrated into applications requiring pattern matching capabilities for Lua 5.1.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua-lpeg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and Lua-lpeg for support and discussions.",
+      "GitHub": "Visit the Lua-lpeg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lua51_lpeg": "lua5.1 -e 'require(\"lpeg\").match(pattern, subject)'",
+      "uninstall": "pkg uninstall lua51-lpeg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lua51",
+    "version": "5.1.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lua 5.1 is a powerful, efficient, lightweight, embeddable scripting language.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install lua51",
+    "usage": "After installing lua51, you can use it to write and run Lua scripts.",
+    "features": [
+      "Lightweight Scripting: Provides a powerful and efficient scripting language.",
+      "Embeddable: Designed to be easily embedded in applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive syntax and semantics for scripting tasks.",
+      "Integration: Can be integrated into applications requiring lightweight scripting capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua 5.1 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lua51": "lua5.1 /path/to/script.lua",
+      "uninstall": "pkg uninstall lua51"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lua52-lpeg",
+    "version": "1.1.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lua52-lpeg is a pattern-matching library for Lua 5.2, based on Parsing Expression Grammars (PEGs).",
+    "homepage": "http://www.inf.puc-rio.br/~roberto/lpeg/",
+    "installation": "pkg install lua52-lpeg",
+    "usage": "After installing lua52-lpeg, you can use it to perform pattern matching in your Lua 5.2 code using PEGs.",
+    "features": [
+      "Pattern Matching: Provides tools for performing pattern matching using Parsing Expression Grammars (PEGs).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for pattern matching tasks.",
+      "Integration: Can be integrated into applications requiring pattern matching capabilities for Lua 5.2.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua-lpeg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and Lua-lpeg for support and discussions.",
+      "GitHub": "Visit the Lua-lpeg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lua52_lpeg": "lua5.2 -e 'require(\"lpeg\").match(pattern, subject)'",
+      "uninstall": "pkg uninstall lua52-lpeg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lua52",
+    "version": "5.2.4-8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lua 5.2 is a powerful, efficient, lightweight, embeddable scripting language.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install lua52",
+    "usage": "After installing lua52, you can use it to write and run Lua scripts.",
+    "features": [
+      "Lightweight Scripting: Provides a powerful and efficient scripting language.",
+      "Embeddable: Designed to be easily embedded in applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive syntax and semantics for scripting tasks.",
+      "Integration: Can be integrated into applications requiring lightweight scripting capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua 5.2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lua52": "lua5.2 /path/to/script.lua",
+      "uninstall": "pkg uninstall lua52"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lua53-lpeg",
+    "version": "1.1.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lua53-lpeg is a pattern-matching library for Lua 5.3, based on Parsing Expression Grammars (PEGs).",
+    "homepage": "http://www.inf.puc-rio.br/~roberto/lpeg/",
+    "installation": "pkg install lua53-lpeg",
+    "usage": "After installing lua53-lpeg, you can use it to perform pattern matching in your Lua 5.3 code using PEGs.",
+    "features": [
+      "Pattern Matching: Provides tools for performing pattern matching using Parsing Expression Grammars (PEGs).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for pattern matching tasks.",
+      "Integration: Can be integrated into applications requiring pattern matching capabilities for Lua 5.3.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua-lpeg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and Lua-lpeg for support and discussions.",
+      "GitHub": "Visit the Lua-lpeg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lua53_lpeg": "lua5.3 -e 'require(\"lpeg\").match(pattern, subject)'",
+      "uninstall": "pkg uninstall lua53-lpeg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lua53",
+    "version": "5.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lua 5.3 is a powerful, efficient, lightweight, embeddable scripting language.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install lua53",
+    "usage": "After installing lua53, you can use it to write and run Lua scripts.",
+    "features": [
+      "Lightweight Scripting: Provides a powerful and efficient scripting language.",
+      "Embeddable: Designed to be easily embedded in applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive syntax and semantics for scripting tasks.",
+      "Integration: Can be integrated into applications requiring lightweight scripting capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua 5.3 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lua53": "lua5.3 /path/to/script.lua",
+      "uninstall": "pkg uninstall lua53"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lua54",
+    "version": "5.4.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lua 5.4 is a powerful, efficient, lightweight, embeddable scripting language.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install lua54",
+    "usage": "After installing lua54, you can use it to write and run Lua scripts.",
+    "features": [
+      "Lightweight Scripting: Provides a powerful and efficient scripting language.",
+      "Embeddable: Designed to be easily embedded in applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive syntax and semantics for scripting tasks.",
+      "Integration: Can be integrated into applications requiring lightweight scripting capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua 5.4 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lua54": "lua5.4 /path/to/script.lua",
+      "uninstall": "pkg uninstall lua54"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "luajit",
+    "version": "1:2.1.1731601260",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LuaJIT is a Just-In-Time Compiler (JIT) for the Lua programming language, designed to deliver the highest performance possible.",
+    "homepage": "https://luajit.org/",
+    "installation": "pkg install luajit",
+    "usage": "After installing luajit, you can use it to run Lua scripts with JIT compilation for enhanced performance.",
+    "features": [
+      "JIT Compilation: Provides Just-In-Time compilation for Lua scripts.",
+      "High Performance: Designed to deliver the highest performance possible for Lua scripts.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for running Lua scripts with JIT compilation.",
+      "Integration: Can be integrated into applications requiring high-performance Lua scripting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LuaJIT documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and LuaJIT for support and discussions.",
+      "GitHub": "Visit the LuaJIT GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_luajit": "luajit /path/to/script.lua",
+      "uninstall": "pkg uninstall luajit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "luarocks",
+    "version": "3.11.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Luarocks is a package manager for Lua modules, allowing you to install, configure, and manage Lua libraries.",
+    "homepage": "https://luarocks.org/",
+    "installation": "pkg install luarocks",
+    "usage": "After installing luarocks, you can use it to manage Lua modules in your development environment.",
+    "features": [
+      "Package Management: Provides tools for installing, configuring, and managing Lua modules.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for managing Lua packages.",
+      "Integration: Can be integrated into development environments requiring Lua module management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Luarocks documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and Luarocks for support and discussions.",
+      "GitHub": "Visit the Luarocks GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_luarocks": "luarocks install <module>",
+      "uninstall": "pkg uninstall luarocks"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "luv",
+    "version": "1.50.0-0-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Luv is a Lua binding for the libuv library, which provides asynchronous I/O operations.",
+    "homepage": "https://github.com/luvit/luv",
+    "installation": "pkg install luv",
+    "usage": "After installing luv, you can use it to perform asynchronous I/O operations in your Lua code.",
+    "features": [
+      "Asynchronous I/O: Provides tools for performing asynchronous I/O operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for asynchronous I/O tasks.",
+      "Integration: Can be integrated into applications requiring asynchronous I/O capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Luv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and Luv for support and discussions.",
+      "GitHub": "Visit the Luv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_luv": "lua -e 'require(\"luv\")'",
+      "uninstall": "pkg uninstall luv"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "luvi",
+    "version": "1:2.15.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Luvi is a project that combines LuaJIT with libuv to create a small, fast, and portable runtime for running Lua applications.",
+    "homepage": "https://github.com/luvit/luvi",
+    "installation": "pkg install luvi",
+    "usage": "After installing luvi, you can use it to run Lua applications with the performance and portability of LuaJIT and libuv.",
+    "features": [
+      "Portable Runtime: Combines LuaJIT and libuv to create a portable runtime for Lua applications.",
+      "High Performance: Designed to deliver high performance with Just-In-Time compilation and asynchronous I/O.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for running Lua applications.",
+      "Integration: Can be integrated into applications requiring a portable and high-performance Lua runtime.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Luvi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and Luvi for support and discussions.",
+      "GitHub": "Visit the Luvi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_luvi": "luvi /path/to/app",
+      "uninstall": "pkg uninstall luvi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "luvit",
+    "version": "2.18.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Luvit is a project that combines LuaJIT with libuv to create a small, fast, and portable runtime for running Lua applications with a focus on network programming.",
+    "homepage": "https://luvit.io/",
+    "installation": "pkg install luvit",
+    "usage": "After installing luvit, you can use it to run network-oriented Lua applications with the performance and portability of LuaJIT and libuv.",
+    "features": [
+      "Network Programming: Provides tools for network programming in Lua.",
+      "Portable Runtime: Combines LuaJIT and libuv to create a portable runtime for Lua applications.",
+      "High Performance: Designed to deliver high performance with Just-In-Time compilation and asynchronous I/O.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for running Lua applications.",
+      "Integration: Can be integrated into applications requiring a portable and high-performance Lua runtime for network programming.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Luvit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua development and Luvit for support and discussions.",
+      "GitHub": "Visit the Luvit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_luvit": "luvit /path/to/app",
+      "uninstall": "pkg uninstall luvit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lux",
+    "version": "0.24.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lux is a small, high-performance, embeddable scripting language with a focus on simplicity and ease of use.",
+    "homepage": "https://lux-lang.org/",
+    "installation": "pkg install lux",
+    "usage": "After installing lux, you can use it to write and run scripts in the Lux programming language.",
+    "features": [
+      "High Performance: Designed to be a fast and efficient scripting language.",
+      "Embeddable: Can be easily embedded in applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive syntax and semantics for scripting tasks.",
+      "Integration: Can be integrated into applications requiring a high-performance scripting language.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lux documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lux development for support and discussions.",
+      "GitHub": "Visit the Lux GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lux": "lux /path/to/script.lux",
+      "uninstall": "pkg uninstall lux"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lv2",
+    "version": "1.18.10-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LV2 is an extensible plugin standard for audio systems, designed to be simple yet powerful and to provide a solid foundation for the development of audio plugins.",
+    "homepage": "https://lv2plug.in/",
+    "installation": "pkg install lv2",
+    "usage": "After installing lv2, you can use it to develop and use audio plugins in your audio applications.",
+    "features": [
+      "Audio Plugins: Provides a standard for developing and using audio plugins.",
+      "Extensible: Designed to be extensible and flexible for various audio applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for developing and using audio plugins.",
+      "Integration: Can be integrated into audio applications requiring plugin support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LV2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio plugin development and LV2 for support and discussions.",
+      "GitHub": "Visit the LV2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lv2": "lv2ls",
+      "uninstall": "pkg uninstall lv2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lychee",
+    "version": "0.18.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lychee is a fast, async, and smart link checker that ensures your website or project's links are valid.",
+    "homepage": "https://github.com/lycheeverse/lychee",
+    "installation": "pkg install lychee",
+    "usage": "After installing lychee, you can use it to check the validity of links in your website or project.",
+    "features": [
+      "Link Checking: Provides tools for checking the validity of links.",
+      "Asynchronous: Designed to be fast and efficient with asynchronous operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for link checking tasks.",
+      "Integration: Can be integrated into workflows requiring link validation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lychee documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to link checking and Lychee for support and discussions.",
+      "GitHub": "Visit the Lychee GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lychee": "lychee https://example.com",
+      "uninstall": "pkg uninstall lychee"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lynx",
+    "version": "2.8.9rel.1-8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lynx is a text-based web browser for use on cursor-addressable character cell terminals.",
+    "homepage": "https://lynx.invisible-island.net/",
+    "installation": "pkg install lynx",
+    "usage": "After installing lynx, you can use it to browse the web in a text-based terminal.",
+    "features": [
+      "Text-Based Web Browsing: Provides tools for browsing the web in a text-based terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for web browsing tasks.",
+      "Integration: Can be integrated into terminal workflows requiring web browsing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lynx documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web browsing and Lynx for support and discussions.",
+      "GitHub": "Visit the Lynx GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lynx": "lynx https://example.com",
+      "uninstall": "pkg uninstall lynx"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lz4",
+    "version": "1.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LZ4 is a fast compression algorithm, providing high-speed compression and decompression.",
+    "homepage": "https://lz4.github.io/lz4/",
+    "installation": "pkg install lz4",
+    "usage": "After installing lz4, you can use it to compress and decompress files with high speed.",
+    "features": [
+      "Fast Compression: Provides high-speed compression and decompression.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for compression tasks.",
+      "Integration: Can be integrated into workflows requiring fast compression and decompression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LZ4 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression algorithms and LZ4 for support and discussions.",
+      "GitHub": "Visit the LZ4 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lz4": "lz4 /path/to/file",
+      "uninstall": "pkg uninstall lz4"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lzip",
+    "version": "1.25",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lzip is a lossless data compressor based on the LZMA algorithm with a user interface similar to gzip or bzip2.",
+    "homepage": "https://www.nongnu.org/lzip/",
+    "installation": "pkg install lzip",
+    "usage": "After installing lzip, you can use it to compress and decompress files using the LZMA algorithm.",
+    "features": [
+      "Lossless Compression: Provides lossless data compression using the LZMA algorithm.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface similar to gzip or bzip2.",
+      "Integration: Can be integrated into workflows requiring lossless compression and decompression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lzip documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression algorithms and Lzip for support and discussions.",
+      "GitHub": "Visit the Lzip GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lzip": "lzip /path/to/file",
+      "uninstall": "pkg uninstall lzip"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lzlib-static",
+    "version": "1.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lzlib is a data compression library providing in-memory LZMA compression and decompression functions. This is the statically linked version.",
+    "homepage": "https://www.nongnu.org/lzip/lzlib.html",
+    "installation": "pkg install lzlib-static",
+    "usage": "After installing lzlib-static, you can use it to perform in-memory LZMA compression and decompression in your applications.",
+    "features": [
+      "LZMA Compression: Provides in-memory LZMA compression and decompression functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring in-memory LZMA compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lzlib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression algorithms and Lzlib for support and discussions.",
+      "GitHub": "Visit the Lzlib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lzlib_static": "Not applicable",
+      "uninstall": "pkg uninstall lzlib-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lzlib",
+    "version": "1.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lzlib is a data compression library providing in-memory LZMA compression and decompression functions.",
+    "homepage": "https://www.nongnu.org/lzip/lzlib.html",
+    "installation": "pkg install lzlib",
+    "usage": "After installing lzlib, you can use it to perform in-memory LZMA compression and decompression in your applications.",
+    "features": [
+      "LZMA Compression: Provides in-memory LZMA compression and decompression functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring in-memory LZMA compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lzlib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression algorithms and Lzlib for support and discussions.",
+      "GitHub": "Visit the Lzlib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lzlib": "Not applicable",
+      "uninstall": "pkg uninstall lzlib"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lzop",
+    "version": "1.04-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lzop is a file compressor that uses the LZO (Lempel-Ziv-Oberhumer) compression algorithm, which is optimized for speed.",
+    "homepage": "https://www.lzop.org/",
+    "installation": "pkg install lzop",
+    "usage": "After installing lzop, you can use it to compress and decompress files quickly using the LZO algorithm.",
+    "features": [
+      "Fast Compression: Uses the LZO compression algorithm, which is optimized for speed.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for compression tasks.",
+      "Integration: Can be integrated into workflows requiring fast file compression and decompression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lzop documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression algorithms and Lzop for support and discussions.",
+      "GitHub": "Visit the Lzop GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lzop": "lzop /path/to/file",
+      "uninstall": "pkg uninstall lzop"
+    },
+    "isFavorite": false
+  }
+]

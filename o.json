@@ -1,0 +1,1251 @@
+[
+  {
+    "name": "o-editor",
+    "version": "2.68.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "o-editor is a lightweight text editor for Unix-like systems with a simple and intuitive interface.",
+    "homepage": "https://o-editor.sourceforge.io/",
+    "installation": "pkg install o-editor",
+    "usage": "After installing o-editor, you can start the text editor by typing: o-editor",
+    "features": [
+      "Text Editor: Provides a lightweight text editor for Unix-like systems.",
+      "Simple Interface: Designed to be simple and intuitive.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text editors for support and discussions.",
+      "GitHub": "Search for repositories or forks of o-editor to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_editor": "o-editor",
+      "uninstall": "pkg uninstall o-editor"
+    }
+  },
+  {
+    "name": "oathtool-static",
+    "version": "2.6.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "oathtool-static is a static library version of oathtool, a tool for generating and validating OTPs (One-Time Passwords).",
+    "homepage": "https://www.nongnu.org/oath-toolkit/",
+    "installation": "pkg install oathtool-static",
+    "usage": "After installing oathtool-static, you can link it with your applications to generate and validate OTPs.",
+    "features": [
+      "OTP Generation: Provides a tool for generating and validating One-Time Passwords.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to OTPs for support and discussions.",
+      "GitHub": "Search for repositories or forks of oathtool to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -loath",
+      "uninstall": "pkg uninstall oathtool-static"
+    }
+  },
+  {
+    "name": "oathtool",
+    "version": "2.6.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "oathtool is a tool for generating and validating OTPs (One-Time Passwords).",
+    "homepage": "https://www.nongnu.org/oath-toolkit/",
+    "installation": "pkg install oathtool",
+    "usage": "After installing oathtool, you can generate and validate OTPs by typing: oathtool",
+    "features": [
+      "OTP Generation: Provides a tool for generating and validating One-Time Passwords.",
+      "Command Line Tool: Use the command line to generate and validate OTPs.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to OTPs for support and discussions.",
+      "GitHub": "Search for repositories or forks of oathtool to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_otp": "oathtool --totp -b 'base32secret3232'",
+      "uninstall": "pkg uninstall oathtool"
+    }
+  },
+  {
+    "name": "obfs4proxy",
+    "version": "0.0.14-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "obfs4proxy is a pluggable transport proxy for Tor, designed to bypass censorship.",
+    "homepage": "https://gitlab.torproject.org/tpo/anti-censorship/obfs4",
+    "installation": "pkg install obfs4proxy",
+    "usage": "After installing obfs4proxy, you can configure it with Tor to bypass censorship.",
+    "features": [
+      "Censorship Bypass: Provides a pluggable transport proxy for Tor.",
+      "Pluggable Transport: Designed to work with Tor to bypass censorship.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official GitLab repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tor and censorship bypass for support and discussions.",
+      "GitHub": "Search for repositories or forks of obfs4proxy to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "configure_tor": "Edit your torrc file to use obfs4proxy as a pluggable transport.",
+      "uninstall": "pkg uninstall obfs4proxy"
+    }
+  },
+  {
+    "name": "ocl-icd",
+    "version": "2.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ocl-icd is an OpenCL ICD (Installable Client Driver) loader that provides an interface for multiple OpenCL implementations.",
+    "homepage": "https://github.com/OCL-dev/ocl-icd",
+    "installation": "pkg install ocl-icd",
+    "usage": "After installing ocl-icd, you can use it to manage multiple OpenCL implementations.",
+    "features": [
+      "OpenCL ICD: Provides an Installable Client Driver loader for OpenCL.",
+      "Multiple Implementations: Allows managing multiple OpenCL implementations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to OpenCL for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_platforms": "clinfo",
+      "uninstall": "pkg uninstall ocl-icd"
+    }
+  },
+  {
+    "name": "ocrad-static",
+    "version": "0.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ocrad-static is a static library version of OCRAD, an OCR (Optical Character Recognition) program.",
+    "homepage": "https://www.gnu.org/software/ocrad/",
+    "installation": "pkg install ocrad-static",
+    "usage": "After installing ocrad-static, you can link it with your applications to use OCR functionalities.",
+    "features": [
+      "OCR Program: Provides a static library for OCR (Optical Character Recognition).",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to OCR for support and discussions.",
+      "GitHub": "Search for repositories or forks of ocrad to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -locrad",
+      "uninstall": "pkg uninstall ocrad-static"
+    }
+  },
+  {
+    "name": "ocrad",
+    "version": "0.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OCRAD is an OCR (Optical Character Recognition) program that reads images in pbm format.",
+    "homepage": "https://www.gnu.org/software/ocrad/",
+    "installation": "pkg install ocrad",
+    "usage": "After installing OCRAD, you can use it to convert images to text by typing: ocrad",
+    "features": [
+      "OCR Program: Provides an OCR (Optical Character Recognition) program.",
+      "Image to Text: Converts images in pbm format to text.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to OCR for support and discussions.",
+      "GitHub": "Search for repositories or forks of ocrad to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_image_to_text": "ocrad image.pbm > output.txt",
+      "uninstall": "pkg uninstall ocrad"
+    }
+  },
+  {
+    "name": "octave-static",
+    "version": "9.2.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "octave-static is a static library version of GNU Octave, a high-level programming language for numerical computations.",
+    "homepage": "https://www.gnu.org/software/octave/",
+    "installation": "pkg install octave-static",
+    "usage": "After installing octave-static, you can link it with your applications to use Octave functionalities.",
+    "features": [
+      "Numerical Computations: Provides a static library for numerical computations.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to numerical computing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Octave to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -loctave",
+      "uninstall": "pkg uninstall octave-static"
+    }
+  },
+  {
+    "name": "octave",
+    "version": "9.2.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Octave is a high-level programming language for numerical computations, providing a command-line interface for solving linear and nonlinear problems.",
+    "homepage": "https://www.gnu.org/software/octave/",
+    "installation": "pkg install octave",
+    "usage": "After installing Octave, you can start the command-line interface by typing: octave",
+    "features": [
+      "Numerical Computations: Provides a high-level programming language for numerical computations.",
+      "Command-Line Interface: Offers a command-line interface for solving linear and nonlinear problems.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to numerical computing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Octave to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_interface": "octave",
+      "uninstall": "pkg uninstall octave"
+    }
+  },
+  {
+    "name": "octomap-static",
+    "version": "1.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "octomap-static is a static library version of OctoMap, an efficient probabilistic 3D mapping framework.",
+    "homepage": "https://octomap.github.io/",
+    "installation": "pkg install octomap-static",
+    "usage": "After installing octomap-static, you can link it with your applications to use OctoMap functionalities.",
+    "features": [
+      "3D Mapping: Provides a static library for probabilistic 3D mapping.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to 3D mapping for support and discussions.",
+      "GitHub": "Search for repositories or forks of OctoMap to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -loctomap",
+      "uninstall": "pkg uninstall octomap-static"
+    }
+  },
+  {
+    "name": "octomap",
+    "version": "1.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OctoMap is an efficient probabilistic 3D mapping framework that provides data structures and mapping algorithms.",
+    "homepage": "https://octomap.github.io/",
+    "installation": "pkg install octomap",
+    "usage": "After installing OctoMap, you can use it in your applications to perform 3D mapping.",
+    "features": [
+      "3D Mapping: Provides data structures and mapping algorithms for probabilistic 3D mapping.",
+      "Efficient: Designed to be efficient and scalable.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to 3D mapping for support and discussions.",
+      "GitHub": "Search for repositories or forks of OctoMap to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include OctoMap in your 3D mapping projects.",
+      "uninstall": "pkg uninstall octomap"
+    }
+  },
+  {
+    "name": "odt2txt",
+    "version": "0.5-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "odt2txt is a command-line tool that converts OpenDocument Text (ODT) files to plain text.",
+    "homepage": "https://github.com/dstosberg/odt2txt",
+    "installation": "pkg install odt2txt",
+    "usage": "After installing odt2txt, you can convert ODT files to plain text by typing: odt2txt file.odt",
+    "features": [
+      "File Conversion: Provides a tool for converting ODT files to plain text.",
+      "Command Line Tool: Use the command line to convert files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file conversion for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_file": "odt2txt file.odt",
+      "uninstall": "pkg uninstall odt2txt"
+    }
+  },
+  {
+    "name": "oh-my-posh",
+    "version": "24.18.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "oh-my-posh is a prompt theme engine for any shell, providing a collection of themes for customizing your shell prompt.",
+    "homepage": "https://ohmyposh.dev/",
+    "installation": "pkg install oh-my-posh",
+    "usage": "After installing oh-my-posh, you can customize your shell prompt by typing: oh-my-posh init",
+    "features": [
+      "Prompt Theme Engine: Provides a collection of themes for customizing your shell prompt.",
+      "Any Shell: Works with any shell, including bash, zsh, and PowerShell.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell customization for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "init_prompt": "oh-my-posh init",
+      "uninstall": "pkg uninstall oh-my-posh"
+    }
+  },
+  {
+    "name": "okc-agents",
+    "version": "0.1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "okc-agents is a tool for managing hardware and software agents in a distributed system.",
+    "homepage": "https://github.com/okc-agents/okc-agents",
+    "installation": "pkg install okc-agents",
+    "usage": "After installing okc-agents, you can manage agents by typing: okc-agents",
+    "features": [
+      "Agent Management: Provides tools for managing hardware and software agents.",
+      "Distributed Systems: Designed for managing agents in a distributed system.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to distributed systems for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_agents": "okc-agents",
+      "uninstall": "pkg uninstall okc-agents"
+    }
+  },
+  {
+    "name": "ol",
+    "version": "2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ol is a lightweight command-line tool for managing TODO lists and tasks.",
+    "homepage": "https://github.com/ol/ol",
+    "installation": "pkg install ol",
+    "usage": "After installing ol, you can manage your TODO lists by typing: ol",
+    "features": [
+      "Task Management: Provides a lightweight tool for managing TODO lists and tasks.",
+      "Command Line Tool: Use the command line to manage tasks.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to task management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_tasks": "ol",
+      "uninstall": "pkg uninstall ol"
+    }
+  },
+  {
+    "name": "oleo",
+    "version": "1.99.16-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "oleo is a lightweight spreadsheet application for Unix-like systems.",
+    "homepage": "https://www.gnu.org/software/oleo/",
+    "installation": "pkg install oleo",
+    "usage": "After installing oleo, you can start the spreadsheet application by typing: oleo",
+    "features": [
+      "Spreadsheet Application: Provides a lightweight spreadsheet application.",
+      "Simple Interface: Designed to be simple and easy to use.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to spreadsheet applications for support and discussions.",
+      "GitHub": "Search for repositories or forks of oleo to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_application": "oleo",
+      "uninstall": "pkg uninstall oleo"
+    }
+  },
+  {
+    "name": "onefetch",
+    "version": "2.23.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "onefetch is a command-line tool that displays information about your git project in a visually appealing way.",
+    "homepage": "https://github.com/o2sh/onefetch",
+    "installation": "pkg install onefetch",
+    "usage": "After installing onefetch, you can display project information by typing: onefetch",
+    "features": [
+      "Project Information: Provides a tool for displaying git project information.",
+      "Visually Appealing: Designed to display information in a visually appealing way.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to git tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "display_info": "onefetch",
+      "uninstall": "pkg uninstall onefetch"
+    }
+  },
+  {
+    "name": "onigmo-static",
+    "version": "6.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "onigmo-static is a static library version of Onigmo, a regular expression library forked from Oniguruma.",
+    "homepage": "https://github.com/k-takata/Onigmo",
+    "installation": "pkg install onigmo-static",
+    "usage": "After installing onigmo-static, you can link it with your applications to use regular expression functionalities.",
+    "features": [
+      "Regular Expressions: Provides a static library for regular expressions.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to regular expressions for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lonigmo",
+      "uninstall": "pkg uninstall onigmo-static"
+    }
+  },
+  {
+    "name": "onigmo",
+    "version": "6.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Onigmo is a regular expression library forked from Oniguruma, providing powerful and flexible regular expression functionalities.",
+    "homepage": "https://github.com/k-takata/Onigmo",
+    "installation": "pkg install onigmo",
+    "usage": "After installing Onigmo, you can use it in your applications to handle regular expressions.",
+    "features": [
+      "Regular Expressions: Provides a library for powerful and flexible regular expressions.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to regular expressions for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include Onigmo in your regular expression projects.",
+      "uninstall": "pkg uninstall onigmo"
+    }
+  },
+  {
+    "name": "oniguruma-static",
+    "version": "6.9.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "oniguruma-static is a static library version of Oniguruma, a regular expression library.",
+    "homepage": "https://github.com/kkos/oniguruma",
+    "installation": "pkg install oniguruma-static",
+    "usage": "After installing oniguruma-static, you can link it with your applications to use regular expression functionalities.",
+    "features": [
+      "Regular Expressions: Provides a static library for regular expressions.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to regular expressions for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -loniguruma",
+      "uninstall": "pkg uninstall oniguruma-static"
+    }
+  },
+  {
+    "name": "oniguruma",
+    "version": "6.9.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Oniguruma is a regular expression library providing powerful and flexible regular expression functionalities.",
+    "homepage": "https://github.com/kkos/oniguruma",
+    "installation": "pkg install oniguruma",
+    "usage": "After installing Oniguruma, you can use it in your applications to handle regular expressions.",
+    "features": [
+      "Regular Expressions: Provides a library for powerful and flexible regular expressions.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to regular expressions for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include Oniguruma in your regular expression projects.",
+      "uninstall": "pkg uninstall oniguruma"
+    }
+  },
+  {
+    "name": "oorexx-static",
+    "version": "4.2.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "oorexx-static is a static library version of ooRexx, an object-oriented scripting language.",
+    "homepage": "http://www.oorexx.org/",
+    "installation": "pkg install oorexx-static",
+    "usage": "After installing oorexx-static, you can link it with your applications to use ooRexx functionalities.",
+    "features": [
+      "Scripting Language: Provides a static library for the object-oriented scripting language ooRexx.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to scripting languages for support and discussions.",
+      "GitHub": "Search for repositories or forks of ooRexx to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -loorexx",
+      "uninstall": "pkg uninstall oorexx-static"
+    }
+  },
+  {
+    "name": "oorexx",
+    "version": "4.2.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ooRexx is an object-oriented scripting language that provides powerful scripting capabilities.",
+    "homepage": "http://www.oorexx.org/",
+    "installation": "pkg install oorexx",
+    "usage": "After installing ooRexx, you can run ooRexx scripts by typing: rexx script.rexx",
+    "features": [
+      "Scripting Language: Provides an object-oriented scripting language.",
+      "Powerful Capabilities: Designed to offer powerful scripting capabilities.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to scripting languages for support and discussions.",
+      "GitHub": "Search for repositories or forks of ooRexx to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "rexx script.rexx",
+      "uninstall": "pkg uninstall oorexx"
+    }
+  },
+  {
+    "name": "open-adventure",
+    "version": "1.20",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "open-adventure is a text-based adventure game that is a modern version of the classic Colossal Cave Adventure.",
+    "homepage": "https://github.com/troglobit/open-adventure",
+    "installation": "pkg install open-adventure",
+    "usage": "After installing open-adventure, you can start the game by typing: adventure",
+    "features": [
+      "Text-Based Game: Provides a modern version of the classic text-based adventure game Colossal Cave Adventure.",
+      "Exploration and Puzzles: Involves exploring caves and solving puzzles.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text-based games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "adventure",
+      "uninstall": "pkg uninstall open-adventure"
+    }
+  },
+  {
+    "name": "openal-soft",
+    "version": "1.24.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openal-soft is a software implementation of the OpenAL 3D audio API.",
+    "homepage": "https://openal-soft.org/",
+    "installation": "pkg install openal-soft",
+    "usage": "After installing openal-soft, you can use it in your applications to provide 3D audio support.",
+    "features": [
+      "3D Audio: Provides a software implementation of the OpenAL 3D audio API.",
+      "Cross-Platform: Works on various operating systems.",
+      "High Performance: Designed for high performance and low latency audio processing."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio APIs for support and discussions.",
+      "GitHub": "Search for repositories or forks of openal-soft to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include openal-soft in your audio projects.",
+      "uninstall": "pkg uninstall openal-soft"
+    }
+  },
+  {
+    "name": "openbabel",
+    "version": "3.1.1-8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openbabel is a chemical toolbox designed to speak the many languages of chemical data.",
+    "homepage": "https://openbabel.org/",
+    "installation": "pkg install openbabel",
+    "usage": "After installing openbabel, you can convert chemical file formats by typing: obabel",
+    "features": [
+      "Chemical Toolbox: Provides tools for converting chemical file formats and manipulating chemical data.",
+      "Wide Support: Supports a wide range of chemical file formats.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to chemical informatics for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_format": "obabel input.mol -O output.sdf",
+      "uninstall": "pkg uninstall openbabel"
+    }
+  },
+  {
+    "name": "opencc-tools",
+    "version": "1.1.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "opencc-tools provides command-line tools for OpenCC, a library for Simplified-Traditional Chinese conversion.",
+    "homepage": "https://github.com/BYVoid/OpenCC",
+    "installation": "pkg install opencc-tools",
+    "usage": "After installing opencc-tools, you can use it for converting between Simplified and Traditional Chinese by typing: opencc",
+    "features": [
+      "Chinese Conversion: Provides tools for converting between Simplified and Traditional Chinese.",
+      "Command Line Tools: Use the command line to perform conversions.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Chinese language tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_simplified_to_traditional": "opencc -i input.txt -o output.txt -c s2t.json",
+      "uninstall": "pkg uninstall opencc-tools"
+    }
+  },
+  {
+    "name": "opencl-clhpp",
+    "version": "2024.10.24",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "opencl-clhpp provides C++ bindings for OpenCL, facilitating the development of OpenCL applications in C++.",
+    "homepage": "https://github.com/KhronosGroup/OpenCL-CLHPP",
+    "installation": "pkg install opencl-clhpp",
+    "usage": "After installing opencl-clhpp, you can include it in your C++ projects to use OpenCL functionalities.",
+    "features": [
+      "C++ Bindings: Provides C++ bindings for OpenCL.",
+      "OpenCL Development: Facilitates the development of OpenCL applications in C++.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to OpenCL for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_library": "#include <CL/cl2.hpp>",
+      "uninstall": "pkg uninstall opencl-clhpp"
+    }
+  },
+  {
+    "name": "opencl-headers",
+    "version": "2024.10.24",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "opencl-headers provides the OpenCL header files necessary for developing OpenCL applications.",
+    "homepage": "https://www.khronos.org/opencl/",
+    "installation": "pkg install opencl-headers",
+    "usage": "After installing opencl-headers, you can include the headers in your OpenCL projects.",
+    "features": [
+      "Header Files: Provides the OpenCL header files necessary for development.",
+      "OpenCL Development: Facilitates the development of OpenCL applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official Khronos website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to OpenCL for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenCL headers to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_headers": "#include <CL/cl.h>",
+      "uninstall": "pkg uninstall opencl-headers"
+    }
+  },
+  {
+    "name": "opencl-vendor-driver",
+    "version": "0.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "opencl-vendor-driver is a vendor-specific driver for OpenCL, providing hardware acceleration for OpenCL applications.",
+    "homepage": "https://www.khronos.org/opencl/",
+    "installation": "pkg install opencl-vendor-driver",
+    "usage": "After installing opencl-vendor-driver, you can use it to enable hardware acceleration for OpenCL applications.",
+    "features": [
+      "Hardware Acceleration: Provides a vendor-specific driver for hardware acceleration.",
+      "OpenCL Support: Facilitates the execution of OpenCL applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official Khronos website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to OpenCL for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenCL drivers to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "enable_acceleration": "Ensure your OpenCL applications are using the vendor-specific driver.",
+      "uninstall": "pkg uninstall opencl-vendor-driver"
+    }
+  },
+  {
+    "name": "opencolorio",
+    "version": "2.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenColorIO (OCIO) is a color management solution geared towards motion picture production with an emphasis on visual effects and animation.",
+    "homepage": "https://opencolorio.org/",
+    "installation": "pkg install opencolorio",
+    "usage": "After installing OpenColorIO, you can use it to manage color workflows in your applications.",
+    "features": [
+      "Color Management: Provides a color management solution for motion picture production.",
+      "Visual Effects: Designed for use in visual effects and animation.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to color management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include OpenColorIO in your color management projects.",
+      "uninstall": "pkg uninstall opencolorio"
+    }
+  },
+  {
+    "name": "openethereum-utils",
+    "version": "3.3.5-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openethereum-utils provides utility functions for interacting with the OpenEthereum client.",
+    "homepage": "https://github.com/openethereum/openethereum",
+    "installation": "pkg install openethereum-utils",
+    "usage": "After installing openethereum-utils, you can use the utility functions to interact with the OpenEthereum client.",
+    "features": [
+      "Ethereum Utilities: Provides utility functions for interacting with the OpenEthereum client.",
+      "Blockchain Interaction: Facilitates interactions with the Ethereum blockchain.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Ethereum for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_utils": "Use the utility functions in your Ethereum projects.",
+      "uninstall": "pkg uninstall openethereum-utils"
+    }
+  },
+  {
+    "name": "openethereum",
+    "version": "3.3.5-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenEthereum is a fast, feature-rich, and advanced CLI-based Ethereum client.",
+    "homepage": "https://github.com/openethereum/openethereum",
+    "installation": "pkg install openethereum",
+    "usage": "After installing OpenEthereum, you can start the Ethereum client by typing: openethereum",
+    "features": [
+      "Ethereum Client: Provides a fast and feature-rich Ethereum client.",
+      "Command Line Interface: Offers an advanced CLI for interacting with the Ethereum blockchain.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Ethereum for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "openethereum",
+      "uninstall": "pkg uninstall openethereum"
+    }
+  },
+  {
+    "name": "openexr",
+    "version": "3.2.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenEXR is a high dynamic range (HDR) image file format developed by Industrial Light & Magic (ILM) for use in computer imaging applications.",
+    "homepage": "https://www.openexr.com/",
+    "installation": "pkg install openexr",
+    "usage": "After installing OpenEXR, you can use it to work with HDR image files.",
+    "features": [
+      "HDR Image Format: Provides a high dynamic range image file format.",
+      "Computer Imaging: Designed for use in computer imaging applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to computer imaging for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include OpenEXR in your HDR image projects.",
+      "uninstall": "pkg uninstall openexr"
+    }
+  },
+  {
+    "name": "openfoam",
+    "version": "2406",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenFOAM is an open-source software for computational fluid dynamics (CFD) and multiphysics simulations.",
+    "homepage": "https://openfoam.org/",
+    "installation": "pkg install openfoam",
+    "usage": "After installing OpenFOAM, you can run CFD simulations by typing: openfoam",
+    "features": [
+      "CFD Software: Provides software for computational fluid dynamics and multiphysics simulations.",
+      "Open Source: Available as open-source software.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to CFD for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_simulation": "openfoam",
+      "uninstall": "pkg uninstall openfoam"
+    }
+  },
+  {
+    "name": "opengl",
+    "version": "0.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "OpenGL is a cross-language, cross-platform API for rendering 2D and 3D vector graphics.",
+    "homepage": "https://www.opengl.org/",
+    "installation": "pkg install opengl",
+    "usage": "After installing OpenGL, you can use it in your applications to render graphics.",
+    "features": [
+      "Graphics API: Provides a cross-language, cross-platform API for rendering 2D and 3D graphics.",
+      "High Performance: Designed for high performance rendering.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to graphics rendering for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenGL to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include OpenGL in your graphics projects.",
+      "uninstall": "pkg uninstall opengl"
+    }
+  },
+  {
+    "name": "openh264",
+    "version": "2.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openh264 is an open-source H.264 codec library developed by Cisco Systems for real-time video encoding and decoding.",
+    "homepage": "https://github.com/cisco/openh264",
+    "installation": "pkg install openh264",
+    "usage": "After installing openh264, you can use it in your applications to encode and decode H.264 video.",
+    "features": [
+      "H.264 Codec: Provides an open-source H.264 codec library.",
+      "Real-Time Encoding: Designed for real-time video encoding and decoding.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to video encoding for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include openh264 in your video projects.",
+      "uninstall": "pkg uninstall openh264"
+    }
+  },
+  {
+    "name": "openjdk-21-source",
+    "version": "21.0.6",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "openjdk-21-source provides the source code for OpenJDK 21, an open-source implementation of the Java Platform, Standard Edition.",
+    "homepage": "https://openjdk.java.net/",
+    "installation": "pkg install openjdk-21-source",
+    "usage": "After installing openjdk-21-source, you can access the source code for OpenJDK 21.",
+    "features": [
+      "Java Source Code: Provides the source code for OpenJDK 21.",
+      "Java Platform: Implements the Java Platform, Standard Edition.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Java development for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenJDK to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "access_source_code": "Navigate to the installed source code directory.",
+      "uninstall": "pkg uninstall openjdk-21-source"
+    }
+  },
+  {
+    "name": "openjdk-21-x",
+    "version": "21.0.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openjdk-21-x is an open-source implementation of the Java Platform, Standard Edition, version 21.",
+    "homepage": "https://openjdk.java.net/",
+    "installation": "pkg install openjdk-21-x",
+    "usage": "After installing openjdk-21-x, you can run Java applications by typing: java",
+    "features": [
+      "Java Platform: Provides an open-source implementation of the Java Platform, Standard Edition, version 21.",
+      "Cross-Platform: Works on various operating systems.",
+      "Standard Edition: Implements the standard features of the Java Platform."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Java development for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenJDK to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_java_app": "java -jar myapp.jar",
+      "uninstall": "pkg uninstall openjdk-21-x"
+    }
+  },
+  {
+    "name": "openjdk-21",
+    "version": "21.0.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openjdk-21 provides an open-source implementation of the Java Platform, Standard Edition, version 21.",
+    "homepage": "https://openjdk.java.net/",
+    "installation": "pkg install openjdk-21",
+    "usage": "After installing openjdk-21, you can run Java applications by typing: java",
+    "features": [
+      "Java Platform: Provides an open-source implementation of the Java Platform, Standard Edition, version 21.",
+      "Cross-Platform: Works on various operating systems.",
+      "Standard Edition: Implements the standard features of the Java Platform."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Java development for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenJDK to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_java_app": "java -jar myapp.jar",
+      "uninstall": "pkg uninstall openjdk-21"
+    }
+  },
+  {
+    "name": "openjpeg-tools",
+    "version": "2.5.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openjpeg-tools provides command-line tools for working with the OpenJPEG library, which is an open-source JPEG 2000 codec.",
+    "homepage": "https://www.openjpeg.org/",
+    "installation": "pkg install openjpeg-tools",
+    "usage": "After installing openjpeg-tools, you can use the provided tools to encode and decode JPEG 2000 images.",
+    "features": [
+      "JPEG 2000 Codec: Provides tools for encoding and decoding JPEG 2000 images.",
+      "Command Line Tools: Use the command line to work with JPEG 2000 images.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to image codecs for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_image": "opj_compress -i input.tif -o output.jp2",
+      "decode_image": "opj_decompress -i input.jp2 -o output.tif",
+      "uninstall": "pkg uninstall openjpeg-tools"
+    }
+  },
+  {
+    "name": "openjpeg",
+    "version": "2.5.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenJPEG is an open-source JPEG 2000 codec library developed to promote the use of JPEG 2000.",
+    "homepage": "https://www.openjpeg.org/",
+    "installation": "pkg install openjpeg",
+    "usage": "After installing OpenJPEG, you can use it in your applications to encode and decode JPEG 2000 images.",
+    "features": [
+      "JPEG 2000 Codec: Provides a library for encoding and decoding JPEG 2000 images.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to image codecs for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include OpenJPEG in your image processing projects.",
+      "uninstall": "pkg uninstall openjpeg"
+    }
+  },
+  {
+    "name": "openldap-static",
+    "version": "2.6.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openldap-static provides a static library version of OpenLDAP, an open-source implementation of the Lightweight Directory Access Protocol.",
+    "homepage": "https://www.openldap.org/",
+    "installation": "pkg install openldap-static",
+    "usage": "After installing openldap-static, you can link it with your applications to use LDAP functionalities.",
+    "features": [
+      "LDAP Implementation: Provides a static library for LDAP (Lightweight Directory Access Protocol).",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to LDAP for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenLDAP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lldap",
+      "uninstall": "pkg uninstall openldap-static"
+    }
+  },
+  {
+    "name": "openldap",
+    "version": "2.6.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenLDAP is an open-source implementation of the Lightweight Directory Access Protocol (LDAP).",
+    "homepage": "https://www.openldap.org/",
+    "installation": "pkg install openldap",
+    "usage": "After installing OpenLDAP, you can use it to implement and manage directory services.",
+    "features": [
+      "LDAP Implementation: Provides an open-source implementation of LDAP.",
+      "Directory Services: Facilitates the implementation and management of directory services.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to LDAP for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenLDAP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_service": "slapd",
+      "uninstall": "pkg uninstall openldap"
+    }
+  },
+  {
+    "name": "openmpi-static",
+    "version": "4.1.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openmpi-static provides a static library version of OpenMPI, an open-source Message Passing Interface implementation.",
+    "homepage": "https://www.open-mpi.org/",
+    "installation": "pkg install openmpi-static",
+    "usage": "After installing openmpi-static, you can link it with your applications to use MPI functionalities.",
+    "features": [
+      "MPI Implementation: Provides a static library for MPI (Message Passing Interface).",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPI for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenMPI to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "mpicc -o myapp myapp.c -lopenmpi",
+      "uninstall": "pkg uninstall openmpi-static"
+    }
+  },
+  {
+    "name": "openmpi",
+    "version": "4.1.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenMPI is an open-source implementation of the Message Passing Interface (MPI) standard, designed for high performance on both single-node and multi-node systems.",
+    "homepage": "https://www.open-mpi.org/",
+    "installation": "pkg install openmpi",
+    "usage": "After installing OpenMPI, you can compile and run MPI applications using the provided tools.",
+    "features": [
+      "MPI Implementation: Provides an open-source implementation of MPI.",
+      "High Performance: Designed for high performance on single-node and multi-node systems.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPI for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenMPI to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_mpi_app": "mpicc -o myapp myapp.c",
+      "run_mpi_app": "mpirun -np 4 myapp",
+      "uninstall": "pkg uninstall openmpi"
+    }
+  },
+  {
+    "name": "openscad",
+    "version": "2021.01",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenSCAD is a script-based 3D CAD modeler that provides a powerful tool for creating 3D models programmatically.",
+    "homepage": "https://www.openscad.org/",
+    "installation": "pkg install openscad",
+    "usage": "After installing OpenSCAD, you can start the application by typing: openscad",
+    "features": [
+      "3D CAD Modeler: Provides a script-based tool for creating 3D models.",
+      "Programmatic Modeling: Allows creating 3D models programmatically.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to 3D modeling for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_application": "openscad",
+      "uninstall": "pkg uninstall openscad"
+    }
+  },
+  {
+    "name": "openssh-sftp-server",
+    "version": "9.9p1-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openssh-sftp-server provides the SFTP server module for OpenSSH, enabling secure file transfer over SSH.",
+    "homepage": "https://www.openssh.com/",
+    "installation": "pkg install openssh-sftp-server",
+    "usage": "After installing openssh-sftp-server, you can configure and use SFTP for secure file transfer.",
+    "features": [
+      "SFTP Server: Provides the SFTP server module for OpenSSH.",
+      "Secure File Transfer: Enables secure file transfer over SSH.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SSH and SFTP for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenSSH to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "configure_sftp": "Edit your sshd_config file to enable SFTP.",
+      "uninstall": "pkg uninstall openssh-sftp-server"
+    }
+  },
+  {
+    "name": "openssh",
+    "version": "9.9p1-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenSSH is a suite of secure networking utilities based on the Secure Shell (SSH) protocol, providing encrypted communication sessions over a computer network.",
+    "homepage": "https://www.openssh.com/",
+    "installation": "pkg install openssh",
+    "usage": "After installing OpenSSH, you can use the provided tools for secure communication over SSH.",
+    "features": [
+      "SSH Protocol: Provides secure networking utilities based on the SSH protocol.",
+      "Encrypted Communication: Enables encrypted communication sessions.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SSH for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenSSH to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_ssh_service": "systemctl start sshd",
+      "uninstall": "pkg uninstall openssh"
+    }
+  },
+  {
+    "name": "openssl-static",
+    "version": "3.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openssl-static provides a static library version of OpenSSL, a robust, full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.",
+    "homepage": "https://www.openssl.org/",
+    "installation": "pkg install openssl-static",
+    "usage": "After installing openssl-static, you can link it with your applications to use TLS/SSL functionalities.",
+    "features": [
+      "TLS/SSL Protocols: Provides a static library for TLS and SSL protocols.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TLS/SSL for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenSSL to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lssl -lcrypto",
+      "uninstall": "pkg uninstall openssl-static"
+    }
+  },
+  {
+    "name": "openssl-tool",
+    "version": "3.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "openssl-tool provides command-line tools for the OpenSSL library, enabling various cryptographic operations.",
+    "homepage": "https://www.openssl.org/",
+    "installation": "pkg install openssl-tool",
+    "usage": "After installing openssl-tool, you can use the provided tools for cryptographic operations.",
+    "features": [
+      "Cryptographic Operations: Provides command-line tools for various cryptographic operations.",
+      "OpenSSL Integration: Integrates with the OpenSSL library.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cryptography for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenSSL to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encrypt_file": "openssl enc -aes-256-cbc -in file.txt -out file.enc",
+      "uninstall": "pkg uninstall openssl-tool"
+    }
+  },
+  {
+    "name": "openssl",
+    "version": "3.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "OpenSSL is a robust, full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols, as well as a general-purpose cryptography library.",
+    "homepage": "https://www.openssl.org/",
+    "installation": "pkg install openssl",
+    "usage": "After installing OpenSSL, you can use it for secure communications and cryptographic operations.",
+    "features": [
+      "TLS/SSL Protocols: Provides a toolkit for TLS and SSL protocols.",
+      "Cryptography Library: Offers a general-purpose cryptography library.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TLS/SSL and cryptography for support and discussions.",
+      "GitHub": "Search for repositories or forks of OpenSSL to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_key": "openssl genpkey -algorithm RSA -out private_key.pem",
+      "generate_cert": "openssl req -new -x509 -key private_key.pem -out certificate.pem -days 365",
+      "uninstall": "pkg uninstall openssl"
+    }
+  }
+]

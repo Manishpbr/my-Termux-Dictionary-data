@@ -1,0 +1,1282 @@
+[
+  {
+    "name": "m4",
+    "version": "1.4.19-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Macro processing language.",
+    "homepage": "https://www.gnu.org/software/m4/",
+    "installation": "pkg install m4",
+    "usage": "Process macros in text files.",
+    "features": [
+      "Macro expansion",
+      "Text manipulation",
+      "Scripting capabilities"
+    ],
+    "gameplay": null,
+    "additional_resources": "GNU M4 Manual",
+    "community_and_support": {
+      "forums": "GNU mailing list",
+      "GitHub": "https://github.com/gnu-m4/gnu-m4"
+    },
+    "example_commands": {
+      "start_the_game": "m4 inputfile",
+      "uninstall_the_game": "pkg uninstall m4"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "macchina",
+    "version": "6.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Terminal-based system information tool.",
+    "homepage": "https://github.com/Macchina-CLI/macchina",
+    "installation": "pkg install macchina",
+    "usage": "Display system information in the terminal.",
+    "features": [
+      "Customizable output",
+      "Plugin support",
+      "Cross-platform compatibility"
+    ],
+    "gameplay": null,
+    "additional_resources": "Macchina Wiki",
+    "community_and_support": {
+      "forums": "GitHub Discussions",
+      "GitHub": "https://github.com/Macchina-CLI/macchina"
+    },
+    "example_commands": {
+      "start_the_game": "macchina",
+      "uninstall_the_game": "pkg uninstall macchina"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "magic-wormhole-rs",
+    "version": "0.7.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Securely transfer files between computers.",
+    "homepage": "https://github.com/warner/magic-wormhole",
+    "installation": "pkg install magic-wormhole-rs",
+    "usage": "Send and receive files securely.",
+    "features": [
+      "Encrypted transfers",
+      "Simple code-based pairing",
+      "Cross-platform"
+    ],
+    "gameplay": null,
+    "additional_resources": "Magic Wormhole Documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/warner/magic-wormhole"
+    },
+    "example_commands": {
+      "start_the_game": "wormhole send filename",
+      "uninstall_the_game": "pkg uninstall magic-wormhole-rs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mailsync",
+    "version": "5.2.7-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Synchronize IMAP email accounts.",
+    "homepage": "https://mailsync.com/",
+    "installation": "pkg install mailsync",
+    "usage": "Sync email across devices.",
+    "features": [
+      "IMAP support",
+      "Multi-account sync",
+      "Email backup"
+    ],
+    "gameplay": null,
+    "additional_resources": "Mailsync Documentation",
+    "community_and_support": {
+      "forums": "Mailsync Community",
+      "GitHub": "https://github.com/mailsync/mailsync"
+    },
+    "example_commands": {
+      "start_the_game": "mailsync start",
+      "uninstall_the_game": "pkg uninstall mailsync"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mailutils-static",
+    "version": "3.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Statically linked mail utilities.",
+    "homepage": "https://mailutils.org/",
+    "installation": "pkg install mailutils-static",
+    "usage": "Manage email from the command line.",
+    "features": [
+      "Static binaries",
+      "Send and receive email",
+      "Mail filtering"
+    ],
+    "gameplay": null,
+    "additional_resources": "Mailutils Documentation",
+    "community_and_support": {
+      "forums": "Mailutils Mailing List",
+      "GitHub": "https://github.com/mailutils/mailutils"
+    },
+    "example_commands": {
+      "start_the_game": "mailutils",
+      "uninstall_the_game": "pkg uninstall mailutils-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mailutils",
+    "version": "3.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Mail utilities for handling email.",
+    "homepage": "https://mailutils.org/",
+    "installation": "pkg install mailutils",
+    "usage": "Manage email from the command line.",
+    "features": [
+      "Send and receive email",
+      "Mail filtering",
+      "POP3/IMAP support"
+    ],
+    "gameplay": null,
+    "additional_resources": "Mailutils Documentation",
+    "community_and_support": {
+      "forums": "Mailutils Mailing List",
+      "GitHub": "https://github.com/mailutils/mailutils"
+    },
+    "example_commands": {
+      "start_the_game": "mailutils",
+      "uninstall_the_game": "pkg uninstall mailutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "make-guile",
+    "version": "4.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Make with Guile integration.",
+    "homepage": "https://www.gnu.org/software/make/",
+    "installation": "pkg install make-guile",
+    "usage": "Automate build processes with GNU Make.",
+    "features": [
+      "Guile scripting",
+      "Parallel execution",
+      "Dependency tracking"
+    ],
+    "gameplay": null,
+    "additional_resources": "GNU Make Manual",
+    "community_and_support": {
+      "forums": "GNU Make Mailing List",
+      "GitHub": "https://github.com/make-guile/make-guile"
+    },
+    "example_commands": {
+      "start_the_game": "make",
+      "uninstall_the_game": "pkg uninstall make-guile"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "make",
+    "version": "4.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Make utility to maintain groups of programs.",
+    "homepage": "https://www.gnu.org/software/make/",
+    "installation": "pkg install make",
+    "usage": "Automate build processes with GNU Make.",
+    "features": [
+      "Parallel execution",
+      "Dependency tracking",
+      "Automatic variable substitution"
+    ],
+    "gameplay": null,
+    "additional_resources": "GNU Make Manual",
+    "community_and_support": {
+      "forums": "GNU Make Mailing List",
+      "GitHub": "https://github.com/make/make"
+    },
+    "example_commands": {
+      "start_the_game": "make",
+      "uninstall_the_game": "pkg uninstall make"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "man",
+    "version": "1.14.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Man, the help manual reader.",
+    "homepage": "https://man7.org/linux/man-pages/",
+    "installation": "pkg install man",
+    "usage": "Read the help manuals for commands.",
+    "features": [
+      "Manual page viewer",
+      "Searchable index",
+      "Localization support"
+    ],
+    "gameplay": null,
+    "additional_resources": "Man Pages Documentation",
+    "community_and_support": {
+      "forums": "Linux Documentation Project",
+      "GitHub": "https://github.com/man-pages/man-pages"
+    },
+    "example_commands": {
+      "start_the_game": "man ls",
+      "uninstall_the_game": "pkg uninstall man"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mangal",
+    "version": "4.0.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Manga downloader and reader.",
+    "homepage": "https://github.com/hkalexling/Mangal",
+    "installation": "pkg install mangal",
+    "usage": "Download and read manga.",
+    "features": [
+      "Batch download",
+      "Integrated reader",
+      "Bookmark support"
+    ],
+    "gameplay": null,
+    "additional_resources": "Mangal Documentation",
+    "community_and_support": {
+      "forums": "Mangal Community",
+      "GitHub": "https://github.com/hkalexling/Mangal"
+    },
+    "example_commands": {
+      "start_the_game": "mangal",
+      "uninstall_the_game": "pkg uninstall mangal"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "manim",
+    "version": "0.18.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Animation engine for explanatory math videos.",
+    "homepage": "https://www.manim.community/",
+    "installation": "pkg install manim",
+    "usage": "Create animations for math explanations.",
+    "features": [
+      "3D rendering",
+      "Latex support",
+      "Customizable animations"
+    ],
+    "gameplay": null,
+    "additional_resources": "Manim Documentation",
+    "community_and_support": {
+      "forums": "Manim Community",
+      "GitHub": "https://github.com/ManimCommunity/manim"
+    },
+    "example_commands": {
+      "start_the_game": "manim example_scenes.py",
+      "uninstall_the_game": "pkg uninstall manim"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "manpages",
+    "version": "6.9.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Collection of manual pages for Linux.",
+    "homepage": "https://man7.org/linux/man-pages/",
+    "installation": "pkg install manpages",
+    "usage": "Access and read Linux manual pages.",
+    "features": [
+      "Comprehensive manual pages",
+      "Updated regularly",
+      "Covers various system aspects"
+    ],
+    "gameplay": null,
+    "additional_resources": "Linux Documentation Project",
+    "community_and_support": {
+      "forums": "Linux Documentation Project",
+      "GitHub": "https://github.com/man-pages/man-pages"
+    },
+    "example_commands": {
+      "start_the_game": "man manpages",
+      "uninstall_the_game": "pkg uninstall manpages"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mapserver",
+    "version": "8.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Platform for publishing spatial data and interactive mapping applications.",
+    "homepage": "https://mapserver.org/",
+    "installation": "pkg install mapserver",
+    "usage": "Create and manage web mapping applications.",
+    "features": [
+      "Support for various data formats",
+      "Dynamic map rendering",
+      "Extensive documentation"
+    ],
+    "gameplay": null,
+    "additional_resources": "MapServer Documentation",
+    "community_and_support": {
+      "forums": "MapServer Mailing List",
+      "GitHub": "https://github.com/mapserver/mapserver"
+    },
+    "example_commands": {
+      "start_the_game": "mapserver",
+      "uninstall_the_game": "pkg uninstall mapserver"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mariadb-static",
+    "version": "2:11.8.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Statically linked MariaDB database server.",
+    "homepage": "https://mariadb.org/",
+    "installation": "pkg install mariadb-static",
+    "usage": "Run a MariaDB database server.",
+    "features": [
+      "Statically linked binaries",
+      "High performance",
+      "Compatible with MySQL"
+    ],
+    "gameplay": null,
+    "additional_resources": "MariaDB Documentation",
+    "community_and_support": {
+      "forums": "MariaDB Community",
+      "GitHub": "https://github.com/MariaDB/server"
+    },
+    "example_commands": {
+      "start_the_game": "mariadb",
+      "uninstall_the_game": "pkg uninstall mariadb-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mariadb",
+    "version": "2:11.8.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "MariaDB database server.",
+    "homepage": "https://mariadb.org/",
+    "installation": "pkg install mariadb",
+    "usage": "Run a MariaDB database server.",
+    "features": [
+      "High performance",
+      "Compatible with MySQL",
+      "Open source"
+    ],
+    "gameplay": null,
+    "additional_resources": "MariaDB Documentation",
+    "community_and_support": {
+      "forums": "MariaDB Community",
+      "GitHub": "https://github.com/MariaDB/server"
+    },
+    "example_commands": {
+      "start_the_game": "mariadb",
+      "uninstall_the_game": "pkg uninstall mariadb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "marisa-static",
+    "version": "0.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Statically linked MARISA (Matching Algorithm with Recursively Implemented StorAge) library.",
+    "homepage": "https://github.com/s-yata/marisa-trie",
+    "installation": "pkg install marisa-static",
+    "usage": "Use MARISA for efficient string matching and retrieval.",
+    "features": [
+      "Statically linked binaries",
+      "Efficient string matching",
+      "Low memory usage"
+    ],
+    "gameplay": null,
+    "additional_resources": "MARISA Documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/s-yata/marisa-trie"
+    },
+    "example_commands": {
+      "start_the_game": "marisa",
+      "uninstall_the_game": "pkg uninstall marisa-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "marisa",
+    "version": "0.2.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "MARISA (Matching Algorithm with Recursively Implemented StorAge) library.",
+    "homepage": "https://github.com/s-yata/marisa-trie",
+    "installation": "pkg install marisa",
+    "usage": "Use MARISA for efficient string matching and retrieval.",
+    "features": [
+      "Efficient string matching",
+      "Low memory usage",
+      "Fast retrieval"
+    ],
+    "gameplay": null,
+    "additional_resources": "MARISA Documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/s-yata/marisa-trie"
+    },
+    "example_commands": {
+      "start_the_game": "marisa",
+      "uninstall_the_game": "pkg uninstall marisa"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "markdown-flashcards",
+    "version": "2.0.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Create flashcards from markdown files.",
+    "homepage": "https://github.com/markdown-flashcards/markdown-flashcards",
+    "installation": "pkg install markdown-flashcards",
+    "usage": "Generate and study flashcards from markdown files.",
+    "features": [
+      "Markdown support",
+      "Customizable flashcards",
+      "Study mode"
+    ],
+    "gameplay": null,
+    "additional_resources": "Markdown Flashcards Documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/markdown-flashcards/markdown-flashcards"
+    },
+    "example_commands": {
+      "start_the_game": "markdown-flashcards",
+      "uninstall_the_game": "pkg uninstall markdown-flashcards"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mathomatic",
+    "version": "16.0.5-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Portable Computer Algebra System (CAS).",
+    "homepage": "https://www.mathomatic.org/",
+    "installation": "pkg install mathomatic",
+    "usage": "Perform symbolic and numeric mathematics.",
+    "features": [
+      "Symbolic mathematics",
+      "Numeric calculations",
+      "Interactive mode"
+    ],
+    "gameplay": null,
+    "additional_resources": "Mathomatic Documentation",
+    "community_and_support": {
+      "forums": "Mathomatic Mailing List",
+      "GitHub": "https://github.com/mathomatic/mathomatic"
+    },
+    "example_commands": {
+      "start_the_game": "mathomatic",
+      "uninstall_the_game": "pkg uninstall mathomatic"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "matplotlib",
+    "version": "3.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Comprehensive library for creating static, animated, and interactive visualizations.",
+    "homepage": "https://matplotlib.org/",
+    "installation": "pkg install matplotlib",
+    "usage": "Create visualizations and plots.",
+    "features": [
+      "2D and 3D plotting",
+      "Customizable plots",
+      "Integration with Python"
+    ],
+    "gameplay": null,
+    "additional_resources": "Matplotlib Documentation",
+    "community_and_support": {
+      "forums": "Matplotlib Community",
+      "GitHub": "https://github.com/matplotlib/matplotlib"
+    },
+    "example_commands": {
+      "start_the_game": "python -c 'import matplotlib.pyplot as plt; plt.plot([1, 2, 3]); plt.show()'",
+      "uninstall_the_game": "pkg uninstall matplotlib"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "matterbridge",
+    "version": "1.26.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Bridge between different messaging platforms.",
+    "homepage": "https://github.com/42wim/matterbridge",
+    "installation": "pkg install matterbridge",
+    "usage": "Connect and bridge multiple messaging platforms.",
+    "features": [
+      "Multi-platform support",
+      "Customizable bridges",
+      "Secure communication"
+    ],
+    "gameplay": null,
+    "additional_resources": "Matterbridge Documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/42wim/matterbridge"
+    },
+    "example_commands": {
+      "start_the_game": "matterbridge",
+      "uninstall_the_game": "pkg uninstall matterbridge"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "matterircd",
+    "version": "0.28.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "IRC bridge for Mattermost.",
+    "homepage": "https://github.com/42wim/matterircd",
+    "installation": "pkg install matterircd",
+    "usage": "Bridge IRC and Mattermost for seamless communication.",
+    "features": [
+      "IRC and Mattermost integration",
+      "Customizable settings",
+      "Secure communication"
+    ],
+    "gameplay": null,
+    "additional_resources": "Matterircd Documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/42wim/matterircd"
+    },
+    "example_commands": {
+      "start_the_game": "matterircd",
+      "uninstall_the_game": "pkg uninstall matterircd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mautrix-whatsapp",
+    "version": "0.11.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Matrix bridge for WhatsApp.",
+    "homepage": "https://github.com/tulir/mautrix-whatsapp",
+    "installation": "pkg install mautrix-whatsapp",
+    "usage": "Bridge Matrix and WhatsApp for seamless communication.",
+    "features": [
+      "Matrix and WhatsApp integration",
+      "Customizable settings",
+      "Secure communication"
+    ],
+    "gameplay": null,
+    "additional_resources": "Mautrix WhatsApp Documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/tulir/mautrix-whatsapp"
+    },
+    "example_commands": {
+      "start_the_game": "mautrix-whatsapp",
+      "uninstall_the_game": "pkg uninstall mautrix-whatsapp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "maven",
+    "version": "3.9.9",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Build automation tool primarily used for Java projects.",
+    "homepage": "https://maven.apache.org/",
+    "installation": "pkg install maven",
+    "usage": "Build and manage Java projects.",
+    "features": [
+      "Dependency management",
+      "Project lifecycle management",
+      "Plugin architecture"
+    ],
+    "gameplay": null,
+    "additional_resources": "Maven Documentation",
+    "community_and_support": {
+      "forums": "Maven Mailing List",
+      "GitHub": "https://github.com/apache/maven"
+    },
+    "example_commands": {
+      "start_the_game": "mvn compile",
+      "uninstall_the_game": "pkg uninstall maven"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "maxcso",
+    "version": "1.13.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "CSO (compressed ISO) compressor for PSP.",
+    "homepage": "https://github.com/unknownbrackets/maxcso",
+    "installation": "pkg install maxcso",
+    "usage": "Compress ISO files for PSP.",
+    "features": [
+      "High compression ratio",
+      "Fast compression",
+      "Support for various formats"
+    ],
+    "gameplay": null,
+    "additional_resources": "Maxcso Documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/unknownbrackets/maxcso"
+    },
+    "example_commands": {
+      "start_the_game": "maxcso input.iso",
+      "uninstall_the_game": "pkg uninstall maxcso"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "maxima",
+    "version": "5.47.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Computer algebra system.",
+    "homepage": "https://maxima.sourceforge.io/",
+    "installation": "pkg install maxima",
+    "usage": "Perform symbolic and numeric mathematics.",
+    "features": [
+      "Symbolic mathematics",
+      "Numeric calculations",
+      "Interactive mode"
+    ],
+    "gameplay": null,
+    "additional_resources": "Maxima Documentation",
+    "community_and_support": {
+      "forums": "Maxima Mailing List",
+      "GitHub": "https://github.com/maxima-project/maxima"
+    },
+    "example_commands": {
+      "start_the_game": "maxima",
+      "uninstall_the_game": "pkg uninstall maxima"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mazter",
+    "version": "2022.08.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Maze generator and solver.",
+    "homepage": "https://github.com/mazter/mazter",
+    "installation": "pkg install mazter",
+    "usage": "Generate and solve mazes.",
+    "features": [
+      "Maze generation",
+      "Maze solving",
+      "Customizable settings"
+    ],
+    "gameplay": null,
+    "additional_resources": "Mazter Documentation",
+    "community_and_support": {
+      "forums": "GitHub Issues",
+      "GitHub": "https://github.com/mazter/mazter"
+    },
+    "example_commands": {
+      "start_the_game": "mazter",
+      "uninstall_the_game": "pkg uninstall mazter"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "mbedtls-static",
+    "version": "3.6.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mbedtls-static is a static library for Mbed TLS, a lightweight and portable cryptographic and SSL/TLS library.",
+    "homepage": "https://tls.mbed.org/",
+    "installation": "pkg install mbedtls-static",
+    "usage": "After installing mbedtls-static, you can link it with your applications for cryptographic functionalities.",
+    "features": [
+      "Lightweight: Designed to be lightweight and portable.",
+      "Static Library: Can be statically linked with applications.",
+      "Cryptographic Support: Provides cryptographic algorithms and SSL/TLS protocols."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cryptography and SSL/TLS for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lmbedtls",
+      "uninstall": "pkg uninstall mbedtls-static"
+    }
+  },
+  {
+    "name": "mbedtls",
+    "version": "3.6.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mbedtls is a lightweight and portable cryptographic and SSL/TLS library.",
+    "homepage": "https://tls.mbed.org/",
+    "installation": "pkg install mbedtls",
+    "usage": "After installing mbedtls, you can use it in your applications for cryptographic functionalities.",
+    "features": [
+      "Lightweight: Designed to be lightweight and portable.",
+      "Cryptographic Support: Provides cryptographic algorithms and SSL/TLS protocols.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cryptography and SSL/TLS for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "gcc -o myapp myapp.c -lmbedtls",
+      "uninstall": "pkg uninstall mbedtls"
+    }
+  },
+  {
+    "name": "mc",
+    "version": "4.8.33",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mc (Midnight Commander) is a visual file manager, a text-mode application that provides a user-friendly interface for managing files and directories.",
+    "homepage": "https://midnight-commander.org/",
+    "installation": "pkg install mc",
+    "usage": "After installing mc, you can start the file manager by simply typing: mc",
+    "features": [
+      "Visual File Manager: Provides a user-friendly interface for managing files and directories.",
+      "Text-Mode: Runs in the terminal, suitable for environments without a graphical user interface.",
+      "Built-in Editor: Includes a built-in text editor for editing files."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_file_manager": "mc",
+      "uninstall": "pkg uninstall mc"
+    }
+  },
+  {
+    "name": "mcfly",
+    "version": "0.9.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mcfly is a replacement for your shell history. It provides context-aware search and suggestions for your command history.",
+    "homepage": "https://github.com/cantino/mcfly",
+    "installation": "pkg install mcfly",
+    "usage": "After installing mcfly, you can start using it by typing: mcfly",
+    "features": [
+      "Context-Aware: Provides context-aware search and suggestions for your command history.",
+      "Shell Integration: Integrates seamlessly with your shell.",
+      "Enhanced History: Improves the usability of your shell history with better search and suggestions."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_mcfly": "mcfly",
+      "uninstall": "pkg uninstall mcfly"
+    }
+  },
+  {
+    "name": "mdbook-epub",
+    "version": "0.4.37",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-epub is a backend for mdBook that outputs EPUB files.",
+    "homepage": "https://github.com/Michael-F-Bryan/mdbook-epub",
+    "installation": "pkg install mdbook-epub",
+    "usage": "After installing mdbook-epub, you can use it to generate EPUB files from your mdBook projects.",
+    "features": [
+      "EPUB Output: Generates EPUB files from mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the generated EPUB files."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_epub": "mdbook build --renderer epub",
+      "uninstall": "pkg uninstall mdbook-epub"
+    }
+  },
+  {
+    "name": "mdbook-graphviz",
+    "version": "0.2.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-graphviz is a preprocessor for mdBook that allows you to include Graphviz graphs in your books.",
+    "homepage": "https://github.com/badboy/mdbook-graphviz",
+    "installation": "pkg install mdbook-graphviz",
+    "usage": "After installing mdbook-graphviz, you can use it to include Graphviz graphs in your mdBook projects.",
+    "features": [
+      "Graphviz Integration: Allows you to include Graphviz graphs in your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the included graphs."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook and Graphviz for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_graph": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-graphviz"
+    }
+  },
+  {
+    "name": "mdbook-katex",
+    "version": "0.9.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-katex is a preprocessor for mdBook that allows you to include mathematical notation using KaTeX.",
+    "homepage": "https://github.com/lzanini/mdbook-katex",
+    "installation": "pkg install mdbook-katex",
+    "usage": "After installing mdbook-katex, you can use it to include mathematical notation in your mdBook projects.",
+    "features": [
+      "KaTeX Integration: Allows you to include mathematical notation using KaTeX.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the included notation."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook and mathematical notation for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_notation": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-katex"
+    }
+  },
+  {
+    "name": "mdbook-linkcheck",
+    "version": "0.7.7-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-linkcheck is a preprocessor for mdBook that checks for broken links in your books.",
+    "homepage": "https://github.com/Michael-F-Bryan/mdbook-linkcheck",
+    "installation": "pkg install mdbook-linkcheck",
+    "usage": "After installing mdbook-linkcheck, you can use it to check for broken links in your mdBook projects.",
+    "features": [
+      "Link Checking: Checks for broken links in your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for link checking."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "check_links": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-linkcheck"
+    }
+  },
+  {
+    "name": "mdbook-mermaid",
+    "version": "0.14.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-mermaid is a preprocessor for mdBook that allows you to include Mermaid diagrams in your books.",
+    "homepage": "https://github.com/badboy/mdbook-mermaid",
+    "installation": "pkg install mdbook-mermaid",
+    "usage": "After installing mdbook-mermaid, you can use it to include Mermaid diagrams in your mdBook projects.",
+    "features": [
+      "Mermaid Integration: Allows you to include Mermaid diagrams in your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the included diagrams."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook and diagramming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_diagram": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-mermaid"
+    }
+  },
+  {
+    "name": "mdbook-open-on-gh",
+    "version": "2.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-open-on-gh is a preprocessor for mdBook that adds 'Open on GitHub' links to your books.",
+    "homepage": "https://github.com/afnanenayet/mdbook-open-on-gh",
+    "installation": "pkg install mdbook-open-on-gh",
+    "usage": "After installing mdbook-open-on-gh, you can use it to add 'Open on GitHub' links to your mdBook projects.",
+    "features": [
+      "GitHub Integration: Adds 'Open on GitHub' links to your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the added links."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook and GitHub for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_links": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-open-on-gh"
+    }
+  },
+  {
+    "name": "mdbook-pikchr",
+    "version": "0.1.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-pikchr is a preprocessor for mdBook that allows you to include Pikchr diagrams in your books.",
+    "homepage": "https://github.com/lukaspustina/mdbook-pikchr",
+    "installation": "pkg install mdbook-pikchr",
+    "usage": "After installing mdbook-pikchr, you can use it to include Pikchr diagrams in your mdBook projects.",
+    "features": [
+      "Pikchr Integration: Allows you to include Pikchr diagrams in your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the included diagrams."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook and diagramming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_diagram": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-pikchr"
+    }
+  },
+  {
+    "name": "mdbook-plantuml",
+    "version": "0.8.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-plantuml is a preprocessor for mdBook that allows you to include PlantUML diagrams in your books.",
+    "homepage": "https://github.com/akefoth/mdbook-plantuml",
+    "installation": "pkg install mdbook-plantuml",
+    "usage": "After installing mdbook-plantuml, you can use it to include PlantUML diagrams in your mdBook projects.",
+    "features": [
+      "PlantUML Integration: Allows you to include PlantUML diagrams in your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the included diagrams."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook and diagramming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_diagram": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-plantuml"
+    }
+  },
+  {
+    "name": "mdbook-presentation-preprocessor",
+    "version": "0.3.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-presentation-preprocessor is a preprocessor for mdBook that allows you to create presentation slides from your books.",
+    "homepage": "https://github.com/badboy/mdbook-presentation-preprocessor",
+    "installation": "pkg install mdbook-presentation-preprocessor",
+    "usage": "After installing mdbook-presentation-preprocessor, you can use it to generate presentation slides from your mdBook projects.",
+    "features": [
+      "Presentation Slides: Generate presentation slides from your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the generated slides."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook and presentations for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_slides": "mdbook build --renderer presentation",
+      "uninstall": "pkg uninstall mdbook-presentation-preprocessor"
+    }
+  },
+  {
+    "name": "mdbook-svgbob2",
+    "version": "0.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-svgbob2 is a preprocessor for mdBook that allows you to include Svgbob diagrams in your books.",
+    "homepage": "https://github.com/ivanceras/mdbook-svgbob2",
+    "installation": "pkg install mdbook-svgbob2",
+    "usage": "After installing mdbook-svgbob2, you can use it to include Svgbob diagrams in your mdBook projects.",
+    "features": [
+      "Svgbob Integration: Allows you to include Svgbob diagrams in your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the included diagrams."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook and diagramming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_diagram": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-svgbob2"
+    }
+  },
+  {
+    "name": "mdbook-svgbob",
+    "version": "0.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-svgbob is a preprocessor for mdBook that allows you to include Svgbob diagrams in your books.",
+    "homepage": "https://github.com/ivanceras/mdbook-svgbob",
+    "installation": "pkg install mdbook-svgbob",
+    "usage": "After installing mdbook-svgbob, you can use it to include Svgbob diagrams in your mdBook projects.",
+    "features": [
+      "Svgbob Integration: Allows you to include Svgbob diagrams in your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the included diagrams."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook and diagramming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_diagram": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-svgbob"
+    }
+  },
+  {
+    "name": "mdbook-tera",
+    "version": "0.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-tera is a preprocessor for mdBook that allows you to use Tera templates in your books.",
+    "homepage": "https://github.com/azerupi/mdBook",
+    "installation": "pkg install mdbook-tera",
+    "usage": "After installing mdbook-tera, you can use it to include Tera templates in your mdBook projects.",
+    "features": [
+      "Tera Integration: Allows you to use Tera templates in your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the included templates."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook and templating for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_template": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-tera"
+    }
+  },
+  {
+    "name": "mdbook-toc",
+    "version": "0.14.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbook-toc is a preprocessor for mdBook that generates a table of contents for your books.",
+    "homepage": "https://github.com/badboy/mdbook-toc",
+    "installation": "pkg install mdbook-toc",
+    "usage": "After installing mdbook-toc, you can use it to generate a table of contents for your mdBook projects.",
+    "features": [
+      "Table of Contents: Generates a table of contents for your mdBook projects.",
+      "Easy Integration: Integrates seamlessly with mdBook.",
+      "Customizable: Supports various customization options for the generated table of contents."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_toc": "mdbook build",
+      "uninstall": "pkg uninstall mdbook-toc"
+    }
+  },
+  {
+    "name": "mdbook",
+    "version": "0.4.43",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdBook is a command line tool and Rust crate to create books using Markdown files.",
+    "homepage": "https://github.com/rust-lang/mdBook",
+    "installation": "pkg install mdbook",
+    "usage": "After installing mdbook, you can create and build books using Markdown files.",
+    "features": [
+      "Markdown Support: Create books using Markdown files.",
+      "Command Line Tool: Use the command line to create and build books.",
+      "Customizable: Supports various customization options for the generated books."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to mdBook for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_book": "mdbook init mybook",
+      "build_book": "mdbook build",
+      "serve_book": "mdbook serve",
+      "uninstall": "pkg uninstall mdbook"
+    }
+  },
+  {
+    "name": "mdbtools-static",
+    "version": "1.0.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbtools-static is a suite of tools for reading Microsoft Access database (MDB) files, provided as a static library.",
+    "homepage": "https://github.com/mdbtools/mdbtools",
+    "installation": "pkg install mdbtools-static",
+    "usage": "After installing mdbtools-static, you can link it with your applications to read MDB files.",
+    "features": [
+      "MDB Support: Read Microsoft Access database (MDB) files.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to database tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lmdbtools",
+      "uninstall": "pkg uninstall mdbtools-static"
+    }
+  },
+  {
+    "name": "mdbtools",
+    "version": "1.0.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdbtools is a suite of tools for reading Microsoft Access database (MDB) files.",
+    "homepage": "https://github.com/mdbtools/mdbtools",
+    "installation": "pkg install mdbtools",
+    "usage": "After installing mdbtools, you can use the tools to read MDB files.",
+    "features": [
+      "MDB Support: Read Microsoft Access database (MDB) files.",
+      "Command Line Tools: Use command line tools to read MDB files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to database tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "read_mdb": "mdb-tables mydatabase.mdb",
+      "uninstall": "pkg uninstall mdbtools"
+    }
+  },
+  {
+    "name": "mdns-scan",
+    "version": "0.5-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdns-scan is a tool for scanning mDNS/DNS-SD services available on the local network.",
+    "homepage": "https://github.com/alteholz/mdns-scan",
+    "installation": "pkg install mdns-scan",
+    "usage": "After installing mdns-scan, you can use it to scan for mDNS/DNS-SD services.",
+    "features": [
+      "mDNS/DNS-SD Scanning: Scan for mDNS/DNS-SD services on the local network.",
+      "Command Line Tool: Use the command line to perform scans.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network scanning for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "scan_services": "mdns-scan",
+      "uninstall": "pkg uninstall mdns-scan"
+    }
+  },
+  {
+    "name": "mdp",
+    "version": "1.0.15-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mdp is a command line based presentation tool that parses Markdown files and renders them as slides.",
+    "homepage": "https://github.com/visit1985/mdp",
+    "installation": "pkg install mdp",
+    "usage": "After installing mdp, you can create and display presentations using Markdown files.",
+    "features": [
+      "Markdown Presentations: Create presentations using Markdown files.",
+      "Command Line Tool: Use the command line to create and display presentations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to presentation tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_presentation": "mdp mypresentation.md",
+      "uninstall": "pkg uninstall mdp"
+    }
+  },
+  {
+    "name": "media-types",
+    "version": "10.1.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "media-types is a library that provides a comprehensive list of media types (MIME types) for various file formats.",
+    "homepage": "https://github.com/jshttp/media-types",
+    "installation": "pkg install media-types",
+    "usage": "After installing media-types, you can use it to determine the media type of files.",
+    "features": [
+      "Comprehensive List: Provides a comprehensive list of media types for various file formats.",
+      "Library: Can be used in applications to determine media types.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file formats and media types for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "npm install media-types",
+      "uninstall": "pkg uninstall media-types"
+    }
+  },
+  {
+    "name": "mediainfo",
+    "version": "24.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mediainfo is a command line tool that provides detailed technical and tag information about media files.",
+    "homepage": "https://mediaarea.net/en/MediaInfo",
+    "installation": "pkg install mediainfo",
+    "usage": "After installing mediainfo, you can use it to get detailed information about media files.",
+    "features": [
+      "Technical Information: Provides detailed technical information about media files.",
+      "Tag Information: Provides detailed tag information about media files.",
+      "Command Line Tool: Use the command line to get information about media files."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to media file analysis for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "get_info": "mediainfo mymediafile.mp4",
+      "uninstall": "pkg uninstall mediainfo"
+    }
+  }
+]

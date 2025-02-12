@@ -1,0 +1,1378 @@
+[
+  {
+    "name": "googletest",
+    "version": "1.15.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GoogleTest is Google's C++ test framework for writing and running C++ tests.",
+    "homepage": "https://github.com/google/googletest",
+    "installation": "pkg install googletest",
+    "usage": "After installing googletest, you can use it to write and run unit tests for your C++ code.",
+    "features": [
+      "Test Framework: Provides a comprehensive testing framework for C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for writing and running tests.",
+      "Integration: Can be integrated into C++ development workflows and CI/CD pipelines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GoogleTest documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ testing and GoogleTest for support and discussions.",
+      "GitHub": "Visit the GoogleTest GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "include_googletest": "#include <gtest/gtest.h>",
+      "uninstall": "pkg uninstall googletest"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "goose",
+    "version": "3.24.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Goose is a load testing tool for web applications, written in Go.",
+    "homepage": "https://github.com/benbjohnson/goose",
+    "installation": "pkg install goose",
+    "usage": "After installing goose, you can use it to perform load testing on your web applications.",
+    "features": [
+      "Load Testing: Provides tools for load testing web applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for load testing tasks.",
+      "Integration: Can be integrated into development and deployment workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Goose documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to load testing and Goose for support and discussions.",
+      "GitHub": "Visit the Goose GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_load_test": "goose <options>",
+      "uninstall": "pkg uninstall goose"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gopass",
+    "version": "1.15.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gopass is a password manager for the command line.",
+    "homepage": "https://github.com/gopasspw/gopass",
+    "installation": "pkg install gopass",
+    "usage": "After installing gopass, you can use it to securely store and manage your passwords.",
+    "features": [
+      "Password Management: Provides tools for securely storing and managing passwords.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for managing passwords.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gopass documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to password management and Gopass for support and discussions.",
+      "GitHub": "Visit the Gopass GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "store_password": "gopass insert <name>",
+      "retrieve_password": "gopass show <name>",
+      "uninstall": "pkg uninstall gopass"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gopher",
+    "version": "3.0.17.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gopher is a command-line tool for interacting with Gopher protocol servers.",
+    "homepage": "https://github.com/gopher/gopher",
+    "installation": "pkg install gopher",
+    "usage": "After installing gopher, you can use it to browse and interact with Gopher protocol servers.",
+    "features": [
+      "Gopher Protocol: Provides tools for interacting with Gopher protocol servers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for Gopher tasks.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gopher documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to the Gopher protocol and Gopher for support and discussions.",
+      "GitHub": "Visit the Gopher GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "browse_gopher": "gopher <url>",
+      "uninstall": "pkg uninstall gopher"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gopls",
+    "version": "0.17.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gopls (Go Language Server) provides IDE features to any LSP (Language Server Protocol) compatible editor.",
+    "homepage": "https://github.com/golang/tools/tree/master/gopls",
+    "installation": "pkg install gopls",
+    "usage": "After installing gopls, you can use it to enable IDE features for Go development in your editor.",
+    "features": [
+      "Language Server: Provides IDE features for Go development.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple setup for enabling IDE features in editors.",
+      "Integration: Can be integrated into LSP-compatible editors.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gopls documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Go development and Gopls for support and discussions.",
+      "GitHub": "Visit the Gopls GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gopls": "gopls",
+      "uninstall": "pkg uninstall gopls"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gotop",
+    "version": "4.2.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gotop is a terminal-based graphical activity monitor inspired by gtop and vtop.",
+    "homepage": "https://github.com/xxxserxxx/gotop",
+    "installation": "pkg install gotop",
+    "usage": "After installing gotop, you can use it to monitor system activity from the terminal.",
+    "features": [
+      "Activity Monitor: Provides a graphical activity monitor for the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for monitoring system activity.",
+      "Integration: Can be integrated into system monitoring workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gotop documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system monitoring and Gotop for support and discussions.",
+      "GitHub": "Visit the Gotop GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gotop": "gotop",
+      "uninstall": "pkg uninstall gotop"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gotty",
+    "version": "1.5.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gotty is a simple command-line tool that turns your CLI tools into web applications.",
+    "homepage": "https://github.com/yudai/gotty",
+    "installation": "pkg install gotty",
+    "usage": "After installing gotty, you can use it to share your terminal as a web application.",
+    "features": [
+      "Web Terminal: Provides tools for sharing your terminal as a web application.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for sharing terminals.",
+      "Integration: Can be integrated into development and collaboration workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gotty documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal tools and Gotty for support and discussions.",
+      "GitHub": "Visit the Gotty GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "share_terminal": "gotty <command>",
+      "uninstall": "pkg uninstall gotty"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gpac-static",
+    "version": "2.4.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GPAC is an open-source multimedia framework for packaging, streaming, and playing rich media content. This is the statically linked version.",
+    "homepage": "https://gpac.io/",
+    "installation": "pkg install gpac-static",
+    "usage": "After installing gpac-static, you can use it to package, stream, and play multimedia content.",
+    "features": [
+      "Multimedia Framework: Provides tools for packaging, streaming, and playing rich media content.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for multimedia tasks.",
+      "Integration: Can be integrated into multimedia workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GPAC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to multimedia and GPAC for support and discussions.",
+      "GitHub": "Visit the GPAC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "package_media": "MP4Box -add <media_file> <output_file>",
+      "uninstall": "pkg uninstall gpac-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gpac",
+    "version": "2.4.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GPAC is an open-source multimedia framework for packaging, streaming, and playing rich media content.",
+    "homepage": "https://gpac.io/",
+    "installation": "pkg install gpac",
+    "usage": "After installing gpac, you can use it to package, stream, and play multimedia content.",
+    "features": [
+      "Multimedia Framework: Provides tools for packaging, streaming, and playing rich media content.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for multimedia tasks.",
+      "Integration: Can be integrated into multimedia workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GPAC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to multimedia and GPAC for support and discussions.",
+      "GitHub": "Visit the GPAC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "package_media": "MP4Box -add <media_file> <output_file>",
+      "uninstall": "pkg uninstall gpac"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gperf",
+    "version": "3.1-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gperf is a perfect hash function generator written in C++.",
+    "homepage": "https://www.gnu.org/software/gperf/",
+    "installation": "pkg install gperf",
+    "usage": "After installing gperf, you can use it to generate perfect hash functions for your applications.",
+    "features": [
+      "Hash Function Generator: Provides tools for generating perfect hash functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for generating hash functions.",
+      "Integration: Can be integrated into development workflows requiring hash functions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gperf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to hash functions and Gperf for support and discussions.",
+      "GitHub": "Visit the Gperf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_hash_function": "gperf <input_file> -o <output_file>",
+      "uninstall": "pkg uninstall gperf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gpgme-static",
+    "version": "1.24.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GPGME (GnuPG Made Easy) is a C language library that allows to add support for cryptography to a program. This is the statically linked version.",
+    "homepage": "https://www.gnupg.org/software/gpgme/index.html",
+    "installation": "pkg install gpgme-static",
+    "usage": "After installing gpgme-static, you can use it to add cryptographic support to your applications.",
+    "features": [
+      "Cryptography Library: Provides tools for adding cryptographic support to applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into development workflows requiring cryptographic support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GPGME documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and GPGME for support and discussions.",
+      "GitHub": "Visit the GPGME GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encrypt_data": "Not applicable",
+      "uninstall": "pkg uninstall gpgme-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gpgme",
+    "version": "1.24.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GPGME (GnuPG Made Easy) is a C language library that allows to add support for cryptography to a program.",
+    "homepage": "https://www.gnupg.org/software/gpgme/index.html",
+    "installation": "pkg install gpgme",
+    "usage": "After installing gpgme, you can use it to add cryptographic support to your applications.",
+    "features": [
+      "Cryptography Library: Provides tools for adding cryptographic support to applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into development workflows requiring cryptographic support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GPGME documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and GPGME for support and discussions.",
+      "GitHub": "Visit the GPGME GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encrypt_data": "Not applicable",
+      "uninstall": "pkg uninstall gpgme"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gpgmepp-static",
+    "version": "1.24.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GPGME++ is a C++ wrapper for GPGME (GnuPG Made Easy). This is the statically linked version.",
+    "homepage": "https://www.gnupg.org/software/gpgmepp/index.html",
+    "installation": "pkg install gpgmepp-static",
+    "usage": "After installing gpgmepp-static, you can use it to add cryptographic support to your C++ applications.",
+    "features": [
+      "Cryptography Library: Provides tools for adding cryptographic support to C++ applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into C++ development workflows requiring cryptographic support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GPGME++ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and GPGME++ for support and discussions.",
+      "GitHub": "Visit the GPGME++ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encrypt_data": "Not applicable",
+      "uninstall": "pkg uninstall gpgmepp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gpgmepp",
+    "version": "1.24.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GPGME++ is a C++ wrapper for GPGME (GnuPG Made Easy).",
+    "homepage": "https://www.gnupg.org/software/gpgmepp/index.html",
+    "installation": "pkg install gpgmepp",
+    "usage": "After installing gpgmepp, you can use it to add cryptographic support to your C++ applications.",
+    "features": [
+      "Cryptography Library: Provides tools for adding cryptographic support to C++ applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into C++ development workflows requiring cryptographic support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GPGME++ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and GPGME++ for support and discussions.",
+      "GitHub": "Visit the GPGME++ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encrypt_data": "Not applicable",
+      "uninstall": "pkg uninstall gpgmepp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gpgv",
+    "version": "2.4.5-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GPGv is a signature verification tool for OpenPGP.",
+    "homepage": "https://www.gnupg.org/",
+    "installation": "pkg install gpgv",
+    "usage": "After installing gpgv, you can use it to verify OpenPGP signatures.",
+    "features": [
+      "Signature Verification: Provides tools for verifying OpenPGP signatures.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for signature verification.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GPGv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and GPGv for support and discussions.",
+      "GitHub": "Visit the GPGv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "verify_signature": "gpgv <signature_file> <signed_file>",
+      "uninstall": "pkg uninstall gpgv"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gping",
+    "version": "1.19.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gping is a ping tool with a graphical interface, showing real-time ping statistics.",
+    "homepage": "https://github.com/orf/gping",
+    "installation": "pkg install gping",
+    "usage": "After installing gping, you can use it to visually monitor ping statistics in real-time.",
+    "features": [
+      "Ping Tool: Provides tools for monitoring ping statistics.",
+      "Graphical Interface: Offers a graphical interface for visualizing ping data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for monitoring tasks.",
+      "Integration: Can be integrated into network monitoring workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gping documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network monitoring and Gping for support and discussions.",
+      "GitHub": "Visit the Gping GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "monitor_ping": "gping <host>",
+      "uninstall": "pkg uninstall gping"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gpsbabel",
+    "version": "1.4.4-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gpsbabel converts GPS waypoint, track, and route data from one format to another.",
+    "homepage": "https://www.gpsbabel.org/",
+    "installation": "pkg install gpsbabel",
+    "usage": "After installing gpsbabel, you can use it to convert GPS data between different formats.",
+    "features": [
+      "GPS Data Conversion: Provides tools for converting GPS waypoint, track, and route data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for conversion tasks.",
+      "Integration: Can be integrated into GIS and mapping workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gpsbabel documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GPS data and Gpsbabel for support and discussions.",
+      "GitHub": "Visit the Gpsbabel GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "convert_gps_data": "gpsbabel -i <input_format> -f <input_file> -o <output_format> -F <output_file>",
+      "uninstall": "pkg uninstall gpsbabel"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gradle",
+    "version": "1:8.12.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Gradle is a build automation tool that supports multi-language development.",
+    "homepage": "https://gradle.org/",
+    "installation": "pkg install gradle",
+    "usage": "After installing gradle, you can use it to automate the build process for your projects.",
+    "features": [
+      "Build Automation: Provides tools for automating the build process.",
+      "Multi-Language Support: Supports building projects in multiple programming languages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for build tasks.",
+      "Integration: Can be integrated into development and CI/CD workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gradle documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to build automation and Gradle for support and discussions.",
+      "GitHub": "Visit the Gradle GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "build_project": "gradle build",
+      "uninstall": "pkg uninstall gradle"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "grafana",
+    "version": "1:11.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Grafana is an open-source platform for monitoring and observability.",
+    "homepage": "https://grafana.com/",
+    "installation": "pkg install grafana",
+    "usage": "After installing grafana, you can use it to visualize and analyze data from various sources.",
+    "features": [
+      "Monitoring and Observability: Provides tools for monitoring and observability.",
+      "Visualization: Offers various visualization options for data analysis.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a web-based interface for monitoring tasks.",
+      "Integration: Can be integrated into monitoring and observability workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Grafana documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to monitoring and Grafana for support and discussions.",
+      "GitHub": "Visit the Grafana GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_grafana": "grafana-server",
+      "uninstall": "pkg uninstall grafana"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "graphene",
+    "version": "1.10.8-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Graphene is a library to create and manipulate 3D transformations and projections.",
+    "homepage": "https://ebassi.github.io/graphene/",
+    "installation": "pkg install graphene",
+    "usage": "After installing graphene, you can use it to create and manipulate 3D transformations and projections in your applications.",
+    "features": [
+      "3D Transformations: Provides tools for creating and manipulating 3D transformations.",
+      "Projections: Supports creating and manipulating 3D projections.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for 3D tasks.",
+      "Integration: Can be integrated into graphics and game development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Graphene documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to 3D graphics and Graphene for support and discussions.",
+      "GitHub": "Visit the Graphene GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_transformation": "Not applicable",
+      "uninstall": "pkg uninstall graphene"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "graphicsmagick-static",
+    "version": "1.3.45-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GraphicsMagick is the swiss army knife of image processing. This is the statically linked version.",
+    "homepage": "http://www.graphicsmagick.org/",
+    "installation": "pkg install graphicsmagick-static",
+    "usage": "After installing graphicsmagick-static, you can use it to manipulate images with a wide range of operations.",
+    "features": [
+      "Image Processing: Provides tools for manipulating images, including resizing, cropping, and format conversion.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for image processing tasks.",
+      "Integration: Can be integrated into scripts and automation workflows for image processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GraphicsMagick documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and GraphicsMagick for support and discussions.",
+      "GitHub": "Visit the GraphicsMagick GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "resize_image": "gm convert input.jpg -resize 800x600 output.jpg",
+      "uninstall": "pkg uninstall graphicsmagick-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "graphicsmagick",
+    "version": "1.3.45-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GraphicsMagick is the swiss army knife of image processing.",
+    "homepage": "http://www.graphicsmagick.org/",
+    "installation": "pkg install graphicsmagick",
+    "usage": "After installing graphicsmagick, you can use it to manipulate images with a wide range of operations.",
+    "features": [
+      "Image Processing: Provides tools for manipulating images, including resizing, cropping, and format conversion.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for image processing tasks.",
+      "Integration: Can be integrated into scripts and automation workflows for image processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GraphicsMagick documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and GraphicsMagick for support and discussions.",
+      "GitHub": "Visit the GraphicsMagick GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "resize_image": "gm convert input.jpg -resize 800x600 output.jpg",
+      "uninstall": "pkg uninstall graphicsmagick"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "graphviz-static",
+    "version": "12.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Graphviz is an open source graph visualization software. This is the statically linked version.",
+    "homepage": "https://graphviz.org/",
+    "installation": "pkg install graphviz-static",
+    "usage": "After installing graphviz-static, you can use it to visualize structured information as diagrams of abstract graphs and networks.",
+    "features": [
+      "Graph Visualization: Provides tools for visualizing structured information as diagrams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for graph visualization tasks.",
+      "Integration: Can be integrated into development workflows for visualizing data structures.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Graphviz documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to graph visualization and Graphviz for support and discussions.",
+      "GitHub": "Visit the Graphviz GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "visualize_graph": "dot -Tpng input.dot -o output.png",
+      "uninstall": "pkg uninstall graphviz-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "graphviz",
+    "version": "12.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Graphviz is an open source graph visualization software.",
+    "homepage": "https://graphviz.org/",
+    "installation": "pkg install graphviz",
+    "usage": "After installing graphviz, you can use it to visualize structured information as diagrams of abstract graphs and networks.",
+    "features": [
+      "Graph Visualization: Provides tools for visualizing structured information as diagrams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for graph visualization tasks.",
+      "Integration: Can be integrated into development workflows for visualizing data structures.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Graphviz documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to graph visualization and Graphviz for support and discussions.",
+      "GitHub": "Visit the Graphviz GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "visualize_graph": "dot -Tpng input.dot -o output.png",
+      "uninstall": "pkg uninstall graphviz"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "greed",
+    "version": "4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Greed is a game of skill and logic where you eat as many dots as possible while avoiding obstacles.",
+    "homepage": "https://www.catb.org/~esr/greed/",
+    "installation": "pkg install greed",
+    "usage": "After installing greed, you can use it to play the game and test your skills.",
+    "features": [
+      "Skill Game: Provides an entertaining game of skill and logic.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple interface for playing the game.",
+      "Integration: Can be integrated into gaming environments and arcade setups.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Greed documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to arcade games and Greed for support and discussions.",
+      "GitHub": "Visit the Greed GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_game": "greed",
+      "uninstall": "pkg uninstall greed"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "grep",
+    "version": "3.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Grep is a command-line utility for searching plain-text data for lines that match a regular expression.",
+    "homepage": "https://www.gnu.org/software/grep/",
+    "installation": "pkg install grep",
+    "usage": "After installing grep, you can use it to search for patterns in text files.",
+    "features": [
+      "Text Search: Provides tools for searching plain-text data for patterns.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for text search tasks.",
+      "Integration: Can be integrated into scripts and automation workflows for text processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Grep documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and Grep for support and discussions.",
+      "GitHub": "Visit the Grep GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "search_pattern": "grep 'pattern' file.txt",
+      "uninstall": "pkg uninstall grep"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "grex",
+    "version": "1.4.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Grex is a command-line tool and library for generating regular expressions from user-provided test cases.",
+    "homepage": "https://github.com/pemistahl/grex",
+    "installation": "pkg install grex",
+    "usage": "After installing grex, you can use it to generate regular expressions based on test cases.",
+    "features": [
+      "Regex Generation: Provides tools for generating regular expressions from test cases.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for regex generation tasks.",
+      "Integration: Can be integrated into development workflows for regex generation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Grex documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to regular expressions and Grex for support and discussions.",
+      "GitHub": "Visit the Grex GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_regex": "grex 'test case 1' 'test case 2'",
+      "uninstall": "pkg uninstall grex"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "groff",
+    "version": "1.23.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Groff (GNU troff) is a typesetting system that creates formatted output from plain text input files.",
+    "homepage": "https://www.gnu.org/software/groff/",
+    "installation": "pkg install groff",
+    "usage": "After installing groff, you can use it to format text files for printing or display.",
+    "features": [
+      "Typesetting System: Provides tools for creating formatted output from plain text input files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for typesetting tasks.",
+      "Integration: Can be integrated into document processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Groff documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to typesetting and Groff for support and discussions.",
+      "GitHub": "Visit the Groff GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "format_text": "groff -Tpdf input.txt > output.pdf",
+      "uninstall": "pkg uninstall groff"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gron",
+    "version": "0.7.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gron transforms JSON into discrete assignments to make it easier to grep for specific elements.",
+    "homepage": "https://github.com/tomnomnom/gron",
+    "installation": "pkg install gron",
+    "usage": "After installing gron, you can use it to transform JSON data for easier searching and processing.",
+    "features": [
+      "JSON Transformation: Provides tools for transforming JSON into discrete assignments.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for JSON transformation tasks.",
+      "Integration: Can be integrated into scripts and automation workflows for JSON processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gron documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON processing and Gron for support and discussions.",
+      "GitHub": "Visit the Gron GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "transform_json": "gron input.json > output.txt",
+      "uninstall": "pkg uninstall gron"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "groonga",
+    "version": "14.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Groonga is a fast and accurate full-text search engine and column store.",
+    "homepage": "https://groonga.org/",
+    "installation": "pkg install groonga",
+    "usage": "After installing groonga, you can use it to build and query full-text search indexes.",
+    "features": [
+      "Full-Text Search: Provides tools for building and querying full-text search indexes.",
+      "Column Store: Supports storing data in a columnar format for efficient querying.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for full-text search tasks.",
+      "Integration: Can be integrated into applications requiring full-text search capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Groonga documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to search engines and Groonga for support and discussions.",
+      "GitHub": "Visit the Groonga GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_index": "groonga -n mydb.db",
+      "uninstall": "pkg uninstall groonga"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "groovy",
+    "version": "4.0.16-3",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity.",
+    "homepage": "https://groovy-lang.org/",
+    "installation": "pkg install groovy",
+    "usage": "After installing groovy, you can use it to write and run Groovy scripts and applications.",
+    "features": [
+      "Dynamic Language: Provides a dynamic language for the Java platform.",
+      "Static Typing: Supports optionally typed and static-typing capabilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple syntax for building applications.",
+      "Integration: Can be integrated into Java development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Groovy documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Groovy programming for support and discussions.",
+      "GitHub": "Visit the Groovy GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_script": "groovy myscript.groovy",
+      "uninstall": "pkg uninstall groovy"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gsasl",
+    "version": "2.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU SASL is an implementation of the Simple Authentication and Security Layer framework and a few common SASL mechanisms.",
+    "homepage": "https://www.gnu.org/software/gsasl/",
+    "installation": "pkg install gsasl",
+    "usage": "After installing gsasl, you can use it to implement SASL authentication in your applications.",
+    "features": [
+      "SASL Framework: Provides tools for implementing SASL authentication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for authentication tasks.",
+      "Integration: Can be integrated into development workflows requiring SASL authentication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GSASL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to authentication and GSASL for support and discussions.",
+      "GitHub": "Visit the GSASL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "implement_sasl": "Not applicable",
+      "uninstall": "pkg uninstall gsasl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gsf-tools",
+    "version": "1.14.53",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GSF Tools provides a set of utilities to manipulate GStructuredFiles (GSF) which is a part of the GNOME project.",
+    "homepage": "https://developer.gnome.org/libgsf/",
+    "installation": "pkg install gsf-tools",
+    "usage": "After installing gsf-tools, you can use it to manipulate and manage GStructuredFiles.",
+    "features": [
+      "File Manipulation: Provides tools for manipulating GStructuredFiles.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for file manipulation tasks.",
+      "Integration: Can be integrated into GNOME and other file management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GSF Tools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GNOME and GSF Tools for support and discussions.",
+      "GitHub": "Visit the GSF Tools GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "list_files": "gsf ls <file>",
+      "uninstall": "pkg uninstall gsf-tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gsl-static",
+    "version": "2.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GSL (GNU Scientific Library) is a numerical library for C and C++ programmers. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/gsl/",
+    "installation": "pkg install gsl-static",
+    "usage": "After installing gsl-static, you can use it to perform numerical computations in your C and C++ programs.",
+    "features": [
+      "Numerical Library: Provides a wide range of numerical routines such as random number generators, special functions, and least-squares fitting.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for numerical computations.",
+      "Integration: Can be integrated into scientific and engineering workflows requiring numerical analysis.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GSL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to scientific computing and GSL for support and discussions.",
+      "GitHub": "Visit the GSL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_program": "gcc -o myprogram myprogram.c -lgsl -lgslcblas -lm",
+      "uninstall": "pkg uninstall gsl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gsl",
+    "version": "2.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GSL (GNU Scientific Library) is a numerical library for C and C++ programmers.",
+    "homepage": "https://www.gnu.org/software/gsl/",
+    "installation": "pkg install gsl",
+    "usage": "After installing gsl, you can use it to perform numerical computations in your C and C++ programs.",
+    "features": [
+      "Numerical Library: Provides a wide range of numerical routines such as random number generators, special functions, and least-squares fitting.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for numerical computations.",
+      "Integration: Can be integrated into scientific and engineering workflows requiring numerical analysis.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GSL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to scientific computing and GSL for support and discussions.",
+      "GitHub": "Visit the GSL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_program": "gcc -o myprogram myprogram.c -lgsl -lgslcblas -lm",
+      "uninstall": "pkg uninstall gsl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gst-libav",
+    "version": "1.24.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GStreamer Libav plugin is a set of GStreamer elements using the libav library.",
+    "homepage": "https://gstreamer.freedesktop.org/",
+    "installation": "pkg install gst-libav",
+    "usage": "After installing gst-libav, you can use it to handle a wide range of multimedia formats in your GStreamer applications.",
+    "features": [
+      "Multimedia Handling: Provides elements for handling various multimedia formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated into GStreamer pipelines for multimedia processing.",
+      "Ease of Use: Offers a set of pre-built elements for common multimedia tasks.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GStreamer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GStreamer and multimedia processing for support and discussions.",
+      "GitHub": "Visit the GStreamer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libav": "gst-launch-1.0 playbin uri=file:///path/to/video.mp4",
+      "uninstall": "pkg uninstall gst-libav"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gst-plugins-bad",
+    "version": "1.24.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GStreamer Plugins Bad is a set of plug-ins that aren't up to par compared to the rest.",
+    "homepage": "https://gstreamer.freedesktop.org/",
+    "installation": "pkg install gst-plugins-bad",
+    "usage": "After installing gst-plugins-bad, you can use it to access additional GStreamer elements that are less tested or have known issues.",
+    "features": [
+      "Additional Plugins: Provides access to additional GStreamer elements.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated into GStreamer pipelines for multimedia processing.",
+      "Ease of Use: Offers a set of pre-built elements for various multimedia tasks, though they may be less stable.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GStreamer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GStreamer and multimedia processing for support and discussions.",
+      "GitHub": "Visit the GStreamer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_bad_plugins": "gst-launch-1.0 playbin uri=file:///path/to/video.mp4",
+      "uninstall": "pkg uninstall gst-plugins-bad"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gst-plugins-base",
+    "version": "1.24.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GStreamer Plugins Base is a set of well-supported plug-ins for GStreamer.",
+    "homepage": "https://gstreamer.freedesktop.org/",
+    "installation": "pkg install gst-plugins-base",
+    "usage": "After installing gst-plugins-base, you can use it to access a core set of GStreamer elements for multimedia processing.",
+    "features": [
+      "Core Plugins: Provides access to a core set of well-supported GStreamer elements.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated into GStreamer pipelines for multimedia processing.",
+      "Ease of Use: Offers a set of pre-built elements for common multimedia tasks.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GStreamer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GStreamer and multimedia processing for support and discussions.",
+      "GitHub": "Visit the GStreamer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_base_plugins": "gst-launch-1.0 playbin uri=file:///path/to/video.mp4",
+      "uninstall": "pkg uninstall gst-plugins-base"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gst-plugins-gl-headers",
+    "version": "1.24.12",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "GStreamer Plugins GL Headers provides the development headers for the OpenGL plugins in GStreamer.",
+    "homepage": "https://gstreamer.freedesktop.org/",
+    "installation": "pkg install gst-plugins-gl-headers",
+    "usage": "After installing gst-plugins-gl-headers, you can use it to develop applications that utilize the OpenGL plugins in GStreamer.",
+    "features": [
+      "Development Headers: Provides the development headers for OpenGL plugins in GStreamer.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated into development workflows for GStreamer applications utilizing OpenGL.",
+      "Ease of Use: Offers headers required for developing with OpenGL plugins in GStreamer.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GStreamer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GStreamer and multimedia processing for support and discussions.",
+      "GitHub": "Visit the GStreamer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "develop_with_gl": "Not applicable",
+      "uninstall": "pkg uninstall gst-plugins-gl-headers"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gst-plugins-good",
+    "version": "1.24.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GStreamer Plugins Good is a set of well-supported plug-ins for GStreamer that are considered good quality.",
+    "homepage": "https://gstreamer.freedesktop.org/",
+    "installation": "pkg install gst-plugins-good",
+    "usage": "After installing gst-plugins-good, you can use it to access a set of high-quality GStreamer elements for multimedia processing.",
+    "features": [
+      "High-Quality Plugins: Provides access to a set of well-supported GStreamer elements.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated into GStreamer pipelines for multimedia processing.",
+      "Ease of Use: Offers a set of pre-built elements for common multimedia tasks.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GStreamer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GStreamer and multimedia processing for support and discussions.",
+      "GitHub": "Visit the GStreamer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_good_plugins": "gst-launch-1.0 playbin uri=file:///path/to/video.mp4",
+      "uninstall": "pkg uninstall gst-plugins-good"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gst-plugins-ugly",
+    "version": "1.24.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GStreamer Plugins Ugly is a set of plug-ins that might pose distribution problems.",
+    "homepage": "https://gstreamer.freedesktop.org/",
+    "installation": "pkg install gst-plugins-ugly",
+    "usage": "After installing gst-plugins-ugly, you can use it to access additional GStreamer elements that may have licensing or other issues.",
+    "features": [
+      "Additional Plugins: Provides access to additional GStreamer elements.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated into GStreamer pipelines for multimedia processing.",
+      "Ease of Use: Offers a set of pre-built elements for various multimedia tasks, though they may have licensing issues.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GStreamer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GStreamer and multimedia processing for support and discussions.",
+      "GitHub": "Visit the GStreamer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ugly_plugins": "gst-launch-1.0 playbin uri=file:///path/to/video.mp4",
+      "uninstall": "pkg uninstall gst-plugins-ugly"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gst-python",
+    "version": "1.24.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GStreamer Python Bindings provides the GStreamer bindings for Python.",
+    "homepage": "https://gstreamer.freedesktop.org/",
+    "installation": "pkg install gst-python",
+    "usage": "After installing gst-python, you can use it to develop multimedia applications in Python with GStreamer.",
+    "features": [
+      "Python Bindings: Provides GStreamer bindings for Python.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated into Python development workflows for multimedia applications.",
+      "Ease of Use: Offers an intuitive API for developing multimedia applications in Python.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GStreamer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GStreamer and Python development for support and discussions.",
+      "GitHub": "Visit the GStreamer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "develop_with_python": "import gi\n gi.require_version('Gst', '1.0')\n from gi.repository import Gst",
+      "uninstall": "pkg uninstall gst-python"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gstreamer",
+    "version": "1.24.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GStreamer is a pipeline-based multimedia framework that links together a wide variety of media processing systems.",
+    "homepage": "https://gstreamer.freedesktop.org/",
+    "installation": "pkg install gstreamer",
+    "usage": "After installing gstreamer, you can use it to build and execute multimedia processing pipelines.",
+    "features": [
+      "Multimedia Framework: Provides a pipeline-based framework for multimedia processing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Integration: Can be integrated into applications requiring multimedia capabilities.",
+      "Ease of Use: Offers an intuitive API for building and executing multimedia pipelines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GStreamer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GStreamer and multimedia processing for support and discussions.",
+      "GitHub": "Visit the GStreamer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "build_pipeline": "gst-launch-1.0 playbin uri=file:///path/to/video.mp4",
+      "uninstall": "pkg uninstall gstreamer"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gtypist",
+    "version": "2.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Typist (gtypist) is a universal typing tutor for beginners and advanced typists.",
+    "homepage": "https://www.gnu.org/software/gtypist/",
+    "installation": "pkg install gtypist",
+    "usage": "After installing gtypist, you can use it to improve your typing skills through various exercises and lessons.",
+    "features": [
+      "Typing Tutor: Provides a wide range of typing exercises and lessons.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for typing practice.",
+      "Customization: Allows customization of lessons and exercises.",
+      "Integration: Can be integrated into educational and self-improvement workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GTypist documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to typing and GTypist for support and discussions.",
+      "GitHub": "Visit the GTypist GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_typing": "gtypist",
+      "uninstall": "pkg uninstall gtypist"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "guile-static",
+    "version": "3.0.9-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Guile is the GNU Ubiquitous Intelligent Language for Extensions, an implementation of the Scheme programming language. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/guile/",
+    "installation": "pkg install guile-static",
+    "usage": "After installing guile-static, you can use it to write and run Scheme programs and extend applications with Scheme.",
+    "features": [
+      "Scheme Implementation: Provides an implementation of the Scheme programming language.",
+      "Scripting Language: Can be used as a scripting language for extending applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive environment for Scheme programming tasks.",
+      "Integration: Can be integrated into applications requiring an embedded language or scripting capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Guile documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Scheme programming and Guile for support and discussions.",
+      "GitHub": "Visit the Guile GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_scheme_script": "guile script.scm",
+      "uninstall": "pkg uninstall guile-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "guile",
+    "version": "3.0.9-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Guile is the GNU Ubiquitous Intelligent Language for Extensions, an implementation of the Scheme programming language.",
+    "homepage": "https://www.gnu.org/software/guile/",
+    "installation": "pkg install guile",
+    "usage": "After installing guile, you can use it to write and run Scheme programs and extend applications with Scheme.",
+    "features": [
+      "Scheme Implementation: Provides an implementation of the Scheme programming language.",
+      "Scripting Language: Can be used as a scripting language for extending applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive environment for Scheme programming tasks.",
+      "Integration: Can be integrated into applications requiring an embedded language or scripting capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Guile documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Scheme programming and Guile for support and discussions.",
+      "GitHub": "Visit the Guile GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_scheme_script": "guile script.scm",
+      "uninstall": "pkg uninstall guile"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gum",
+    "version": "0.15.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gum is a tool for making glamorous shell scripts.",
+    "homepage": "https://github.com/charmbracelet/gum",
+    "installation": "pkg install gum",
+    "usage": "After installing gum, you can use it to create interactive and visually appealing shell scripts.",
+    "features": [
+      "Shell Script Enhancement: Provides tools for making glamorous and interactive shell scripts.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for enhancing shell scripts.",
+      "Integration: Can be integrated into shell scripting workflows to create interactive scripts.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gum documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shell scripting and Gum for support and discussions.",
+      "GitHub": "Visit the Gum GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_interactive_script": "gum confirm 'Do you want to continue?' && echo 'Continuing...'",
+      "uninstall": "pkg uninstall gum"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gumbo-parser-static",
+    "version": "0.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gumbo Parser is an implementation of the HTML5 parsing algorithm implemented as a pure C99 library. This is the statically linked version.",
+    "homepage": "https://github.com/google/gumbo-parser",
+    "installation": "pkg install gumbo-parser-static",
+    "usage": "After installing gumbo-parser-static, you can use it to parse HTML5 documents in your C applications.",
+    "features": [
+      "HTML5 Parsing: Provides a library for parsing HTML5 documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for HTML5 parsing tasks.",
+      "Integration: Can be integrated into C applications requiring HTML5 parsing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gumbo Parser documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HTML parsing and Gumbo Parser for support and discussions.",
+      "GitHub": "Visit the Gumbo Parser GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "parse_html": "Not applicable",
+      "uninstall": "pkg uninstall gumbo-parser-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gumbo-parser",
+    "version": "0.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gumbo Parser is an implementation of the HTML5 parsing algorithm implemented as a pure C99 library.",
+    "homepage": "https://github.com/google/gumbo-parser",
+    "installation": "pkg install gumbo-parser",
+    "usage": "After installing gumbo-parser, you can use it to parse HTML5 documents in your C applications.",
+    "features": [
+      "HTML5 Parsing: Provides a library for parsing HTML5 documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for HTML5 parsing tasks.",
+      "Integration: Can be integrated into C applications requiring HTML5 parsing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gumbo Parser documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HTML parsing and Gumbo Parser for support and discussions.",
+      "GitHub": "Visit the Gumbo Parser GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "parse_html": "Not applicable",
+      "uninstall": "pkg uninstall gumbo-parser"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gzip",
+    "version": "1.13-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gzip is a popular data compression program as a replacement for compress.",
+    "homepage": "https://www.gnu.org/software/gzip/",
+    "installation": "pkg install gzip",
+    "usage": "After installing gzip, you can use it to compress and decompress files.",
+    "features": [
+      "Data Compression: Provides tools for compressing and decompressing files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for compression tasks.",
+      "Integration: Can be integrated into scripts and automation workflows for file compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gzip documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data compression and Gzip for support and discussions.",
+      "GitHub": "Visit the Gzip GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compress_file": "gzip file.txt",
+      "decompress_file": "gzip -d file.txt.gz",
+      "uninstall": "pkg uninstall gzip"
+    },
+    "isFavorite": false
+  }
+]

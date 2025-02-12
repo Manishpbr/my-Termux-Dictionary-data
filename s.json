@@ -1,0 +1,1599 @@
+[
+  {
+    "name": "sabnzbd",
+    "version": "4.4.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "SABnzbd is an open-source binary newsreader written in Python.",
+    "homepage": "https://sabnzbd.org/",
+    "installation": "pkg install sabnzbd",
+    "usage": "After installing SABnzbd, you can use it to download binary files from Usenet.",
+    "features": [
+      "Binary Newsreader: Provides tools for downloading binary files from Usenet.",
+      "Open-Source: Available as open-source software.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SABnzbd website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Usenet for support and discussions.",
+      "GitHub": "Search for repositories or forks of SABnzbd to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_sabnzbd": "sabnzbdplus",
+      "uninstall": "pkg uninstall sabnzbd"
+    }
+  },
+  {
+    "name": "salty-chat",
+    "version": "0.0.22-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Salty Chat is a cross-platform voice chat application.",
+    "homepage": "https://saltychat.com/",
+    "installation": "pkg install salty-chat",
+    "usage": "After installing Salty Chat, you can use it to communicate with others via voice chat.",
+    "features": [
+      "Voice Chat: Provides tools for voice communication.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Salty Chat website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to voice chat for support and discussions.",
+      "GitHub": "Search for repositories or forks of Salty Chat to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_salty_chat": "salty-chat",
+      "uninstall": "pkg uninstall salty-chat"
+    }
+  },
+  {
+    "name": "samba",
+    "version": "4.20.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Samba is an open-source implementation of the SMB/CIFS networking protocol.",
+    "homepage": "https://www.samba.org/",
+    "installation": "pkg install samba",
+    "usage": "After installing Samba, you can use it to share files and printers with Windows systems.",
+    "features": [
+      "SMB/CIFS Protocol: Provides an implementation of the SMB/CIFS networking protocol.",
+      "File and Printer Sharing: Supports sharing files and printers with Windows systems.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Samba website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to networking for support and discussions.",
+      "GitHub": "Search for repositories or forks of Samba to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_samba": "smbd",
+      "uninstall": "pkg uninstall samba"
+    }
+  },
+  {
+    "name": "samefile",
+    "version": "2.15-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "samefile is a utility to find identical files in a directory tree.",
+    "homepage": "https://github.com/username/samefile",
+    "installation": "pkg install samefile",
+    "usage": "After installing samefile, you can use it to identify identical files in a directory tree.",
+    "features": [
+      "File Comparison: Provides tools for finding identical files in a directory tree.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "find_identical_files": "samefile /path/to/directory",
+      "uninstall": "pkg uninstall samefile"
+    }
+  },
+  {
+    "name": "samurai",
+    "version": "1.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "samurai is a ninja-compatible build tool written in C.",
+    "homepage": "https://github.com/michaelforney/samurai",
+    "installation": "pkg install samurai",
+    "usage": "After installing samurai, you can use it to build software projects using ninja build files.",
+    "features": [
+      "Build Tool: Provides a ninja-compatible build tool.",
+      "Written in C: Designed for performance.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to build systems for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "build_project": "samurai -C /path/to/build",
+      "uninstall": "pkg uninstall samurai"
+    }
+  },
+  {
+    "name": "sassc",
+    "version": "3.6.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "sassc is a command-line tool for compiling Sass to CSS.",
+    "homepage": "https://sass-lang.com/libsass",
+    "installation": "pkg install sassc",
+    "usage": "After installing sassc, you can use it to compile Sass files to CSS.",
+    "features": [
+      "Sass Compiler: Provides a command-line tool for compiling Sass to CSS.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Sass website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to web development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Sass to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_sass": "sassc input.scss output.css",
+      "uninstall": "pkg uninstall sassc"
+    }
+  },
+  {
+    "name": "sc-im",
+    "version": "0.8.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "sc-im is an ncurses-based spreadsheet program for the terminal.",
+    "homepage": "https://github.com/andmarti1424/sc-im",
+    "installation": "pkg install sc-im",
+    "usage": "After installing sc-im, you can use it to create and manage spreadsheets from the terminal.",
+    "features": [
+      "Spreadsheet Program: Provides a terminal-based spreadsheet program.",
+      "ncurses-Based: Uses ncurses for the user interface.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal applications for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_sc_im": "sc-im",
+      "uninstall": "pkg uninstall sc-im"
+    }
+  },
+  {
+    "name": "scala",
+    "version": "3.6.2-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Scala is a high-level programming language that combines object-oriented and functional programming.",
+    "homepage": "https://www.scala-lang.org/",
+    "installation": "pkg install scala",
+    "usage": "After installing Scala, you can use it to develop applications using the Scala programming language.",
+    "features": [
+      "High-Level Language: Provides a high-level programming language that combines object-oriented and functional programming.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Scala website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Scala development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Scala to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_scala": "scala script.scala",
+      "start_repl": "scala",
+      "uninstall": "pkg uninstall scala"
+    }
+  },
+  {
+    "name": "scc",
+    "version": "3.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "scc (Sloc, Cloc and Code) is a fast and accurate code counter.",
+    "homepage": "https://github.com/boyter/scc",
+    "installation": "pkg install scc",
+    "usage": "After installing scc, you can use it to count lines of code in your projects.",
+    "features": [
+      "Code Counter: Provides tools for counting lines of code.",
+      "Fast and Accurate: Designed for speed and accuracy.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to code analysis for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "count_code": "scc /path/to/code",
+      "uninstall": "pkg uninstall scc"
+    }
+  },
+  {
+    "name": "sccache",
+    "version": "0.9.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "sccache is a compiler cache that stores compiled object files to speed up subsequent builds.",
+    "homepage": "https://github.com/mozilla/sccache",
+    "installation": "pkg install sccache",
+    "usage": "After installing sccache, you can use it to cache compiled object files and speed up builds.",
+    "features": [
+      "Compiler Cache: Provides tools for caching compiled object files.",
+      "Build Speedup: Designed to speed up subsequent builds.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to build systems for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_sccache": "sccache --start-server",
+      "uninstall": "pkg uninstall sccache"
+    }
+  },
+  {
+    "name": "scdaemon",
+    "version": "2.4.5-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "scdaemon is a daemon used by GnuPG to access smart cards.",
+    "homepage": "https://gnupg.org/",
+    "installation": "pkg install scdaemon",
+    "usage": "After installing scdaemon, you can use it to access smart cards with GnuPG.",
+    "features": [
+      "Smart Card Access: Provides tools for accessing smart cards.",
+      "GnuPG Integration: Designed to be used with GnuPG.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GnuPG website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to encryption for support and discussions.",
+      "GitHub": "Search for repositories or forks of GnuPG to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_scdaemon": "scdaemon",
+      "uninstall": "pkg uninstall scdaemon"
+    }
+  },
+  {
+    "name": "scdoc",
+    "version": "1.11.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "scdoc is a simple man page generator written in C.",
+    "homepage": "https://git.sr.ht/~sircmpwn/scdoc",
+    "installation": "pkg install scdoc",
+    "usage": "After installing scdoc, you can use it to generate man pages from simple text files.",
+    "features": [
+      "Man Page Generator: Provides tools for generating man pages from text files.",
+      "Simple and Lightweight: Designed to be simple and lightweight.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official scdoc repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to documentation for support and discussions.",
+      "GitHub": "Search for repositories or forks of scdoc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_man_page": "scdoc < input.txt > output.1",
+      "uninstall": "pkg uninstall scdoc"
+    }
+  },
+  {
+    "name": "screen",
+    "version": "5.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Screen is a terminal multiplexer that allows you to manage multiple terminal sessions within a single terminal window.",
+    "homepage": "https://www.gnu.org/software/screen/",
+    "installation": "pkg install screen",
+    "usage": "After installing Screen, you can use it to manage multiple terminal sessions within a single terminal window.",
+    "features": [
+      "Terminal Multiplexer: Provides tools for managing multiple terminal sessions.",
+      "Session Management: Allows you to detach and reattach terminal sessions.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Screen website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal utilities for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Screen to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_screen": "screen",
+      "uninstall": "pkg uninstall screen"
+    }
+  },
+  {
+    "name": "screenfetch",
+    "version": "3.9.9",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Screenfetch is a Bash script that displays information about your system in a visually appealing way.",
+    "homepage": "https://github.com/KittyKatt/screenFetch",
+    "installation": "pkg install screenfetch",
+    "usage": "After installing screenfetch, you can use it to display system information in the terminal.",
+    "features": [
+      "System Information: Provides tools for displaying system information.",
+      "Visually Appealing: Designed to present information in a visually appealing way.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to system information tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "display_info": "screenfetch",
+      "uninstall": "pkg uninstall screenfetch"
+    }
+  },
+  {
+    "name": "scrub",
+    "version": "2.6.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Scrub is a command-line utility to securely erase data by overwriting files with patterns.",
+    "homepage": "https://code.google.com/archive/p/diskscrub/",
+    "installation": "pkg install scrub",
+    "usage": "After installing scrub, you can use it to securely erase data on disks.",
+    "features": [
+      "Data Erasure: Provides tools for securely erasing data.",
+      "Pattern Overwriting: Uses patterns to overwrite files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Scrub website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data security for support and discussions.",
+      "GitHub": "Search for repositories or forks of Scrub to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "erase_data": "scrub /dev/sdX",
+      "uninstall": "pkg uninstall scrub"
+    }
+  },
+  {
+    "name": "scrypt",
+    "version": "1.3.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Scrypt is a key derivation function designed to be computationally intensive to prevent brute-force attacks.",
+    "homepage": "https://www.tarsnap.com/scrypt.html",
+    "installation": "pkg install scrypt",
+    "usage": "After installing scrypt, you can use it to derive keys from passwords in a secure manner.",
+    "features": [
+      "Key Derivation: Provides tools for deriving keys from passwords.",
+      "Computationally Intensive: Designed to be computationally intensive to prevent brute-force attacks.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Scrypt website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cryptography for support and discussions.",
+      "GitHub": "Search for repositories or forks of Scrypt to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "derive_key": "scrypt enc -P passphrase",
+      "uninstall": "pkg uninstall scrypt"
+    }
+  },
+  {
+    "name": "sd",
+    "version": "1.0.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SD is an intuitive find & replace CLI tool.",
+    "homepage": "https://github.com/chmln/sd",
+    "installation": "pkg install sd",
+    "usage": "After installing sd, you can use it to find and replace text in files.",
+    "features": [
+      "Find & Replace: Provides tools for finding and replacing text in files.",
+      "Intuitive Interface: Designed to be easy to use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to CLI tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "find_replace": "sd 'old_text' 'new_text' file.txt",
+      "uninstall": "pkg uninstall sd"
+    }
+  },
+  {
+    "name": "sdcv",
+    "version": "0.5.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SDCV (StarDict Console Version) is a command-line dictionary client.",
+    "homepage": "https://github.com/Dushistov/sdcv",
+    "installation": "pkg install sdcv",
+    "usage": "After installing sdcv, you can use it to look up words in dictionaries from the terminal.",
+    "features": [
+      "Dictionary Client: Provides a command-line dictionary client.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to dictionary tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "lookup_word": "sdcv 'word'",
+      "uninstall": "pkg uninstall sdcv"
+    }
+  },
+  {
+    "name": "seafile-client-static",
+    "version": "9.0.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Seafile Client Static is a static binary version of the Seafile desktop client.",
+    "homepage": "https://www.seafile.com/",
+    "installation": "pkg install seafile-client-static",
+    "usage": "After installing Seafile Client Static, you can use it to sync files with Seafile servers.",
+    "features": [
+      "File Sync: Provides tools for syncing files with Seafile servers.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Seafile website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file sync for support and discussions.",
+      "GitHub": "Search for repositories or forks of Seafile to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "seaf-cli start",
+      "uninstall": "pkg uninstall seafile-client-static"
+    }
+  },
+  {
+    "name": "seafile-client",
+    "version": "9.0.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Seafile Client is a desktop client for the Seafile file syncing and sharing platform.",
+    "homepage": "https://www.seafile.com/",
+    "installation": "pkg install seafile-client",
+    "usage": "After installing Seafile Client, you can use it to sync files with Seafile servers.",
+    "features": [
+      "File Sync: Provides tools for syncing files with Seafile servers.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Seafile website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file sync for support and discussions.",
+      "GitHub": "Search for repositories or forks of Seafile to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "seaf-cli start",
+      "uninstall": "pkg uninstall seafile-client"
+    }
+  },
+  {
+    "name": "seanime",
+    "version": "2.6.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Seanime is a video streaming application for anime.",
+    "homepage": "https://github.com/username/seanime",
+    "installation": "pkg install seanime",
+    "usage": "After installing Seanime, you can use it to stream anime videos.",
+    "features": [
+      "Video Streaming: Provides tools for streaming anime videos.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to anime streaming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_seanime": "seanime",
+      "uninstall": "pkg uninstall seanime"
+    }
+  },
+  {
+    "name": "seccure",
+    "version": "0.5-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Seccure is a set of tools for pure symmetric key-based cryptography using modern key derivation functions.",
+    "homepage": "https://github.com/seccure/seccure",
+    "installation": "pkg install seccure",
+    "usage": "After installing Seccure, you can use it to perform symmetric key-based cryptographic operations.",
+    "features": [
+      "Symmetric Key Cryptography: Provides tools for symmetric key-based cryptographic operations.",
+      "Modern Key Derivation: Uses modern key derivation functions.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cryptography for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encrypt_data": "seccure -e -k keyfile",
+      "decrypt_data": "seccure -d -k keyfile",
+      "uninstall": "pkg uninstall seccure"
+    }
+  },
+  {
+    "name": "secure-delete",
+    "version": "3.1-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Secure Delete is a collection of secure file deletion utilities.",
+    "homepage": "https://github.com/secure-delete/secure-delete",
+    "installation": "pkg install secure-delete",
+    "usage": "After installing Secure Delete, you can use it to securely delete files from your system.",
+    "features": [
+      "Secure Deletion: Provides tools for securely deleting files.",
+      "Collection of Utilities: Includes multiple utilities for different deletion needs.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data security for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "delete_file": "srm file.txt",
+      "uninstall": "pkg uninstall secure-delete"
+    }
+  },
+  {
+    "name": "sed",
+    "version": "4.9-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sed (stream editor) is a powerful text stream editor.",
+    "homepage": "https://www.gnu.org/software/sed/",
+    "installation": "pkg install sed",
+    "usage": "After installing Sed, you can use it to perform basic and advanced text transformations on an input stream.",
+    "features": [
+      "Text Transformation: Provides tools for editing text streams.",
+      "Powerful: Capable of performing complex text transformations.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Sed website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Sed to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "edit_text": "sed 's/old/new/g' file.txt",
+      "uninstall": "pkg uninstall sed"
+    }
+  },
+  {
+    "name": "sendxmpp",
+    "version": "1.24",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "SendXMPP is a Perl script to send XMPP (Jabber) messages from the command line.",
+    "homepage": "https://github.com/lhost/sendxmpp",
+    "installation": "pkg install sendxmpp",
+    "usage": "After installing SendXMPP, you can use it to send XMPP messages from the command line.",
+    "features": [
+      "XMPP Messaging: Provides tools for sending XMPP (Jabber) messages.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XMPP for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "send_message": "echo 'Message' | sendxmpp user@jabber.org",
+      "uninstall": "pkg uninstall sendxmpp"
+    }
+  },
+  {
+    "name": "senpai",
+    "version": "0.3.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Senpai is a terminal-based Mastodon client.",
+    "homepage": "https://github.com/natrys/senpai",
+    "installation": "pkg install senpai",
+    "usage": "After installing Senpai, you can use it to interact with Mastodon from the terminal.",
+    "features": [
+      "Mastodon Client: Provides a terminal-based client for interacting with Mastodon.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Mastodon for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_senpai": "senpai",
+      "uninstall": "pkg uninstall senpai"
+    }
+  },
+  {
+    "name": "sensible-utils",
+    "version": "0.0.24",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Sensible-utils is a collection of small utilities to make sensible decisions about certain system-wide defaults.",
+    "homepage": "https://manpages.debian.org/unstable/sensible-utils/sensible-utils.7.en.html",
+    "installation": "pkg install sensible-utils",
+    "usage": "After installing sensible-utils, you can use it to manage system-wide defaults in a sensible way.",
+    "features": [
+      "System Utilities: Provides small utilities for managing system-wide defaults.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Debian manpages.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Debian for support and discussions.",
+      "GitHub": "Search for repositories or forks of sensible-utils to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_sensible_editor": "sensible-editor file.txt",
+      "uninstall": "pkg uninstall sensible-utils"
+    }
+  },
+  {
+    "name": "serd",
+    "version": "0.32.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Serd is a lightweight C library for RDF syntax which supports reading and writing Turtle and NTriples.",
+    "homepage": "https://drobilla.net/software/serd/",
+    "installation": "pkg install serd",
+    "usage": "After installing Serd, you can use it to read and write RDF syntax in Turtle and NTriples formats.",
+    "features": [
+      "RDF Syntax: Provides tools for reading and writing RDF syntax.",
+      "Supports Turtle and NTriples: Capable of handling Turtle and NTriples formats.",
+      "Cross-Platform: Works on various operating systems.",
+      "Lightweight: Designed to be lightweight and efficient."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Serd website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to RDF for support and discussions.",
+      "GitHub": "Search for repositories or forks of Serd to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_to_turtle": "serdi input.nt -o turtle",
+      "uninstall": "pkg uninstall serd"
+    }
+  },
+  {
+    "name": "serf-static",
+    "version": "1.3.10-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Serf-static provides a static binary version of the Serf library, which is a high-performance C-based HTTP client library.",
+    "homepage": "https://serf.apache.org/",
+    "installation": "pkg install serf-static",
+    "usage": "After installing serf-static, you can link the static library with your applications to use the Serf HTTP client functionalities.",
+    "features": [
+      "HTTP Client Library: Provides a high-performance HTTP client library.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "High Performance: Designed for high performance and efficiency."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Serf website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to HTTP clients for support and discussions.",
+      "GitHub": "Search for repositories or forks of Serf to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lserf",
+      "uninstall": "pkg uninstall serf-static"
+    }
+  },
+  {
+    "name": "serf",
+    "version": "1.3.10-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Serf is a high-performance C-based HTTP client library built upon the Apache Portable Runtime (APR) library.",
+    "homepage": "https://serf.apache.org/",
+    "installation": "pkg install serf",
+    "usage": "After installing Serf, you can use it to make HTTP requests from your applications.",
+    "features": [
+      "HTTP Client Library: Provides a high-performance HTTP client library.",
+      "Built on APR: Utilizes the Apache Portable Runtime (APR) library.",
+      "Cross-Platform: Works on various operating systems.",
+      "High Performance: Designed for high performance and efficiency."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Serf website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to HTTP clients for support and discussions.",
+      "GitHub": "Search for repositories or forks of Serf to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "make_request": "serf_get -u http://example.com",
+      "uninstall": "pkg uninstall serf"
+    }
+  },
+  {
+    "name": "sfeed",
+    "version": "2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sfeed is a lightweight and fast RSS and Atom feed parser.",
+    "homepage": "https://codemadness.org/sfeed.html",
+    "installation": "pkg install sfeed",
+    "usage": "After installing Sfeed, you can use it to parse RSS and Atom feeds.",
+    "features": [
+      "Feed Parser: Provides tools for parsing RSS and Atom feeds.",
+      "Lightweight and Fast: Designed to be lightweight and fast.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Sfeed website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to RSS and Atom feeds for support and discussions.",
+      "GitHub": "Search for repositories or forks of Sfeed to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_feeds": "sfeed_update",
+      "uninstall": "pkg uninstall sfeed"
+    }
+  },
+  {
+    "name": "sftpgo",
+    "version": "2.6.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SFTPGo is a fully featured and highly configurable SFTP server with optional HTTP, WebDAV, and FTP/S support.",
+    "homepage": "https://github.com/drakkan/sftpgo",
+    "installation": "pkg install sftpgo",
+    "usage": "After installing SFTPGo, you can use it to set up and manage an SFTP server.",
+    "features": [
+      "SFTP Server: Provides a fully featured and configurable SFTP server.",
+      "Optional HTTP, WebDAV, FTP/S: Supports additional protocols like HTTP, WebDAV, and FTP/S.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SFTP servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "sftpgo serve",
+      "uninstall": "pkg uninstall sftpgo"
+    }
+  },
+  {
+    "name": "shaderc",
+    "version": "2024.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Shaderc is a collection of tools, libraries, and tests for compiling shaders.",
+    "homepage": "https://github.com/google/shaderc",
+    "installation": "pkg install shaderc",
+    "usage": "After installing Shaderc, you can use it to compile shaders for graphics applications.",
+    "features": [
+      "Shader Compilation: Provides tools and libraries for compiling shaders.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to graphics programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_shader": "glslc shader.vert -o shader.spv",
+      "uninstall": "pkg uninstall shaderc"
+    }
+  },
+  {
+    "name": "shairport-sync",
+    "version": "3.1.2-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Shairport Sync is an AirPlay audio player that can sync across multiple devices.",
+    "homepage": "https://github.com/mikebrady/shairport-sync",
+    "installation": "pkg install shairport-sync",
+    "usage": "After installing Shairport Sync, you can use it to stream audio to multiple devices using AirPlay.",
+    "features": [
+      "AirPlay Audio Player: Provides tools for streaming audio using AirPlay.",
+      "Sync Across Devices: Capable of syncing audio across multiple devices.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio streaming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_shairport": "shairport-sync",
+      "uninstall": "pkg uninstall shairport-sync"
+    }
+  },
+  {
+    "name": "sharutils",
+    "version": "4.15.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sharutils is a package that provides utilities for creating shell archives and for decoding encoded files.",
+    "homepage": "https://www.gnu.org/software/sharutils/",
+    "installation": "pkg install sharutils",
+    "usage": "After installing Sharutils, you can use it to create and decode shell archives.",
+    "features": [
+      "Shell Archives: Provides tools for creating shell archives.",
+      "File Decoding: Supports decoding of encoded files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Sharutils website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file archiving for support and discussions.",
+      "GitHub": "Search for repositories or forks of Sharutils to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_archive": "shar file1 file2 > archive.shar",
+      "decode_file": "unshar archive.shar",
+      "uninstall": "pkg uninstall sharutils"
+    }
+  },
+  {
+    "name": "shc",
+    "version": "4.0.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SHC (Shell Script Compiler) is a tool that compiles shell scripts into executable binaries.",
+    "homepage": "https://neurobin.org/projects/softwares/unix/shc/",
+    "installation": "pkg install shc",
+    "usage": "After installing SHC, you can use it to compile shell scripts into executable binaries.",
+    "features": [
+      "Shell Script Compilation: Provides tools for compiling shell scripts into executable binaries.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SHC website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell scripting for support and discussions.",
+      "GitHub": "Search for repositories or forks of SHC to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_script": "shc -f script.sh",
+      "uninstall": "pkg uninstall shc"
+    }
+  },
+  {
+    "name": "sheldon",
+    "version": "0.8.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sheldon is a fast, configurable, and extensible plugin manager for Zsh.",
+    "homepage": "https://sheldon-cli.github.io/",
+    "installation": "pkg install sheldon",
+    "usage": "After installing Sheldon, you can use it to manage Zsh plugins.",
+    "features": [
+      "Plugin Manager: Provides tools for managing Zsh plugins.",
+      "Configurable and Extensible: Designed to be highly configurable and extensible.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Sheldon website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Zsh for support and discussions.",
+      "GitHub": "Search for repositories or forks of Sheldon to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_plugin": "sheldon add plugin",
+      "uninstall": "pkg uninstall sheldon"
+    }
+  },
+  {
+    "name": "shell2http",
+    "version": "1.17.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Shell2HTTP is a tool to execute shell commands via HTTP server.",
+    "homepage": "https://github.com/msoap/shell2http",
+    "installation": "pkg install shell2http",
+    "usage": "After installing shell2http, you can use it to execute shell commands via an HTTP server.",
+    "features": [
+      "HTTP Server: Provides tools for executing shell commands via an HTTP server.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to HTTP servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "shell2http /run 'command_to_run'",
+      "uninstall": "pkg uninstall shell2http"
+    }
+  },
+  {
+    "name": "shellharden",
+    "version": "4.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Shellharden is a linter that helps you write safer shell scripts by pointing out and suggesting fixes for common pitfalls.",
+    "homepage": "https://github.com/anordal/shellharden",
+    "installation": "pkg install shellharden",
+    "usage": "After installing shellharden, you can use it to lint and fix shell scripts.",
+    "features": [
+      "Shell Script Linter: Provides tools for linting and fixing shell scripts.",
+      "Common Pitfalls: Points out and suggests fixes for common pitfalls.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell scripting for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "lint_script": "shellharden script.sh",
+      "uninstall": "pkg uninstall shellharden"
+    }
+  },
+  {
+    "name": "shellinabox",
+    "version": "2.21",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Shell In A Box implements a web server that can export arbitrary command line tools to a web-based terminal emulator.",
+    "homepage": "https://github.com/shellinabox/shellinabox",
+    "installation": "pkg install shellinabox",
+    "usage": "After installing shellinabox, you can use it to access a web-based terminal emulator.",
+    "features": [
+      "Web-Based Terminal: Provides a web-based terminal emulator.",
+      "Command Line Tools: Allows exporting command line tools to a web interface.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to web-based terminals for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "shellinaboxd",
+      "uninstall": "pkg uninstall shellinabox"
+    }
+  },
+  {
+    "name": "shfmt",
+    "version": "3.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Shfmt is a shell parser, formatter, and interpreter.",
+    "homepage": "https://github.com/mvdan/sh",
+    "installation": "pkg install shfmt",
+    "usage": "After installing shfmt, you can use it to format shell scripts.",
+    "features": [
+      "Shell Formatter: Provides tools for formatting shell scripts.",
+      "Parser and Interpreter: Includes a shell parser and interpreter.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell scripting for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "format_script": "shfmt -w script.sh",
+      "uninstall": "pkg uninstall shfmt"
+    }
+  },
+  {
+    "name": "shiori",
+    "version": "1.7.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Shiori is a simple bookmark manager built with Go.",
+    "homepage": "https://github.com/go-shiori/shiori",
+    "installation": "pkg install shiori",
+    "usage": "After installing shiori, you can use it to manage bookmarks.",
+    "features": [
+      "Bookmark Manager: Provides tools for managing bookmarks.",
+      "Simple and Fast: Designed to be simple and fast.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to bookmark management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_bookmark": "shiori add https://example.com",
+      "uninstall": "pkg uninstall shiori"
+    }
+  },
+  {
+    "name": "shntool",
+    "version": "3.0.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Shntool is a multi-purpose WAVE data processing and reporting utility.",
+    "homepage": "http://shntool.sourceforge.net/",
+    "installation": "pkg install shntool",
+    "usage": "After installing shntool, you can use it to process and report WAVE data.",
+    "features": [
+      "WAVE Data Processing: Provides tools for processing WAVE data.",
+      "Reporting Utility: Includes a reporting utility for WAVE data.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official shntool website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of shntool to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_wave_data": "shntool info file.wav",
+      "uninstall": "pkg uninstall shntool"
+    }
+  },
+  {
+    "name": "shtool",
+    "version": "2.0.8-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU shtool is a compilation of small but very stable and portable shell scripts.",
+    "homepage": "https://www.gnu.org/software/shtool/",
+    "installation": "pkg install shtool",
+    "usage": "After installing shtool, you can use it to run various stable and portable shell scripts.",
+    "features": [
+      "Shell Scripts: Provides a compilation of small but very stable and portable shell scripts.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU shtool website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell scripting for support and discussions.",
+      "GitHub": "Search for repositories or forks of shtool to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_shtool_script": "shtool scriptname",
+      "uninstall": "pkg uninstall shtool"
+    }
+  },
+  {
+    "name": "signify",
+    "version": "32",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Signify is a cryptographic tool for signing and verifying files.",
+    "homepage": "https://man.openbsd.org/signify",
+    "installation": "pkg install signify",
+    "usage": "After installing signify, you can use it to sign and verify files.",
+    "features": [
+      "File Signing: Provides tools for signing files.",
+      "File Verification: Includes tools for verifying signed files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official OpenBSD signify man page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cryptography for support and discussions.",
+      "GitHub": "Search for repositories or forks of signify to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "sign_file": "signify -S -s key.sec -m file.txt",
+      "verify_file": "signify -V -p key.pub -m file.txt",
+      "uninstall": "pkg uninstall signify"
+    }
+  },
+  {
+    "name": "silicon",
+    "version": "0.5.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Silicon is a tool for creating beautiful images of code.",
+    "homepage": "https://github.com/Aloxaf/silicon",
+    "installation": "pkg install silicon",
+    "usage": "After installing silicon, you can use it to create images of code snippets.",
+    "features": [
+      "Code Images: Provides tools for creating beautiful images of code snippets.",
+      "Customizable: Supports various customization options for the images.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to code visualization for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_code_image": "silicon file.rs -o image.png",
+      "uninstall": "pkg uninstall silicon"
+    }
+  },
+  {
+    "name": "silversearcher-ag",
+    "version": "2.2.0-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The Silver Searcher is a code-searching tool similar to ack, but faster.",
+    "homepage": "https://github.com/ggreer/the_silver_searcher",
+    "installation": "pkg install silversearcher-ag",
+    "usage": "After installing silversearcher-ag, you can use it to search for code snippets quickly.",
+    "features": [
+      "Code Searching: Provides tools for searching for code snippets.",
+      "High Performance: Designed to be faster than similar tools like ack.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to code searching for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_code": "ag 'search_term' /path/to/code",
+      "uninstall": "pkg uninstall silversearcher-ag"
+    }
+  },
+  {
+    "name": "simde",
+    "version": "0.8.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SIMDe (SIMD Everywhere) is a header-only library that provides fast implementations of SIMD intrinsics on hardware that doesn't natively support them.",
+    "homepage": "https://github.com/simd-everywhere/simde",
+    "installation": "pkg install simde",
+    "usage": "After installing simde, you can use it to write SIMD code that works on any hardware.",
+    "features": [
+      "SIMD Intrinsics: Provides implementations of SIMD intrinsics.",
+      "Header-Only Library: Easy to integrate into existing projects.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SIMD programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_library": "#include <simde/simde.h>",
+      "uninstall": "pkg uninstall simde"
+    }
+  },
+  {
+    "name": "simdjson",
+    "version": "3.11.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Simdjson is a high-performance JSON parser developed using SIMD instructions.",
+    "homepage": "https://github.com/simdjson/simdjson",
+    "installation": "pkg install simdjson",
+    "usage": "After installing simdjson, you can use it to parse JSON data efficiently.",
+    "features": [
+      "JSON Parsing: Provides tools for high-performance JSON parsing.",
+      "SIMD Instructions: Utilizes SIMD instructions for performance.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to JSON parsing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_json": "simdjson::dom::parser parser; auto doc = parser.load('file.json');",
+      "uninstall": "pkg uninstall simdjson"
+    }
+  },
+  {
+    "name": "simh",
+    "version": "3.12.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Simh is a highly portable, multi-system emulator.",
+    "homepage": "https://github.com/simh/simh",
+    "installation": "pkg install simh",
+    "usage": "After installing simh, you can use it to emulate various computer systems.",
+    "features": [
+      "System Emulation: Provides tools for emulating various computer systems.",
+      "Multi-System: Supports multiple computer systems.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to system emulation for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_emulator": "simh system.ini",
+      "uninstall": "pkg uninstall simh"
+    }
+  },
+  {
+    "name": "simulavr",
+    "version": "1.1.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Simulavr is a simulator for AVR microcontrollers.",
+    "homepage": "https://www.nongnu.org/simulavr/",
+    "installation": "pkg install simulavr",
+    "usage": "After installing simulavr, you can use it to simulate AVR microcontrollers.",
+    "features": [
+      "AVR Simulation: Provides tools for simulating AVR microcontrollers.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Simulavr website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to AVR development for support and discussions.",
+      "GitHub": "Search for repositories or forks of Simulavr to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "simulate_avr": "simulavr -d atmega328 -f firmware.hex",
+      "uninstall": "pkg uninstall simulavr"
+    }
+  },
+  {
+    "name": "simuwaerm",
+    "version": "0.02",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Simuwaerm is a tool for simulating thermal behavior in electronic devices.",
+    "homepage": "https://github.com/username/simuwaerm",
+    "installation": "pkg install simuwaerm",
+    "usage": "After installing simuwaerm, you can use it to simulate thermal behavior in electronic devices.",
+    "features": [
+      "Thermal Simulation: Provides tools for simulating thermal behavior in electronic devices.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to thermal simulation for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "simulate_thermal": "simuwaerm -i input_data",
+      "uninstall": "pkg uninstall simuwaerm"
+    }
+  },
+  {
+    "name": "sing-box",
+    "version": "1.10.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "sing-box is a secure and high-performance proxy server.",
+    "homepage": "https://github.com/sing-box/sing-box",
+    "installation": "pkg install sing-box",
+    "usage": "After installing sing-box, you can use it to set up and manage a secure proxy server.",
+    "features": [
+      "Proxy Server: Provides a secure and high-performance proxy server.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to proxy servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_sing_box": "sing-box start",
+      "uninstall": "pkg uninstall sing-box"
+    }
+  },
+  {
+    "name": "skate",
+    "version": "1.0.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Skate is a terminal-based Kanban board for task management.",
+    "homepage": "https://github.com/username/skate",
+    "installation": "pkg install skate",
+    "usage": "After installing skate, you can use it to manage tasks using a terminal-based Kanban board.",
+    "features": [
+      "Task Management: Provides a terminal-based Kanban board for task management.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to task management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_skate": "skate",
+      "uninstall": "pkg uninstall skate"
+    }
+  },
+  {
+    "name": "sl",
+    "version": "5.05",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "sl is a program that displays a steam locomotive animation in the terminal.",
+    "homepage": "https://github.com/mtoyoda/sl",
+    "installation": "pkg install sl",
+    "usage": "After installing sl, you can run it to display a steam locomotive animation in the terminal.",
+    "features": [
+      "Terminal Animation: Provides a steam locomotive animation in the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal animations for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_sl": "sl",
+      "uninstall": "pkg uninstall sl"
+    }
+  },
+  {
+    "name": "slang",
+    "version": "2.3.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "slang is a programming library that provides routines for creating text-based user interfaces.",
+    "homepage": "http://www.jedsoft.org/slang/",
+    "installation": "pkg install slang",
+    "usage": "After installing slang, you can use it to create text-based user interfaces.",
+    "features": [
+      "Text-Based UI: Provides routines for creating text-based user interfaces.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official slang website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text-based user interfaces for support and discussions.",
+      "GitHub": "Search for repositories or forks of slang to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_slang": "Include slang in your text-based user interface projects.",
+      "uninstall": "pkg uninstall slang"
+    }
+  },
+  {
+    "name": "slashtime",
+    "version": "2023.12.11",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Slashtime is a time tracking tool for the command line.",
+    "homepage": "https://github.com/username/slashtime",
+    "installation": "pkg install slashtime",
+    "usage": "After installing slashtime, you can use it to track time spent on tasks from the command line.",
+    "features": [
+      "Time Tracking: Provides tools for tracking time spent on tasks.",
+      "Command Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to time tracking for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_tracking": "slashtime start 'task_name'",
+      "stop_tracking": "slashtime stop 'task_name'",
+      "uninstall": "pkg uninstall slashtime"
+    }
+  },
+  {
+    "name": "sleuthkit-static",
+    "version": "4.12.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SleuthKit-static provides a static binary version of The Sleuth Kit, a collection of command line tools for digital forensics.",
+    "homepage": "https://www.sleuthkit.org/",
+    "installation": "pkg install sleuthkit-static",
+    "usage": "After installing SleuthKit-static, you can use it to analyze disk images and perform digital forensics.",
+    "features": [
+      "Digital Forensics: Provides tools for analyzing disk images and performing digital forensics.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Sleuth Kit website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to digital forensics for support and discussions.",
+      "GitHub": "Search for repositories or forks of The Sleuth Kit to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "analyze_disk_image": "tsk_recover disk_image.dd output_dir",
+      "uninstall": "pkg uninstall sleuthkit-static"
+    }
+  },
+  {
+    "name": "sleuthkit",
+    "version": "4.12.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The Sleuth Kit is a collection of command line tools for digital forensics.",
+    "homepage": "https://www.sleuthkit.org/",
+    "installation": "pkg install sleuthkit",
+    "usage": "After installing Sleuth Kit, you can use it to analyze disk images and perform digital forensics.",
+    "features": [
+      "Digital Forensics: Provides tools for analyzing disk images and performing digital forensics.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Sleuth Kit website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to digital forensics for support and discussions.",
+      "GitHub": "Search for repositories or forks of The Sleuth Kit to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "analyze_disk_image": "tsk_recover disk_image.dd output_dir",
+      "uninstall": "pkg uninstall sleuthkit"
+    }
+  },
+  {
+    "name": "slides",
+    "version": "0.9.0-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Slides is a terminal-based presentation tool.",
+    "homepage": "https://github.com/username/slides",
+    "installation": "pkg install slides",
+    "usage": "After installing slides, you can use it to create and present slides from the terminal.",
+    "features": [
+      "Presentation Tool: Provides tools for creating and presenting slides from the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to presentation tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_presentation": "slides create presentation.md",
+      "present_slides": "slides present presentation.md",
+      "uninstall": "pkg uninstall slides"
+    }
+  },
+  {
+    "name": "slugify",
+    "version": "2016.01.23",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Slugify is a library that generates URL-friendly slugs from strings.",
+    "homepage": "https://github.com/username/slugify",
+    "installation": "pkg install slugify",
+    "usage": "After installing slugify, you can use it to generate URL-friendly slugs from strings.",
+    "features": [
+      "Slug Generation: Provides tools for generating URL-friendly slugs from strings.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to URL management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_slug": "slugify 'Example String'",
+      "uninstall": "pkg uninstall slugify"
+    }
+  },
+  {
+    "name": "smalltalk-static",
+    "version": "3.2.91-14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Smalltalk-static provides a static binary version of the GNU Smalltalk environment.",
+    "homepage": "https://www.gnu.org/software/smalltalk/",
+    "installation": "pkg install smalltalk-static",
+    "usage": "After installing smalltalk-static, you can use it to run Smalltalk programs in a static binary environment.",
+    "features": [
+      "Smalltalk Environment: Provides a static binary version of the GNU Smalltalk environment.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Smalltalk website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Smalltalk for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Smalltalk to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_smalltalk": "gst program.st",
+      "uninstall": "pkg uninstall smalltalk-static"
+    }
+  },
+  {
+    "name": "smalltalk",
+    "version": "3.2.91-14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Smalltalk is an implementation of the Smalltalk programming language.",
+    "homepage": "https://www.gnu.org/software/smalltalk/",
+    "installation": "pkg install smalltalk",
+    "usage": "After installing Smalltalk, you can use it to develop and run Smalltalk programs.",
+    "features": [
+      "Smalltalk Implementation: Provides an implementation of the Smalltalk programming language.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Smalltalk website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Smalltalk for support and discussions.",
+      "GitHub": "Search for repositories or forks of GNU Smalltalk to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_smalltalk": "gst program.st",
+      "uninstall": "pkg uninstall smalltalk"
+    }
+  },
+  {
+    "name": "snake",
+    "version": "2022.11.07",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Snake is a classic snake game for the terminal.",
+    "homepage": "https://github.com/username/snake",
+    "installation": "pkg install snake",
+    "usage": "After installing snake, you can play the classic snake game in the terminal.",
+    "features": [
+      "Terminal Game: Provides a classic snake game for the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_snake": "snake",
+      "uninstall": "pkg uninstall snake"
+    }
+  },
+  {
+    "name": "snapcast-client",
+    "version": "0.30.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Snapcast Client is a client for Snapcast, a multi-room audio player.",
+    "homepage": "https://github.com/badaix/snapcast",
+    "installation": "pkg install snapcast-client",
+    "usage": "After installing Snapcast Client, you can use it to connect to a Snapcast server and play synchronized audio.",
+    "features": [
+      "Multi-Room Audio: Provides a client for Snapcast, a multi-room audio player.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to multi-room audio for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "snapclient",
+      "uninstall": "pkg uninstall snapcast-client"
+    }
+  }
+]

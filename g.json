@@ -1,0 +1,1358 @@
+[
+  {
+    "name": "g-ir-scanner",
+    "version": "1.82.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GObject Introspection is a middleware layer between C libraries (using GObject) and language bindings.",
+    "homepage": "https://gi.readthedocs.io/",
+    "installation": "pkg install g-ir-scanner",
+    "usage": "After installing g-ir-scanner, you can use it to scan C libraries and generate introspection data for use by language bindings.",
+    "features": [
+      "Introspection: Provides tools to generate introspection data for GObject-based libraries.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers command-line tools for scanning and generating introspection data.",
+      "Integration: Can be integrated into build systems to automate introspection data generation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GObject Introspection documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GObject and language bindings for support and discussions.",
+      "GitHub": "Visit the GObject Introspection GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "scan_library": "g-ir-scanner --namespace=MyLibrary --nsversion=1.0 MyLibrary.c -o MyLibrary-1.0.gir",
+      "uninstall": "pkg uninstall g-ir-scanner"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "game-music-emu",
+    "version": "0.6.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Game Music Emu is a collection of video game music file emulators.",
+    "homepage": "https://github.com/mpyne/game-music-emu",
+    "installation": "pkg install game-music-emu",
+    "usage": "After installing game-music-emu, you can use it to play music files from various video game consoles.",
+    "features": [
+      "Music Emulation: Provides emulators for various video game music file formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple API for integrating music emulation into applications.",
+      "Compatibility: Supports music file formats from consoles like NES, SNES, Sega Genesis, and more.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Game Music Emu documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video game music and emulation for support and discussions.",
+      "GitHub": "Visit the Game Music Emu GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "play_music": "Not applicable",
+      "uninstall": "pkg uninstall game-music-emu"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gap-packages",
+    "version": "4.14.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "GAP packages are additional collections of functionality for GAP, a system for computational discrete algebra.",
+    "homepage": "https://www.gap-system.org/",
+    "installation": "pkg install gap-packages",
+    "usage": "After installing gap-packages, you can use them to extend the capabilities of GAP for various algebraic computations.",
+    "features": [
+      "Extended Functionality: Provides additional packages to extend GAP's capabilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers seamless integration with the GAP system.",
+      "Customization: Allows users to add specific functionality required for their algebraic computations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GAP documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to computational algebra and GAP for support and discussions.",
+      "GitHub": "Visit the GAP GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "load_package": "LoadPackage(\"pkgname\");",
+      "uninstall": "pkg uninstall gap-packages"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gap",
+    "version": "4.14.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GAP (Groups, Algorithms, Programming) is a system for computational discrete algebra.",
+    "homepage": "https://www.gap-system.org/",
+    "installation": "pkg install gap",
+    "usage": "After installing gap, you can use it to perform computations in group theory, ring theory, and other areas of discrete algebra.",
+    "features": [
+      "Computational Algebra: Provides tools for performing computations in various areas of discrete algebra.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for performing algebraic computations.",
+      "Customization: Allows users to create custom scripts and functions for specific algebraic tasks.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GAP documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to computational algebra and GAP for support and discussions.",
+      "GitHub": "Visit the GAP GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gap": "gap",
+      "uninstall": "pkg uninstall gap"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gatling",
+    "version": "0.16-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gatling is a load testing tool designed for ease of use, maintainability, and high performance.",
+    "homepage": "https://gatling.io/",
+    "installation": "pkg install gatling",
+    "usage": "After installing gatling, you can use it to perform load testing on your web applications.",
+    "features": [
+      "Load Testing: Provides tools for performing load testing on web applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for running load tests.",
+      "Customization: Allows customization of test scenarios and configurations.",
+      "Integration: Can be integrated into CI/CD pipelines for automated performance testing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gatling documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to performance testing and Gatling for support and discussions.",
+      "GitHub": "Visit the Gatling GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_test": "gatling.sh -sf <test_script>",
+      "uninstall": "pkg uninstall gatling"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gauche-static",
+    "version": "0.9.12-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gauche is an R7RS Scheme implementation developed to be a handy script interpreter. This is the statically linked version.",
+    "homepage": "https://practical-scheme.net/gauche/",
+    "installation": "pkg install gauche-static",
+    "usage": "After installing gauche-static, you can use it to run Scheme scripts.",
+    "features": [
+      "Scheme Interpreter: Provides an interpreter for the Scheme programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a simple command-line interface for running Scheme scripts.",
+      "Integration: Can be integrated into development workflows and scripting environments.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gauche documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Scheme programming and Gauche for support and discussions.",
+      "GitHub": "Visit the Gauche GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_script": "gosh <script.scm>",
+      "uninstall": "pkg uninstall gauche-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gauche",
+    "version": "0.9.12-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gauche is an R7RS Scheme implementation developed to be a handy script interpreter.",
+    "homepage": "https://practical-scheme.net/gauche/",
+    "installation": "pkg install gauche",
+    "usage": "After installing gauche, you can use it to run Scheme scripts.",
+    "features": [
+      "Scheme Interpreter: Provides an interpreter for the Scheme programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a simple command-line interface for running Scheme scripts.",
+      "Integration: Can be integrated into development workflows and scripting environments.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gauche documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Scheme programming and Gauche for support and discussions.",
+      "GitHub": "Visit the Gauche GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_script": "gosh <script.scm>",
+      "uninstall": "pkg uninstall gauche"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gawk-static",
+    "version": "5.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gawk is the GNU implementation of the AWK programming language. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/gawk/",
+    "installation": "pkg install gawk-static",
+    "usage": "After installing gawk-static, you can use it to process text using the AWK programming language.",
+    "features": [
+      "Text Processing: Provides tools for text processing using the AWK programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a simple command-line interface for running AWK scripts.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gawk documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and Gawk for support and discussions.",
+      "GitHub": "Visit the Gawk GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_script": "gawk -f <script.awk> <input_file>",
+      "uninstall": "pkg uninstall gawk-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gawk",
+    "version": "5.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gawk is the GNU implementation of the AWK programming language.",
+    "homepage": "https://www.gnu.org/software/gawk/",
+    "installation": "pkg install gawk",
+    "usage": "After installing gawk, you can use it to process text using the AWK programming language.",
+    "features": [
+      "Text Processing: Provides tools for text processing using the AWK programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a simple command-line interface for running AWK scripts.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gawk documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and Gawk for support and discussions.",
+      "GitHub": "Visit the Gawk GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_script": "gawk -f <script.awk> <input_file>",
+      "uninstall": "pkg uninstall gawk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gbt",
+    "version": "2.0.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GBT (Git Build Tool) is a tool to help with building and managing Git repositories.",
+    "homepage": "https://github.com/jtyr/gbt",
+    "installation": "pkg install gbt",
+    "usage": "After installing gbt, you can use it to manage and build Git repositories.",
+    "features": [
+      "Repository Management: Provides tools for managing and building Git repositories.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for repository management.",
+      "Customization: Allows customization of build processes and configurations.",
+      "Integration: Can be integrated into development workflows and CI/CD pipelines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GBT documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git and GBT for support and discussions.",
+      "GitHub": "Visit the GBT GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "build_repo": "gbt build",
+      "uninstall": "pkg uninstall gbt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gcal",
+    "version": "4.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gcal is a program for calculating and printing calendars.",
+    "homepage": "https://www.gnu.org/software/gcal/",
+    "installation": "pkg install gcal",
+    "usage": "After installing gcal, you can use it to generate and print calendars.",
+    "features": [
+      "Calendar Generation: Provides tools for generating and printing calendars.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for calendar generation.",
+      "Customization: Allows customization of calendar formats and styles.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gcal documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to calendar tools and Gcal for support and discussions.",
+      "GitHub": "Visit the Gcal GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_calendar": "gcal",
+      "uninstall": "pkg uninstall gcal"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gdal",
+    "version": "3.10.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GDAL (Geospatial Data Abstraction Library) is a translator library for raster and vector geospatial data formats.",
+    "homepage": "https://gdal.org/",
+    "installation": "pkg install gdal",
+    "usage": "After installing gdal, you can use it to process geospatial data in various formats.",
+    "features": [
+      "Geospatial Data Processing: Provides tools for processing raster and vector geospatial data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for geospatial data processing.",
+      "Format Support: Supports a wide range of geospatial data formats.",
+      "Integration: Can be integrated into GIS applications and workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GDAL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to geospatial data and GDAL for support and discussions.",
+      "GitHub": "Visit the GDAL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_data": "gdal_translate -of GTiff input.tif output.tif",
+      "uninstall": "pkg uninstall gdal"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gdb",
+    "version": "15.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GDB, the GNU Project debugger, allows you to see what is going on inside a program while it executes or what it was doing at the moment it crashed.",
+    "homepage": "https://www.gnu.org/software/gdb/",
+    "installation": "pkg install gdb",
+    "usage": "After installing gdb, you can use it to debug your programs.",
+    "features": [
+      "Debugging: Provides tools for debugging programs written in various programming languages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for debugging tasks.",
+      "Integration: Can be integrated into development environments and build systems.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and GDB for support and discussions.",
+      "GitHub": "Visit the GDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gdb": "gdb <program>",
+      "uninstall": "pkg uninstall gdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gdbm-static",
+    "version": "1.24",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GDBM is a library of database functions that use extensible hashing. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/gdbm/",
+    "installation": "pkg install gdbm-static",
+    "usage": "After installing gdbm-static, you can use it to manage database files in your applications.",
+    "features": [
+      "Database Management: Provides functions for managing database files using extensible hashing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for database management tasks.",
+      "Integration: Can be integrated into applications requiring database functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GDBM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database management and GDBM for support and discussions.",
+      "GitHub": "Visit the GDBM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_database": "Not applicable",
+      "uninstall": "pkg uninstall gdbm-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gdbm",
+    "version": "1.24",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GDBM is a library of database functions that use extensible hashing.",
+    "homepage": "https://www.gnu.org/software/gdbm/",
+    "installation": "pkg install gdbm",
+    "usage": "After installing gdbm, you can use it to manage database files in your applications.",
+    "features": [
+      "Database Management: Provides functions for managing database files using extensible hashing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for database management tasks.",
+      "Integration: Can be integrated into applications requiring database functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GDBM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database management and GDBM for support and discussions.",
+      "GitHub": "Visit the GDBM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_database": "Not applicable",
+      "uninstall": "pkg uninstall gdbm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gdbserver",
+    "version": "15.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GDBserver is a program that allows you to run GDB on a different machine than the one which is running the program being debugged.",
+    "homepage": "https://www.gnu.org/software/gdb/",
+    "installation": "pkg install gdbserver",
+    "usage": "After installing gdbserver, you can use it to remotely debug programs.",
+    "features": [
+      "Remote Debugging: Provides tools for remote debugging of programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for remote debugging tasks.",
+      "Integration: Can be integrated into development environments and build systems.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and GDB for support and discussions.",
+      "GitHub": "Visit the GDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_gdbserver": "gdbserver <host>:<port> <program>",
+      "uninstall": "pkg uninstall gdbserver"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gdk-pixbuf",
+    "version": "2.42.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GdkPixbuf is a library for image loading and pixel buffer manipulation.",
+    "homepage": "https://developer.gnome.org/gdk-pixbuf/",
+    "installation": "pkg install gdk-pixbuf",
+    "usage": "After installing gdk-pixbuf, you can use it to load and manipulate images in your applications.",
+    "features": [
+      "Image Loading: Provides tools for loading images into memory.",
+      "Pixel Manipulation: Allows manipulation of pixel buffers for image processing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image loading and manipulation tasks.",
+      "Integration: Can be integrated into applications requiring image processing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GdkPixbuf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and GdkPixbuf for support and discussions.",
+      "GitHub": "Visit the GdkPixbuf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "load_image": "Not applicable",
+      "uninstall": "pkg uninstall gdk-pixbuf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gdrive-downloader",
+    "version": "1.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "GDrive Downloader is a script for downloading files from Google Drive.",
+    "homepage": "https://github.com/prasmussen/gdrive",
+    "installation": "pkg install gdrive-downloader",
+    "usage": "After installing gdrive-downloader, you can use it to download files from Google Drive.",
+    "features": [
+      "File Downloading: Provides tools for downloading files from Google Drive.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for downloading files.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GDrive Downloader documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file downloading and GDrive Downloader for support and discussions.",
+      "GitHub": "Visit the GDrive Downloader GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "download_file": "gdrive-downloader <file_id>",
+      "uninstall": "pkg uninstall gdrive-downloader"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gdu",
+    "version": "5.30.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GDU (Go Disk Usage) is a disk usage analyzer with a console interface written in Go.",
+    "homepage": "https://github.com/dundee/gdu",
+    "installation": "pkg install gdu",
+    "usage": "After installing gdu, you can use it to analyze disk usage on your system.",
+    "features": [
+      "Disk Usage Analysis: Provides tools for analyzing disk usage.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for disk usage analysis.",
+      "Performance: Written in Go for fast and efficient disk usage analysis.",
+      "Integration: Can be integrated into system maintenance and monitoring workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GDU documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disk usage analysis and GDU for support and discussions.",
+      "GitHub": "Visit the GDU GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "analyze_disk": "gdu <directory>",
+      "uninstall": "pkg uninstall gdu"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "geckodriver",
+    "version": "0.35.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Geckodriver is a proxy for using the W3C WebDriver-compatible clients to interact with Gecko-based browsers like Firefox.",
+    "homepage": "https://github.com/mozilla/geckodriver",
+    "installation": "pkg install geckodriver",
+    "usage": "After installing geckodriver, you can use it to automate web browser tasks with Gecko-based browsers.",
+    "features": [
+      "Browser Automation: Provides tools for automating web browser tasks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for browser automation tasks.",
+      "Compatibility: Supports Gecko-based browsers like Firefox.",
+      "Integration: Can be integrated into automated testing and CI/CD workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Geckodriver documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to browser automation and Geckodriver for support and discussions.",
+      "GitHub": "Visit the Geckodriver GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_geckodriver": "geckodriver",
+      "uninstall": "pkg uninstall geckodriver"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gecode-static",
+    "version": "6.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gecode is a toolkit for developing constraint-based systems and applications. This is the statically linked version.",
+    "homepage": "https://www.gecode.org/",
+    "installation": "pkg install gecode-static",
+    "usage": "After installing gecode-static, you can use it to develop constraint-based systems and applications.",
+    "features": [
+      "Constraint Programming: Provides tools for developing constraint-based systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for constraint programming tasks.",
+      "Integration: Can be integrated into applications requiring constraint-based solutions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gecode documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to constraint programming and Gecode for support and discussions.",
+      "GitHub": "Visit the Gecode GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_gecode": "Not applicable",
+      "uninstall": "pkg uninstall gecode-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gecode",
+    "version": "6.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gecode is a toolkit for developing constraint-based systems and applications.",
+    "homepage": "https://www.gecode.org/",
+    "installation": "pkg install gecode",
+    "usage": "After installing gecode, you can use it to develop constraint-based systems and applications.",
+    "features": [
+      "Constraint Programming: Provides tools for developing constraint-based systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for constraint programming tasks.",
+      "Integration: Can be integrated into applications requiring constraint-based solutions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gecode documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to constraint programming and Gecode for support and discussions.",
+      "GitHub": "Visit the Gecode GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_gecode": "Not applicable",
+      "uninstall": "pkg uninstall gecode"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gegl",
+    "version": "0.4.52",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GEGL (Generic Graphics Library) is a graph-based image processing framework.",
+    "homepage": "https://gegl.org/",
+    "installation": "pkg install gegl",
+    "usage": "After installing gegl, you can use it to develop image processing applications.",
+    "features": [
+      "Image Processing: Provides tools for developing image processing applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image processing tasks.",
+      "Integration: Can be integrated into graphics applications and workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GEGL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and GEGL for support and discussions.",
+      "GitHub": "Visit the GEGL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_image": "Not applicable",
+      "uninstall": "pkg uninstall gegl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gengetopt",
+    "version": "2.23-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gengetopt generates a C function that uses getopt_long function to parse command line options.",
+    "homepage": "https://www.gnu.org/software/gengetopt/",
+    "installation": "pkg install gengetopt",
+    "usage": "After installing gengetopt, you can use it to generate C code for parsing command line options.",
+    "features": [
+      "Code Generation: Provides tools for generating C code for command line option parsing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for generating code.",
+      "Integration: Can be integrated into C/C++ development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gengetopt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C/C++ development and Gengetopt for support and discussions.",
+      "GitHub": "Visit the Gengetopt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_code": "gengetopt <options>",
+      "uninstall": "pkg uninstall gengetopt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "geographiclib",
+    "version": "2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GeographicLib is a small set of C++ classes for converting between geographic, UTM, UPS, MGRS, geocentric, and local cartesian coordinates, for geoid calculations, and for computing the distance and azimuths between points.",
+    "homepage": "https://geographiclib.sourceforge.io/",
+    "installation": "pkg install geographiclib",
+    "usage": "After installing GeographicLib, you can use it to perform advanced geographic calculations and coordinate transformations.",
+    "features": [
+      "Coordinate Conversion: Supports conversion between geographic, UTM, UPS, MGRS, geocentric, and local cartesian coordinates.",
+      "Geoid Calculations: Provides tools for geoid height calculations.",
+      "Distance and Azimuth: Computes distances and azimuths between geographic points.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for performing geographic calculations.",
+      "Integration: Can be integrated into GIS applications and geospatial data processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GeographicLib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to geospatial data and GeographicLib for support and discussions.",
+      "GitHub": "Visit the GeographicLib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "convert_coordinates": "Not applicable",
+      "uninstall": "pkg uninstall geographiclib"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "geoip2-database",
+    "version": "20191221-2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "GeoIP2 databases are binary files that contain data used for IP geolocation and other information.",
+    "homepage": "https://dev.maxmind.com/geoip/geoip2/",
+    "installation": "pkg install geoip2-database",
+    "usage": "After installing GeoIP2 databases, you can use them to look up geographic information based on IP addresses.",
+    "features": [
+      "IP Geolocation: Provides data for determining the geographic location of IP addresses.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple API for querying geolocation data.",
+      "Integration: Can be integrated into applications requiring IP geolocation functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GeoIP2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to geolocation and GeoIP2 for support and discussions.",
+      "GitHub": "Visit the GeoIP2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "lookup_ip": "Not applicable",
+      "uninstall": "pkg uninstall geoip2-database"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "germanium",
+    "version": "1.2.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Germanium is a library for interacting with web browsers in a way similar to Selenium, but with more features and a simpler API.",
+    "homepage": "https://github.com/libGermanium/germanium",
+    "installation": "pkg install germanium",
+    "usage": "After installing Germanium, you can use it to automate web browser interactions.",
+    "features": [
+      "Browser Automation: Provides tools for automating web browser interactions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple API for browser automation tasks.",
+      "Compatibility: Supports various web browsers.",
+      "Integration: Can be integrated into automated testing and CI/CD workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Germanium documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to browser automation and Germanium for support and discussions.",
+      "GitHub": "Visit the Germanium GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "automate_browser": "Not applicable",
+      "uninstall": "pkg uninstall germanium"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "getconf",
+    "version": "0.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Getconf is a utility that displays the values of system configuration variables.",
+    "homepage": "https://man7.org/linux/man-pages/man1/getconf.1.html",
+    "installation": "pkg install getconf",
+    "usage": "After installing getconf, you can use it to query system configuration variables.",
+    "features": [
+      "System Configuration: Provides tools for querying system configuration variables.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for querying configuration variables.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Getconf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system configuration and Getconf for support and discussions.",
+      "GitHub": "Visit the Getconf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "query_variable": "getconf LONG_BIT",
+      "uninstall": "pkg uninstall getconf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "geth-utils",
+    "version": "1.14.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Geth-utils is a collection of utilities for managing Geth, the Go implementation of Ethereum.",
+    "homepage": "https://geth.ethereum.org/",
+    "installation": "pkg install geth-utils",
+    "usage": "After installing geth-utils, you can use them to manage your Geth node and interact with the Ethereum network.",
+    "features": [
+      "Ethereum Management: Provides tools for managing Geth nodes and interacting with the Ethereum network.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for Ethereum management tasks.",
+      "Integration: Can be integrated into blockchain development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Geth documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Ethereum and Geth for support and discussions.",
+      "GitHub": "Visit the Geth GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "manage_node": "geth-utils attach",
+      "uninstall": "pkg uninstall geth-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "geth",
+    "version": "1.14.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Geth is the Go implementation of Ethereum, a decentralized platform for applications.",
+    "homepage": "https://geth.ethereum.org/",
+    "installation": "pkg install geth",
+    "usage": "After installing geth, you can use it to run an Ethereum node and interact with the Ethereum network.",
+    "features": [
+      "Ethereum Node: Provides tools for running an Ethereum node.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for Ethereum tasks.",
+      "Integration: Can be integrated into blockchain development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Geth documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Ethereum and Geth for support and discussions.",
+      "GitHub": "Visit the Geth GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_node": "geth",
+      "uninstall": "pkg uninstall geth"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gettext-static",
+    "version": "0.23.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gettext is a set of tools to enable the use of message catalogs in applications. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/gettext/",
+    "installation": "pkg install gettext-static",
+    "usage": "After installing gettext-static, you can use it to internationalize your applications.",
+    "features": [
+      "Internationalization: Provides tools for enabling message catalogs in applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a simple API for internationalization tasks.",
+      "Integration: Can be integrated into development workflows for internationalization.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gettext documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to internationalization and Gettext for support and discussions.",
+      "GitHub": "Visit the Gettext GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_pot": "xgettext -o messages.pot <source_files>",
+      "uninstall": "pkg uninstall gettext-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gettext",
+    "version": "0.23.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gettext is a set of tools to enable the use of message catalogs in applications.",
+    "homepage": "https://www.gnu.org/software/gettext/",
+    "installation": "pkg install gettext",
+    "usage": "After installing gettext, you can use it to internationalize your applications.",
+    "features": [
+      "Internationalization: Provides tools for enabling message catalogs in applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a simple API for internationalization tasks.",
+      "Integration: Can be integrated into development workflows for internationalization.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gettext documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to internationalization and Gettext for support and discussions.",
+      "GitHub": "Visit the Gettext GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_pot": "xgettext -o messages.pot <source_files>",
+      "uninstall": "pkg uninstall gettext"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gexiv2",
+    "version": "0.14.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GExiv2 is a GObject wrapper around the Exiv2 library for image metadata management.",
+    "homepage": "https://wiki.gnome.org/Projects/gexiv2",
+    "installation": "pkg install gexiv2",
+    "usage": "After installing gexiv2, you can use it to manage image metadata in your applications.",
+    "features": [
+      "Image Metadata: Provides tools for managing image metadata using Exiv2.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for metadata management tasks.",
+      "Integration: Can be integrated into applications requiring image metadata management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GExiv2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image metadata and GExiv2 for support and discussions.",
+      "GitHub": "Visit the GExiv2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "manage_metadata": "Not applicable",
+      "uninstall": "pkg uninstall gexiv2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gflags-static",
+    "version": "2.2.2-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GFlags is a C++ library for processing command-line flags. This is the statically linked version.",
+    "homepage": "https://gflags.github.io/gflags/",
+    "installation": "pkg install gflags-static",
+    "usage": "After installing gflags-static, you can use it to process command-line flags in your applications.",
+    "features": [
+      "Command-Line Flags: Provides tools for processing command-line flags.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for command-line flag processing.",
+      "Integration: Can be integrated into C++ applications requiring command-line flag processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GFlags documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development and GFlags for support and discussions.",
+      "GitHub": "Visit the GFlags GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_flags": "Not applicable",
+      "uninstall": "pkg uninstall gflags-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gflags",
+    "version": "2.2.2-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GFlags is a C++ library for processing command-line flags.",
+    "homepage": "https://gflags.github.io/gflags/",
+    "installation": "pkg install gflags",
+    "usage": "After installing gflags, you can use it to process command-line flags in your applications.",
+    "features": [
+      "Command-Line Flags: Provides tools for processing command-line flags.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for command-line flag processing.",
+      "Integration: Can be integrated into C++ applications requiring command-line flag processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GFlags documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development and GFlags for support and discussions.",
+      "GitHub": "Visit the GFlags GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_flags": "Not applicable",
+      "uninstall": "pkg uninstall gflags"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gforth",
+    "version": "0.7.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gforth is a fast and portable implementation of the Forth programming language.",
+    "homepage": "https://www.gnu.org/software/gforth/",
+    "installation": "pkg install gforth",
+    "usage": "After installing gforth, you can use it to write and run Forth programs.",
+    "features": [
+      "Forth Programming: Provides tools for writing and running Forth programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for Forth programming.",
+      "Performance: Designed to be fast and portable.",
+      "Integration: Can be integrated into development workflows for Forth programming.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gforth documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Forth programming and Gforth for support and discussions.",
+      "GitHub": "Visit the Gforth GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_forth_program": "gforth <program.fs>",
+      "uninstall": "pkg uninstall gforth"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gh",
+    "version": "2.65.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The GitHub CLI tool, gh, helps you work with GitHub from the command line.",
+    "homepage": "https://cli.github.com/",
+    "installation": "pkg install gh",
+    "usage": "After installing gh, you can use it to manage your GitHub repositories and workflows from the command line.",
+    "features": [
+      "Repository Management: Provides tools for managing GitHub repositories, including creating issues, pull requests, and releases.",
+      "Workflow Integration: Allows integration with GitHub Actions workflows.",
+      "Ease of Use: Offers a simple command-line interface for interacting with GitHub.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Authentication: Supports secure authentication with GitHub accounts.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GitHub CLI documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GitHub and gh for support and discussions.",
+      "GitHub": "Visit the GitHub CLI GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_issue": "gh issue create",
+      "uninstall": "pkg uninstall gh"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ghostscript",
+    "version": "10.03.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ghostscript is an interpreter for the PostScript language and for PDF.",
+    "homepage": "https://www.ghostscript.com/",
+    "installation": "pkg install ghostscript",
+    "usage": "After installing ghostscript, you can use it to process PostScript and PDF files.",
+    "features": [
+      "PostScript Interpreter: Provides tools for interpreting and processing PostScript files.",
+      "PDF Processing: Supports processing and converting PDF files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for processing tasks.",
+      "Integration: Can be integrated into document processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ghostscript documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to document processing and Ghostscript for support and discussions.",
+      "GitHub": "Visit the Ghostscript GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "convert_pdf": "gs -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=output.pdf input.ps",
+      "uninstall": "pkg uninstall ghostscript"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "giflib-static",
+    "version": "5.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GIFLIB is a library for reading and writing GIF images. This is the statically linked version.",
+    "homepage": "http://giflib.sourceforge.net/",
+    "installation": "pkg install giflib-static",
+    "usage": "After installing giflib-static, you can use it to read and write GIF images in your applications.",
+    "features": [
+      "GIF Processing: Provides tools for reading and writing GIF images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for GIF processing tasks.",
+      "Integration: Can be integrated into applications requiring GIF processing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GIFLIB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and GIFLIB for support and discussions.",
+      "GitHub": "Visit the GIFLIB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_gif": "Not applicable",
+      "uninstall": "pkg uninstall giflib-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "giflib-utils",
+    "version": "5.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GIFLIB-utils is a set of utilities for processing GIF images using the GIFLIB library.",
+    "homepage": "http://giflib.sourceforge.net/",
+    "installation": "pkg install giflib-utils",
+    "usage": "After installing giflib-utils, you can use the utilities to process GIF images.",
+    "features": [
+      "GIF Processing: Provides utilities for processing GIF images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers command-line tools for GIF processing tasks.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GIFLIB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and GIFLIB for support and discussions.",
+      "GitHub": "Visit the GIFLIB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_gif": "gifsicle input.gif -o output.gif",
+      "uninstall": "pkg uninstall giflib-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "giflib",
+    "version": "5.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GIFLIB is a library for reading and writing GIF images.",
+    "homepage": "http://giflib.sourceforge.net/",
+    "installation": "pkg install giflib",
+    "usage": "After installing giflib, you can use it to read and write GIF images in your applications.",
+    "features": [
+      "GIF Processing: Provides tools for reading and writing GIF images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for GIF processing tasks.",
+      "Integration: Can be integrated into applications requiring GIF processing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GIFLIB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and GIFLIB for support and discussions.",
+      "GitHub": "Visit the GIFLIB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_gif": "Not applicable",
+      "uninstall": "pkg uninstall giflib"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gifsicle",
+    "version": "1.95",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gifsicle is a command-line tool for creating, editing, and getting information about GIF images and animations.",
+    "homepage": "https://www.lcdf.org/gifsicle/",
+    "installation": "pkg install gifsicle",
+    "usage": "After installing gifsicle, you can use it to manipulate GIF images and animations.",
+    "features": [
+      "GIF Manipulation: Provides tools for creating, editing, and optimizing GIF images and animations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for GIF manipulation tasks.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gifsicle documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Gifsicle for support and discussions.",
+      "GitHub": "Visit the Gifsicle GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "optimize_gif": "gifsicle -O3 input.gif -o output.gif",
+      "uninstall": "pkg uninstall gifsicle"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "gifski",
+    "version": "1.32.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Gifski converts video frames to high-quality GIF animations using pngquant's fancy features for efficient cross-frame palettes.",
+    "homepage": "https://gif.ski/",
+    "installation": "pkg install gifski",
+    "usage": "After installing gifski, you can use it to convert video frames to high-quality GIF animations.",
+    "features": [
+      "GIF Conversion: Provides tools for converting video frames to GIF animations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for GIF conversion tasks.",
+      "High Quality: Uses advanced features for efficient cross-frame palettes to produce high-quality GIFs.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Gifski documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Gifski for support and discussions.",
+      "GitHub": "Visit the Gifski GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "convert_video_to_gif": "gifski --fps 10 -o output.gif frame_*.png",
+      "uninstall": "pkg uninstall gifski"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "git-crypt",
+    "version": "0.7.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Git-crypt enables transparent encryption and decryption of files in a Git repository.",
+    "homepage": "https://github.com/AGWA/git-crypt",
+    "installation": "pkg install git-crypt",
+    "usage": "After installing git-crypt, you can use it to encrypt and decrypt files in your Git repository.",
+    "features": [
+      "File Encryption: Provides tools for encrypting and decrypting files in a Git repository.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for encryption tasks.",
+      "Integration: Can be integrated into Git workflows to protect sensitive information.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Git-crypt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git and Git-crypt for support and discussions.",
+      "GitHub": "Visit the Git-crypt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encrypt_file": "git-crypt lock",
+      "decrypt_file": "git-crypt unlock",
+      "uninstall": "pkg uninstall git-crypt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "git-delta",
+    "version": "0.18.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Delta is a syntax-highlighting pager for git, diff, and grep output.",
+    "homepage": "https://github.com/dandavison/delta",
+    "installation": "pkg install git-delta",
+    "usage": "After installing git-delta, you can use it to enhance the readability of git, diff, and grep output.",
+    "features": [
+      "Syntax Highlighting: Provides syntax highlighting for git, diff, and grep output.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for enhanced output readability.",
+      "Customization: Allows customization of themes and styles for output.",
+      "Integration: Can be integrated into Git workflows for improved code review and comparison.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Delta documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git and Delta for support and discussions.",
+      "GitHub": "Visit the Delta GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "view_diff": "git diff | delta",
+      "uninstall": "pkg uninstall git-delta"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "git-lfs",
+    "version": "3.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Git LFS (Large File Storage) is an open source Git extension for versioning large files.",
+    "homepage": "https://git-lfs.github.com/",
+    "installation": "pkg install git-lfs",
+    "usage": "After installing git-lfs, you can use it to version large files in your Git repositories.",
+    "features": [
+      "Large File Versioning: Provides tools for versioning large files in Git repositories.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for managing large files.",
+      "Integration: Can be integrated into Git workflows for handling large files efficiently.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Git LFS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git and Git LFS for support and discussions.",
+      "GitHub": "Visit the Git LFS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "track_large_file": "git lfs track <file>",
+      "uninstall": "pkg uninstall git-lfs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "git-sizer",
+    "version": "1.5.0-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Git-sizer computes various size metrics for a Git repository, including its history and individual objects.",
+    "homepage": "https://github.com/github/git-sizer",
+    "installation": "pkg install git-sizer",
+    "usage": "After installing git-sizer, you can use it to analyze the size of your Git repository.",
+    "features": [
+      "Repository Analysis: Provides tools for analyzing the size and structure of Git repositories.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for repository analysis tasks.",
+      "Integration: Can be integrated into Git workflows for monitoring repository size and health.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Git-sizer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git and Git-sizer for support and discussions.",
+      "GitHub": "Visit the Git-sizer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "analyze_repo": "git-sizer",
+      "uninstall": "pkg uninstall git-sizer"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "git-svn",
+    "version": "2.48.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Git-svn is a Git command that allows users to interact with Subversion repositories.",
+    "homepage": "https://git-scm.com/docs/git-svn",
+    "installation": "pkg install git-svn",
+    "usage": "After installing git-svn, you can use it to interact with Subversion repositories using Git.",
+    "features": [
+      "SVN Integration: Provides tools for interacting with Subversion repositories using Git.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for SVN tasks.",
+      "Migration: Assists in migrating SVN repositories to Git.",
+      "Integration: Can be integrated into development workflows involving both SVN and Git.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Git-svn documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git and SVN for support and discussions.",
+      "GitHub": "Visit the Git-svn GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "clone_svn_repo": "git svn clone <svn_repo_url>",
+      "uninstall": "pkg uninstall git-svn"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "git",
+    "version": "2.48.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+    "homepage": "https://git-scm.com/",
+    "installation": "pkg install git",
+    "usage": "After installing git, you can use it to manage your source code repositories.",
+    "features": [
+      "Version Control: Provides tools for distributed version control.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for version control tasks.",
+      "Branching and Merging: Supports advanced branching and merging capabilities.",
+      "Integration: Can be integrated into development workflows and CI/CD pipelines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Git documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git for support and discussions.",
+      "GitHub": "Visit the Git GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "initialize_repo": "git init",
+      "clone_repo": "git clone <repository_url>",
+      "uninstall": "pkg uninstall git"
+    },
+    "isFavorite": false
+  }
+]

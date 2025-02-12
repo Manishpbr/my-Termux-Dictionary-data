@@ -1,0 +1,1441 @@
+[
+  {
+    "name": "libpugixml",
+    "version": "1.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpugixml is a light-weight C++ XML processing library.",
+    "homepage": "https://pugixml.org/",
+    "installation": "pkg install libpugixml",
+    "usage": "After installing libpugixml, you can use it to parse and manipulate XML documents in your C++ applications.",
+    "features": [
+      "XML Processing: Provides tools for parsing and manipulating XML documents.",
+      "Light-Weight: Designed to be light-weight and efficient.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for XML processing tasks.",
+      "Integration: Can be integrated into applications requiring XML processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Pugixml documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML processing and Pugixml for support and discussions.",
+      "GitHub": "Visit the Pugixml GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pugixml": "Not applicable",
+      "uninstall": "pkg uninstall libpugixml"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libqrencode",
+    "version": "4.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libqrencode is a C library for encoding data in a QR code symbol.",
+    "homepage": "https://fukuchi.org/works/qrencode/",
+    "installation": "pkg install libqrencode",
+    "usage": "After installing libqrencode, you can use it to encode data into QR code symbols in your applications.",
+    "features": [
+      "QR Code Encoding: Provides tools for encoding data into QR code symbols.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for QR code encoding tasks.",
+      "Integration: Can be integrated into applications requiring QR code encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Qrencode documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to QR code encoding and Qrencode for support and discussions.",
+      "GitHub": "Visit the Qrencode GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_qrencode": "Not applicable",
+      "uninstall": "pkg uninstall libqrencode"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libraptor2-static",
+    "version": "2.0.16-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libraptor2 is a C library for parsing and serializing RDF syntaxes. This is the statically linked version.",
+    "homepage": "http://librdf.org/raptor/",
+    "installation": "pkg install libraptor2-static",
+    "usage": "After installing libraptor2-static, you can use it to parse and serialize RDF syntaxes in your applications.",
+    "features": [
+      "RDF Parsing and Serializing: Provides tools for parsing and serializing RDF syntaxes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for RDF tasks.",
+      "Integration: Can be integrated into applications requiring RDF parsing and serializing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Raptor documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RDF and Raptor for support and discussions.",
+      "GitHub": "Visit the Raptor GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_raptor": "Not applicable",
+      "uninstall": "pkg uninstall libraptor2-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libraptor2",
+    "version": "2.0.16-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libraptor2 is a C library for parsing and serializing RDF syntaxes.",
+    "homepage": "http://librdf.org/raptor/",
+    "installation": "pkg install libraptor2",
+    "usage": "After installing libraptor2, you can use it to parse and serialize RDF syntaxes in your applications.",
+    "features": [
+      "RDF Parsing and Serializing: Provides tools for parsing and serializing RDF syntaxes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for RDF tasks.",
+      "Integration: Can be integrated into applications requiring RDF parsing and serializing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Raptor documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RDF and Raptor for support and discussions.",
+      "GitHub": "Visit the Raptor GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_raptor": "Not applicable",
+      "uninstall": "pkg uninstall libraptor2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libraqm",
+    "version": "0.10.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libraqm is a library for complex text layout.",
+    "homepage": "https://github.com/HOST-Oman/libraqm",
+    "installation": "pkg install libraqm",
+    "usage": "After installing libraqm, you can use it to perform complex text layout tasks in your applications.",
+    "features": [
+      "Complex Text Layout: Provides tools for complex text layout tasks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for text layout tasks.",
+      "Integration: Can be integrated into applications requiring complex text layout.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Raqm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text layout and Raqm for support and discussions.",
+      "GitHub": "Visit the Raqm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_raqm": "Not applicable",
+      "uninstall": "pkg uninstall libraqm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librasqal-static",
+    "version": "0.9.33-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librasqal is a C library for querying RDF data. This is the statically linked version.",
+    "homepage": "http://librdf.org/rasqal/",
+    "installation": "pkg install librasqal-static",
+    "usage": "After installing librasqal-static, you can use it to query RDF data in your applications.",
+    "features": [
+      "RDF Querying: Provides tools for querying RDF data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for RDF querying tasks.",
+      "Integration: Can be integrated into applications requiring RDF querying.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Rasqal documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RDF querying and Rasqal for support and discussions.",
+      "GitHub": "Visit the Rasqal GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rasqal": "Not applicable",
+      "uninstall": "pkg uninstall librasqal-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librasqal",
+    "version": "0.9.33-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librasqal is a C library for querying RDF data.",
+    "homepage": "http://librdf.org/rasqal/",
+    "installation": "pkg install librasqal",
+    "usage": "After installing librasqal, you can use it to query RDF data in your applications.",
+    "features": [
+      "RDF Querying: Provides tools for querying RDF data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for RDF querying tasks.",
+      "Integration: Can be integrated into applications requiring RDF querying.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Rasqal documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RDF querying and Rasqal for support and discussions.",
+      "GitHub": "Visit the Rasqal GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rasqal": "Not applicable",
+      "uninstall": "pkg uninstall librasqal"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librav1e-static",
+    "version": "0.7.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librav1e is a library for AV1 video encoding. This is the statically linked version.",
+    "homepage": "https://github.com/xiph/rav1e",
+    "installation": "pkg install librav1e-static",
+    "usage": "After installing librav1e-static, you can use it to encode AV1 video in your applications.",
+    "features": [
+      "AV1 Encoding: Provides tools for encoding video in the AV1 format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for encoding tasks.",
+      "Integration: Can be integrated into applications requiring AV1 encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Rav1e documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video encoding and Rav1e for support and discussions.",
+      "GitHub": "Visit the Rav1e GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rav1e": "Not applicable",
+      "uninstall": "pkg uninstall librav1e-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librav1e",
+    "version": "0.7.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librav1e is a library for AV1 video encoding.",
+    "homepage": "https://github.com/xiph/rav1e",
+    "installation": "pkg install librav1e",
+    "usage": "After installing librav1e, you can use it to encode AV1 video in your applications.",
+    "features": [
+      "AV1 Encoding: Provides tools for encoding video in the AV1 format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for encoding tasks.",
+      "Integration: Can be integrated into applications requiring AV1 encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Rav1e documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video encoding and Rav1e for support and discussions.",
+      "GitHub": "Visit the Rav1e GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rav1e": "Not applicable",
+      "uninstall": "pkg uninstall librav1e"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libraw-static",
+    "version": "0.21.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libraw is a library for reading RAW files from digital cameras. This is the statically linked version.",
+    "homepage": "https://www.libraw.org/",
+    "installation": "pkg install libraw-static",
+    "usage": "After installing libraw-static, you can use it to read RAW files from digital cameras in your applications.",
+    "features": [
+      "RAW File Reading: Provides tools for reading RAW files from digital cameras.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for RAW file tasks.",
+      "Integration: Can be integrated into applications requiring RAW file reading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libraw documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RAW file processing and Libraw for support and discussions.",
+      "GitHub": "Visit the Libraw GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_raw": "Not applicable",
+      "uninstall": "pkg uninstall libraw-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libraw",
+    "version": "0.21.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libraw is a library for reading RAW files from digital cameras.",
+    "homepage": "https://www.libraw.org/",
+    "installation": "pkg install libraw",
+    "usage": "After installing libraw, you can use it to read RAW files from digital cameras in your applications.",
+    "features": [
+      "RAW File Reading: Provides tools for reading RAW files from digital cameras.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for RAW file tasks.",
+      "Integration: Can be integrated into applications requiring RAW file reading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libraw documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RAW file processing and Libraw for support and discussions.",
+      "GitHub": "Visit the Libraw GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_raw": "Not applicable",
+      "uninstall": "pkg uninstall libraw"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libre2",
+    "version": "2024.07.02-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libre2 is a fast, safe, and compatible regular expression library.",
+    "homepage": "https://github.com/google/re2",
+    "installation": "pkg install libre2",
+    "usage": "After installing libre2, you can use it to perform regular expression tasks in your applications.",
+    "features": [
+      "Regular Expressions: Provides tools for performing regular expression tasks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for regular expression tasks.",
+      "Integration: Can be integrated into applications requiring regular expressions.",
+      "Open Source: An open-source project with a large community of users and contributors.",
+      "Performance: Optimized for performance and safety."
+    ],
+    "additional_resources": "For more information, visit the RE2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to regular expressions and RE2 for support and discussions.",
+      "GitHub": "Visit the RE2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_re2": "Not applicable",
+      "uninstall": "pkg uninstall libre2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libregexp-assemble-perl",
+    "version": "0.38-6",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Libregexp-assemble-perl is a Perl module to assemble multiple regular expressions into a single regular expression.",
+    "homepage": "https://metacpan.org/pod/Regexp::Assemble",
+    "installation": "pkg install libregexp-assemble-perl",
+    "usage": "After installing libregexp-assemble-perl, you can use it to combine multiple regular expressions into one in your Perl applications.",
+    "features": [
+      "Regular Expression Assembly: Provides tools for assembling multiple regular expressions into one.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for regular expression tasks.",
+      "Integration: Can be integrated into applications requiring regular expression assembly.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Regexp::Assemble documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Perl and regular expressions for support and discussions.",
+      "GitHub": "Visit the Regexp::Assemble GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_regexp_assemble": "Not applicable",
+      "uninstall": "pkg uninstall libregexp-assemble-perl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libresolv-wrapper",
+    "version": "1.1.7-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libresolv-wrapper is a wrapper for the resolver library to help with DNS queries in test environments.",
+    "homepage": "https://cwrap.org/resolv_wrapper.html",
+    "installation": "pkg install libresolv-wrapper",
+    "usage": "After installing libresolv-wrapper, you can use it to handle DNS queries in test environments.",
+    "features": [
+      "DNS Queries: Provides tools for handling DNS queries in test environments.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for DNS tasks.",
+      "Integration: Can be integrated into applications requiring DNS query handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Resolv-wrapper documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS and Resolv-wrapper for support and discussions.",
+      "GitHub": "Visit the Resolv-wrapper GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_resolv_wrapper": "Not applicable",
+      "uninstall": "pkg uninstall libresolv-wrapper"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libretls-static",
+    "version": "3.8.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libretls is a port of libtls from LibreSSL to OpenSSL. This is the statically linked version.",
+    "homepage": "https://libretls.org/",
+    "installation": "pkg install libretls-static",
+    "usage": "After installing libretls-static, you can use it to provide TLS functionalities in your applications.",
+    "features": [
+      "TLS Functionality: Provides tools for implementing TLS functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for TLS tasks.",
+      "Integration: Can be integrated into applications requiring TLS functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libretls documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to TLS and Libretls for support and discussions.",
+      "GitHub": "Visit the Libretls GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_retls": "Not applicable",
+      "uninstall": "pkg uninstall libretls-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libretls",
+    "version": "3.8.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libretls is a port of libtls from LibreSSL to OpenSSL.",
+    "homepage": "https://libretls.org/",
+    "installation": "pkg install libretls",
+    "usage": "After installing libretls, you can use it to provide TLS functionalities in your applications.",
+    "features": [
+      "TLS Functionality: Provides tools for implementing TLS functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for TLS tasks.",
+      "Integration: Can be integrated into applications requiring TLS functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libretls documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to TLS and Libretls for support and discussions.",
+      "GitHub": "Visit the Libretls GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_retls": "Not applicable",
+      "uninstall": "pkg uninstall libretls"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librime",
+    "version": "1.12.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librime is a cross-platform input method engine supporting various input methods.",
+    "homepage": "https://rime.im/",
+    "installation": "pkg install librime",
+    "usage": "After installing librime, you can use it to implement input methods in your applications.",
+    "features": [
+      "Input Method Engine: Provides tools for implementing various input methods.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for input method tasks.",
+      "Integration: Can be integrated into applications requiring input methods.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Rime documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to input methods and Rime for support and discussions.",
+      "GitHub": "Visit the Rime GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rime": "Not applicable",
+      "uninstall": "pkg uninstall librime"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librinutils",
+    "version": "0.10.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librinutils is a collection of utility functions for C applications.",
+    "homepage": "https://github.com/rinutils/librinutils",
+    "installation": "pkg install librinutils",
+    "usage": "After installing librinutils, you can use it to provide utility functions in your C applications.",
+    "features": [
+      "Utility Functions: Provides a collection of utility functions for C applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for utility tasks.",
+      "Integration: Can be integrated into applications requiring utility functions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Rinutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C programming and Rinutils for support and discussions.",
+      "GitHub": "Visit the Rinutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rinutils": "Not applicable",
+      "uninstall": "pkg uninstall librinutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librnnoise-static",
+    "version": "2021.03.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librnnoise is a library for noise suppression in audio signals. This is the statically linked version.",
+    "homepage": "https://github.com/xiph/rnnoise",
+    "installation": "pkg install librnnoise-static",
+    "usage": "After installing librnnoise-static, you can use it to perform noise suppression in your audio applications.",
+    "features": [
+      "Noise Suppression: Provides tools for noise suppression in audio signals.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for noise suppression tasks.",
+      "Integration: Can be integrated into applications requiring noise suppression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the RNNoise documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and RNNoise for support and discussions.",
+      "GitHub": "Visit the RNNoise GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rnnoise": "Not applicable",
+      "uninstall": "pkg uninstall librnnoise-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librnnoise",
+    "version": "2021.03.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librnnoise is a library for noise suppression in audio signals.",
+    "homepage": "https://github.com/xiph/rnnoise",
+    "installation": "pkg install librnnoise",
+    "usage": "After installing librnnoise, you can use it to perform noise suppression in your audio applications.",
+    "features": [
+      "Noise Suppression: Provides tools for noise suppression in audio signals.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for noise suppression tasks.",
+      "Integration: Can be integrated into applications requiring noise suppression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the RNNoise documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and RNNoise for support and discussions.",
+      "GitHub": "Visit the RNNoise GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rnnoise": "Not applicable",
+      "uninstall": "pkg uninstall librnnoise"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librocksdb-static",
+    "version": "8.11.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librocksdb is a high performance embedded database for key-value data. This is the statically linked version.",
+    "homepage": "https://rocksdb.org/",
+    "installation": "pkg install librocksdb-static",
+    "usage": "After installing librocksdb-static, you can use it to manage key-value data in your applications.",
+    "features": [
+      "Key-Value Database: Provides tools for managing key-value data.",
+      "High Performance: Optimized for high performance.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring key-value database.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the RocksDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database management and RocksDB for support and discussions.",
+      "GitHub": "Visit the RocksDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rocksdb": "Not applicable",
+      "uninstall": "pkg uninstall librocksdb-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librocksdb",
+    "version": "8.11.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librocksdb is a high performance embedded database for key-value data.",
+    "homepage": "https://rocksdb.org/",
+    "installation": "pkg install librocksdb",
+    "usage": "After installing librocksdb, you can use it to manage key-value data in your applications.",
+    "features": [
+      "Key-Value Database: Provides tools for managing key-value data.",
+      "High Performance: Optimized for high performance.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring key-value database.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the RocksDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database management and RocksDB for support and discussions.",
+      "GitHub": "Visit the RocksDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rocksdb": "Not applicable",
+      "uninstall": "pkg uninstall librocksdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librsvg",
+    "version": "2.59.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librsvg is a library to render SVG files using Cairo.",
+    "homepage": "https://wiki.gnome.org/Projects/LibRsvg",
+    "installation": "pkg install librsvg",
+    "usage": "After installing librsvg, you can use it to render SVG files in your applications.",
+    "features": [
+      "SVG Rendering: Provides tools for rendering SVG files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for SVG rendering tasks.",
+      "Integration: Can be integrated into applications requiring SVG rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Librsvg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SVG rendering and Librsvg for support and discussions.",
+      "GitHub": "Visit the Librsvg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rsvg": "Not applicable",
+      "uninstall": "pkg uninstall librsvg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librsync",
+    "version": "2.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librsync is a library for delta compression of binary files.",
+    "homepage": "https://librsync.github.io/",
+    "installation": "pkg install librsync",
+    "usage": "After installing librsync, you can use it to perform delta compression of binary files in your applications.",
+    "features": [
+      "Delta Compression: Provides tools for delta compression of binary files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring delta compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Librsync documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression and Librsync for support and discussions.",
+      "GitHub": "Visit the Librsync GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rsync": "Not applicable",
+      "uninstall": "pkg uninstall librsync"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librtmidi",
+    "version": "5.0.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librtmidi is a C++ library that provides a common API for realtime MIDI input and output.",
+    "homepage": "https://www.music.mcgill.ca/~gary/rtmidi/",
+    "installation": "pkg install librtmidi",
+    "usage": "After installing librtmidi, you can use it to handle realtime MIDI input and output in your applications.",
+    "features": [
+      "MIDI Input and Output: Provides tools for realtime MIDI input and output.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for MIDI tasks.",
+      "Integration: Can be integrated into applications requiring MIDI handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the RtMidi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to MIDI processing and RtMidi for support and discussions.",
+      "GitHub": "Visit the RtMidi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rtmidi": "Not applicable",
+      "uninstall": "pkg uninstall librtmidi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librttopo-static",
+    "version": "1.1.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librttopo is a library for handling topological features. This is the statically linked version.",
+    "homepage": "https://git.osgeo.org/gitea/rttopo/librttopo",
+    "installation": "pkg install librttopo-static",
+    "usage": "After installing librttopo-static, you can use it to handle topological features in your applications.",
+    "features": [
+      "Topological Features: Provides tools for handling topological features.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for topological tasks.",
+      "Integration: Can be integrated into applications requiring topological handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the RtTopo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to topological features and RtTopo for support and discussions.",
+      "GitHub": "Visit the RtTopo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rttopo": "Not applicable",
+      "uninstall": "pkg uninstall librttopo-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librttopo",
+    "version": "1.1.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librttopo is a library for handling topological features.",
+    "homepage": "https://git.osgeo.org/gitea/rttopo/librttopo",
+    "installation": "pkg install librttopo",
+    "usage": "After installing librttopo, you can use it to handle topological features in your applications.",
+    "features": [
+      "Topological Features: Provides tools for handling topological features.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for topological tasks.",
+      "Integration: Can be integrated into applications requiring topological handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the RtTopo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to topological features and RtTopo for support and discussions.",
+      "GitHub": "Visit the RtTopo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rttopo": "Not applicable",
+      "uninstall": "pkg uninstall librttopo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "librusty-v8",
+    "version": "130.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Librusty-v8 is a safe Rust binding to the V8 JavaScript engine.",
+    "homepage": "https://github.com/denoland/rusty_v8",
+    "installation": "pkg install librusty-v8",
+    "usage": "After installing librusty-v8, you can use it to execute JavaScript code in your Rust applications.",
+    "features": [
+      "JavaScript Engine: Provides bindings to the V8 JavaScript engine.",
+      "Safe Rust: Ensures safety by leveraging Rust's ownership model and type system.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for JavaScript execution tasks.",
+      "Integration: Can be integrated into applications requiring JavaScript execution.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Rusty V8 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Rust and V8 for support and discussions.",
+      "GitHub": "Visit the Rusty V8 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_rusty_v8": "Not applicable",
+      "uninstall": "pkg uninstall librusty-v8"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsamplerate",
+    "version": "0.2.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsamplerate is a library for performing sample rate conversion of audio data.",
+    "homepage": "http://www.mega-nerd.com/SRC/",
+    "installation": "pkg install libsamplerate",
+    "usage": "After installing libsamplerate, you can use it to perform sample rate conversion in your audio applications.",
+    "features": [
+      "Sample Rate Conversion: Provides tools for performing sample rate conversion of audio data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for sample rate conversion tasks.",
+      "Integration: Can be integrated into applications requiring sample rate conversion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsamplerate documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Libsamplerate for support and discussions.",
+      "GitHub": "Visit the Libsamplerate GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_samplerate": "Not applicable",
+      "uninstall": "pkg uninstall libsamplerate"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsasl-static",
+    "version": "2.1.28-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsasl is a Simple Authentication and Security Layer (SASL) library. This is the statically linked version.",
+    "homepage": "https://www.cyrusimap.org/sasl/",
+    "installation": "pkg install libsasl-static",
+    "usage": "After installing libsasl-static, you can use it to implement SASL authentication in your applications.",
+    "features": [
+      "SASL Authentication: Provides tools for implementing Simple Authentication and Security Layer (SASL) authentication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for authentication tasks.",
+      "Integration: Can be integrated into applications requiring SASL authentication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the SASL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to authentication and SASL for support and discussions.",
+      "GitHub": "Visit the SASL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sasl": "Not applicable",
+      "uninstall": "pkg uninstall libsasl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsasl",
+    "version": "2.1.28-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsasl is a Simple Authentication and Security Layer (SASL) library.",
+    "homepage": "https://www.cyrusimap.org/sasl/",
+    "installation": "pkg install libsasl",
+    "usage": "After installing libsasl, you can use it to implement SASL authentication in your applications.",
+    "features": [
+      "SASL Authentication: Provides tools for implementing Simple Authentication and Security Layer (SASL) authentication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for authentication tasks.",
+      "Integration: Can be integrated into applications requiring SASL authentication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the SASL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to authentication and SASL for support and discussions.",
+      "GitHub": "Visit the SASL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sasl": "Not applicable",
+      "uninstall": "pkg uninstall libsasl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsass-static",
+    "version": "3.6.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsass is a C/C++ library that implements the Sass CSS preprocessor. This is the statically linked version.",
+    "homepage": "https://sass-lang.com/libsass",
+    "installation": "pkg install libsass-static",
+    "usage": "After installing libsass-static, you can use it to compile Sass to CSS in your applications.",
+    "features": [
+      "Sass to CSS Compilation: Provides tools for compiling Sass to CSS.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for compilation tasks.",
+      "Integration: Can be integrated into applications requiring Sass compilation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsass documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CSS preprocessing and Libsass for support and discussions.",
+      "GitHub": "Visit the Libsass GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sass": "Not applicable",
+      "uninstall": "pkg uninstall libsass-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsass",
+    "version": "3.6.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsass is a C/C++ library that implements the Sass CSS preprocessor.",
+    "homepage": "https://sass-lang.com/libsass",
+    "installation": "pkg install libsass",
+    "usage": "After installing libsass, you can use it to compile Sass to CSS in your applications.",
+    "features": [
+      "Sass to CSS Compilation: Provides tools for compiling Sass to CSS.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for compilation tasks.",
+      "Integration: Can be integrated into applications requiring Sass compilation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsass documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CSS preprocessing and Libsass for support and discussions.",
+      "GitHub": "Visit the Libsass GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sass": "Not applicable",
+      "uninstall": "pkg uninstall libsass"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsearpc-static",
+    "version": "3.2.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsearpc is a simple C language RPC framework based on GObject system. This is the statically linked version.",
+    "homepage": "https://github.com/haiwen/libsearpc",
+    "installation": "pkg install libsearpc-static",
+    "usage": "After installing libsearpc-static, you can use it to implement RPC functionalities in your applications.",
+    "features": [
+      "RPC Framework: Provides tools for implementing Remote Procedure Call (RPC) functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for RPC tasks.",
+      "Integration: Can be integrated into applications requiring RPC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsearpc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RPC frameworks and Libsearpc for support and discussions.",
+      "GitHub": "Visit the Libsearpc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_searpc": "Not applicable",
+      "uninstall": "pkg uninstall libsearpc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsearpc",
+    "version": "3.2.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsearpc is a simple C language RPC framework based on GObject system.",
+    "homepage": "https://github.com/haiwen/libsearpc",
+    "installation": "pkg install libsearpc",
+    "usage": "After installing libsearpc, you can use it to implement RPC functionalities in your applications.",
+    "features": [
+      "RPC Framework: Provides tools for implementing Remote Procedure Call (RPC) functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for RPC tasks.",
+      "Integration: Can be integrated into applications requiring RPC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsearpc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RPC frameworks and Libsearpc for support and discussions.",
+      "GitHub": "Visit the Libsearpc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_searpc": "Not applicable",
+      "uninstall": "pkg uninstall libsearpc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libseat",
+    "version": "0.9.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libseat is a library to abstract away the specifics of different seat management APIs.",
+    "homepage": "https://git.sr.ht/~kennylevinsen/seatd",
+    "installation": "pkg install libseat",
+    "usage": "After installing libseat, you can use it to manage seats in your applications.",
+    "features": [
+      "Seat Management: Provides tools for abstracting away the specifics of different seat management APIs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for seat management tasks.",
+      "Integration: Can be integrated into applications requiring seat management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libseat documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to seat management and Libseat for support and discussions.",
+      "GitHub": "Visit the Libseat GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_seat": "Not applicable",
+      "uninstall": "pkg uninstall libseat"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libseccomp-static",
+    "version": "2.5.5-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libseccomp is a library for Linux syscall filtering. This is the statically linked version.",
+    "homepage": "https://github.com/seccomp/libseccomp",
+    "installation": "pkg install libseccomp-static",
+    "usage": "After installing libseccomp-static, you can use it to implement syscall filtering in your applications.",
+    "features": [
+      "Syscall Filtering: Provides tools for implementing Linux syscall filtering.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for syscall filtering tasks.",
+      "Integration: Can be integrated into applications requiring syscall filtering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libseccomp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to syscall filtering and Libseccomp for support and discussions.",
+      "GitHub": "Visit the Libseccomp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_seccomp": "Not applicable",
+      "uninstall": "pkg uninstall libseccomp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libseccomp",
+    "version": "2.5.5-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libseccomp is a library for Linux syscall filtering.",
+    "homepage": "https://github.com/seccomp/libseccomp",
+    "installation": "pkg install libseccomp",
+    "usage": "After installing libseccomp, you can use it to implement syscall filtering in your applications.",
+    "features": [
+      "Syscall Filtering: Provides tools for implementing Linux syscall filtering.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for syscall filtering tasks.",
+      "Integration: Can be integrated into applications requiring syscall filtering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libseccomp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to syscall filtering and Libseccomp for support and discussions.",
+      "GitHub": "Visit the Libseccomp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_seccomp": "Not applicable",
+      "uninstall": "pkg uninstall libseccomp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsecp256k1-static",
+    "version": "1:0.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsecp256k1 is a library for EC operations on curve secp256k1. This is the statically linked version.",
+    "homepage": "https://github.com/bitcoin-core/secp256k1",
+    "installation": "pkg install libsecp256k1-static",
+    "usage": "After installing libsecp256k1-static, you can use it to perform EC operations on curve secp256k1 in your applications.",
+    "features": [
+      "EC Operations: Provides tools for performing elliptic curve operations on curve secp256k1.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for elliptic curve operations.",
+      "Integration: Can be integrated into applications requiring elliptic curve operations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Secp256k1 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to elliptic curve cryptography and Secp256k1 for support and discussions.",
+      "GitHub": "Visit the Secp256k1 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_secp256k1": "Not applicable",
+      "uninstall": "pkg uninstall libsecp256k1-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsecp256k1",
+    "version": "1:0.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsecp256k1 is a library for EC operations on curve secp256k1.",
+    "homepage": "https://github.com/bitcoin-core/secp256k1",
+    "installation": "pkg install libsecp256k1",
+    "usage": "After installing libsecp256k1, you can use it to perform EC operations on curve secp256k1 in your applications.",
+    "features": [
+      "EC Operations: Provides tools for performing elliptic curve operations on curve secp256k1.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for elliptic curve operations.",
+      "Integration: Can be integrated into applications requiring elliptic curve operations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Secp256k1 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to elliptic curve cryptography and Secp256k1 for support and discussions.",
+      "GitHub": "Visit the Secp256k1 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_secp256k1": "Not applicable",
+      "uninstall": "pkg uninstall libsecp256k1"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsecret",
+    "version": "0.21.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsecret is a library for storing and retrieving passwords and other secrets.",
+    "homepage": "https://wiki.gnome.org/Projects/Libsecret",
+    "installation": "pkg install libsecret",
+    "usage": "After installing libsecret, you can use it to store and retrieve passwords and other secrets in your applications.",
+    "features": [
+      "Password Storage: Provides tools for storing and retrieving passwords and other secrets.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for secret management tasks.",
+      "Integration: Can be integrated into applications requiring password storage and retrieval.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsecret documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to secret management and Libsecret for support and discussions.",
+      "GitHub": "Visit the Libsecret GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_secret": "Not applicable",
+      "uninstall": "pkg uninstall libsecret"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsfdo",
+    "version": "0.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsfdo is a library for working with the SmartFile Data Object (SFDO) format.",
+    "homepage": "https://github.com/smartfile/libsfdo",
+    "installation": "pkg install libsfdo",
+    "usage": "After installing libsfdo, you can use it to work with the SFDO format in your applications.",
+    "features": [
+      "SFDO Format: Provides tools for working with the SmartFile Data Object (SFDO) format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for SFDO tasks.",
+      "Integration: Can be integrated into applications requiring SFDO handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the SFDO documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data formats and SFDO for support and discussions.",
+      "GitHub": "Visit the SFDO GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sfdo": "Not applicable",
+      "uninstall": "pkg uninstall libsfdo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libshout-static",
+    "version": "2.4.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libshout is a library for communicating with and sending data to an Icecast server. This is the statically linked version.",
+    "homepage": "https://icecast.org/",
+    "installation": "pkg install libshout-static",
+    "usage": "After installing libshout-static, you can use it to communicate with and send data to an Icecast server in your applications.",
+    "features": [
+      "Icecast Communication: Provides tools for communicating with and sending data to an Icecast server.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Icecast tasks.",
+      "Integration: Can be integrated into applications requiring Icecast communication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libshout documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to streaming and Icecast for support and discussions.",
+      "GitHub": "Visit the Icecast GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_shout": "Not applicable",
+      "uninstall": "pkg uninstall libshout-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libshout",
+    "version": "2.4.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libshout is a library for communicating with and sending data to an Icecast server.",
+    "homepage": "https://icecast.org/",
+    "installation": "pkg install libshout",
+    "usage": "After installing libshout, you can use it to communicate with and send data to an Icecast server in your applications.",
+    "features": [
+      "Icecast Communication: Provides tools for communicating with and sending data to an Icecast server.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Icecast tasks.",
+      "Integration: Can be integrated into applications requiring Icecast communication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libshout documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to streaming and Icecast for support and discussions.",
+      "GitHub": "Visit the Icecast GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_shout": "Not applicable",
+      "uninstall": "pkg uninstall libshout"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsigc++-2.0",
+    "version": "2.12.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsigc++ is a C++ library for typesafe callbacks and signals.",
+    "homepage": "https://libsigcplusplus.github.io/libsigcplusplus/",
+    "installation": "pkg install libsigc++-2.0",
+    "usage": "After installing libsigc++-2.0, you can use it to implement typesafe callbacks and signals in your C++ applications.",
+    "features": [
+      "Typesafe Callbacks: Provides tools for implementing typesafe callbacks and signals.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for callback and signal tasks.",
+      "Integration: Can be integrated into applications requiring callbacks and signals.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsigc++ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development and Libsigc++ for support and discussions.",
+      "GitHub": "Visit the Libsigc++ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sigc++": "Not applicable",
+      "uninstall": "pkg uninstall libsigc++-2.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsigc++-3.0",
+    "version": "3.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsigc++ is a C++ library for typesafe callbacks and signals.",
+    "homepage": "https://libsigcplusplus.github.io/libsigcplusplus/",
+    "installation": "pkg install libsigc++-3.0",
+    "usage": "After installing libsigc++-3.0, you can use it to implement typesafe callbacks and signals in your C++ applications.",
+    "features": [
+      "Typesafe Callbacks: Provides tools for implementing typesafe callbacks and signals.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for callback and signal tasks.",
+      "Integration: Can be integrated into applications requiring callbacks and signals.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsigc++ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development and Libsigc++ for support and discussions.",
+      "GitHub": "Visit the Libsigc++ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sigc++": "Not applicable",
+      "uninstall": "pkg uninstall libsigc++-3.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsignal-protocol-c",
+    "version": "2.3.3-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsignal-protocol-c is a library for the Signal Protocol, providing end-to-end encryption for messaging applications.",
+    "homepage": "https://github.com/signalapp/libsignal-protocol-c",
+    "installation": "pkg install libsignal-protocol-c",
+    "usage": "After installing libsignal-protocol-c, you can use it to implement end-to-end encryption for messaging in your applications.",
+    "features": [
+      "End-to-End Encryption: Provides tools for implementing end-to-end encryption using the Signal Protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for encryption tasks.",
+      "Integration: Can be integrated into applications requiring secure messaging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Signal Protocol documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to secure messaging and the Signal Protocol for support and discussions.",
+      "GitHub": "Visit the Signal Protocol GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_signal_protocol": "Not applicable",
+      "uninstall": "pkg uninstall libsignal-protocol-c"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsigsegv-static",
+    "version": "2.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsigsegv is a library for handling page faults in user mode. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/libsigsegv/",
+    "installation": "pkg install libsigsegv-static",
+    "usage": "After installing libsigsegv-static, you can use it to handle page faults in user mode in your applications.",
+    "features": [
+      "Page Fault Handling: Provides tools for handling page faults in user mode.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for page fault handling tasks.",
+      "Integration: Can be integrated into applications requiring page fault handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsigsegv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to page fault handling and Libsigsegv for support and discussions.",
+      "GitHub": "Visit the Libsigsegv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sigsegv": "Not applicable",
+      "uninstall": "pkg uninstall libsigsegv-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsigsegv",
+    "version": "2.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsigsegv is a library for handling page faults in user mode.",
+    "homepage": "https://www.gnu.org/software/libsigsegv/",
+    "installation": "pkg install libsigsegv",
+    "usage": "After installing libsigsegv, you can use it to handle page faults in user mode in your applications.",
+    "features": [
+      "Page Fault Handling: Provides tools for handling page faults in user mode.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for page fault handling tasks.",
+      "Integration: Can be integrated into applications requiring page fault handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsigsegv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to page fault handling and Libsigsegv for support and discussions.",
+      "GitHub": "Visit the Libsigsegv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sigsegv": "Not applicable",
+      "uninstall": "pkg uninstall libsigsegv"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsixel",
+    "version": "1.10.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsixel is a library to generate and decode SIXEL graphics, a bitmap graphics format for terminals.",
+    "homepage": "https://saitoha.github.io/libsixel/",
+    "installation": "pkg install libsixel",
+    "usage": "After installing libsixel, you can use it to generate and decode SIXEL graphics in your applications.",
+    "features": [
+      "SIXEL Graphics: Provides tools for generating and decoding SIXEL graphics.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for graphics tasks.",
+      "Integration: Can be integrated into applications requiring SIXEL graphics handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsixel documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal graphics and Libsixel for support and discussions.",
+      "GitHub": "Visit the Libsixel GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sixel": "Not applicable",
+      "uninstall": "pkg uninstall libsixel"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libslirp",
+    "version": "4.8.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libslirp is a user-mode networking library used by virtual machines and containers.",
+    "homepage": "https://gitlab.freedesktop.org/slirp/libslirp",
+    "installation": "pkg install libslirp",
+    "usage": "After installing libslirp, you can use it to provide user-mode networking in your virtual machines and containers.",
+    "features": [
+      "User-Mode Networking: Provides tools for implementing user-mode networking.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for networking tasks.",
+      "Integration: Can be integrated into applications requiring user-mode networking.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libslirp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to networking and Libslirp for support and discussions.",
+      "GitHub": "Visit the Libslirp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_slirp": "Not applicable",
+      "uninstall": "pkg uninstall libslirp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libsm",
+    "version": "1.2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libsm is a library that implements the X Session Management Protocol.",
+    "homepage": "https://www.x.org/",
+    "installation": "pkg install libsm",
+    "usage": "After installing libsm, you can use it to implement session management in your X applications.",
+    "features": [
+      "Session Management: Provides tools for implementing the X Session Management Protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for session management tasks.",
+      "Integration: Can be integrated into applications requiring session management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libsm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X development and Libsm for support and discussions.",
+      "GitHub": "Visit the Libsm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_sm": "Not applicable",
+      "uninstall": "pkg uninstall libsm"
+    },
+    "isFavorite": false
+  }
+]

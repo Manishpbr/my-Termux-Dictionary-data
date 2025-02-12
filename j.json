@@ -1,0 +1,880 @@
+[
+  {
+    "name": "jack-example-tools",
+    "version": "4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jack-example-tools is a set of example tools for working with the JACK Audio Connection Kit.",
+    "homepage": "https://jackaudio.org/",
+    "installation": "pkg install jack-example-tools",
+    "usage": "After installing jack-example-tools, you can use the example tools to learn how to work with the JACK Audio Connection Kit.",
+    "features": [
+      "Example Tools: Provides example tools for working with the JACK Audio Connection Kit.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers simple command-line interfaces for learning and experimentation.",
+      "Integration: Can be integrated into audio processing and development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JACK Audio Connection Kit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and JACK for support and discussions.",
+      "GitHub": "Visit the JACK GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_example_tool": "jack_example_tool",
+      "uninstall": "pkg uninstall jack-example-tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jack2",
+    "version": "1.9.22-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "JACK2 is the JACK Audio Connection Kit, a professional sound server daemon.",
+    "homepage": "https://jackaudio.org/",
+    "installation": "pkg install jack2",
+    "usage": "After installing jack2, you can use it to manage audio connections between applications in real-time.",
+    "features": [
+      "Sound Server: Provides a professional sound server daemon for managing audio connections.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for managing audio connections.",
+      "Integration: Can be integrated into audio production and processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JACK Audio Connection Kit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and JACK for support and discussions.",
+      "GitHub": "Visit the JACK GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_jackd": "jackd -d alsa",
+      "uninstall": "pkg uninstall jack2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jack",
+    "version": "0.0.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Jack is a minimalistic sound server daemon for managing audio connections.",
+    "homepage": "https://jackaudio.org/",
+    "installation": "pkg install jack",
+    "usage": "After installing jack, you can use it to manage audio connections between applications.",
+    "features": [
+      "Sound Server: Provides a minimalistic sound server daemon for managing audio connections.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for managing audio connections.",
+      "Integration: Can be integrated into audio production and processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JACK Audio Connection Kit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and JACK for support and discussions.",
+      "GitHub": "Visit the JACK GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_jackd": "jackd -d alsa",
+      "uninstall": "pkg uninstall jack"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "janet",
+    "version": "1.37.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Janet is a dynamic language and bytecode interpreter.",
+    "homepage": "https://janet-lang.org/",
+    "installation": "pkg install janet",
+    "usage": "After installing janet, you can use it to write and run programs in the Janet language.",
+    "features": [
+      "Dynamic Language: Provides a dynamic language and bytecode interpreter.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a REPL and command-line interface for running Janet programs.",
+      "Integration: Can be integrated into scripting and development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Janet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to programming languages and Janet for support and discussions.",
+      "GitHub": "Visit the Janet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_repl": "janet",
+      "run_script": "janet myscript.janet",
+      "uninstall": "pkg uninstall janet"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jbig2dec-static",
+    "version": "0.20",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jbig2dec is a decoder implementation of the JBIG2 image compression format. This is the statically linked version.",
+    "homepage": "https://github.com/ArtifexSoftware/jbig2dec",
+    "installation": "pkg install jbig2dec-static",
+    "usage": "After installing jbig2dec-static, you can use it to decode JBIG2 compressed images.",
+    "features": [
+      "Image Decoding: Provides tools for decoding JBIG2 compressed images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for image decoding tasks.",
+      "Integration: Can be integrated into image processing and document management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jbig2dec documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Jbig2dec for support and discussions.",
+      "GitHub": "Visit the Jbig2dec GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "decode_image": "jbig2dec input.jb2",
+      "uninstall": "pkg uninstall jbig2dec-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jbig2dec",
+    "version": "0.20",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jbig2dec is a decoder implementation of the JBIG2 image compression format.",
+    "homepage": "https://github.com/ArtifexSoftware/jbig2dec",
+    "installation": "pkg install jbig2dec",
+    "usage": "After installing jbig2dec, you can use it to decode JBIG2 compressed images.",
+    "features": [
+      "Image Decoding: Provides tools for decoding JBIG2 compressed images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for image decoding tasks.",
+      "Integration: Can be integrated into image processing and document management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jbig2dec documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Jbig2dec for support and discussions.",
+      "GitHub": "Visit the Jbig2dec GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "decode_image": "jbig2dec input.jb2",
+      "uninstall": "pkg uninstall jbig2dec"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jbig2enc-static",
+    "version": "2023.01.08-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jbig2enc is an encoder implementation of the JBIG2 image compression format. This is the statically linked version.",
+    "homepage": "https://github.com/agl/jbig2enc",
+    "installation": "pkg install jbig2enc-static",
+    "usage": "After installing jbig2enc-static, you can use it to encode images using the JBIG2 compression format.",
+    "features": [
+      "Image Encoding: Provides tools for encoding images using the JBIG2 compression format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for image encoding tasks.",
+      "Integration: Can be integrated into image processing and document management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jbig2enc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Jbig2enc for support and discussions.",
+      "GitHub": "Visit the Jbig2enc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_image": "jbig2enc input.png",
+      "uninstall": "pkg uninstall jbig2enc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jbig2enc",
+    "version": "2023.01.08-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jbig2enc is an encoder implementation of the JBIG2 image compression format.",
+    "homepage": "https://github.com/agl/jbig2enc",
+    "installation": "pkg install jbig2enc",
+    "usage": "After installing jbig2enc, you can use it to encode images using the JBIG2 compression format.",
+    "features": [
+      "Image Encoding: Provides tools for encoding images using the JBIG2 compression format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for image encoding tasks.",
+      "Integration: Can be integrated into image processing and document management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jbig2enc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Jbig2enc for support and discussions.",
+      "GitHub": "Visit the Jbig2enc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_image": "jbig2enc input.png",
+      "uninstall": "pkg uninstall jbig2enc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jcal-static",
+    "version": "0.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jcal is a command-line utility for displaying and managing calendars in the Jalali (Persian) calendar system. This is the statically linked version.",
+    "homepage": "https://github.com/jcal/jcal",
+    "installation": "pkg install jcal-static",
+    "usage": "After installing jcal-static, you can use it to display and manage Jalali calendars.",
+    "features": [
+      "Calendar Management: Provides tools for displaying and managing calendars in the Jalali calendar system.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for calendar management tasks.",
+      "Integration: Can be integrated into scheduling and time management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jcal documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to calendar management and Jcal for support and discussions.",
+      "GitHub": "Visit the Jcal GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "display_calendar": "jcal",
+      "uninstall": "pkg uninstall jcal-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jcal",
+    "version": "0.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jcal is a command-line utility for displaying and managing calendars in the Jalali (Persian) calendar system.",
+    "homepage": "https://github.com/jcal/jcal",
+    "installation": "pkg install jcal",
+    "usage": "After installing jcal, you can use it to display and manage Jalali calendars.",
+    "features": [
+      "Calendar Management: Provides tools for displaying and managing calendars in the Jalali calendar system.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for calendar management tasks.",
+      "Integration: Can be integrated into scheduling and time management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jcal documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to calendar management and Jcal for support and discussions.",
+      "GitHub": "Visit the Jcal GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "display_calendar": "jcal",
+      "uninstall": "pkg uninstall jcal"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jfrog-cli",
+    "version": "2.73.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "JFrog CLI is a command-line interface for JFrog products, allowing you to automate tasks and integrate with JFrog services.",
+    "homepage": "https://jfrog.com/getcli/",
+    "installation": "pkg install jfrog-cli",
+    "usage": "After installing jfrog-cli, you can use it to interact with JFrog products from the command line.",
+    "features": [
+      "JFrog Integration: Provides tools for automating tasks and integrating with JFrog services.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for JFrog tasks.",
+      "Integration: Can be integrated into DevOps and CI/CD workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JFrog CLI documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DevOps and JFrog CLI for support and discussions.",
+      "GitHub": "Visit the JFrog CLI GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "configure_jfrog": "jfrog rt config",
+      "upload_file": "jfrog rt upload myfile.txt my-repo",
+      "uninstall": "pkg uninstall jfrog-cli"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jftui",
+    "version": "0.7.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "JFTui is a terminal user interface for JFrog Artifactory.",
+    "homepage": "https://github.com/jftui/jftui",
+    "installation": "pkg install jftui",
+    "usage": "After installing jftui, you can use it to manage JFrog Artifactory from the terminal.",
+    "features": [
+      "Artifactory Management: Provides tools for managing JFrog Artifactory from the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a terminal user interface for Artifactory tasks.",
+      "Integration: Can be integrated into DevOps and CI/CD workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JFTui documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DevOps and JFTui for support and discussions.",
+      "GitHub": "Visit the JFTui GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_jftui": "jftui",
+      "uninstall": "pkg uninstall jftui"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jhead",
+    "version": "3.08",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jhead is a command-line tool for manipulating EXIF data embedded in JPEG images.",
+    "homepage": "http://www.sentex.net/~mwandel/jhead/",
+    "installation": "pkg install jhead",
+    "usage": "After installing jhead, you can use it to view and manipulate EXIF data in JPEG images.",
+    "features": [
+      "EXIF Data Manipulation: Provides tools for viewing and editing EXIF data in JPEG images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for EXIF data manipulation.",
+      "Integration: Can be integrated into image processing and photo management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jhead documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Jhead for support and discussions.",
+      "GitHub": "Visit the Jhead GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "view_exif_data": "jhead myphoto.jpg",
+      "uninstall": "pkg uninstall jhead"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jigdo",
+    "version": "0.8.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jigdo (Jigsaw Download) is a tool for distributing large files like CD and DVD images.",
+    "homepage": "http://atterer.org/jigdo/",
+    "installation": "pkg install jigdo",
+    "usage": "After installing jigdo, you can use it to download and assemble large files from multiple servers.",
+    "features": [
+      "Large File Distribution: Provides tools for distributing large files like CD and DVD images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for downloading and assembling files.",
+      "Integration: Can be integrated into download management and file distribution workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jigdo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file distribution and Jigdo for support and discussions.",
+      "GitHub": "Visit the Jigdo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "download_file": "jigdo-lite myfile.jigdo",
+      "uninstall": "pkg uninstall jigdo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jira-go",
+    "version": "1.0.28-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jira-go is a command-line interface for interacting with Jira.",
+    "homepage": "https://github.com/jira-go/jira-go",
+    "installation": "pkg install jira-go",
+    "usage": "After installing jira-go, you can use it to interact with Jira from the command line.",
+    "features": [
+      "Jira Integration: Provides tools for interacting with Jira from the command line.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for Jira tasks.",
+      "Integration: Can be integrated into project management and DevOps workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jira-go documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to project management and Jira-go for support and discussions.",
+      "GitHub": "Visit the Jira-go GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_issue": "jira-go create issue",
+      "uninstall": "pkg uninstall jira-go"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jo",
+    "version": "1.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jo is a small utility to create JSON objects from command-line arguments.",
+    "homepage": "https://github.com/jpmens/jo",
+    "installation": "pkg install jo",
+    "usage": "After installing jo, you can use it to create JSON objects from command-line arguments.",
+    "features": [
+      "JSON Creation: Provides tools for creating JSON objects from command-line arguments.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for JSON creation.",
+      "Integration: Can be integrated into scripting and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON and Jo for support and discussions.",
+      "GitHub": "Visit the Jo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "create_json": "jo name=John age=30",
+      "uninstall": "pkg uninstall jo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "joe",
+    "version": "4.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Joe (Joe's Own Editor) is a powerful text editor for Unix systems.",
+    "homepage": "http://joe-editor.sourceforge.net/",
+    "installation": "pkg install joe",
+    "usage": "After installing joe, you can use it to edit text files with advanced features.",
+    "features": [
+      "Text Editing: Provides tools for editing text files with advanced features.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for text editing.",
+      "Integration: Can be integrated into development and scripting workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Joe documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editing and Joe for support and discussions.",
+      "GitHub": "Visit the Joe GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_file": "joe myfile.txt",
+      "uninstall": "pkg uninstall joe"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jove",
+    "version": "4.17.5.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jove (Jonathan's Own Version of Emacs) is a lightweight and powerful text editor.",
+    "homepage": "https://github.com/jonmacs/jove",
+    "installation": "pkg install jove",
+    "usage": "After installing jove, you can use it to edit text files with Emacs-like features.",
+    "features": [
+      "Text Editing: Provides tools for editing text files with Emacs-like features.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for text editing.",
+      "Integration: Can be integrated into development and scripting workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jove documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editing and Jove for support and discussions.",
+      "GitHub": "Visit the Jove GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_file": "jove myfile.txt",
+      "uninstall": "pkg uninstall jove"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jp2a",
+    "version": "1.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "JP2A is a JPEG to ASCII converter.",
+    "homepage": "https://github.com/cslarsen/jp2a",
+    "installation": "pkg install jp2a",
+    "usage": "After installing jp2a, you can use it to convert JPEG images to ASCII art.",
+    "features": [
+      "Image Conversion: Provides tools for converting JPEG images to ASCII art.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for image conversion.",
+      "Integration: Can be integrated into image processing and artistic workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JP2A documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and JP2A for support and discussions.",
+      "GitHub": "Visit the JP2A GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "convert_image": "jp2a myimage.jpg",
+      "uninstall": "pkg uninstall jp2a"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jpegoptim",
+    "version": "1.5.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jpegoptim is a utility for optimizing JPEG files.",
+    "homepage": "https://github.com/tjko/jpegoptim",
+    "installation": "pkg install jpegoptim",
+    "usage": "After installing jpegoptim, you can use it to optimize JPEG files for size and quality.",
+    "features": [
+      "Image Optimization: Provides tools for optimizing JPEG files for size and quality.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for image optimization.",
+      "Integration: Can be integrated into image processing and web development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jpegoptim documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image optimization and Jpegoptim for support and discussions.",
+      "GitHub": "Visit the Jpegoptim GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "optimize_image": "jpegoptim myimage.jpg",
+      "uninstall": "pkg uninstall jpegoptim"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jq-lsp",
+    "version": "0.1.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "JQ-LSP is a language server protocol implementation for JQ.",
+    "homepage": "https://github.com/wader/jq-lsp",
+    "installation": "pkg install jq-lsp",
+    "usage": "After installing jq-lsp, you can use it to provide LSP support for JQ in your editor.",
+    "features": [
+      "Language Server Protocol: Provides LSP support for JQ in your editor.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for LSP tasks.",
+      "Integration: Can be integrated into development and scripting workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JQ-LSP documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JQ and JQ-LSP for support and discussions.",
+      "GitHub": "Visit the JQ-LSP GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_lsp": "jq-lsp",
+      "uninstall": "pkg uninstall jq-lsp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jq-static",
+    "version": "1.7.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "JQ is a lightweight and flexible command-line JSON processor. This is the statically linked version.",
+    "homepage": "https://stedolan.github.io/jq/",
+    "installation": "pkg install jq-static",
+    "usage": "After installing jq-static, you can use it to process JSON data from the command line.",
+    "features": [
+      "JSON Processing: Provides tools for processing JSON data from the command line.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for JSON processing.",
+      "Integration: Can be integrated into scripting and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JQ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON and JQ for support and discussions.",
+      "GitHub": "Visit the JQ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_json": "jq '.' mydata.json",
+      "uninstall": "pkg uninstall jq-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jq",
+    "version": "1.7.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "JQ is a lightweight and flexible command-line JSON processor.",
+    "homepage": "https://stedolan.github.io/jq/",
+    "installation": "pkg install jq",
+    "usage": "After installing jq, you can use it to process JSON data from the command line.",
+    "features": [
+      "JSON Processing: Provides tools for processing JSON data from the command line.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for JSON processing.",
+      "Integration: Can be integrated into scripting and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JQ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON and JQ for support and discussions.",
+      "GitHub": "Visit the JQ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_json": "jq '.' mydata.json",
+      "uninstall": "pkg uninstall jq"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jql",
+    "version": "8.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "JQL is a JSON Query Language CLI tool.",
+    "homepage": "https://github.com/yamafaktory/jql",
+    "installation": "pkg install jql",
+    "usage": "After installing jql, you can use it to query JSON data using a query language.",
+    "features": [
+      "JSON Querying: Provides tools for querying JSON data using a query language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for JSON querying.",
+      "Integration: Can be integrated into scripting and data analysis workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JQL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON and JQL for support and discussions.",
+      "GitHub": "Visit the JQL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "query_json": "jql 'select name from data' mydata.json",
+      "uninstall": "pkg uninstall jql"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "json-c-static",
+    "version": "0.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Json-c is a library for parsing and generating JSON. This is the statically linked version.",
+    "homepage": "https://github.com/json-c/json-c",
+    "installation": "pkg install json-c-static",
+    "usage": "After installing json-c-static, you can use it to parse and generate JSON in your applications.",
+    "features": [
+      "JSON Parsing and Generation: Provides tools for parsing and generating JSON.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for JSON tasks.",
+      "Integration: Can be integrated into applications requiring JSON support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Json-c documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON and Json-c for support and discussions.",
+      "GitHub": "Visit the Json-c GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_jsonc": "Not applicable",
+      "uninstall": "pkg uninstall json-c-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "json-c",
+    "version": "0.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Json-c is a library for parsing and generating JSON.",
+    "homepage": "https://github.com/json-c/json-c",
+    "installation": "pkg install json-c",
+    "usage": "After installing json-c, you can use it to parse and generate JSON in your applications.",
+    "features": [
+      "JSON Parsing and Generation: Provides tools for parsing and generating JSON.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for JSON tasks.",
+      "Integration: Can be integrated into applications requiring JSON support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Json-c documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON and Json-c for support and discussions.",
+      "GitHub": "Visit the Json-c GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_jsonc": "Not applicable",
+      "uninstall": "pkg uninstall json-c"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "json-glib",
+    "version": "1.10.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Json-glib is a library for parsing and generating JSON using GLib.",
+    "homepage": "https://developer.gnome.org/json-glib/",
+    "installation": "pkg install json-glib",
+    "usage": "After installing json-glib, you can use it to parse and generate JSON in your GLib-based applications.",
+    "features": [
+      "JSON Parsing and Generation: Provides tools for parsing and generating JSON using GLib.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for JSON tasks.",
+      "Integration: Can be integrated into GLib-based applications requiring JSON support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Json-glib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON and Json-glib for support and discussions.",
+      "GitHub": "Visit the Json-glib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_json_glib": "Not applicable",
+      "uninstall": "pkg uninstall json-glib"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jsoncpp-static",
+    "version": "1.9.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "JsonCpp is a C++ library for interacting with JSON. This is the statically linked version.",
+    "homepage": "https://github.com/open-source-parsers/jsoncpp",
+    "installation": "pkg install jsoncpp-static",
+    "usage": "After installing jsoncpp-static, you can use it to parse and generate JSON in your C++ applications.",
+    "features": [
+      "JSON Parsing and Generation: Provides tools for parsing and generating JSON in C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for JSON tasks.",
+      "Integration: Can be integrated into C++ applications requiring JSON support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JsonCpp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON and JsonCpp for support and discussions.",
+      "GitHub": "Visit the JsonCpp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_jsoncpp": "Not applicable",
+      "uninstall": "pkg uninstall jsoncpp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jsoncpp",
+    "version": "1.9.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "JsonCpp is a C++ library for interacting with JSON.",
+    "homepage": "https://github.com/open-source-parsers/jsoncpp",
+    "installation": "pkg install jsoncpp",
+    "usage": "After installing jsoncpp, you can use it to parse and generate JSON in your C++ applications.",
+    "features": [
+      "JSON Parsing and Generation: Provides tools for parsing and generating JSON in C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for JSON tasks.",
+      "Integration: Can be integrated into C++ applications requiring JSON support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the JsonCpp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON and JsonCpp for support and discussions.",
+      "GitHub": "Visit the JsonCpp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_jsoncpp": "Not applicable",
+      "uninstall": "pkg uninstall jsoncpp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jump",
+    "version": "0.51.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jump is a tool for quickly navigating your filesystem from the command line.",
+    "homepage": "https://github.com/gsamokovarov/jump",
+    "installation": "pkg install jump",
+    "usage": "After installing jump, you can use it to quickly navigate to frequently accessed directories.",
+    "features": [
+      "Filesystem Navigation: Provides tools for quickly navigating the filesystem from the command line.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for navigation tasks.",
+      "Integration: Can be integrated into shell environments for enhanced navigation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jump documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line tools and Jump for support and discussions.",
+      "GitHub": "Visit the Jump GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "cd_to_directory": "jump <directory>",
+      "uninstall": "pkg uninstall jump"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "jupp",
+    "version": "3.1jupp41",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Jupp is a powerful text editor for Unix systems, also known as 'Jupp'.",
+    "homepage": "https://github.com/mirror/jupp",
+    "installation": "pkg install jupp",
+    "usage": "After installing jupp, you can use it to edit text files with advanced features.",
+    "features": [
+      "Text Editing: Provides tools for editing text files with advanced features.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for text editing.",
+      "Integration: Can be integrated into development and scripting workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Jupp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editing and Jupp for support and discussions.",
+      "GitHub": "Visit the Jupp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_file": "jupp myfile.txt",
+      "uninstall": "pkg uninstall jupp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "just",
+    "version": "1.38.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Just is a handy way to save and run project-specific commands.",
+    "homepage": "https://github.com/casey/just",
+    "installation": "pkg install just",
+    "usage": "After installing just, you can use it to create and run project-specific commands.",
+    "features": [
+      "Command Runner: Provides tools for creating and running project-specific commands.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for running tasks.",
+      "Integration: Can be integrated into development workflows for task automation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Just documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to task runners and Just for support and discussions.",
+      "GitHub": "Visit the Just GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_task": "just <task>",
+      "uninstall": "pkg uninstall just"
+    },
+    "isFavorite": false
+  }
+]

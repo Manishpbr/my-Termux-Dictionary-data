@@ -1,0 +1,1362 @@
+[
+  {
+    "name": "libglvnd-dev",
+    "version": "1.7.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Libglvnd is the GL Vendor-Neutral Dispatch library.",
+    "homepage": "https://gitlab.freedesktop.org/glvnd/libglvnd",
+    "installation": "pkg install libglvnd-dev",
+    "usage": "After installing libglvnd-dev, you can use it to manage multiple OpenGL implementations in your development environment.",
+    "features": [
+      "OpenGL Dispatching: Provides tools for managing multiple OpenGL implementations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for OpenGL dispatching tasks.",
+      "Integration: Can be integrated into development environments requiring OpenGL management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libglvnd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to OpenGL and Libglvnd for support and discussions.",
+      "GitHub": "Visit the Libglvnd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libglvnd_dev": "Not applicable",
+      "uninstall": "pkg uninstall libglvnd-dev"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libglvnd",
+    "version": "1.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libglvnd is the GL Vendor-Neutral Dispatch library.",
+    "homepage": "https://gitlab.freedesktop.org/glvnd/libglvnd",
+    "installation": "pkg install libglvnd",
+    "usage": "After installing libglvnd, you can use it to manage multiple OpenGL implementations in your applications.",
+    "features": [
+      "OpenGL Dispatching: Provides tools for managing multiple OpenGL implementations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for OpenGL dispatching tasks.",
+      "Integration: Can be integrated into applications requiring OpenGL management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libglvnd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to OpenGL and Libglvnd for support and discussions.",
+      "GitHub": "Visit the Libglvnd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libglvnd": "Not applicable",
+      "uninstall": "pkg uninstall libglvnd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgmime-static",
+    "version": "3.2.15-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgmime is a C/C++ library for parsing and creating messages using the Multipurpose Internet Mail Extension (MIME). This is the statically linked version.",
+    "homepage": "https://github.com/jstedfast/gmime",
+    "installation": "pkg install libgmime-static",
+    "usage": "After installing libgmime-static, you can use it to parse and create MIME messages in your applications.",
+    "features": [
+      "MIME Parsing and Creation: Provides tools for parsing and creating MIME messages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for MIME tasks.",
+      "Integration: Can be integrated into applications requiring MIME message handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgmime documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to email and MIME handling for support and discussions.",
+      "GitHub": "Visit the Libgmime GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgmime": "Not applicable",
+      "uninstall": "pkg uninstall libgmime-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgmime",
+    "version": "3.2.15-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgmime is a C/C++ library for parsing and creating messages using the Multipurpose Internet Mail Extension (MIME).",
+    "homepage": "https://github.com/jstedfast/gmime",
+    "installation": "pkg install libgmime",
+    "usage": "After installing libgmime, you can use it to parse and create MIME messages in your applications.",
+    "features": [
+      "MIME Parsing and Creation: Provides tools for parsing and creating MIME messages.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for MIME tasks.",
+      "Integration: Can be integrated into applications requiring MIME message handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgmime documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to email and MIME handling for support and discussions.",
+      "GitHub": "Visit the Libgmime GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgmime": "Not applicable",
+      "uninstall": "pkg uninstall libgmime"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgmp-static",
+    "version": "6.3.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgmp is a library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. This is the statically linked version.",
+    "homepage": "https://gmplib.org/",
+    "installation": "pkg install libgmp-static",
+    "usage": "After installing libgmp-static, you can use it to perform arbitrary precision arithmetic in your applications.",
+    "features": [
+      "Arbitrary Precision Arithmetic: Provides tools for performing arithmetic on signed integers, rational numbers, and floating-point numbers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for arithmetic tasks.",
+      "Integration: Can be integrated into applications requiring arbitrary precision arithmetic.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgmp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to arithmetic and Libgmp for support and discussions.",
+      "GitHub": "Visit the Libgmp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgmp": "Not applicable",
+      "uninstall": "pkg uninstall libgmp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgmp",
+    "version": "6.3.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgmp is a library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers.",
+    "homepage": "https://gmplib.org/",
+    "installation": "pkg install libgmp",
+    "usage": "After installing libgmp, you can use it to perform arbitrary precision arithmetic in your applications.",
+    "features": [
+      "Arbitrary Precision Arithmetic: Provides tools for performing arithmetic on signed integers, rational numbers, and floating-point numbers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for arithmetic tasks.",
+      "Integration: Can be integrated into applications requiring arbitrary precision arithmetic.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgmp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to arithmetic and Libgmp for support and discussions.",
+      "GitHub": "Visit the Libgmp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgmp": "Not applicable",
+      "uninstall": "pkg uninstall libgmp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgnt",
+    "version": "2.14.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgnt (GNT) is a library for creating text-based user interfaces for applications.",
+    "homepage": "https://developer.pidgin.im/wiki/Gnt",
+    "installation": "pkg install libgnt",
+    "usage": "After installing libgnt, you can use it to create text-based user interfaces in your applications.",
+    "features": [
+      "Text-Based User Interfaces: Provides tools for creating text-based user interfaces.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for user interface tasks.",
+      "Integration: Can be integrated into applications requiring text-based user interfaces.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgnt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to user interface development and Libgnt for support and discussions.",
+      "GitHub": "Visit the Libgnt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgnt": "Not applicable",
+      "uninstall": "pkg uninstall libgnt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgnustep-base",
+    "version": "1.30.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgnustep-base is the core library of the GNUstep environment, providing basic classes and functions.",
+    "homepage": "https://www.gnustep.org/",
+    "installation": "pkg install libgnustep-base",
+    "usage": "After installing libgnustep-base, you can use it to develop applications using the GNUstep environment.",
+    "features": [
+      "Core Library: Provides basic classes and functions for the GNUstep environment.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for application development.",
+      "Integration: Can be integrated into applications requiring the GNUstep environment.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GNUstep documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to GNUstep and application development for support and discussions.",
+      "GitHub": "Visit the GNUstep GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_gnustep": "Not applicable",
+      "uninstall": "pkg uninstall libgnustep-base"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgnutls-dane",
+    "version": "3.8.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgnutls-dane is a library for DNS-based Authentication of Named Entities (DANE) using GnuTLS.",
+    "homepage": "https://www.gnutls.org/",
+    "installation": "pkg install libgnutls-dane",
+    "usage": "After installing libgnutls-dane, you can use it to implement DANE in your applications.",
+    "features": [
+      "DANE Implementation: Provides tools for implementing DNS-based Authentication of Named Entities (DANE).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for DANE tasks.",
+      "Integration: Can be integrated into applications requiring DANE.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GnuTLS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libgnutls-dane for support and discussions.",
+      "GitHub": "Visit the GnuTLS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgnutls_dane": "Not applicable",
+      "uninstall": "pkg uninstall libgnutls-dane"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgnutls-static",
+    "version": "3.8.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgnutls is a secure communications library implementing SSL, TLS, and DTLS. This is the statically linked version.",
+    "homepage": "https://www.gnutls.org/",
+    "installation": "pkg install libgnutls-static",
+    "usage": "After installing libgnutls-static, you can use it to implement secure communications in your applications.",
+    "features": [
+      "Secure Communications: Provides tools for implementing SSL, TLS, and DTLS.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for secure communications tasks.",
+      "Integration: Can be integrated into applications requiring secure communications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GnuTLS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libgnutls for support and discussions.",
+      "GitHub": "Visit the GnuTLS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgnutls": "Not applicable",
+      "uninstall": "pkg uninstall libgnutls-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgnutls",
+    "version": "3.8.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgnutls is a secure communications library implementing SSL, TLS, and DTLS.",
+    "homepage": "https://www.gnutls.org/",
+    "installation": "pkg install libgnutls",
+    "usage": "After installing libgnutls, you can use it to implement secure communications in your applications.",
+    "features": [
+      "Secure Communications: Provides tools for implementing SSL, TLS, and DTLS.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for secure communications tasks.",
+      "Integration: Can be integrated into applications requiring secure communications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the GnuTLS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libgnutls for support and discussions.",
+      "GitHub": "Visit the GnuTLS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgnutls": "Not applicable",
+      "uninstall": "pkg uninstall libgnutls"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgpg-error-static",
+    "version": "1.50",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgpg-error is a library that defines common error values for all GnuPG components. This is the statically linked version.",
+    "homepage": "https://www.gnupg.org/software/libgpg-error/index.html",
+    "installation": "pkg install libgpg-error-static",
+    "usage": "After installing libgpg-error-static, you can use it to handle error values in your applications.",
+    "features": [
+      "Error Handling: Provides tools for defining and handling common error values for GnuPG components.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for error handling tasks.",
+      "Integration: Can be integrated into applications requiring error handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgpg-error documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libgpg-error for support and discussions.",
+      "GitHub": "Visit the Libgpg-error GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgpg_error": "Not applicable",
+      "uninstall": "pkg uninstall libgpg-error-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgpg-error",
+    "version": "1.50",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgpg-error is a library that defines common error values for all GnuPG components.",
+    "homepage": "https://www.gnupg.org/software/libgpg-error/index.html",
+    "installation": "pkg install libgpg-error",
+    "usage": "After installing libgpg-error, you can use it to handle error values in your applications.",
+    "features": [
+      "Error Handling: Provides tools for defining and handling common error values for GnuPG components.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for error handling tasks.",
+      "Integration: Can be integrated into applications requiring error handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgpg-error documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libgpg-error for support and discussions.",
+      "GitHub": "Visit the Libgpg-error GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgpg_error": "Not applicable",
+      "uninstall": "pkg uninstall libgpg-error"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgraphite",
+    "version": "1.3.14-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgraphite is a library that provides rendering capabilities for complex scripts.",
+    "homepage": "https://graphite.sil.org/",
+    "installation": "pkg install libgraphite",
+    "usage": "After installing libgraphite, you can use it to render complex scripts in your applications.",
+    "features": [
+      "Complex Script Rendering: Provides tools for rendering complex scripts.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for rendering tasks.",
+      "Integration: Can be integrated into applications requiring complex script rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgraphite documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to complex scripts and Libgraphite for support and discussions.",
+      "GitHub": "Visit the Libgraphite GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgraphite": "Not applicable",
+      "uninstall": "pkg uninstall libgraphite"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgrpc",
+    "version": "1.69.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgrpc is a high-performance, open-source universal RPC framework.",
+    "homepage": "https://grpc.io/",
+    "installation": "pkg install libgrpc",
+    "usage": "After installing libgrpc, you can use it to implement RPC functionalities in your applications.",
+    "features": [
+      "RPC Framework: Provides tools for implementing remote procedure calls.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for RPC tasks.",
+      "Integration: Can be integrated into applications requiring RPC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the gRPC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RPC and gRPC for support and discussions.",
+      "GitHub": "Visit the gRPC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_grpc": "Not applicable",
+      "uninstall": "pkg uninstall libgrpc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgsasl-static",
+    "version": "2.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgsasl is a library for SASL (Simple Authentication and Security Layer) implementations. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/gsasl/",
+    "installation": "pkg install libgsasl-static",
+    "usage": "After installing libgsasl-static, you can use it to implement SASL authentication in your applications.",
+    "features": [
+      "SASL Authentication: Provides tools for implementing SASL (Simple Authentication and Security Layer).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for authentication tasks.",
+      "Integration: Can be integrated into applications requiring SASL authentication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgsasl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to authentication and Libgsasl for support and discussions.",
+      "GitHub": "Visit the Libgsasl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgsasl": "Not applicable",
+      "uninstall": "pkg uninstall libgsasl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgsasl",
+    "version": "2.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgsasl is a library for SASL (Simple Authentication and Security Layer) implementations.",
+    "homepage": "https://www.gnu.org/software/gsasl/",
+    "installation": "pkg install libgsasl",
+    "usage": "After installing libgsasl, you can use it to implement SASL authentication in your applications.",
+    "features": [
+      "SASL Authentication: Provides tools for implementing SASL (Simple Authentication and Security Layer).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for authentication tasks.",
+      "Integration: Can be integrated into applications requiring SASL authentication.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgsasl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to authentication and Libgsasl for support and discussions.",
+      "GitHub": "Visit the Libgsasl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgsasl": "Not applicable",
+      "uninstall": "pkg uninstall libgsasl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgsf-static",
+    "version": "1.14.53",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgsf is a library for reading and writing structured file formats. This is the statically linked version.",
+    "homepage": "https://gitlab.gnome.org/GNOME/libgsf",
+    "installation": "pkg install libgsf-static",
+    "usage": "After installing libgsf-static, you can use it to read and write structured file formats in your applications.",
+    "features": [
+      "Structured File Formats: Provides tools for reading and writing structured file formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for file format tasks.",
+      "Integration: Can be integrated into applications requiring structured file format handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgsf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file formats and Libgsf for support and discussions.",
+      "GitHub": "Visit the Libgsf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgsf": "Not applicable",
+      "uninstall": "pkg uninstall libgsf-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgsf",
+    "version": "1.14.53",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgsf is a library for reading and writing structured file formats.",
+    "homepage": "https://gitlab.gnome.org/GNOME/libgsf",
+    "installation": "pkg install libgsf",
+    "usage": "After installing libgsf, you can use it to read and write structured file formats in your applications.",
+    "features": [
+      "Structured File Formats: Provides tools for reading and writing structured file formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for file format tasks.",
+      "Integration: Can be integrated into applications requiring structured file format handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgsf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file formats and Libgsf for support and discussions.",
+      "GitHub": "Visit the Libgsf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgsf": "Not applicable",
+      "uninstall": "pkg uninstall libgsf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgtop-static",
+    "version": "2.41.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgtop is a library that provides system and process information. This is the statically linked version.",
+    "homepage": "https://gitlab.gnome.org/GNOME/libgtop",
+    "installation": "pkg install libgtop-static",
+    "usage": "After installing libgtop-static, you can use it to retrieve system and process information in your applications.",
+    "features": [
+      "System Information: Provides tools for retrieving system and process information.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for information retrieval tasks.",
+      "Integration: Can be integrated into applications requiring system and process information.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgtop documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system information and Libgtop for support and discussions.",
+      "GitHub": "Visit the Libgtop GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgtop": "Not applicable",
+      "uninstall": "pkg uninstall libgtop-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgtop",
+    "version": "2.41.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgtop is a library that provides system and process information.",
+    "homepage": "https://gitlab.gnome.org/GNOME/libgtop",
+    "installation": "pkg install libgtop",
+    "usage": "After installing libgtop, you can use it to retrieve system and process information in your applications.",
+    "features": [
+      "System Information: Provides tools for retrieving system and process information.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for information retrieval tasks.",
+      "Integration: Can be integrated into applications requiring system and process information.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgtop documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system information and Libgtop for support and discussions.",
+      "GitHub": "Visit the Libgtop GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgtop": "Not applicable",
+      "uninstall": "pkg uninstall libgtop"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgts-static",
+    "version": "0.7.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgts is a library for the manipulation of 3D triangulated surfaces. This is the statically linked version.",
+    "homepage": "http://gts.sourceforge.net/",
+    "installation": "pkg install libgts-static",
+    "usage": "After installing libgts-static, you can use it to manipulate 3D triangulated surfaces in your applications.",
+    "features": [
+      "3D Triangulated Surfaces: Provides tools for the manipulation of 3D triangulated surfaces.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for 3D surface tasks.",
+      "Integration: Can be integrated into applications requiring 3D surface manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgts documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to 3D graphics and Libgts for support and discussions.",
+      "GitHub": "Visit the Libgts GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgts": "Not applicable",
+      "uninstall": "pkg uninstall libgts-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgts",
+    "version": "0.7.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgts is a library for the manipulation of 3D triangulated surfaces.",
+    "homepage": "http://gts.sourceforge.net/",
+    "installation": "pkg install libgts",
+    "usage": "After installing libgts, you can use it to manipulate 3D triangulated surfaces in your applications.",
+    "features": [
+      "3D Triangulated Surfaces: Provides tools for the manipulation of 3D triangulated surfaces.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for 3D surface tasks.",
+      "Integration: Can be integrated into applications requiring 3D surface manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgts documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to 3D graphics and Libgts for support and discussions.",
+      "GitHub": "Visit the Libgts GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgts": "Not applicable",
+      "uninstall": "pkg uninstall libgts"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libgxps",
+    "version": "0.3.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libgxps is a library for handling XPS (XML Paper Specification) documents.",
+    "homepage": "https://wiki.gnome.org/Projects/libgxps",
+    "installation": "pkg install libgxps",
+    "usage": "After installing libgxps, you can use it to handle XPS documents in your applications.",
+    "features": [
+      "XPS Documents: Provides tools for handling XPS (XML Paper Specification) documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for XPS tasks.",
+      "Integration: Can be integrated into applications requiring XPS document handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libgxps documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to document handling and Libgxps for support and discussions.",
+      "GitHub": "Visit the Libgxps GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libgxps": "Not applicable",
+      "uninstall": "pkg uninstall libgxps"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libhangul-static",
+    "version": "0.1.0-p20230415-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libhangul is a library for processing Hangul (Korean script) input. This is the statically linked version.",
+    "homepage": "https://kldp.net/projects/libhangul",
+    "installation": "pkg install libhangul-static",
+    "usage": "After installing libhangul-static, you can use it to process Hangul input in your applications.",
+    "features": [
+      "Hangul Input: Provides tools for processing Hangul (Korean script) input.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Hangul input tasks.",
+      "Integration: Can be integrated into applications requiring Hangul input processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libhangul documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to language processing and Libhangul for support and discussions.",
+      "GitHub": "Visit the Libhangul GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libhangul": "Not applicable",
+      "uninstall": "pkg uninstall libhangul-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libhangul",
+    "version": "0.1.0-p20230415-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libhangul is a library for processing Hangul (Korean script) input.",
+    "homepage": "https://kldp.net/projects/libhangul",
+    "installation": "pkg install libhangul",
+    "usage": "After installing libhangul, you can use it to process Hangul input in your applications.",
+    "features": [
+      "Hangul Input: Provides tools for processing Hangul (Korean script) input.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Hangul input tasks.",
+      "Integration: Can be integrated into applications requiring Hangul input processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libhangul documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to language processing and Libhangul for support and discussions.",
+      "GitHub": "Visit the Libhangul GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libhangul": "Not applicable",
+      "uninstall": "pkg uninstall libhangul"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libhdf5-static",
+    "version": "1.14.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libhdf5 is a library for managing and storing large amounts of data. This is the statically linked version.",
+    "homepage": "https://www.hdfgroup.org/solutions/hdf5/",
+    "installation": "pkg install libhdf5-static",
+    "usage": "After installing libhdf5-static, you can use it to manage and store large amounts of data in your applications.",
+    "features": [
+      "Data Management: Provides tools for managing and storing large amounts of data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for data management tasks.",
+      "Integration: Can be integrated into applications requiring data management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HDF5 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data management and HDF5 for support and discussions.",
+      "GitHub": "Visit the HDF5 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libhdf5": "Not applicable",
+      "uninstall": "pkg uninstall libhdf5-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libhdf5",
+    "version": "1.14.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libhdf5 is a library for managing and storing large amounts of data.",
+    "homepage": "https://www.hdfgroup.org/solutions/hdf5/",
+    "installation": "pkg install libhdf5",
+    "usage": "After installing libhdf5, you can use it to manage and store large amounts of data in your applications.",
+    "features": [
+      "Data Management: Provides tools for managing and storing large amounts of data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for data management tasks.",
+      "Integration: Can be integrated into applications requiring data management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the HDF5 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data management and HDF5 for support and discussions.",
+      "GitHub": "Visit the HDF5 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libhdf5": "Not applicable",
+      "uninstall": "pkg uninstall libhdf5"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libheif-progs",
+    "version": "1.19.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libheif-progs is a collection of tools for handling HEIF and AVIF images.",
+    "homepage": "https://github.com/strukturag/libheif",
+    "installation": "pkg install libheif-progs",
+    "usage": "After installing libheif-progs, you can use it to handle HEIF and AVIF images in your applications.",
+    "features": [
+      "Image Handling: Provides tools for handling HEIF and AVIF images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image handling tasks.",
+      "Integration: Can be integrated into applications requiring HEIF and AVIF image handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libheif documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image handling and Libheif for support and discussions.",
+      "GitHub": "Visit the Libheif GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libheif_progs": "Not applicable",
+      "uninstall": "pkg uninstall libheif-progs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libheif",
+    "version": "1.19.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libheif is a library for reading and writing HEIF and AVIF image files.",
+    "homepage": "https://github.com/strukturag/libheif",
+    "installation": "pkg install libheif",
+    "usage": "After installing libheif, you can use it to read and write HEIF and AVIF image files in your applications.",
+    "features": [
+      "Image Handling: Provides tools for reading and writing HEIF and AVIF image files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image handling tasks.",
+      "Integration: Can be integrated into applications requiring HEIF and AVIF image handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libheif documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image handling and Libheif for support and discussions.",
+      "GitHub": "Visit the Libheif GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libheif": "Not applicable",
+      "uninstall": "pkg uninstall libheif"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libhiredis",
+    "version": "1.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libhiredis is a minimalistic C client library for the Redis database.",
+    "homepage": "https://github.com/redis/hiredis",
+    "installation": "pkg install libhiredis",
+    "usage": "After installing libhiredis, you can use it to interact with Redis databases in your applications.",
+    "features": [
+      "Redis Client: Provides tools for interacting with Redis databases.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for Redis tasks.",
+      "Integration: Can be integrated into applications requiring Redis interactions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Hiredis documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Redis and Hiredis for support and discussions.",
+      "GitHub": "Visit the Hiredis GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_hiredis": "Not applicable",
+      "uninstall": "pkg uninstall libhiredis"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libhtmlcxx-static",
+    "version": "0.87-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libhtmlcxx is a simple non-validating CSS1 and HTML parser for C++. This is the statically linked version.",
+    "homepage": "https://github.com/htmlcxx/htmlcxx",
+    "installation": "pkg install libhtmlcxx-static",
+    "usage": "After installing libhtmlcxx-static, you can use it to parse HTML and CSS1 in your applications.",
+    "features": [
+      "HTML and CSS1 Parsing: Provides tools for parsing HTML and CSS1.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for parsing tasks.",
+      "Integration: Can be integrated into applications requiring HTML and CSS1 parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libhtmlcxx documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web parsing and Libhtmlcxx for support and discussions.",
+      "GitHub": "Visit the Libhtmlcxx GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libhtmlcxx": "Not applicable",
+      "uninstall": "pkg uninstall libhtmlcxx-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libhtmlcxx",
+    "version": "0.87-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libhtmlcxx is a simple non-validating CSS1 and HTML parser for C++.",
+    "homepage": "https://github.com/htmlcxx/htmlcxx",
+    "installation": "pkg install libhtmlcxx",
+    "usage": "After installing libhtmlcxx, you can use it to parse HTML and CSS1 in your applications.",
+    "features": [
+      "HTML and CSS1 Parsing: Provides tools for parsing HTML and CSS1.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for parsing tasks.",
+      "Integration: Can be integrated into applications requiring HTML and CSS1 parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libhtmlcxx documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web parsing and Libhtmlcxx for support and discussions.",
+      "GitHub": "Visit the Libhtmlcxx GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libhtmlcxx": "Not applicable",
+      "uninstall": "pkg uninstall libhtmlcxx"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libhyphen-static",
+    "version": "2.8.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libhyphen is a library for high-quality hyphenation and justification. This is the statically linked version.",
+    "homepage": "https://github.com/hunspell/hyphen",
+    "installation": "pkg install libhyphen-static",
+    "usage": "After installing libhyphen-static, you can use it to perform high-quality hyphenation and justification in your applications.",
+    "features": [
+      "Hyphenation and Justification: Provides tools for high-quality hyphenation and justification.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for hyphenation tasks.",
+      "Integration: Can be integrated into applications requiring hyphenation and justification.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libhyphen documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and Libhyphen for support and discussions.",
+      "GitHub": "Visit the Libhyphen GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libhyphen": "Not applicable",
+      "uninstall": "pkg uninstall libhyphen-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libhyphen",
+    "version": "2.8.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libhyphen is a library for high-quality hyphenation and justification.",
+    "homepage": "https://github.com/hunspell/hyphen",
+    "installation": "pkg install libhyphen",
+    "usage": "After installing libhyphen, you can use it to perform high-quality hyphenation and justification in your applications.",
+    "features": [
+      "Hyphenation and Justification: Provides tools for high-quality hyphenation and justification.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for hyphenation tasks.",
+      "Integration: Can be integrated into applications requiring hyphenation and justification.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libhyphen documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and Libhyphen for support and discussions.",
+      "GitHub": "Visit the Libhyphen GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libhyphen": "Not applicable",
+      "uninstall": "pkg uninstall libhyphen"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libical",
+    "version": "3.0.19",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libical is an open-source implementation of the iCalendar data format.",
+    "homepage": "https://libical.github.io/libical/",
+    "installation": "pkg install libical",
+    "usage": "After installing libical, you can use it to handle iCalendar data in your applications.",
+    "features": [
+      "iCalendar Data: Provides tools for handling iCalendar data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for iCalendar tasks.",
+      "Integration: Can be integrated into applications requiring iCalendar data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libical documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to calendar data handling and Libical for support and discussions.",
+      "GitHub": "Visit the Libical GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libical": "Not applicable",
+      "uninstall": "pkg uninstall libical"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libice",
+    "version": "1.1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libice is the Inter-Client Exchange (ICE) library, which provides session support for X Window System applications.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libice",
+    "usage": "After installing libice, you can use it to provide session support for X Window System applications.",
+    "features": [
+      "Session Support: Provides tools for session support in X Window System applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for session support tasks.",
+      "Integration: Can be integrated into applications requiring X Window System session support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X Window System and Libice for support and discussions.",
+      "GitHub": "Visit the X.org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libice": "Not applicable",
+      "uninstall": "pkg uninstall libice"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libiconv-static",
+    "version": "1.17-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libiconv is a library for converting character encodings. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/libiconv/",
+    "installation": "pkg install libiconv-static",
+    "usage": "After installing libiconv-static, you can use it to convert character encodings in your applications.",
+    "features": [
+      "Character Encoding Conversion: Provides tools for converting character encodings.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for encoding conversion tasks.",
+      "Integration: Can be integrated into applications requiring character encoding conversion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libiconv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to character encoding and Libiconv for support and discussions.",
+      "GitHub": "Visit the Libiconv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libiconv": "Not applicable",
+      "uninstall": "pkg uninstall libiconv-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libiconv",
+    "version": "1.17-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libiconv is a library for converting character encodings.",
+    "homepage": "https://www.gnu.org/software/libiconv/",
+    "installation": "pkg install libiconv",
+    "usage": "After installing libiconv, you can use it to convert character encodings in your applications.",
+    "features": [
+      "Character Encoding Conversion: Provides tools for converting character encodings.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for encoding conversion tasks.",
+      "Integration: Can be integrated into applications requiring character encoding conversion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libiconv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to character encoding and Libiconv for support and discussions.",
+      "GitHub": "Visit the Libiconv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libiconv": "Not applicable",
+      "uninstall": "pkg uninstall libiconv"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libicu-static",
+    "version": "76.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libicu is a library for Unicode and globalization support. This is the statically linked version.",
+    "homepage": "http://site.icu-project.org/",
+    "installation": "pkg install libicu-static",
+    "usage": "After installing libicu-static, you can use it to provide Unicode and globalization support in your applications.",
+    "features": [
+      "Unicode and Globalization: Provides tools for Unicode and globalization support.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Unicode tasks.",
+      "Integration: Can be integrated into applications requiring Unicode and globalization support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ICU documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Unicode and globalization for support and discussions.",
+      "GitHub": "Visit the ICU GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libicu": "Not applicable",
+      "uninstall": "pkg uninstall libicu-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libicu",
+    "version": "76.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libicu is a library for Unicode and globalization support.",
+    "homepage": "http://site.icu-project.org/",
+    "installation": "pkg install libicu",
+    "usage": "After installing libicu, you can use it to provide Unicode and globalization support in your applications.",
+    "features": [
+      "Unicode and Globalization: Provides tools for Unicode and globalization support.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Unicode tasks.",
+      "Integration: Can be integrated into applications requiring Unicode and globalization support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ICU documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Unicode and globalization for support and discussions.",
+      "GitHub": "Visit the ICU GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libicu": "Not applicable",
+      "uninstall": "pkg uninstall libicu"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libid3tag",
+    "version": "0.16.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libid3tag is a library for reading and writing ID3 tags in MP3 files.",
+    "homepage": "https://www.underbit.com/products/mad/",
+    "installation": "pkg install libid3tag",
+    "usage": "After installing libid3tag, you can use it to read and write ID3 tags in MP3 files in your applications.",
+    "features": [
+      "ID3 Tags: Provides tools for reading and writing ID3 tags in MP3 files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for ID3 tag tasks.",
+      "Integration: Can be integrated into applications requiring ID3 tag handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libid3tag documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Libid3tag for support and discussions.",
+      "GitHub": "Visit the Libid3tag GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libid3tag": "Not applicable",
+      "uninstall": "pkg uninstall libid3tag"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libidn-static",
+    "version": "1.42",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libidn is a library for internationalized domain names (IDN). This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/libidn/",
+    "installation": "pkg install libidn-static",
+    "usage": "After installing libidn-static, you can use it to handle internationalized domain names in your applications.",
+    "features": [
+      "IDN Handling: Provides tools for handling internationalized domain names.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for IDN tasks.",
+      "Integration: Can be integrated into applications requiring IDN handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libidn documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to domain names and Libidn for support and discussions.",
+      "GitHub": "Visit the Libidn GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libidn": "Not applicable",
+      "uninstall": "pkg uninstall libidn-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libidn2-static",
+    "version": "2.3.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libidn2 is a library for internationalized domain names (IDN) based on IDNA2008. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/libidn/#libidn2",
+    "installation": "pkg install libidn2-static",
+    "usage": "After installing libidn2-static, you can use it to handle internationalized domain names based on IDNA2008 in your applications.",
+    "features": [
+      "IDN Handling: Provides tools for handling internationalized domain names based on IDNA2008.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for IDN tasks.",
+      "Integration: Can be integrated into applications requiring IDN handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libidn2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to domain names and Libidn2 for support and discussions.",
+      "GitHub": "Visit the Libidn2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libidn2": "Not applicable",
+      "uninstall": "pkg uninstall libidn2-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libidn2",
+    "version": "2.3.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libidn2 is a library for internationalized domain names (IDN) based on IDNA2008.",
+    "homepage": "https://www.gnu.org/software/libidn/#libidn2",
+    "installation": "pkg install libidn2",
+    "usage": "After installing libidn2, you can use it to handle internationalized domain names based on IDNA2008 in your applications.",
+    "features": [
+      "IDN Handling: Provides tools for handling internationalized domain names based on IDNA2008.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for IDN tasks.",
+      "Integration: Can be integrated into applications requiring IDN handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libidn2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to domain names and Libidn2 for support and discussions.",
+      "GitHub": "Visit the Libidn2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libidn2": "Not applicable",
+      "uninstall": "pkg uninstall libidn2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libidn",
+    "version": "1.42",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libidn is a library for internationalized domain names (IDN).",
+    "homepage": "https://www.gnu.org/software/libidn/",
+    "installation": "pkg install libidn",
+    "usage": "After installing libidn, you can use it to handle internationalized domain names in your applications.",
+    "features": [
+      "IDN Handling: Provides tools for handling internationalized domain names.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for IDN tasks.",
+      "Integration: Can be integrated into applications requiring IDN handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libidn documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to domain names and Libidn for support and discussions.",
+      "GitHub": "Visit the Libidn GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libidn": "Not applicable",
+      "uninstall": "pkg uninstall libidn"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libimagequant-static",
+    "version": "4.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libimagequant is a library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images. This is the statically linked version.",
+    "homepage": "https://github.com/ImageOptim/libimagequant",
+    "installation": "pkg install libimagequant-static",
+    "usage": "After installing libimagequant-static, you can use it to convert RGBA images to 8-bit indexed-color images in your applications.",
+    "features": [
+      "Image Conversion: Provides tools for high-quality conversion of RGBA images to 8-bit indexed-color images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for image conversion tasks.",
+      "Integration: Can be integrated into applications requiring image conversion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libimagequant documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libimagequant for support and discussions.",
+      "GitHub": "Visit the Libimagequant GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libimagequant": "Not applicable",
+      "uninstall": "pkg uninstall libimagequant-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libimagequant",
+    "version": "4.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libimagequant is a library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images.",
+    "homepage": "https://github.com/ImageOptim/libimagequant",
+    "installation": "pkg install libimagequant",
+    "usage": "After installing libimagequant, you can use it to convert RGBA images to 8-bit indexed-color images in your applications.",
+    "features": [
+      "Image Conversion: Provides tools for high-quality conversion of RGBA images to 8-bit indexed-color images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image conversion tasks.",
+      "Integration: Can be integrated into applications requiring image conversion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libimagequant documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libimagequant for support and discussions.",
+      "GitHub": "Visit the Libimagequant GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libimagequant": "Not applicable",
+      "uninstall": "pkg uninstall libimagequant"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libimobiledevice-glue-static",
+    "version": "1.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libimobiledevice-glue is a library providing common code for libraries talking to Apple devices. This is the statically linked version.",
+    "homepage": "https://libimobiledevice.org/",
+    "installation": "pkg install libimobiledevice-glue-static",
+    "usage": "After installing libimobiledevice-glue-static, you can use it to interact with Apple devices in your applications.",
+    "features": [
+      "Apple Device Interaction: Provides common code for libraries talking to Apple devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for device interaction tasks.",
+      "Integration: Can be integrated into applications requiring Apple device interaction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libimobiledevice documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Apple devices and Libimobiledevice for support and discussions.",
+      "GitHub": "Visit the Libimobiledevice GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libimobiledevice_glue": "Not applicable",
+      "uninstall": "pkg uninstall libimobiledevice-glue-static"
+    },
+    "isFavorite": false
+  }
+]

@@ -1,0 +1,1408 @@
+[
+  {
+    "name": "ladspa-sdk",
+    "version": "1.17-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LADSPA-SDK is a software development kit for creating LADSPA (Linux Audio Developer's Simple Plugin API) plugins.",
+    "homepage": "http://www.ladspa.org/",
+    "installation": "pkg install ladspa-sdk",
+    "usage": "After installing ladspa-sdk, you can use it to develop and compile LADSPA plugins.",
+    "features": [
+      "Plugin Development: Provides tools for developing and compiling LADSPA plugins.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers development interfaces and tools for plugin creation.",
+      "Integration: Can be integrated into audio development and processing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LADSPA documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio development and LADSPA for support and discussions.",
+      "GitHub": "Visit the LADSPA GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_plugin": "gcc -o myplugin.so myplugin.c `ladspa-sdk-config --cflags --libs`",
+      "uninstall": "pkg uninstall ladspa-sdk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lame",
+    "version": "3.100-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LAME is a high quality MPEG Audio Layer III (MP3) encoder.",
+    "homepage": "http://lame.sourceforge.net/",
+    "installation": "pkg install lame",
+    "usage": "After installing lame, you can use it to encode audio files to MP3 format.",
+    "features": [
+      "MP3 Encoding: Provides tools for encoding audio files to MP3 format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for audio encoding tasks.",
+      "Integration: Can be integrated into audio processing and media workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LAME documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio encoding and LAME for support and discussions.",
+      "GitHub": "Visit the LAME GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_audio": "lame input.wav output.mp3",
+      "uninstall": "pkg uninstall lame"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lastpass-cli",
+    "version": "1.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LastPass CLI is a command-line interface for LastPass, a password management service.",
+    "homepage": "https://github.com/lastpass/lastpass-cli",
+    "installation": "pkg install lastpass-cli",
+    "usage": "After installing lastpass-cli, you can use it to manage your LastPass vault from the command line.",
+    "features": [
+      "Password Management: Provides tools for managing LastPass vault from the command line.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for password management tasks.",
+      "Integration: Can be integrated into security and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LastPass CLI documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to password management and LastPass CLI for support and discussions.",
+      "GitHub": "Visit the LastPass CLI GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "login": "lpass login your-email@example.com",
+      "uninstall": "pkg uninstall lastpass-cli"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lazygit",
+    "version": "0.45.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lazygit is a simple terminal UI for git commands.",
+    "homepage": "https://github.com/jesseduffield/lazygit",
+    "installation": "pkg install lazygit",
+    "usage": "After installing lazygit, you can use it to manage git repositories with a terminal UI.",
+    "features": [
+      "Git Management: Provides tools for managing git repositories with a terminal UI.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive terminal UI for git commands.",
+      "Integration: Can be integrated into development and version control workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lazygit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to git and Lazygit for support and discussions.",
+      "GitHub": "Visit the Lazygit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_lazygit": "lazygit",
+      "uninstall": "pkg uninstall lazygit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lazyread",
+    "version": "2.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lazyread is a terminal-based text reader with pagination and color support.",
+    "homepage": "https://github.com/ligurio/lazyread",
+    "installation": "pkg install lazyread",
+    "usage": "After installing lazyread, you can use it to read text files with pagination and color support in the terminal.",
+    "features": [
+      "Text Reading: Provides tools for reading text files with pagination and color support.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for text reading tasks.",
+      "Integration: Can be integrated into text processing and reading workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lazyread documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text reading and Lazyread for support and discussions.",
+      "GitHub": "Visit the Lazyread GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "read_file": "lazyread myfile.txt",
+      "uninstall": "pkg uninstall lazyread"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lcal",
+    "version": "2.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lcal is a command-line utility for displaying lunar calendars.",
+    "homepage": "https://github.com/shlomif/lcal",
+    "installation": "pkg install lcal",
+    "usage": "After installing lcal, you can use it to display lunar calendars from the command line.",
+    "features": [
+      "Lunar Calendar: Provides tools for displaying lunar calendars.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for calendar tasks.",
+      "Integration: Can be integrated into scheduling and time management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lcal documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to calendar management and Lcal for support and discussions.",
+      "GitHub": "Visit the Lcal GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "display_calendar": "lcal",
+      "uninstall": "pkg uninstall lcal"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ldc",
+    "version": "1.30.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LDC is a portable D programming language compiler with modern optimization and code generation.",
+    "homepage": "https://github.com/ldc-developers/ldc",
+    "installation": "pkg install ldc",
+    "usage": "After installing ldc, you can use it to compile D programming language code.",
+    "features": [
+      "Programming Language Compiler: Provides tools for compiling D programming language code.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for compilation tasks.",
+      "Integration: Can be integrated into development and build workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LDC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to D programming and LDC for support and discussions.",
+      "GitHub": "Visit the LDC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_code": "ldc2 mycode.d",
+      "uninstall": "pkg uninstall ldc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ldd",
+    "version": "0.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LDD is a lightweight dependency detection tool for shared libraries.",
+    "homepage": "https://github.com/lsof-org/ldd",
+    "installation": "pkg install ldd",
+    "usage": "After installing ldd, you can use it to detect dependencies of shared libraries.",
+    "features": [
+      "Dependency Detection: Provides tools for detecting dependencies of shared libraries.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for dependency detection tasks.",
+      "Integration: Can be integrated into development and debugging workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LDD documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to dependency detection and LDD for support and discussions.",
+      "GitHub": "Visit the LDD GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "detect_dependencies": "ldd mylibrary.so",
+      "uninstall": "pkg uninstall ldd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ldns-static",
+    "version": "1.8.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LDNS is a library for DNS programming. This is the statically linked version.",
+    "homepage": "https://www.nlnetlabs.nl/projects/ldns/about/",
+    "installation": "pkg install ldns-static",
+    "usage": "After installing ldns-static, you can use it to perform DNS programming tasks.",
+    "features": [
+      "DNS Programming: Provides tools for DNS programming tasks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for DNS programming.",
+      "Integration: Can be integrated into network and DNS workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LDNS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS and LDNS for support and discussions.",
+      "GitHub": "Visit the LDNS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ldns": "Not applicable",
+      "uninstall": "pkg uninstall ldns-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ldns",
+    "version": "1.8.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LDNS is a library for DNS programming.",
+    "homepage": "https://www.nlnetlabs.nl/projects/ldns/about/",
+    "installation": "pkg install ldns",
+    "usage": "After installing ldns, you can use it to perform DNS programming tasks.",
+    "features": [
+      "DNS Programming: Provides tools for DNS programming tasks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for DNS programming.",
+      "Integration: Can be integrated into network and DNS workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LDNS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS and LDNS for support and discussions.",
+      "GitHub": "Visit the LDNS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_ldns": "Not applicable",
+      "uninstall": "pkg uninstall ldns"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ledger",
+    "version": "3.3.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ledger is a powerful, double-entry accounting system that is accessed from the UNIX command-line.",
+    "homepage": "https://www.ledger-cli.org/",
+    "installation": "pkg install ledger",
+    "usage": "After installing ledger, you can use it to manage your financial records using double-entry accounting.",
+    "features": [
+      "Accounting: Provides tools for double-entry accounting and financial record management.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for accounting tasks.",
+      "Integration: Can be integrated into financial and accounting workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Ledger documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to accounting and Ledger for support and discussions.",
+      "GitHub": "Visit the Ledger GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "add_transaction": "ledger add '2025/02/09 * Payee\n  Expenses:Food  $10.00\n  Assets:Cash'",
+      "uninstall": "pkg uninstall ledger"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "leptonica-static",
+    "version": "1.85.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Leptonica is an open-source library for image processing and image analysis. This is the statically linked version.",
+    "homepage": "http://leptonica.org/",
+    "installation": "pkg install leptonica-static",
+    "usage": "After installing leptonica-static, you can use it for various image processing tasks.",
+    "features": [
+      "Image Processing: Provides tools for image processing and analysis.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for image processing tasks.",
+      "Integration: Can be integrated into applications requiring image processing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Leptonica documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Leptonica for support and discussions.",
+      "GitHub": "Visit the Leptonica GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_leptonica": "Not applicable",
+      "uninstall": "pkg uninstall leptonica-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "leptonica",
+    "version": "1.85.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Leptonica is an open-source library for image processing and image analysis.",
+    "homepage": "http://leptonica.org/",
+    "installation": "pkg install leptonica",
+    "usage": "After installing leptonica, you can use it for various image processing tasks.",
+    "features": [
+      "Image Processing: Provides tools for image processing and analysis.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image processing tasks.",
+      "Integration: Can be integrated into applications requiring image processing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Leptonica documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Leptonica for support and discussions.",
+      "GitHub": "Visit the Leptonica GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_leptonica": "Not applicable",
+      "uninstall": "pkg uninstall leptonica"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "less",
+    "version": "668",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Less is a terminal pager program used to view the contents of a text file one screen at a time.",
+    "homepage": "http://www.greenwoodsoftware.com/less/",
+    "installation": "pkg install less",
+    "usage": "After installing less, you can use it to view text files in the terminal.",
+    "features": [
+      "Text Viewing: Provides tools for viewing text files one screen at a time.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for text viewing.",
+      "Integration: Can be integrated into text processing and viewing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Less documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text viewing and Less for support and discussions.",
+      "GitHub": "Visit the Less GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "view_file": "less myfile.txt",
+      "uninstall": "pkg uninstall less"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lesspipe",
+    "version": "2.17-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Lesspipe is a preprocessor for less, allowing it to display various types of files.",
+    "homepage": "http://sourceforge.net/projects/lesspipe/",
+    "installation": "pkg install lesspipe",
+    "usage": "After installing lesspipe, you can use it to extend the functionality of less to display various file types.",
+    "features": [
+      "File Preprocessing: Provides tools for preprocessing files for display with less.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for file preprocessing.",
+      "Integration: Can be integrated into text viewing workflows with less.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lesspipe documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text viewing and Lesspipe for support and discussions.",
+      "GitHub": "Visit the Lesspipe GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lesspipe": "LESSOPEN='|lesspipe %s' less myfile.txt",
+      "uninstall": "pkg uninstall lesspipe"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "leveldb",
+    "version": "1.23-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "homepage": "https://github.com/google/leveldb",
+    "installation": "pkg install leveldb",
+    "usage": "After installing leveldb, you can use it to implement fast key-value storage in your applications.",
+    "features": [
+      "Key-Value Storage: Provides tools for implementing fast key-value storage.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for key-value storage tasks.",
+      "Integration: Can be integrated into applications requiring fast key-value storage.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LevelDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to key-value storage and LevelDB for support and discussions.",
+      "GitHub": "Visit the LevelDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_leveldb": "Not applicable",
+      "uninstall": "pkg uninstall leveldb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lexbor",
+    "version": "2.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lexbor is a fast HTML5 parser library.",
+    "homepage": "https://github.com/lexbor/lexbor/",
+    "installation": "pkg install lexbor",
+    "usage": "After installing lexbor, you can use it to parse HTML5 documents in your applications.",
+    "features": [
+      "HTML5 Parsing: Provides tools for fast HTML5 parsing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for HTML5 parsing tasks.",
+      "Integration: Can be integrated into applications requiring HTML5 parsing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lexbor documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to HTML5 parsing and Lexbor for support and discussions.",
+      "GitHub": "Visit the Lexbor GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lexbor": "Not applicable",
+      "uninstall": "pkg uninstall lexbor"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lexter",
+    "version": "1.0.3-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lexter is a lexer and parser combinator library for C++.",
+    "homepage": "https://github.com/lexter-dev/lexter",
+    "installation": "pkg install lexter",
+    "usage": "After installing lexter, you can use it to create lexers and parsers in your C++ applications.",
+    "features": [
+      "Lexer and Parser: Provides tools for creating lexers and parsers in C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for lexer and parser tasks.",
+      "Integration: Can be integrated into applications requiring lexer and parser capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lexter documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to lexing and parsing and Lexter for support and discussions.",
+      "GitHub": "Visit the Lexter GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lexter": "Not applicable",
+      "uninstall": "pkg uninstall lexter"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lf",
+    "version": "33",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lf (list files) is a terminal file manager written in Go.",
+    "homepage": "https://github.com/gokcehan/lf",
+    "installation": "pkg install lf",
+    "usage": "After installing lf, you can use it to manage files in the terminal.",
+    "features": [
+      "File Management: Provides tools for managing files in the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for file management tasks.",
+      "Integration: Can be integrated into system administration and file management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management and Lf for support and discussions.",
+      "GitHub": "Visit the Lf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_lf": "lf",
+      "uninstall": "pkg uninstall lf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lftp-static",
+    "version": "4.9.2-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lftp is a sophisticated file transfer program supporting a number of network protocols, including FTP, HTTP, and more. This is the statically linked version.",
+    "homepage": "http://lftp.yar.ru/",
+    "installation": "pkg install lftp-static",
+    "usage": "After installing lftp-static, you can use it to transfer files using various network protocols.",
+    "features": [
+      "File Transfer: Provides tools for transferring files using various network protocols.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for file transfer tasks.",
+      "Integration: Can be integrated into system administration and file transfer workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lftp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file transfer and Lftp for support and discussions.",
+      "GitHub": "Visit the Lftp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "transfer_file": "lftp -e 'put myfile.txt' -u user,password ftp://example.com",
+      "uninstall": "pkg uninstall lftp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lftp",
+    "version": "4.9.2-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lftp is a sophisticated file transfer program supporting a number of network protocols, including FTP, HTTP, and more.",
+    "homepage": "http://lftp.yar.ru/",
+    "installation": "pkg install lftp",
+    "usage": "After installing lftp, you can use it to transfer files using various network protocols.",
+    "features": [
+      "File Transfer: Provides tools for transferring files using various network protocols.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for file transfer tasks.",
+      "Integration: Can be integrated into system administration and file transfer workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lftp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file transfer and Lftp for support and discussions.",
+      "GitHub": "Visit the Lftp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "transfer_file": "lftp -e 'put myfile.txt' -u user,password ftp://example.com",
+      "uninstall": "pkg uninstall lftp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lgogdownloader",
+    "version": "3.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lgogdownloader is an open-source GOG downloader for Linux.",
+    "homepage": "https://sites.google.com/site/gogdownloader/",
+    "installation": "pkg install lgogdownloader",
+    "usage": "After installing lgogdownloader, you can use it to download games from GOG.com.",
+    "features": [
+      "Game Downloader: Provides tools for downloading games from GOG.com.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for game downloading tasks.",
+      "Integration: Can be integrated into game management and downloading workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lgogdownloader documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to game downloading and Lgogdownloader for support and discussions.",
+      "GitHub": "Visit the Lgogdownloader GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "download_game": "lgogdownloader --download",
+      "uninstall": "pkg uninstall lgogdownloader"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lhasa-static",
+    "version": "0.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lhasa is a free LHA archive decompression library and tool. This is the statically linked version.",
+    "homepage": "https://fragglet.github.io/lhasa/",
+    "installation": "pkg install lhasa-static",
+    "usage": "After installing lhasa-static, you can use it to decompress LHA archives.",
+    "features": [
+      "Archive Decompression: Provides tools for decompressing LHA archives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a command-line interface for decompression tasks.",
+      "Integration: Can be integrated into file management and archive workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lhasa documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to archive management and Lhasa for support and discussions.",
+      "GitHub": "Visit the Lhasa GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "decompress_archive": "lhasa e myarchive.lha",
+      "uninstall": "pkg uninstall lhasa-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lhasa",
+    "version": "0.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lhasa is a free LHA archive decompression library and tool.",
+    "homepage": "https://fragglet.github.io/lhasa/",
+    "installation": "pkg install lhasa",
+    "usage": "After installing lhasa, you can use it to decompress LHA archives.",
+    "features": [
+      "Archive Decompression: Provides tools for decompressing LHA archives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a command-line interface for decompression tasks.",
+      "Integration: Can be integrated into file management and archive workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lhasa documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to archive management and Lhasa for support and discussions.",
+      "GitHub": "Visit the Lhasa GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "decompress_archive": "lhasa e myarchive.lha",
+      "uninstall": "pkg uninstall lhasa"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liba52-static",
+    "version": "0.8.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liba52 is a free library for decoding ATSC A/52 streams. This is the statically linked version.",
+    "homepage": "https://liba52.sourceforge.net/",
+    "installation": "pkg install liba52-static",
+    "usage": "After installing liba52-static, you can use it to decode ATSC A/52 audio streams.",
+    "features": [
+      "Audio Decoding: Provides tools for decoding ATSC A/52 audio streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio decoding tasks.",
+      "Integration: Can be integrated into multimedia applications requiring A/52 audio decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liba52 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio decoding and Liba52 for support and discussions.",
+      "GitHub": "Visit the Liba52 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "decode_audio": "Not applicable",
+      "uninstall": "pkg uninstall liba52-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liba52",
+    "version": "0.8.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liba52 is a free library for decoding ATSC A/52 streams.",
+    "homepage": "https://liba52.sourceforge.net/",
+    "installation": "pkg install liba52",
+    "usage": "After installing liba52, you can use it to decode ATSC A/52 audio streams.",
+    "features": [
+      "Audio Decoding: Provides tools for decoding ATSC A/52 audio streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio decoding tasks.",
+      "Integration: Can be integrated into multimedia applications requiring A/52 audio decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Liba52 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio decoding and Liba52 for support and discussions.",
+      "GitHub": "Visit the Liba52 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "decode_audio": "Not applicable",
+      "uninstall": "pkg uninstall liba52"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libacl-static",
+    "version": "2.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libacl is a library for Access Control Lists. This is the statically linked version.",
+    "homepage": "https://savannah.nongnu.org/projects/acl/",
+    "installation": "pkg install libacl-static",
+    "usage": "After installing libacl-static, you can use it to manage Access Control Lists.",
+    "features": [
+      "Access Control Lists: Provides tools for managing Access Control Lists.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for ACL management tasks.",
+      "Integration: Can be integrated into applications requiring ACL support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libacl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ACL management and Libacl for support and discussions.",
+      "GitHub": "Visit the Libacl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "manage_acl": "Not applicable",
+      "uninstall": "pkg uninstall libacl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libacl",
+    "version": "2.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libacl is a library for Access Control Lists.",
+    "homepage": "https://savannah.nongnu.org/projects/acl/",
+    "installation": "pkg install libacl",
+    "usage": "After installing libacl, you can use it to manage Access Control Lists.",
+    "features": [
+      "Access Control Lists: Provides tools for managing Access Control Lists.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for ACL management tasks.",
+      "Integration: Can be integrated into applications requiring ACL support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libacl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ACL management and Libacl for support and discussions.",
+      "GitHub": "Visit the Libacl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "manage_acl": "Not applicable",
+      "uninstall": "pkg uninstall libacl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libaml",
+    "version": "0.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libaml is a library for abstract memory management.",
+    "homepage": "https://github.com/pmem/libaml",
+    "installation": "pkg install libaml",
+    "usage": "After installing libaml, you can use it for abstract memory management tasks in your applications.",
+    "features": [
+      "Memory Management: Provides tools for abstract memory management.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for memory management tasks.",
+      "Integration: Can be integrated into applications requiring abstract memory management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libaml documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to memory management and Libaml for support and discussions.",
+      "GitHub": "Visit the Libaml GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libaml": "Not applicable",
+      "uninstall": "pkg uninstall libaml"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-complex-math",
+    "version": "0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-complex-math is a library for complex mathematical operations on Android.",
+    "homepage": "https://github.com/android/libandroid-complex-math",
+    "installation": "pkg install libandroid-complex-math",
+    "usage": "After installing libandroid-complex-math, you can use it to perform complex mathematical operations in your Android applications.",
+    "features": [
+      "Complex Math Operations: Provides tools for complex mathematical operations.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for mathematical tasks.",
+      "Integration: Can be integrated into Android applications requiring complex math operations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-complex-math documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to mathematical operations and Libandroid-complex-math for support and discussions.",
+      "GitHub": "Visit the Libandroid-complex-math GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_complex_math": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-complex-math"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-execinfo-static",
+    "version": "0.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-execinfo provides backtrace support for Android. This is the statically linked version.",
+    "homepage": "https://github.com/android/libandroid-execinfo",
+    "installation": "pkg install libandroid-execinfo-static",
+    "usage": "After installing libandroid-execinfo-static, you can use it to obtain backtraces in your Android applications.",
+    "features": [
+      "Backtrace Support: Provides tools for obtaining backtraces on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for backtrace tasks.",
+      "Integration: Can be integrated into Android applications requiring backtrace support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-execinfo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to backtrace support and Libandroid-execinfo for support and discussions.",
+      "GitHub": "Visit the Libandroid-execinfo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_execinfo": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-execinfo-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-execinfo",
+    "version": "0.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-execinfo provides backtrace support for Android.",
+    "homepage": "https://github.com/android/libandroid-execinfo",
+    "installation": "pkg install libandroid-execinfo",
+    "usage": "After installing libandroid-execinfo, you can use it to obtain backtraces in your Android applications.",
+    "features": [
+      "Backtrace Support: Provides tools for obtaining backtraces on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for backtrace tasks.",
+      "Integration: Can be integrated into Android applications requiring backtrace support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-execinfo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to backtrace support and Libandroid-execinfo for support and discussions.",
+      "GitHub": "Visit the Libandroid-execinfo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_execinfo": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-execinfo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-glob",
+    "version": "0.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-glob is a library that provides support for globbing on Android.",
+    "homepage": "https://github.com/android/libandroid-glob",
+    "installation": "pkg install libandroid-glob",
+    "usage": "After installing libandroid-glob, you can use it to perform globbing tasks in your Android applications.",
+    "features": [
+      "Globbing Support: Provides tools for performing globbing tasks on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for globbing tasks.",
+      "Integration: Can be integrated into Android applications requiring globbing support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-glob documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to globbing support and Libandroid-glob for support and discussions.",
+      "GitHub": "Visit the Libandroid-glob GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_glob": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-glob"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-posix-semaphore-static",
+    "version": "0.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-posix-semaphore provides POSIX semaphore support for Android. This is the statically linked version.",
+    "homepage": "https://github.com/android/libandroid-posix-semaphore",
+    "installation": "pkg install libandroid-posix-semaphore-static",
+    "usage": "After installing libandroid-posix-semaphore-static, you can use it to manage POSIX semaphores in your Android applications.",
+    "features": [
+      "Semaphore Support: Provides tools for managing POSIX semaphores on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for semaphore management tasks.",
+      "Integration: Can be integrated into Android applications requiring semaphore support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-posix-semaphore documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to semaphore support and Libandroid-posix-semaphore for support and discussions.",
+      "GitHub": "Visit the Libandroid-posix-semaphore GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_posix_semaphore": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-posix-semaphore-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-posix-semaphore",
+    "version": "0.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-posix-semaphore provides POSIX semaphore support for Android.",
+    "homepage": "https://github.com/android/libandroid-posix-semaphore",
+    "installation": "pkg install libandroid-posix-semaphore",
+    "usage": "After installing libandroid-posix-semaphore, you can use it to manage POSIX semaphores in your Android applications.",
+    "features": [
+      "Semaphore Support: Provides tools for managing POSIX semaphores on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for semaphore management tasks.",
+      "Integration: Can be integrated into Android applications requiring semaphore support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-posix-semaphore documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to semaphore support and Libandroid-posix-semaphore for support and discussions.",
+      "GitHub": "Visit the Libandroid-posix-semaphore GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_posix_semaphore": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-posix-semaphore"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-selinux",
+    "version": "14.0.0.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-selinux provides SELinux support for Android.",
+    "homepage": "https://github.com/android/libandroid-selinux",
+    "installation": "pkg install libandroid-selinux",
+    "usage": "After installing libandroid-selinux, you can use it to manage SELinux policies and contexts in your Android applications.",
+    "features": [
+      "SELinux Support: Provides tools for managing SELinux policies and contexts on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for SELinux management tasks.",
+      "Integration: Can be integrated into Android applications requiring SELinux support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-selinux documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SELinux support and Libandroid-selinux for support and discussions.",
+      "GitHub": "Visit the Libandroid-selinux GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_selinux": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-selinux"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-shmem-static",
+    "version": "0.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-shmem provides shared memory support for Android. This is the statically linked version.",
+    "homepage": "https://github.com/android/libandroid-shmem",
+    "installation": "pkg install libandroid-shmem-static",
+    "usage": "After installing libandroid-shmem-static, you can use it to manage shared memory in your Android applications.",
+    "features": [
+      "Shared Memory: Provides tools for managing shared memory on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for shared memory tasks.",
+      "Integration: Can be integrated into Android applications requiring shared memory support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-shmem documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shared memory and Libandroid-shmem for support and discussions.",
+      "GitHub": "Visit the Libandroid-shmem GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_shmem": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-shmem-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-shmem",
+    "version": "0.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-shmem provides shared memory support for Android.",
+    "homepage": "https://github.com/android/libandroid-shmem",
+    "installation": "pkg install libandroid-shmem",
+    "usage": "After installing libandroid-shmem, you can use it to manage shared memory in your Android applications.",
+    "features": [
+      "Shared Memory: Provides tools for managing shared memory on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for shared memory tasks.",
+      "Integration: Can be integrated into Android applications requiring shared memory support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-shmem documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shared memory and Libandroid-shmem for support and discussions.",
+      "GitHub": "Visit the Libandroid-shmem GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_shmem": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-shmem"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-spawn",
+    "version": "0.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-spawn provides process spawning support for Android.",
+    "homepage": "https://github.com/android/libandroid-spawn",
+    "installation": "pkg install libandroid-spawn",
+    "usage": "After installing libandroid-spawn, you can use it to manage process spawning in your Android applications.",
+    "features": [
+      "Process Spawning: Provides tools for managing process spawning on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for process management tasks.",
+      "Integration: Can be integrated into Android applications requiring process spawning support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-spawn documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to process management and Libandroid-spawn for support and discussions.",
+      "GitHub": "Visit the Libandroid-spawn GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_spawn": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-spawn"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-stub",
+    "version": "27c",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-stub provides stub implementations for Android.",
+    "homepage": "https://github.com/android/libandroid-stub",
+    "installation": "pkg install libandroid-stub",
+    "usage": "After installing libandroid-stub, you can use it to provide stub implementations in your Android applications.",
+    "features": [
+      "Stub Implementations: Provides tools for creating stub implementations on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for stub implementation tasks.",
+      "Integration: Can be integrated into Android applications requiring stub implementations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-stub documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to stub implementations and Libandroid-stub for support and discussions.",
+      "GitHub": "Visit the Libandroid-stub GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_stub": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-stub"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-support",
+    "version": "28",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-support provides support libraries for Android.",
+    "homepage": "https://github.com/android/libandroid-support",
+    "installation": "pkg install libandroid-support",
+    "usage": "After installing libandroid-support, you can use it to enhance the functionality of your Android applications.",
+    "features": [
+      "Support Libraries: Provides tools for enhancing the functionality of Android applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for support library tasks.",
+      "Integration: Can be integrated into Android applications requiring additional support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-support documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to support libraries and Libandroid-support for support and discussions.",
+      "GitHub": "Visit the Libandroid-support GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_support": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-support"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-sysv-semaphore-static",
+    "version": "0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-sysv-semaphore provides System V semaphore support for Android. This is the statically linked version.",
+    "homepage": "https://github.com/android/libandroid-sysv-semaphore",
+    "installation": "pkg install libandroid-sysv-semaphore-static",
+    "usage": "After installing libandroid-sysv-semaphore-static, you can use it to manage System V semaphores in your Android applications.",
+    "features": [
+      "System V Semaphore: Provides tools for managing System V semaphores on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for semaphore management tasks.",
+      "Integration: Can be integrated into Android applications requiring System V semaphore support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-sysv-semaphore documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to semaphore management and Libandroid-sysv-semaphore for support and discussions.",
+      "GitHub": "Visit the Libandroid-sysv-semaphore GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_sysv_semaphore": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-sysv-semaphore-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-sysv-semaphore",
+    "version": "0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-sysv-semaphore provides System V semaphore support for Android.",
+    "homepage": "https://github.com/android/libandroid-sysv-semaphore",
+    "installation": "pkg install libandroid-sysv-semaphore",
+    "usage": "After installing libandroid-sysv-semaphore, you can use it to manage System V semaphores in your Android applications.",
+    "features": [
+      "System V Semaphore: Provides tools for managing System V semaphores on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for semaphore management tasks.",
+      "Integration: Can be integrated into Android applications requiring System V semaphore support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-sysv-semaphore documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to semaphore management and Libandroid-sysv-semaphore for support and discussions.",
+      "GitHub": "Visit the Libandroid-sysv-semaphore GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_sysv_semaphore": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-sysv-semaphore"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-wordexp-static",
+    "version": "0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-wordexp provides word expansion support for Android. This is the statically linked version.",
+    "homepage": "https://github.com/android/libandroid-wordexp",
+    "installation": "pkg install libandroid-wordexp-static",
+    "usage": "After installing libandroid-wordexp-static, you can use it to perform word expansion in your Android applications.",
+    "features": [
+      "Word Expansion: Provides tools for performing word expansion on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for word expansion tasks.",
+      "Integration: Can be integrated into Android applications requiring word expansion support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-wordexp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to word expansion and Libandroid-wordexp for support and discussions.",
+      "GitHub": "Visit the Libandroid-wordexp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_wordexp": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-wordexp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libandroid-wordexp",
+    "version": "0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libandroid-wordexp provides word expansion support for Android.",
+    "homepage": "https://github.com/android/libandroid-wordexp",
+    "installation": "pkg install libandroid-wordexp",
+    "usage": "After installing libandroid-wordexp, you can use it to perform word expansion in your Android applications.",
+    "features": [
+      "Word Expansion: Provides tools for performing word expansion on Android.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for word expansion tasks.",
+      "Integration: Can be integrated into Android applications requiring word expansion support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libandroid-wordexp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to word expansion and Libandroid-wordexp for support and discussions.",
+      "GitHub": "Visit the Libandroid-wordexp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libandroid_wordexp": "Not applicable",
+      "uninstall": "pkg uninstall libandroid-wordexp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libao-static",
+    "version": "1.2.2-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libao is a cross-platform audio library that allows programs to output audio using different backends. This is the statically linked version.",
+    "homepage": "https://www.xiph.org/ao/",
+    "installation": "pkg install libao-static",
+    "usage": "After installing libao-static, you can use it to output audio using different backends in your applications.",
+    "features": [
+      "Audio Output: Provides tools for outputting audio using different backends.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio output tasks.",
+      "Integration: Can be integrated into applications requiring audio output capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libao documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio output and Libao for support and discussions.",
+      "GitHub": "Visit the Libao GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libao": "Not applicable",
+      "uninstall": "pkg uninstall libao-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libao",
+    "version": "1.2.2-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libao is a cross-platform audio library that allows programs to output audio using different backends.",
+    "homepage": "https://www.xiph.org/ao/",
+    "installation": "pkg install libao",
+    "usage": "After installing libao, you can use it to output audio using different backends in your applications.",
+    "features": [
+      "Audio Output: Provides tools for outputting audio using different backends.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio output tasks.",
+      "Integration: Can be integrated into applications requiring audio output capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libao documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio output and Libao for support and discussions.",
+      "GitHub": "Visit the Libao GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libao": "Not applicable",
+      "uninstall": "pkg uninstall libao"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libaom-static",
+    "version": "3.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libaom is the AOMedia Video 1 (AV1) codec library. This is the statically linked version.",
+    "homepage": "https://aomedia.googlesource.com/aom/",
+    "installation": "pkg install libaom-static",
+    "usage": "After installing libaom-static, you can use it to encode and decode AV1 video streams.",
+    "features": [
+      "Video Codec: Provides tools for encoding and decoding AV1 video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for video codec tasks.",
+      "Integration: Can be integrated into applications requiring AV1 video codec support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libaom documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video codecs and Libaom for support and discussions.",
+      "GitHub": "Visit the Libaom GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_video": "aomenc input.y4m -o output.ivf",
+      "decode_video": "aomdec input.ivf -o output.y4m",
+      "uninstall": "pkg uninstall libaom-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libaom",
+    "version": "3.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libaom is the AOMedia Video 1 (AV1) codec library.",
+    "homepage": "https://aomedia.googlesource.com/aom/",
+    "installation": "pkg install libaom",
+    "usage": "After installing libaom, you can use it to encode and decode AV1 video streams.",
+    "features": [
+      "Video Codec: Provides tools for encoding and decoding AV1 video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for video codec tasks.",
+      "Integration: Can be integrated into applications requiring AV1 video codec support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libaom documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video codecs and Libaom for support and discussions.",
+      "GitHub": "Visit the Libaom GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_video": "aomenc input.y4m -o output.ivf",
+      "decode_video": "aomdec input.ivf -o output.y4m",
+      "uninstall": "pkg uninstall libaom"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libapt-pkg-perl",
+    "version": "0.1.40-10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libapt-pkg-perl provides Perl interface for libapt-pkg, a library used by apt for package management.",
+    "homepage": "https://tracker.debian.org/pkg/libapt-pkg-perl",
+    "installation": "pkg install libapt-pkg-perl",
+    "usage": "After installing libapt-pkg-perl, you can use it to interact with apt package management system in Perl scripts.",
+    "features": [
+      "Package Management: Provides tools for interacting with apt package management system in Perl scripts.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for package management tasks.",
+      "Integration: Can be integrated into Perl scripts requiring apt package management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libapt-pkg-perl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to package management and Libapt-pkg-perl for support and discussions.",
+      "GitHub": "Visit the Libapt-pkg-perl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libapt_pkg_perl": "Not applicable",
+      "uninstall": "pkg uninstall libapt-pkg-perl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libarchive-static",
+    "version": "3.7.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libarchive is a library for reading and writing streaming archives, including tar, cpio, pax, zip, and more. This is the statically linked version.",
+    "homepage": "https://www.libarchive.org/",
+    "installation": "pkg install libarchive-static",
+    "usage": "After installing libarchive-static, you can use it to handle various archive formats in your applications.",
+    "features": [
+      "Archive Handling: Provides tools for reading and writing various archive formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for archive handling tasks.",
+      "Integration: Can be integrated into applications requiring archive handling support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libarchive documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to archive handling and Libarchive for support and discussions.",
+      "GitHub": "Visit the Libarchive GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libarchive": "Not applicable",
+      "uninstall": "pkg uninstall libarchive-static"
+    },
+    "isFavorite": false
+  }
+]

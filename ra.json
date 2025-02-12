@@ -1,0 +1,312 @@
+[
+  {
+    "name": "rsnapshot",
+    "version": "1.4.5",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "rsnapshot is a filesystem snapshot utility based on rsync.",
+    "homepage": "http://www.rsnapshot.org/",
+    "installation": "pkg install rsnapshot",
+    "usage": "After installing rsnapshot, you can use it to create filesystem snapshots for backup purposes.",
+    "features": [
+      "Filesystem Snapshot: Provides tools for creating filesystem snapshots.",
+      "Based on rsync: Utilizes rsync for efficient data transfer.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official rsnapshot website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to backup solutions for support and discussions.",
+      "GitHub": "Search for repositories or forks of rsnapshot to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_snapshot": "rsnapshot alpha",
+      "uninstall": "pkg uninstall rsnapshot"
+    }
+  },
+  {
+    "name": "rsync",
+    "version": "3.4.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rsync is a fast, versatile, remote (and local) file-copying tool.",
+    "homepage": "https://rsync.samba.org/",
+    "installation": "pkg install rsync",
+    "usage": "After installing rsync, you can use it to synchronize files between directories or systems.",
+    "features": [
+      "File Synchronization: Provides tools for synchronizing files between directories or systems.",
+      "Efficient Data Transfer: Designed for efficient data transfer using delta encoding.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official rsync website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file synchronization for support and discussions.",
+      "GitHub": "Search for repositories or forks of rsync to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "sync_files": "rsync -avz /source/dir /destination/dir",
+      "uninstall": "pkg uninstall rsync"
+    }
+  },
+  {
+    "name": "rtmpdump-static",
+    "version": "2.4-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rtmpdump-static provides a static binary version of rtmpdump, a toolkit for RTMP streams.",
+    "homepage": "https://rtmpdump.mplayerhq.hu/",
+    "installation": "pkg install rtmpdump-static",
+    "usage": "After installing rtmpdump-static, you can use it to download RTMP streams.",
+    "features": [
+      "RTMP Streams: Provides tools for downloading RTMP streams.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official rtmpdump website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to streaming tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of rtmpdump to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "download_stream": "rtmpdump -r rtmp://example.com/stream -o output.flv",
+      "uninstall": "pkg uninstall rtmpdump-static"
+    }
+  },
+  {
+    "name": "rtmpdump",
+    "version": "2.4-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rtmpdump is a toolkit for RTMP streams.",
+    "homepage": "https://rtmpdump.mplayerhq.hu/",
+    "installation": "pkg install rtmpdump",
+    "usage": "After installing rtmpdump, you can use it to download RTMP streams.",
+    "features": [
+      "RTMP Streams: Provides tools for downloading RTMP streams.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official rtmpdump website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to streaming tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of rtmpdump to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "download_stream": "rtmpdump -r rtmp://example.com/stream -o output.flv",
+      "uninstall": "pkg uninstall rtmpdump"
+    }
+  },
+  {
+    "name": "rtorrent",
+    "version": "0.15.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rtorrent is a command-line based BitTorrent client.",
+    "homepage": "https://github.com/rakshasa/rtorrent",
+    "installation": "pkg install rtorrent",
+    "usage": "After installing rtorrent, you can use it to download and manage torrent files from the command line.",
+    "features": [
+      "BitTorrent Client: Provides a command-line based BitTorrent client.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to BitTorrent clients for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "download_torrent": "rtorrent /path/to/torrent/file",
+      "uninstall": "pkg uninstall rtorrent"
+    }
+  },
+  {
+    "name": "rubberband-ladspa",
+    "version": "4.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rubberband-ladspa provides LADSPA plugins for the Rubber Band library.",
+    "homepage": "https://breakfastquay.com/rubberband/",
+    "installation": "pkg install rubberband-ladspa",
+    "usage": "After installing rubberband-ladspa, you can use the LADSPA plugins for time-stretching and pitch-shifting audio.",
+    "features": [
+      "LADSPA Plugins: Provides LADSPA plugins for the Rubber Band library.",
+      "Audio Processing: Supports time-stretching and pitch-shifting audio.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rubber Band website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rubber Band to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_plugin": "Include rubberband-ladspa in your audio processing chain.",
+      "uninstall": "pkg uninstall rubberband-ladspa"
+    }
+  },
+  {
+    "name": "rubberband-lv2",
+    "version": "4.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rubberband-lv2 provides LV2 plugins for the Rubber Band library.",
+    "homepage": "https://breakfastquay.com/rubberband/",
+    "installation": "pkg install rubberband-lv2",
+    "usage": "After installing rubberband-lv2, you can use the LV2 plugins for time-stretching and pitch-shifting audio.",
+    "features": [
+      "LV2 Plugins: Provides LV2 plugins for the Rubber Band library.",
+      "Audio Processing: Supports time-stretching and pitch-shifting audio.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rubber Band website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rubber Band to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_plugin": "Include rubberband-lv2 in your audio processing chain.",
+      "uninstall": "pkg uninstall rubberband-lv2"
+    }
+  },
+  {
+    "name": "rubberband-static",
+    "version": "4.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rubberband-static provides a static library version of the Rubber Band library for time-stretching and pitch-shifting audio.",
+    "homepage": "https://breakfastquay.com/rubberband/",
+    "installation": "pkg install rubberband-static",
+    "usage": "After installing rubberband-static, you can link the static library with your audio processing applications.",
+    "features": [
+      "Static Library: Provides a static library version of the Rubber Band library.",
+      "Audio Processing: Supports time-stretching and pitch-shifting audio.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rubber Band website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rubber Band to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lrubberband",
+      "uninstall": "pkg uninstall rubberband-static"
+    }
+  },
+  {
+    "name": "rubberband-vamp",
+    "version": "4.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rubberband-vamp provides Vamp plugins for the Rubber Band library.",
+    "homepage": "https://breakfastquay.com/rubberband/",
+    "installation": "pkg install rubberband-vamp",
+    "usage": "After installing rubberband-vamp, you can use the Vamp plugins for time-stretching and pitch-shifting audio.",
+    "features": [
+      "Vamp Plugins: Provides Vamp plugins for the Rubber Band library.",
+      "Audio Processing: Supports time-stretching and pitch-shifting audio.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rubber Band website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rubber Band to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_plugin": "Include rubberband-vamp in your audio processing chain.",
+      "uninstall": "pkg uninstall rubberband-vamp"
+    }
+  },
+  {
+    "name": "rubberband",
+    "version": "4.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Rubber Band is a library and utility for time-stretching and pitch-shifting audio.",
+    "homepage": "https://breakfastquay.com/rubberband/",
+    "installation": "pkg install rubberband",
+    "usage": "After installing Rubber Band, you can use it to time-stretch and pitch-shift audio files.",
+    "features": [
+      "Audio Processing: Provides tools for time-stretching and pitch-shifting audio.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Rubber Band website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Rubber Band to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "stretch_audio": "rubberband -t 1.5 input.wav output.wav",
+      "shift_pitch": "rubberband -p 2 input.wav output.wav",
+      "uninstall": "pkg uninstall rubberband"
+    }
+  },
+  {
+    "name": "rubiks-cube",
+    "version": "1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "rubiks-cube is a command-line Rubik's Cube solver.",
+    "homepage": "https://github.com/sharkdp/rubiks-cube",
+    "installation": "pkg install rubiks-cube",
+    "usage": "After installing rubiks-cube, you can use it to solve Rubik's Cube configurations from the command line.",
+    "features": [
+      "Rubik's Cube Solver: Provides a command-line tool for solving Rubik's Cube configurations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to puzzle solving for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "solve_cube": "rubiks-cube R U R' U' R U2 R'",
+      "uninstall": "pkg uninstall rubiks-cube"
+    }
+  },
+  {
+    "name": "ruby-ri",
+    "version": "3.3.6",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "ruby-ri is a command-line tool for displaying Ruby documentation.",
+    "homepage": "https://www.ruby-lang.org/",
+    "installation": "pkg install ruby-ri",
+    "usage": "After installing ruby-ri, you can use it to display Ruby documentation from the command line.",
+    "features": [
+      "Ruby Documentation: Provides a command-line tool for displaying Ruby documentation.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Ruby website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Ruby for support and discussions.",
+      "GitHub": "Search for repositories or forks of Ruby to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "show_docs": "ri Array",
+      "uninstall": "pkg uninstall ruby-ri"
+    }
+  },
+  {
+    "name": "ruby",
+    "version": "3.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ruby is a dynamic, open source programming language with a focus on simplicity and productivity.",
+    "homepage": "https://www.ruby-lang.org/",
+    "installation": "pkg install ruby",
+    "usage": "After installing Ruby, you can use it to develop applications using the Ruby programming language.",
+    "features": [
+      "Dynamic Language: Provides a dynamic programming language.",
+      "Simplicity and Productivity: Designed with a focus on simplicity and productivity.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open Source: Available as open source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Ruby website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Ruby for support and discussions.",
+      "GitHub": "Search for repositories or forks of Ruby to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "ruby script.rb",
+      "start_repl": "irb",
+      "uninstall": "pkg uninstall ruby"
+    }
+  }
+]

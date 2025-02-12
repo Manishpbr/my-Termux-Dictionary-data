@@ -1,0 +1,1396 @@
+[
+  {
+    "name": "protobuf-dev",
+    "version": "25.1-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Protocol Buffers - Google's data interchange format (development files).",
+    "homepage": "https://developers.google.com/protocol-buffers",
+    "installation": "pkg install protobuf-dev",
+    "usage": "After installing protobuf-dev, you can develop applications using Protocol Buffers.",
+    "features": [
+      "Data Interchange: Facilitates data interchange between applications.",
+      "Development Files: Provides headers and other files needed for development.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Protocol Buffers for support and discussions.",
+      "GitHub": "Search for repositories or forks of protobuf-dev to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_proto": "protoc --cpp_out=. example.proto",
+      "uninstall": "pkg uninstall protobuf-dev"
+    }
+  },
+  {
+    "name": "protobuf-static",
+    "version": "25.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Protocol Buffers - Google's data interchange format (static library).",
+    "homepage": "https://developers.google.com/protocol-buffers",
+    "installation": "pkg install protobuf-static",
+    "usage": "After installing protobuf-static, you can link it with your applications to use Protocol Buffers.",
+    "features": [
+      "Data Interchange: Facilitates data interchange between applications.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Protocol Buffers for support and discussions.",
+      "GitHub": "Search for repositories or forks of protobuf-static to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lprotobuf",
+      "uninstall": "pkg uninstall protobuf-static"
+    }
+  },
+  {
+    "name": "protobuf",
+    "version": "25.1-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Protocol Buffers - Google's data interchange format.",
+    "homepage": "https://developers.google.com/protocol-buffers",
+    "installation": "pkg install protobuf",
+    "usage": "After installing protobuf, you can use it to encode and decode structured data.",
+    "features": [
+      "Data Interchange: Facilitates data interchange between applications.",
+      "Cross-Platform: Works on various operating systems.",
+      "High Performance: Efficiently encodes and decodes structured data."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Protocol Buffers for support and discussions.",
+      "GitHub": "Search for repositories or forks of protobuf to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_data": "protoc --encode=example < example.txt",
+      "uninstall": "pkg uninstall protobuf"
+    }
+  },
+  {
+    "name": "proton-bridge",
+    "version": "3.16.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Proton Bridge is an application that allows ProtonMail users to access their email using a desktop email client.",
+    "homepage": "https://protonmail.com/bridge",
+    "installation": "pkg install proton-bridge",
+    "usage": "After installing Proton Bridge, you can configure it to access your ProtonMail account.",
+    "features": [
+      "Email Access: Provides access to ProtonMail email using desktop email clients.",
+      "Secure: Ensures secure access to ProtonMail accounts.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ProtonMail for support and discussions.",
+      "GitHub": "Search for repositories or forks of proton-bridge to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_bridge": "proton-bridge",
+      "uninstall": "pkg uninstall proton-bridge"
+    }
+  },
+  {
+    "name": "prover9",
+    "version": "2009-11A-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Prover9 is an automated theorem prover for first-order and equational logic.",
+    "homepage": "https://www.cs.unm.edu/~mccune/prover9/",
+    "installation": "pkg install prover9",
+    "usage": "After installing Prover9, you can use it to prove theorems by typing: prover9",
+    "features": [
+      "Theorem Proving: Provides tools for automated theorem proving.",
+      "First-Order Logic: Supports first-order and equational logic.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and resources on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to theorem proving for support and discussions.",
+      "GitHub": "Search for repositories or forks of Prover9 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "prove_theorem": "prover9 < input.in",
+      "uninstall": "pkg uninstall prover9"
+    }
+  },
+  {
+    "name": "proxmark3",
+    "version": "1:4.19552",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Proxmark3 is a powerful RFID tool for developing and debugging RFID systems.",
+    "homepage": "https://github.com/Proxmark/proxmark3",
+    "installation": "pkg install proxmark3",
+    "usage": "After installing Proxmark3, you can use it to interact with RFID systems.",
+    "features": [
+      "RFID Tool: Provides tools for developing and debugging RFID systems.",
+      "Powerful: Capable of interacting with various RFID standards.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to RFID for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "interact_with_rfid": "proxmark3 /dev/ttyACM0",
+      "uninstall": "pkg uninstall proxmark3"
+    }
+  },
+  {
+    "name": "proxychains-ng",
+    "version": "4.17",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "proxychains-ng is a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.",
+    "homepage": "https://github.com/rofl0r/proxychains-ng",
+    "installation": "pkg install proxychains-ng",
+    "usage": "After installing proxychains-ng, you can force applications to use a proxy by typing: proxychains4",
+    "features": [
+      "Proxy Support: Forces TCP connections to follow through a proxy.",
+      "Multiple Proxy Types: Supports SOCKS4, SOCKS5, and HTTP(S) proxies.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to proxy tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_proxy": "proxychains4 curl http://example.com",
+      "uninstall": "pkg uninstall proxychains-ng"
+    }
+  },
+  {
+    "name": "psmisc",
+    "version": "23.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "psmisc is a set of small useful utilities that use the proc filesystem.",
+    "homepage": "https://gitlab.com/psmisc/psmisc",
+    "installation": "pkg install psmisc",
+    "usage": "After installing psmisc, you can use the provided utilities to manage processes.",
+    "features": [
+      "Process Utilities: Provides a set of small useful utilities for managing processes.",
+      "Proc Filesystem: Utilizes the proc filesystem.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitLab project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to process management for support and discussions.",
+      "GitHub": "Search for repositories or forks of psmisc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_processes": "ps aux",
+      "uninstall": "pkg uninstall psmisc"
+    }
+  },
+  {
+    "name": "ptex-static",
+    "version": "2.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ptex-static provides a static library version of Ptex, a texture mapping system developed by Disney.",
+    "homepage": "https://github.com/wdas/ptex",
+    "installation": "pkg install ptex-static",
+    "usage": "After installing ptex-static, you can link it with your applications to use texture mapping functionalities.",
+    "features": [
+      "Texture Mapping: Provides a static library for texture mapping.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to texture mapping for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lptex",
+      "uninstall": "pkg uninstall ptex-static"
+    }
+  },
+  {
+    "name": "ptex",
+    "version": "2.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ptex is a texture mapping system developed by Disney for production-quality rendering.",
+    "homepage": "https://github.com/wdas/ptex",
+    "installation": "pkg install ptex",
+    "usage": "After installing Ptex, you can use it to handle texture mapping in your applications.",
+    "features": [
+      "Texture Mapping: Provides tools for texture mapping.",
+      "Developed by Disney: Created for production-quality rendering.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to texture mapping for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include Ptex in your texture mapping projects.",
+      "uninstall": "pkg uninstall ptex"
+    }
+  },
+  {
+    "name": "ptunnel-ng",
+    "version": "1.43",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ptunnel-ng is a tool that tunnels TCP connections over ICMP packets.",
+    "homepage": "https://github.com/lnslbrty/ptunnel-ng",
+    "installation": "pkg install ptunnel-ng",
+    "usage": "After installing ptunnel-ng, you can tunnel TCP connections over ICMP by typing: ptunnel-ng",
+    "features": [
+      "TCP Tunneling: Tunnels TCP connections over ICMP packets.",
+      "Network Utility: Useful for bypassing network restrictions.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "tunnel_connection": "ptunnel-ng -p 127.0.0.1 -lp 8000 -da example.com -dp 80",
+      "uninstall": "pkg uninstall ptunnel-ng"
+    }
+  },
+  {
+    "name": "pueue",
+    "version": "4.0.0-rc.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Pueue is a command-line task management tool for sequential and parallel execution of long-running tasks.",
+    "homepage": "https://github.com/Nukesor/pueue",
+    "installation": "pkg install pueue",
+    "usage": "After installing Pueue, you can manage tasks by typing: pueue",
+    "features": [
+      "Task Management: Provides tools for managing long-running tasks.",
+      "Sequential and Parallel Execution: Supports both sequential and parallel task execution.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to task management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "add_task": "pueue add sleep 60",
+      "uninstall": "pkg uninstall pueue"
+    }
+  },
+  {
+    "name": "pulseaudio-glib",
+    "version": "17.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pulseaudio-glib is a PulseAudio utility library for GLib-based applications.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/PulseAudio/",
+    "installation": "pkg install pulseaudio-glib",
+    "usage": "After installing pulseaudio-glib, you can use it in your GLib-based applications to interact with PulseAudio.",
+    "features": [
+      "PulseAudio Integration: Provides a utility library for interacting with PulseAudio.",
+      "GLib-Based Applications: Designed for use with GLib-based applications.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to PulseAudio for support and discussions.",
+      "GitHub": "Search for repositories or forks of pulseaudio-glib to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include pulseaudio-glib in your GLib-based projects.",
+      "uninstall": "pkg uninstall pulseaudio-glib"
+    }
+  },
+  {
+    "name": "pulseaudio",
+    "version": "17.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PulseAudio is a sound system for POSIX OSes, meaning that it is a proxy for your sound applications.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/PulseAudio/",
+    "installation": "pkg install pulseaudio",
+    "usage": "After installing PulseAudio, you can manage sound devices and streams.",
+    "features": [
+      "Sound System: Provides a proxy for sound applications.",
+      "Device Management: Manages sound devices and streams.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to sound systems for support and discussions.",
+      "GitHub": "Search for repositories or forks of PulseAudio to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_pulseaudio": "pulseaudio --start",
+      "uninstall": "pkg uninstall pulseaudio"
+    }
+  },
+  {
+    "name": "pup",
+    "version": "0.4.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pup is a command-line tool for processing HTML, similar to jq for JSON.",
+    "homepage": "https://github.com/ericchiang/pup",
+    "installation": "pkg install pup",
+    "usage": "After installing pup, you can process HTML by typing: pup",
+    "features": [
+      "HTML Processing: Provides a tool for processing HTML.",
+      "Command Line Tool: Use the command line to process HTML.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_html": "pup 'div.classname text{}' < file.html",
+      "uninstall": "pkg uninstall pup"
+    }
+  },
+  {
+    "name": "pure-ftpd",
+    "version": "1.0.52",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server.",
+    "homepage": "https://www.pureftpd.org/project/pure-ftpd",
+    "installation": "pkg install pure-ftpd",
+    "usage": "After installing Pure-FTPd, you can start the FTP server by typing: pure-ftpd",
+    "features": [
+      "FTP Server: Provides a secure and standard-conformant FTP server.",
+      "Production Quality: Designed for production use.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to FTP servers for support and discussions.",
+      "GitHub": "Search for repositories or forks of Pure-FTPd to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "pure-ftpd &",
+      "uninstall": "pkg uninstall pure-ftpd"
+    }
+  },
+  {
+    "name": "pv",
+    "version": "1.9.27",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pv (Pipe Viewer) is a terminal-based tool for monitoring the progress of data through a pipeline.",
+    "homepage": "https://www.ivarch.com/programs/pv.shtml",
+    "installation": "pkg install pv",
+    "usage": "After installing pv, you can monitor data through a pipeline by typing: pv",
+    "features": [
+      "Progress Monitoring: Provides a tool for monitoring the progress of data through a pipeline.",
+      "Terminal Tool: Use the terminal to monitor data.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command-line tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of pv to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "monitor_pipeline": "pv file.tar.gz | tar xzf -",
+      "uninstall": "pkg uninstall pv"
+    }
+  },
+  {
+    "name": "pwgen",
+    "version": "2.08-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pwgen is a small, GPL'ed password generator which creates passwords which can be easily memorized by humans.",
+    "homepage": "https://sourceforge.net/projects/pwgen/",
+    "installation": "pkg install pwgen",
+    "usage": "After installing pwgen, you can generate passwords by typing: pwgen",
+    "features": [
+      "Password Generation: Provides a tool for generating passwords.",
+      "Human-Friendly: Creates passwords that can be easily memorized by humans.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to password management for support and discussions.",
+      "GitHub": "Search for repositories or forks of pwgen to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_passwords": "pwgen 12 5",
+      "uninstall": "pkg uninstall pwgen"
+    }
+  },
+  {
+    "name": "pycairo",
+    "version": "1.27.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pycairo is a set of Python bindings for the cairo graphics library.",
+    "homepage": "https://pycairo.readthedocs.io/",
+    "installation": "pkg install pycairo",
+    "usage": "After installing pycairo, you can use it to create graphics in your Python applications.",
+    "features": [
+      "Graphics Library: Provides Python bindings for the cairo graphics library.",
+      "Python Integration: Integrates cairo functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to graphics programming for support and discussions.",
+      "GitHub": "Search for repositories or forks of pycairo to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_graphics": "import cairo",
+      "uninstall": "pkg uninstall pycairo"
+    }
+  },
+  {
+    "name": "pygobject",
+    "version": "3.50.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pygobject is a Python package which provides bindings for GObject-based libraries such as GTK, GStreamer, and WebKitGTK.",
+    "homepage": "https://pygobject.readthedocs.io/",
+    "installation": "pkg install pygobject",
+    "usage": "After installing pygobject, you can use it to create GUI applications in Python.",
+    "features": [
+      "GObject Bindings: Provides Python bindings for GObject-based libraries.",
+      "GUI Development: Facilitates the creation of GUI applications in Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to GUI development for support and discussions.",
+      "GitHub": "Search for repositories or forks of pygobject to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_gui": "import gi",
+      "uninstall": "pkg uninstall pygobject"
+    }
+  },
+  {
+    "name": "pystring",
+    "version": "1.1.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pystring is a collection of C++ functions which match the interface and behavior of Python's string class methods using std::string.",
+    "homepage": "https://github.com/imageworks/pystring",
+    "installation": "pkg install pystring",
+    "usage": "After installing pystring, you can use it to manipulate strings in C++.",
+    "features": [
+      "String Manipulation: Provides C++ functions for string manipulation.",
+      "Python Interface: Matches the interface and behavior of Python's string class methods.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C++ programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manipulate_strings": "Include pystring in your C++ projects.",
+      "uninstall": "pkg uninstall pystring"
+    }
+  },
+  {
+    "name": "python-apsw",
+    "version": "3.48.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-apsw is a Python wrapper for the SQLite embedded relational database engine.",
+    "homepage": "https://rogerbinns.github.io/apsw/",
+    "installation": "pkg install python-apsw",
+    "usage": "After installing python-apsw, you can use it to interact with SQLite databases in Python.",
+    "features": [
+      "SQLite Wrapper: Provides a Python wrapper for the SQLite database engine.",
+      "Database Interaction: Facilitates interaction with SQLite databases.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to database management for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-apsw to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "interact_with_db": "import apsw",
+      "uninstall": "pkg uninstall python-apsw"
+    }
+  },
+  {
+    "name": "python-apt",
+    "version": "2.9.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-apt is a Python interface to the Advanced Package Tool (APT).",
+    "homepage": "https://salsa.debian.org/apt-team/python-apt",
+    "installation": "pkg install python-apt",
+    "usage": "After installing python-apt, you can use it to manage APT operations in Python.",
+    "features": [
+      "APT Interface: Provides a Python interface to the Advanced Package Tool (APT).",
+      "Package Management: Facilitates package management operations in Python.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to package management for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-apt to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_packages": "import apt",
+      "uninstall": "pkg uninstall python-apt"
+    }
+  },
+  {
+    "name": "python-bcrypt",
+    "version": "4.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-bcrypt is a Python library for hashing and verifying passwords using the bcrypt algorithm.",
+    "homepage": "https://github.com/pyca/bcrypt",
+    "installation": "pkg install python-bcrypt",
+    "usage": "After installing python-bcrypt, you can use it to hash and verify passwords in Python.",
+    "features": [
+      "Password Hashing: Provides tools for hashing and verifying passwords.",
+      "bcrypt Algorithm: Uses the bcrypt algorithm for secure password hashing.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to security for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "hash_password": "import bcrypt",
+      "uninstall": "pkg uninstall python-bcrypt"
+    }
+  },
+  {
+    "name": "python-contourpy",
+    "version": "1.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-contourpy is a Python library for creating contour plots.",
+    "homepage": "https://github.com/contourpy/contourpy",
+    "installation": "pkg install python-contourpy",
+    "usage": "After installing python-contourpy, you can use it to create contour plots in Python.",
+    "features": [
+      "Contour Plots: Provides tools for creating contour plots.",
+      "Python Integration: Designed for use with Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data visualization for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_plots": "import contourpy",
+      "uninstall": "pkg uninstall python-contourpy"
+    }
+  },
+  {
+    "name": "python-cryptography",
+    "version": "44.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-cryptography is a library that provides cryptographic recipes and primitives to Python developers.",
+    "homepage": "https://cryptography.io/",
+    "installation": "pkg install python-cryptography",
+    "usage": "After installing python-cryptography, you can use it to perform cryptographic operations in Python.",
+    "features": [
+      "Cryptographic Library: Provides cryptographic recipes and primitives.",
+      "Python Integration: Designed for use with Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to cryptography for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-cryptography to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "perform_crypto": "import cryptography",
+      "uninstall": "pkg uninstall python-cryptography"
+    }
+  },
+  {
+    "name": "python-ensurepip-wheels",
+    "version": "3.12.8",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "python-ensurepip-wheels provides the wheels for ensurepip, a bootstrapping tool for pip in Python.",
+    "homepage": "https://docs.python.org/3/library/ensurepip.html",
+    "installation": "pkg install python-ensurepip-wheels",
+    "usage": "After installing python-ensurepip-wheels, you can bootstrap pip in Python.",
+    "features": [
+      "Pip Bootstrapping: Provides wheels for bootstrapping pip in Python.",
+      "Ensurepip Integration: Integrates with the ensurepip module.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Python website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Python for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-ensurepip-wheels to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "bootstrap_pip": "python -m ensurepip",
+      "uninstall": "pkg uninstall python-ensurepip-wheels"
+    }
+  },
+  {
+    "name": "python-greenlet",
+    "version": "3.1.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-greenlet is a lightweight in-process concurrent programming tool for Python.",
+    "homepage": "https://greenlet.readthedocs.io/",
+    "installation": "pkg install python-greenlet",
+    "usage": "After installing python-greenlet, you can use it to create greenlets in Python.",
+    "features": [
+      "Concurrent Programming: Provides lightweight concurrency tools.",
+      "Greenlets: Allows creation and management of greenlets.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to concurrent programming for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-greenlet to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_greenlet": "import greenlet",
+      "uninstall": "pkg uninstall python-greenlet"
+    }
+  },
+  {
+    "name": "python-grpcio",
+    "version": "1.69.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-grpcio is a Python library for gRPC, a high performance, open-source universal RPC framework.",
+    "homepage": "https://grpc.io/",
+    "installation": "pkg install python-grpcio",
+    "usage": "After installing python-grpcio, you can use it to create gRPC clients and servers in Python.",
+    "features": [
+      "RPC Framework: Provides tools for creating gRPC clients and servers.",
+      "High Performance: Designed for high performance and scalability.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official gRPC website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to gRPC for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-grpcio to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_grpc_client": "import grpc",
+      "uninstall": "pkg uninstall python-grpcio"
+    }
+  },
+  {
+    "name": "python-lameenc",
+    "version": "1.8.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-lameenc is a Python wrapper for the LAME MP3 encoder.",
+    "homepage": "https://github.com/np1/pylame",
+    "installation": "pkg install python-lameenc",
+    "usage": "After installing python-lameenc, you can use it to encode MP3 files in Python.",
+    "features": [
+      "MP3 Encoding: Provides a wrapper for the LAME MP3 encoder.",
+      "Python Integration: Integrates MP3 encoding functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio encoding for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_mp3": "import lameenc",
+      "uninstall": "pkg uninstall python-lameenc"
+    }
+  },
+  {
+    "name": "python-libsass",
+    "version": "0.23.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-libsass is a Python binding for libsass, a Sass compiler written in C++.",
+    "homepage": "https://sass.github.io/libsass-python/",
+    "installation": "pkg install python-libsass",
+    "usage": "After installing python-libsass, you can use it to compile Sass files in Python.",
+    "features": [
+      "Sass Compilation: Provides a binding for the libsass compiler.",
+      "Python Integration: Integrates Sass compilation functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Sass for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-libsass to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_sass": "import sass",
+      "uninstall": "pkg uninstall python-libsass"
+    }
+  },
+  {
+    "name": "python-lxml",
+    "version": "5.3.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-lxml is a Python library that provides binding for the libxml2 and libxslt libraries.",
+    "homepage": "https://lxml.de/",
+    "installation": "pkg install python-lxml",
+    "usage": "After installing python-lxml, you can use it to parse and manipulate XML and HTML documents in Python.",
+    "features": [
+      "XML and HTML Parsing: Provides tools for parsing and manipulating XML and HTML documents.",
+      "libxml2 and libxslt: Uses the libxml2 and libxslt libraries.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to XML and HTML parsing for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-lxml to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_xml": "import lxml.etree as ET",
+      "uninstall": "pkg uninstall python-lxml"
+    }
+  },
+  {
+    "name": "python-msgpack",
+    "version": "1.1.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-msgpack is a Python library for MessagePack, an efficient binary serialization format.",
+    "homepage": "https://msgpack.org/",
+    "installation": "pkg install python-msgpack",
+    "usage": "After installing python-msgpack, you can use it to serialize and deserialize data in Python.",
+    "features": [
+      "Binary Serialization: Provides tools for efficient binary serialization.",
+      "MessagePack Format: Uses the MessagePack format.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to serialization for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-msgpack to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "serialize_data": "import msgpack",
+      "uninstall": "pkg uninstall python-msgpack"
+    }
+  },
+  {
+    "name": "python-numpy-static",
+    "version": "2.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-numpy-static provides a static library version of NumPy, a fundamental package for scientific computing with Python.",
+    "homepage": "https://numpy.org/",
+    "installation": "pkg install python-numpy-static",
+    "usage": "After installing python-numpy-static, you can link it with your applications to use NumPy functionalities.",
+    "features": [
+      "Scientific Computing: Provides a static library for scientific computing with Python.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to scientific computing for support and discussions.",
+      "GitHub": "Search for repositories or forks of NumPy to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lnumpy",
+      "uninstall": "pkg uninstall python-numpy-static"
+    }
+  },
+  {
+    "name": "python-numpy",
+    "version": "2.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "NumPy is a fundamental package for scientific computing with Python.",
+    "homepage": "https://numpy.org/",
+    "installation": "pkg install python-numpy",
+    "usage": "After installing python-numpy, you can use it to perform scientific computing tasks in Python.",
+    "features": [
+      "Scientific Computing: Provides tools for scientific computing with Python.",
+      "Numerical Operations: Supports various numerical operations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to scientific computing for support and discussions.",
+      "GitHub": "Search for repositories or forks of NumPy to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "perform_computations": "import numpy as np",
+      "uninstall": "pkg uninstall python-numpy"
+    }
+  },
+  {
+    "name": "python-onnxruntime",
+    "version": "1.19.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-onnxruntime is a runtime for ONNX (Open Neural Network Exchange), a format for representing deep learning models.",
+    "homepage": "https://onnxruntime.ai/",
+    "installation": "pkg install python-onnxruntime",
+    "usage": "After installing python-onnxruntime, you can use it to run ONNX models in Python.",
+    "features": [
+      "ONNX Runtime: Provides a runtime for running ONNX models.",
+      "Deep Learning: Supports deep learning models in the ONNX format.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to deep learning for support and discussions.",
+      "GitHub": "Search for repositories or forks of ONNX Runtime to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_onnx_model": "import onnxruntime as ort",
+      "uninstall": "pkg uninstall python-onnxruntime"
+    }
+  },
+  {
+    "name": "python-pillow",
+    "version": "11.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-pillow is a Python Imaging Library (PIL) fork that adds image processing capabilities to your Python interpreter.",
+    "homepage": "https://python-pillow.org/",
+    "installation": "pkg install python-pillow",
+    "usage": "After installing python-pillow, you can use it to perform image processing tasks in Python.",
+    "features": [
+      "Image Processing: Provides tools for image processing in Python.",
+      "PIL Fork: Fork of the original Python Imaging Library (PIL).",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to image processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-pillow to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "process_image": "from PIL import Image",
+      "uninstall": "pkg uninstall python-pillow"
+    }
+  },
+  {
+    "name": "python-pip",
+    "version": "24.3.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "python-pip is the package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.",
+    "homepage": "https://pip.pypa.io/",
+    "installation": "pkg install python-pip",
+    "usage": "After installing python-pip, you can use it to install Python packages by typing: pip",
+    "features": [
+      "Package Installer: Provides a tool for installing Python packages.",
+      "Python Integration: Integrates package installation functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Python package management for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-pip to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "install_package": "pip install package_name",
+      "uninstall": "pkg uninstall python-pip"
+    }
+  },
+  {
+    "name": "python-pyarrow",
+    "version": "19.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Apache Arrow is a cross-language development platform for in-memory data, and pyarrow is its Python API.",
+    "homepage": "https://arrow.apache.org/",
+    "installation": "pkg install python-pyarrow",
+    "usage": "After installing python-pyarrow, you can use it for efficient data processing and storage in Python.",
+    "features": [
+      "In-Memory Data: Provides tools for in-memory data processing.",
+      "Cross-Language: Supports multiple programming languages.",
+      "Python Integration: Integrates Apache Arrow functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Apache Arrow website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of pyarrow to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_pyarrow": "import pyarrow as pa",
+      "uninstall": "pkg uninstall python-pyarrow"
+    }
+  },
+  {
+    "name": "python-pynvim",
+    "version": "0.5.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "pynvim is a Python client and plugin host for Neovim.",
+    "homepage": "https://github.com/neovim/pynvim",
+    "installation": "pkg install python-pynvim",
+    "usage": "After installing python-pynvim, you can use it to create Neovim plugins in Python.",
+    "features": [
+      "Neovim Integration: Provides a Python client and plugin host for Neovim.",
+      "Plugin Development: Facilitates the creation of Neovim plugins in Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Neovim for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_plugin": "import pynvim",
+      "uninstall": "pkg uninstall python-pynvim"
+    }
+  },
+  {
+    "name": "python-sabyenc3",
+    "version": "8.2.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-sabyenc3 is a Python library for yEnc encoding and decoding.",
+    "homepage": "https://github.com/sabnzbd/sabyenc",
+    "installation": "pkg install python-sabyenc3",
+    "usage": "After installing python-sabyenc3, you can use it to encode and decode yEnc data in Python.",
+    "features": [
+      "yEnc Encoding: Provides tools for yEnc encoding and decoding.",
+      "Python Integration: Integrates yEnc functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data encoding for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_data": "import sabyenc",
+      "uninstall": "pkg uninstall python-sabyenc3"
+    }
+  },
+  {
+    "name": "python-scipy-static",
+    "version": "1.15.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-scipy-static provides a static library version of SciPy, a Python library for scientific and technical computing.",
+    "homepage": "https://www.scipy.org/",
+    "installation": "pkg install python-scipy-static",
+    "usage": "After installing python-scipy-static, you can link it with your applications to use SciPy functionalities.",
+    "features": [
+      "Scientific Computing: Provides a static library for scientific and technical computing with Python.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SciPy website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to scientific computing for support and discussions.",
+      "GitHub": "Search for repositories or forks of SciPy to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lscipy",
+      "uninstall": "pkg uninstall python-scipy-static"
+    }
+  },
+  {
+    "name": "python-scipy",
+    "version": "1.15.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SciPy is a Python library used for scientific and technical computing.",
+    "homepage": "https://www.scipy.org/",
+    "installation": "pkg install python-scipy",
+    "usage": "After installing python-scipy, you can use it to perform scientific and technical computing tasks in Python.",
+    "features": [
+      "Scientific Computing: Provides tools for scientific and technical computing with Python.",
+      "Numerical Operations: Supports various numerical operations.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SciPy website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to scientific computing for support and discussions.",
+      "GitHub": "Search for repositories or forks of SciPy to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "perform_computations": "import scipy",
+      "uninstall": "pkg uninstall python-scipy"
+    }
+  },
+  {
+    "name": "python-skia-pathops",
+    "version": "0.8.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-skia-pathops is a Python wrapper for Skia's path operations.",
+    "homepage": "https://github.com/fonttools/skia-pathops",
+    "installation": "pkg install python-skia-pathops",
+    "usage": "After installing python-skia-pathops, you can use it to perform path operations in Python.",
+    "features": [
+      "Path Operations: Provides a wrapper for Skia's path operations.",
+      "Python Integration: Integrates path operations functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to graphics programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "perform_path_operations": "import skia_pathops",
+      "uninstall": "pkg uninstall python-skia-pathops"
+    }
+  },
+  {
+    "name": "python-static",
+    "version": "3.12.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-static provides a static library version of Python, which can be statically linked with applications.",
+    "homepage": "https://www.python.org/",
+    "installation": "pkg install python-static",
+    "usage": "After installing python-static, you can link it with your applications to use Python functionalities.",
+    "features": [
+      "Static Library: Provides a static library for Python.",
+      "Python Integration: Integrates Python functionalities into applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Python website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Python for support and discussions.",
+      "GitHub": "Search for repositories or forks of Python to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpython",
+      "uninstall": "pkg uninstall python-static"
+    }
+  },
+  {
+    "name": "python-tflite-runtime",
+    "version": "2.18.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-tflite-runtime is a Python library for running TensorFlow Lite models.",
+    "homepage": "https://www.tensorflow.org/lite",
+    "installation": "pkg install python-tflite-runtime",
+    "usage": "After installing python-tflite-runtime, you can use it to run TensorFlow Lite models in Python.",
+    "features": [
+      "TensorFlow Lite: Provides tools for running TensorFlow Lite models.",
+      "Python Integration: Integrates TensorFlow Lite functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official TensorFlow Lite website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TensorFlow Lite for support and discussions.",
+      "GitHub": "Search for repositories or forks of TensorFlow Lite to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_tflite_model": "import tflite_runtime.interpreter as tflite",
+      "uninstall": "pkg uninstall python-tflite-runtime"
+    }
+  },
+  {
+    "name": "python-tldp",
+    "version": "0.7.5-5",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "python-tldp is a Python library for parsing TLDP documents.",
+    "homepage": "https://github.com/ldtp/python-tldp",
+    "installation": "pkg install python-tldp",
+    "usage": "After installing python-tldp, you can use it to parse TLDP documents in Python.",
+    "features": [
+      "TLDP Parsing: Provides tools for parsing TLDP documents.",
+      "Python Integration: Integrates TLDP parsing functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to document parsing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_tldp": "import tldp",
+      "uninstall": "pkg uninstall python-tldp"
+    }
+  },
+  {
+    "name": "python-torch-static",
+    "version": "2.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python-torch-static provides a static library version of PyTorch, an open-source machine learning library for Python.",
+    "homepage": "https://pytorch.org/",
+    "installation": "pkg install python-torch-static",
+    "usage": "After installing python-torch-static, you can link it with your applications to use PyTorch functionalities.",
+    "features": [
+      "Machine Learning: Provides a static library for machine learning with PyTorch.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PyTorch website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to machine learning for support and discussions.",
+      "GitHub": "Search for repositories or forks of PyTorch to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -ltorch",
+      "uninstall": "pkg uninstall python-torch-static"
+    }
+  },
+  {
+    "name": "python-torch",
+    "version": "2.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "PyTorch is an open-source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.",
+    "homepage": "https://pytorch.org/",
+    "installation": "pkg install python-torch",
+    "usage": "After installing python-torch, you can use it to develop machine learning models in Python.",
+    "features": [
+      "Machine Learning: Provides tools for developing machine learning models.",
+      "Torch Library: Based on the Torch library.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official PyTorch website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to machine learning for support and discussions.",
+      "GitHub": "Search for repositories or forks of PyTorch to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_pytorch": "import torch",
+      "uninstall": "pkg uninstall python-torch"
+    }
+  },
+  {
+    "name": "python-torchaudio",
+    "version": "2.5.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Torchaudio is a library for audio and speech processing in PyTorch.",
+    "homepage": "https://pytorch.org/audio/",
+    "installation": "pkg install python-torchaudio",
+    "usage": "After installing python-torchaudio, you can use it for audio processing tasks in PyTorch.",
+    "features": [
+      "Audio Processing: Provides tools for audio and speech processing.",
+      "PyTorch Integration: Integrates audio processing functionalities into PyTorch.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Torchaudio website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Torchaudio to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_torchaudio": "import torchaudio",
+      "uninstall": "pkg uninstall python-torchaudio"
+    }
+  },
+  {
+    "name": "python-torchvision",
+    "version": "0.20.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Torchvision is a library for computer vision in PyTorch.",
+    "homepage": "https://pytorch.org/vision/",
+    "installation": "pkg install python-torchvision",
+    "usage": "After installing python-torchvision, you can use it for computer vision tasks in PyTorch.",
+    "features": [
+      "Computer Vision: Provides tools for computer vision tasks.",
+      "PyTorch Integration: Integrates computer vision functionalities into PyTorch.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Torchvision website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to computer vision for support and discussions.",
+      "GitHub": "Search for repositories or forks of Torchvision to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_torchvision": "import torchvision",
+      "uninstall": "pkg uninstall python-torchvision"
+    }
+  },
+  {
+    "name": "python-xcbgen",
+    "version": "1.17.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "python-xcbgen is a Python library for generating X protocol C bindings.",
+    "homepage": "https://xcb.freedesktop.org/",
+    "installation": "pkg install python-xcbgen",
+    "usage": "After installing python-xcbgen, you can use it to generate X protocol C bindings in Python.",
+    "features": [
+      "X Protocol: Provides tools for generating X protocol C bindings.",
+      "Python Integration: Integrates X protocol functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official XCB website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to X protocol for support and discussions.",
+      "GitHub": "Search for repositories or forks of python-xcbgen to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_bindings": "import xcbgen",
+      "uninstall": "pkg uninstall python-xcbgen"
+    }
+  },
+  {
+    "name": "python-xlib",
+    "version": "0.33-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "python-xlib is a fully functional X client library for Python.",
+    "homepage": "https://github.com/python-xlib/python-xlib",
+    "installation": "pkg install python-xlib",
+    "usage": "After installing python-xlib, you can use it to interact with the X Window System from Python.",
+    "features": [
+      "X Client Library: Provides a fully functional X client library for Python.",
+      "Python Integration: Integrates X Window System functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to X Window System for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_xlib": "import Xlib",
+      "uninstall": "pkg uninstall python-xlib"
+    }
+  },
+  {
+    "name": "python2-static",
+    "version": "2.7.18-14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "python2-static provides a static library version of Python 2.7, which can be statically linked with applications.",
+    "homepage": "https://www.python.org/downloads/release/python-2718/",
+    "installation": "pkg install python2-static",
+    "usage": "After installing python2-static, you can link it with your applications to use Python 2.7 functionalities.",
+    "features": [
+      "Static Library: Provides a static library for Python 2.7.",
+      "Python Integration: Integrates Python 2.7 functionalities into applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Python website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Python for support and discussions.",
+      "GitHub": "Search for repositories or forks of Python to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lpython2.7",
+      "uninstall": "pkg uninstall python2-static"
+    }
+  },
+  {
+    "name": "python2",
+    "version": "2.7.18-14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Python 2.7 is an interpreted, high-level, general-purpose programming language.",
+    "homepage": "https://www.python.org/downloads/release/python-2718/",
+    "installation": "pkg install python2",
+    "usage": "After installing python2, you can use it to run and develop Python 2.7 applications.",
+    "features": [
+      "Programming Language: Provides an interpreted, high-level, general-purpose programming language.",
+      "Python 2.7: Supports Python 2.7 functionalities.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Python website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Python for support and discussions.",
+      "GitHub": "Search for repositories or forks of Python to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_python2": "python2 script.py",
+      "uninstall": "pkg uninstall python2"
+    }
+  },
+  {
+    "name": "python",
+    "version": "3.12.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Python is an interpreted, high-level, general-purpose programming language.",
+    "homepage": "https://www.python.org/",
+    "installation": "pkg install python",
+    "usage": "After installing python, you can use it to run and develop Python 3 applications.",
+    "features": [
+      "Programming Language: Provides an interpreted, high-level, general-purpose programming language.",
+      "Python 3: Supports Python 3 functionalities.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Python website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Python for support and discussions.",
+      "GitHub": "Search for repositories or forks of Python to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_python3": "python3 script.py",
+      "uninstall": "pkg uninstall python"
+    }
+  },
+  {
+    "name": "pyunbound",
+    "version": "1.22.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pyunbound is a Python wrapper for the Unbound DNS resolver library.",
+    "homepage": "https://www.nlnetlabs.nl/projects/unbound/about/",
+    "installation": "pkg install pyunbound",
+    "usage": "After installing pyunbound, you can use it to perform DNS resolution tasks in Python.",
+    "features": [
+      "DNS Resolver: Provides a wrapper for the Unbound DNS resolver library.",
+      "Python Integration: Integrates DNS resolution functionalities into Python.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Unbound website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to DNS resolution for support and discussions.",
+      "GitHub": "Search for repositories or forks of pyunbound to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "perform_dns_resolution": "import unbound",
+      "uninstall": "pkg uninstall pyunbound"
+    }
+  },
+  {
+    "name": "pzstd",
+    "version": "1.5.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "pzstd is a parallel implementation of Zstandard (zstd), a fast real-time compression algorithm.",
+    "homepage": "https://github.com/facebook/zstd",
+    "installation": "pkg install pzstd",
+    "usage": "After installing pzstd, you can use it to compress and decompress files using Zstandard with parallel processing.",
+    "features": [
+      "Compression Algorithm: Provides a parallel implementation of Zstandard for fast real-time compression.",
+      "Parallel Processing: Supports parallel processing for improved performance.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data compression for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_file": "pzstd file.txt",
+      "decompress_file": "pzstd -d file.txt.zst",
+      "uninstall": "pkg uninstall pzstd"
+    }
+  }
+]

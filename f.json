@@ -1,0 +1,2021 @@
+[
+  {
+    "name": "fact++",
+    "version": "1.6.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FaCT++ is an OWL-DL reasoner, which is a type of software designed to infer logical consequences from a set of asserted facts or axioms.",
+    "homepage": "http://owl.man.ac.uk/factplusplus/",
+    "installation": "pkg install fact++",
+    "usage": "After installing FaCT++, you can use it to perform reasoning tasks over OWL-DL ontologies.",
+    "features": [
+      "OWL-DL Reasoner: Provides reasoning capabilities for OWL-DL ontologies.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Optimized Performance: Designed to handle large ontologies efficiently.",
+      "Integration: Can be integrated with various ontology editors and tools such as Protégé.",
+      "Inference Capabilities: Supports various types of inferences such as class hierarchy, consistency checking, and instance retrieval."
+    ],
+    "additional_resources": "For more information, visit the FaCT++ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ontology engineering and semantic web technologies for support and discussions.",
+      "GitHub": "Visit the FaCT++ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "fact++ <ontology_file>",
+      "uninstall_the_game": "pkg uninstall fact++"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fakeroot-static",
+    "version": "1.37",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fakeroot provides a simulated root environment. This is the statically linked version.",
+    "homepage": "https://salsa.debian.org/clint/fakeroot",
+    "installation": "pkg install fakeroot-static",
+    "usage": "After installing fakeroot-static, you can use it to simulate superuser privileges for file manipulation.",
+    "features": [
+      "Simulated Root Environment: Provides a simulated root environment for file manipulation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Package Building: Commonly used in package building and installation scripts to simulate root privileges.",
+      "File Permissions: Allows manipulation of file ownership and permissions without actual root access."
+    ],
+    "additional_resources": "For more information, visit the Fakeroot documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to package building and system administration for support and discussions.",
+      "GitHub": "Visit the Fakeroot GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "fakeroot <command>",
+      "uninstall_the_game": "pkg uninstall fakeroot-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fakeroot",
+    "version": "1.37",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fakeroot provides a simulated root environment for file manipulation.",
+    "homepage": "https://salsa.debian.org/clint/fakeroot",
+    "installation": "pkg install fakeroot",
+    "usage": "After installing fakeroot, you can use it to simulate superuser privileges for file manipulation.",
+    "features": [
+      "Simulated Root Environment: Provides a simulated root environment for file manipulation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Package Building: Commonly used in package building and installation scripts to simulate root privileges.",
+      "File Permissions: Allows manipulation of file ownership and permissions without actual root access."
+    ],
+    "additional_resources": "For more information, visit the Fakeroot documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to package building and system administration for support and discussions.",
+      "GitHub": "Visit the Fakeroot GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "fakeroot <command>",
+      "uninstall_the_game": "pkg uninstall fakeroot"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fasd",
+    "version": "1.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fasd is a command-line productivity booster that offers quick access to files and directories.",
+    "homepage": "https://github.com/clvv/fasd",
+    "installation": "pkg install fasd",
+    "usage": "After installing fasd, you can use it to quickly access files and directories based on frequency and recency.",
+    "features": [
+      "Productivity Booster: Provides quick access to files and directories.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Frequency-Based: Uses frequency and recency to prioritize file and directory access.",
+      "Shell Integration: Integrates with various shells like bash, zsh, and fish.",
+      "Aliases: Allows the creation of custom aliases for commonly accessed files and directories.",
+      "Smart Search: Offers smart search capabilities to find files and directories efficiently."
+    ],
+    "additional_resources": "For more information, visit the Fasd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line tools and productivity boosters for support and discussions.",
+      "GitHub": "Visit the Fasd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "fasd <options> <pattern>",
+      "uninstall_the_game": "pkg uninstall fasd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fastfetch",
+    "version": "2.35.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fastfetch is a command-line tool for fetching and displaying system information quickly.",
+    "homepage": "https://github.com/LinusDierheimer/fastfetch",
+    "installation": "pkg install fastfetch",
+    "usage": "After installing fastfetch, you can use it to fetch and display system information.",
+    "features": [
+      "System Information: Fetches and displays detailed system information.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Fast and Lightweight: Designed to be fast and lightweight for efficient information retrieval.",
+      "Customizable Output: Allows customization of the output format and information displayed.",
+      "Hardware and Software Info: Provides information about hardware components, OS, kernel, uptime, and more.",
+      "Integration: Can be integrated into shell prompts and scripts for automated information display."
+    ],
+    "additional_resources": "For more information, visit the Fastfetch documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system information tools and command-line utilities for support and discussions.",
+      "GitHub": "Visit the Fastfetch GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "fastfetch",
+      "uninstall_the_game": "pkg uninstall fastfetch"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fastmod",
+    "version": "0.4.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fastmod is a fast code refactoring tool that applies regular expression-based modifications to large codebases.",
+    "homepage": "https://github.com/facebookincubator/fastmod",
+    "installation": "pkg install fastmod",
+    "usage": "After installing fastmod, you can use it to perform fast and efficient code refactoring.",
+    "features": [
+      "Code Refactoring: Provides a tool for fast code refactoring using regular expressions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Performance: Designed for high performance and efficiency, especially for large codebases.",
+      "Regular Expressions: Utilizes regular expressions for flexible and powerful pattern matching.",
+      "Dry Run Mode: Offers a dry run mode to preview changes before applying them.",
+      "Interactive Mode: Supports interactive mode for user confirmation of changes.",
+      "Backup: Creates backups of modified files to ensure data safety during refactoring."
+    ],
+    "additional_resources": "For more information, visit the Fastmod documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to code refactoring and development tools for support and discussions.",
+      "GitHub": "Visit the Fastmod GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "fastmod <pattern> <replacement>",
+      "uninstall_the_game": "pkg uninstall fastmod"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fatsort",
+    "version": "1.6.5.640",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fatsort is a utility for sorting the directory structure of FAT filesystems.",
+    "homepage": "https://fatsort.sourceforge.io/",
+    "installation": "pkg install fatsort",
+    "usage": "After installing fatsort, you can use it to sort the directory structure of FAT filesystems.",
+    "features": [
+      "Directory Sorting: Provides a utility for sorting the directory structure of FAT filesystems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Filesystem Support: Supports FAT12, FAT16, and FAT32 filesystems.",
+      "Performance: Designed for efficient sorting of large directories.",
+      "Compatibility: Compatible with various file managers and operating systems.",
+      "Options: Offers various sorting options including alphabetical and case-insensitive sorting.",
+      "Safety: Ensures the integrity of the filesystem during the sorting process."
+    ],
+    "additional_resources": "For more information, visit the Fatsort documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to filesystem management and utilities for support and discussions.",
+      "GitHub": "Visit the Fatsort GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "fatsort <device>",
+      "uninstall_the_game": "pkg uninstall fatsort"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "faust-static",
+    "version": "2.77.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Faust is a functional programming language for real-time signal processing and sound synthesis. This is the statically linked version.",
+    "homepage": "https://faust.grame.fr/",
+    "installation": "pkg install faust-static",
+    "usage": "After installing faust-static, you can use it to develop and compile audio applications and plugins.",
+    "features": [
+      "Signal Processing: Provides a functional programming language for real-time signal processing and sound synthesis.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Real-Time Processing: Designed for real-time audio processing and synthesis.",
+      "High Performance: Optimized for high performance and low latency.",
+      "Integration: Can be integrated with various audio frameworks and environments.",
+      "Versatile: Supports the creation of standalone applications, plugins, and embedded systems."
+    ],
+    "additional_resources": "For more information, visit the Faust documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio programming and signal processing for support and discussions.",
+      "GitHub": "Visit the Faust GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "faust <source_file.dsp>",
+      "uninstall_the_game": "pkg uninstall faust-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "faust",
+    "version": "2.77.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Faust is a functional programming language for real-time signal processing and sound synthesis.",
+    "homepage": "https://faust.grame.fr/",
+    "installation": "pkg install faust",
+    "usage": "After installing faust, you can use it to develop and compile audio applications and plugins.",
+    "features": [
+      "Signal Processing: Provides a functional programming language for real-time signal processing and sound synthesis.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Real-Time Processing: Designed for real-time audio processing and synthesis.",
+      "High Performance: Optimized for high performance and low latency.",
+      "Integration: Can be integrated with various audio frameworks and environments.",
+      "Versatile: Supports the creation of standalone applications, plugins, and embedded systems."
+    ],
+    "additional_resources": "For more information, visit the Faust documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio programming and signal processing for support and discussions.",
+      "GitHub": "Visit the Faust GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "faust <source_file.dsp>",
+      "uninstall_the_game": "pkg uninstall faust"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "faustlibraries",
+    "version": "2.77.3",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Faust Libraries provide collections of pre-written functions and modules for use with the Faust programming language.",
+    "homepage": "https://faust.grame.fr/",
+    "installation": "pkg install faustlibraries",
+    "usage": "After installing faustlibraries, you can use the pre-written functions and modules in your Faust programs.",
+    "features": [
+      "Pre-Written Functions: Provides collections of pre-written functions and modules for use with Faust.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Reusable Components: Offers reusable components for various audio processing and synthesis tasks.",
+      "Integration: Easily integrates with Faust programs for efficient development.",
+      "Versatile: Covers a wide range of audio processing and synthesis functionalities.",
+      "Open Source: Freely available and open-source for community contributions and improvements."
+    ],
+    "additional_resources": "For more information, visit the Faust Libraries documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio programming and signal processing for support and discussions.",
+      "GitHub": "Visit the Faust Libraries GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall faustlibraries"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fclones",
+    "version": "0.34.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fclones is a command-line tool to find and manage duplicate files on your system efficiently.",
+    "homepage": "https://github.com/pkolaczk/fclones",
+    "installation": "pkg install fclones",
+    "usage": "After installing fclones, you can use it to find and manage duplicate files on your system.",
+    "features": [
+      "Duplicate File Finder: Provides a tool to find and manage duplicate files on your system.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficient: Designed for high performance and efficiency in finding duplicates.",
+      "Customizable: Offers various options for customizing the search and management of duplicate files.",
+      "Safety: Ensures data safety by providing options for previewing and confirming actions.",
+      "Integration: Can be integrated into scripts and automated workflows for ongoing duplicate management."
+    ],
+    "additional_resources": "For more information, visit the Fclones documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management and system utilities for support and discussions.",
+      "GitHub": "Visit the Fclones GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "fclones find <directory>",
+      "uninstall_the_game": "pkg uninstall fclones"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fcp",
+    "version": "0.2.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fcp is a fast and simple tool for copying files and directories.",
+    "homepage": "https://github.com/mattn/fcp",
+    "installation": "pkg install fcp",
+    "usage": "After installing fcp, you can use it to copy files and directories quickly and efficiently.",
+    "features": [
+      "File Copying: Provides a fast and simple tool for copying files and directories.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Performance: Designed for high performance and efficiency in copying tasks.",
+      "Ease of Use: Offers a simple and intuitive command-line interface.",
+      "Progress Display: Displays progress information during copying operations.",
+      "Error Handling: Provides robust error handling to ensure reliable copying."
+    ],
+    "additional_resources": "For more information, visit the Fcp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management and command-line tools for support and discussions.",
+      "GitHub": "Visit the Fcp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "fcp <source> <destination>",
+      "uninstall_the_game": "pkg uninstall fcp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fd",
+    "version": "10.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "fd is a simple, fast, and user-friendly alternative to the Unix find command.",
+    "homepage": "https://github.com/sharkdp/fd",
+    "installation": "pkg install fd",
+    "usage": "After installing fd, you can use it to search for files and directories based on various criteria.",
+    "features": [
+      "User-Friendly: Provides a simple and intuitive command-line interface.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Fast: Designed for high performance, utilizing parallel processing where possible.",
+      "Smart Defaults: Uses smart defaults to simplify common search tasks.",
+      "Color-Coded: Provides color-coded output to improve readability of search results.",
+      "Regular Expressions: Supports regular expressions for advanced search patterns.",
+      "Integration: Can be integrated with other command-line tools and scripts."
+    ],
+    "additional_resources": "For more information, visit the fd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line tools and utilities for support and discussions.",
+      "GitHub": "Visit the fd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "search_for_files": "fd <pattern>",
+      "uninstall": "pkg uninstall fd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fdisk",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fdisk is a command-line utility for managing disk partitions.",
+    "homepage": "https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/",
+    "installation": "pkg install fdisk",
+    "usage": "After installing fdisk, you can use it to create, delete, resize, and manage disk partitions.",
+    "features": [
+      "Partition Management: Provides tools for creating, deleting, resizing, and managing disk partitions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Supports various partition table formats including MBR and GPT.",
+      "Interactive Mode: Offers an interactive mode for step-by-step partition management.",
+      "Scriptable: Can be used in scripts for automated partition management tasks.",
+      "Safety Features: Includes features to prevent accidental data loss during partition operations."
+    ],
+    "additional_resources": "For more information, visit the fdisk documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disk management and system administration for support and discussions.",
+      "GitHub": "Visit the fdisk GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_fdisk": "fdisk <device>",
+      "uninstall": "pkg uninstall fdisk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fdkaac",
+    "version": "1.0.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fdkaac is a command-line utility for encoding audio files to AAC format using the Fraunhofer FDK AAC codec.",
+    "homepage": "https://github.com/nu774/fdkaac",
+    "installation": "pkg install fdkaac",
+    "usage": "After installing fdkaac, you can use it to encode audio files to AAC format.",
+    "features": [
+      "Audio Encoding: Provides tools for encoding audio files to AAC format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Quality: Utilizes the Fraunhofer FDK AAC codec for high-quality audio encoding.",
+      "Customizable: Offers various encoding options such as bitrate, quality, and profile selection.",
+      "Batch Processing: Supports batch processing of multiple audio files.",
+      "Integration: Can be integrated into scripts and automated workflows for audio encoding tasks."
+    ],
+    "additional_resources": "For more information, visit the fdkaac documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio encoding and multimedia tools for support and discussions.",
+      "GitHub": "Visit the fdkaac GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_audio": "fdkaac -i <input.wav> -o <output.aac>",
+      "uninstall": "pkg uninstall fdkaac"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fdm",
+    "version": "2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fdm (Fetch and Deliver Mail) is a versatile tool for fetching, filtering, and delivering email.",
+    "homepage": "https://github.com/nicm/fdm",
+    "installation": "pkg install fdm",
+    "usage": "After installing fdm, you can use it to fetch, filter, and deliver email from various sources.",
+    "features": [
+      "Email Management: Provides tools for fetching, filtering, and delivering email.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Supports various email sources such as POP3, IMAP, and local mailboxes.",
+      "Filtering: Offers powerful filtering capabilities to sort and process email based on custom rules.",
+      "Delivery: Can deliver email to various destinations including local mailboxes and remote servers.",
+      "Scripting: Supports scripting for advanced email processing tasks."
+    ],
+    "additional_resources": "For more information, visit the fdm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to email management and system administration for support and discussions.",
+      "GitHub": "Visit the fdm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "fetch_mail": "fdm fetch",
+      "uninstall": "pkg uninstall fdm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fdroidcl",
+    "version": "0.7.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fdroidcl is a command-line client for F-Droid, the open-source Android app repository.",
+    "homepage": "https://gitlab.com/u1tramarine/fdroidcl",
+    "installation": "pkg install fdroidcl",
+    "usage": "After installing fdroidcl, you can use it to interact with the F-Droid repository from the command line.",
+    "features": [
+      "F-Droid Client: Provides a command-line client for interacting with the F-Droid repository.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "App Management: Allows you to search, install, and manage Android apps from the F-Droid repository.",
+      "Automation: Can be used in scripts and automated workflows for app management tasks.",
+      "Simplicity: Offers a simple and intuitive command-line interface for F-Droid interactions."
+    ],
+    "additional_resources": "For more information, visit the fdroidcl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Android app development and F-Droid for support and discussions.",
+      "GitHub": "Visit the fdroidcl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "search_app": "fdroidcl search <app_name>",
+      "uninstall": "pkg uninstall fdroidcl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fdupes",
+    "version": "2.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fdupes is a command-line utility for identifying and deleting duplicate files.",
+    "homepage": "https://github.com/adrianlopezroche/fdupes",
+    "installation": "pkg install fdupes",
+    "usage": "After installing fdupes, you can use it to find and remove duplicate files on your system.",
+    "features": [
+      "Duplicate File Finder: Provides tools for identifying and deleting duplicate files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficiency: Designed for efficient scanning and comparison of large directories.",
+      "Customizable: Offers various options for customizing the search and deletion of duplicate files.",
+      "Safety: Ensures data safety by providing options for previewing and confirming deletions.",
+      "Integration: Can be integrated into scripts and automated workflows for ongoing duplicate management."
+    ],
+    "additional_resources": "For more information, visit the fdupes documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management and system utilities for support and discussions.",
+      "GitHub": "Visit the fdupes GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "find_duplicates": "fdupes <directory>",
+      "uninstall": "pkg uninstall fdupes"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fennel",
+    "version": "1.5.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Fennel is a programming language that brings together the simplicity of Lua and the powerful features of Lisp.",
+    "homepage": "https://fennel-lang.org/",
+    "installation": "pkg install fennel",
+    "usage": "After installing fennel, you can use it to write and run Fennel programs.",
+    "features": [
+      "Programming Language: Provides a language that combines Lua's simplicity with Lisp's features.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Interoperability: Fully interoperable with Lua, allowing seamless integration with Lua code.",
+      "Simplicity: Designed for simplicity and ease of learning, making it accessible to beginners.",
+      "Expressiveness: Offers powerful features such as macros and first-class functions.",
+      "REPL: Includes a Read-Eval-Print Loop (REPL) for interactive programming and debugging.",
+      "Compilation: Compiles to Lua, leveraging Lua's performance and ecosystem."
+    ],
+    "additional_resources": "For more information, visit the Fennel documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to programming languages and Fennel for support and discussions.",
+      "GitHub": "Visit the Fennel GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "run_program": "fennel <script.fnl>",
+      "uninstall": "pkg uninstall fennel"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "feroxbuster",
+    "version": "2.11.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Feroxbuster is a tool for brute forcing directories and files in web servers.",
+    "homepage": "https://github.com/epi052/feroxbuster",
+    "installation": "pkg install feroxbuster",
+    "usage": "After installing feroxbuster, you can use it to discover hidden directories and files on web servers.",
+    "features": [
+      "Directory Brute Forcing: Provides tools for brute forcing directories and files on web servers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Performance: Designed for high performance and efficiency in brute forcing tasks.",
+      "Customizable: Offers various options for customizing the brute force process, such as wordlists and request options.",
+      "Output Formats: Supports multiple output formats including text, JSON, and CSV.",
+      "Integration: Can be integrated into penetration testing workflows and automated scripts.",
+      "Recursive Scanning: Supports recursive scanning to find nested directories and files."
+    ],
+    "additional_resources": "For more information, visit the Feroxbuster documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to penetration testing and web security for support and discussions.",
+      "GitHub": "Visit the Feroxbuster GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "brute_force": "feroxbuster -u <URL>",
+      "uninstall": "pkg uninstall feroxbuster"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fetchmail",
+    "version": "6.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fetchmail is a remote mail retrieval and forwarding utility.",
+    "homepage": "https://www.fetchmail.info/",
+    "installation": "pkg install fetchmail",
+    "usage": "After installing fetchmail, you can use it to retrieve and forward email from remote mail servers.",
+    "features": [
+      "Mail Retrieval: Provides tools for retrieving email from remote mail servers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Forwarding: Supports forwarding retrieved email to local or remote mail servers.",
+      "Protocol Support: Supports various email protocols including POP3, IMAP, and ESMTP.",
+      "Filtering: Offers filtering capabilities to process email based on custom rules.",
+      "Security: Supports SSL/TLS for secure email retrieval and forwarding.",
+      "Automation: Can be automated for regular email retrieval and forwarding tasks."
+    ],
+    "additional_resources": "For more information, visit the Fetchmail documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to email management and system administration for support and discussions.",
+      "GitHub": "Visit the Fetchmail GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "retrieve_mail": "fetchmail -c",
+      "uninstall": "pkg uninstall fetchmail"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fff",
+    "version": "2.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Fff (Fuckin' Fast File-manager) is a blazing fast terminal file manager written in Bash.",
+    "homepage": "https://github.com/dylanaraps/fff",
+    "installation": "pkg install fff",
+    "usage": "After installing fff, you can use it to navigate, search, and manage files and directories directly from the terminal.",
+    "features": [
+      "Terminal File Manager: Provides a fast and lightweight file manager for the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Minimal Dependencies: Requires only Bash and core utilities to run.",
+      "Ease of Navigation: Offers quick navigation through directories with minimal keystrokes.",
+      "Search Functionality: Includes powerful search capabilities to find files and directories.",
+      "Customization: Allows users to customize key bindings and behavior.",
+      "Batch Operations: Supports batch operations for copying, moving, and deleting files."
+    ],
+    "additional_resources": "For more information, visit the Fff documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal-based tools and file management for support and discussions.",
+      "GitHub": "Visit the Fff GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "launch_fff": "fff",
+      "uninstall": "pkg uninstall fff"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ffmpeg",
+    "version": "7.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FFmpeg is a comprehensive multimedia processing tool that can decode, encode, transcode, mux, demux, stream, filter, and play almost anything that humans and machines have created.",
+    "homepage": "https://ffmpeg.org/",
+    "installation": "pkg install ffmpeg",
+    "usage": "After installing FFmpeg, you can use it to process multimedia files and streams.",
+    "features": [
+      "Multimedia Processing: Supports decoding, encoding, transcoding, muxing, demuxing, streaming, filtering, and playing multimedia files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Wide Format Support: Handles a vast range of audio, video, and container formats.",
+      "High Performance: Designed for high performance with optimized code and support for hardware acceleration.",
+      "Filters: Offers a rich set of filters for audio and video processing.",
+      "Streaming: Supports live streaming capabilities.",
+      "Open Source: An open-source project with a large community of contributors."
+    ],
+    "additional_resources": "For more information, visit the FFmpeg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to multimedia processing and FFmpeg for support and discussions.",
+      "GitHub": "Visit the FFmpeg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "convert_video_format": "ffmpeg -i input.mp4 output.avi",
+      "uninstall": "pkg uninstall ffmpeg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ffmpegthumbnailer",
+    "version": "2.2.3-p20240913-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FFmpegthumbnailer is a lightweight video thumbnailer that can be used by file managers to create thumbnails for video files.",
+    "homepage": "https://github.com/dirkvdb/ffmpegthumbnailer",
+    "installation": "pkg install ffmpegthumbnailer",
+    "usage": "After installing FFmpegthumbnailer, you can use it to generate thumbnails for video files.",
+    "features": [
+      "Video Thumbnails: Provides tools for creating thumbnails for video files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Lightweight: Designed to be lightweight and fast.",
+      "Integration: Can be integrated with various file managers and desktop environments.",
+      "Customizable: Allows customization of thumbnail size, quality, and other parameters.",
+      "Efficient: Uses FFmpeg libraries to ensure high performance and compatibility."
+    ],
+    "additional_resources": "For more information, visit the FFmpegthumbnailer documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video processing and file management for support and discussions.",
+      "GitHub": "Visit the FFmpegthumbnailer GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_thumbnail": "ffmpegthumbnailer -i input.mp4 -o thumbnail.png",
+      "uninstall": "pkg uninstall ffmpegthumbnailer"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ffsend",
+    "version": "0.2.76",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ffsend is a command-line tool to easily and securely share files from your terminal.",
+    "homepage": "https://github.com/timvisee/ffsend",
+    "installation": "pkg install ffsend",
+    "usage": "After installing ffsend, you can use it to upload and share files securely.",
+    "features": [
+      "Secure File Sharing: Provides a tool for securely sharing files from the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for uploading and sharing files.",
+      "Encryption: Uses end-to-end encryption to ensure file security.",
+      "Download Tracking: Allows tracking of download counts and setting download limits.",
+      "Expiration: Supports setting expiration times for shared files.",
+      "Integration: Can be integrated into scripts and automated workflows for file sharing tasks."
+    ],
+    "additional_resources": "For more information, visit the Ffsend documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file sharing and security tools for support and discussions.",
+      "GitHub": "Visit the Ffsend GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "upload_file": "ffsend upload <file>",
+      "uninstall": "pkg uninstall ffsend"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fftw-static",
+    "version": "3.3.10-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FFTW is a C subroutine library for computing the discrete Fourier transform (DFT) in one or more dimensions. This is the statically linked version.",
+    "homepage": "http://www.fftw.org/",
+    "installation": "pkg install fftw-static",
+    "usage": "After installing fftw-static, you can use it to perform Fourier transforms in your applications.",
+    "features": [
+      "Fourier Transforms: Provides a library for computing discrete Fourier transforms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "High Performance: Optimized for high performance with support for SIMD instructions.",
+      "User-Friendly: Offers an easy-to-use API for integrating Fourier transforms into applications.",
+      "Versatile: Supports transforms of real and complex data in any number of dimensions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FFTW documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and signal processing for support and discussions.",
+      "GitHub": "Visit the FFTW GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_fftw": "Not applicable",
+      "uninstall": "pkg uninstall fftw-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fftw",
+    "version": "3.3.10-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FFTW is a C subroutine library for computing the discrete Fourier transform (DFT) in one or more dimensions.",
+    "homepage": "http://www.fftw.org/",
+    "installation": "pkg install fftw",
+    "usage": "After installing fftw, you can use it to perform Fourier transforms in your applications.",
+    "features": [
+      "Fourier Transforms: Provides a library for computing discrete Fourier transforms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "High Performance: Optimized for high performance with support for SIMD instructions.",
+      "User-Friendly: Offers an easy-to-use API for integrating Fourier transforms into applications.",
+      "Versatile: Supports transforms of real and complex data in any number of dimensions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FFTW documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and signal processing for support and discussions.",
+      "GitHub": "Visit the FFTW GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_fftw": "Not applicable",
+      "uninstall": "pkg uninstall fftw"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "figlet",
+    "version": "2.2.5-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FIGlet is a program that creates large characters out of ordinary screen characters.",
+    "homepage": "http://www.figlet.org/",
+    "installation": "pkg install figlet",
+    "usage": "After installing figlet, you can use it to generate large ASCII art text from ordinary text.",
+    "features": [
+      "ASCII Art: Provides a tool for creating large ASCII art text from ordinary text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Custom Fonts: Supports various fonts for generating different styles of ASCII art text.",
+      "Ease of Use: Offers a simple command-line interface for generating ASCII art.",
+      "Integration: Can be integrated into scripts and automated workflows for creating ASCII art text.",
+      "Customization: Allows customization of output width, justification, and other parameters."
+    ],
+    "additional_resources": "For more information, visit the FIGlet documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ASCII art and text processing for support and discussions.",
+      "GitHub": "Visit the FIGlet GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_ascii_art": "figlet 'Hello, World!'",
+      "uninstall": "pkg uninstall figlet"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "file-static",
+    "version": "5.46",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "File is a command-line utility that determines the type of a file. This is the statically linked version.",
+    "homepage": "https://www.darwinsys.com/file/",
+    "installation": "pkg install file-static",
+    "usage": "After installing file-static, you can use it to identify the type of a file.",
+    "features": [
+      "File Type Identification: Provides a utility for determining the type of a file.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Comprehensive: Supports a wide range of file types including text, binary, and multimedia files.",
+      "Accuracy: Uses a variety of tests to accurately identify file types.",
+      "Integration: Can be integrated into scripts and automated workflows for file type identification."
+    ],
+    "additional_resources": "For more information, visit the File documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management and system utilities for support and discussions.",
+      "GitHub": "Visit the File GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "identify_file_type": "file <filename>",
+      "uninstall": "pkg uninstall file-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "file",
+    "version": "5.46",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "File is a command-line utility that determines the type of a file.",
+    "homepage": "https://www.darwinsys.com/file/",
+    "installation": "pkg install file",
+    "usage": "After installing file, you can use it to identify the type of a file.",
+    "features": [
+      "File Type Identification: Provides a utility for determining the type of a file.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Comprehensive: Supports a wide range of file types including text, binary, and multimedia files.",
+      "Accuracy: Uses a variety of tests to accurately identify file types.",
+      "Integration: Can be integrated into scripts and automated workflows for file type identification."
+    ],
+    "additional_resources": "For more information, visit the File documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management and system utilities for support and discussions.",
+      "GitHub": "Visit the File GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "identify_file_type": "file <filename>",
+      "uninstall": "pkg uninstall file"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "finch-static",
+    "version": "2.14.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Finch is a text-based instant messaging client based on the libpurple library. This is the statically linked version.",
+    "homepage": "https://pidgin.im/pidgin/home/",
+    "installation": "pkg install finch-static",
+    "usage": "After installing finch-static, you can use it to communicate through various instant messaging protocols.",
+    "features": [
+      "Instant Messaging: Provides a text-based client for instant messaging.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Protocol Support: Supports various instant messaging protocols including AIM, MSN, Yahoo, and more.",
+      "Customizable: Allows customization through plugins and themes.",
+      "Integration: Can be integrated into terminal-based workflows for messaging tasks.",
+      "Security: Supports secure messaging protocols and encryption."
+    ],
+    "additional_resources": "For more information, visit the Finch documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to instant messaging and libpurple for support and discussions.",
+      "GitHub": "Visit the Finch GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_finch": "finch",
+      "uninstall": "pkg uninstall finch-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "finch",
+    "version": "2.14.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Finch is a text-based instant messaging client based on the libpurple library.",
+    "homepage": "https://pidgin.im/pidgin/home/",
+    "installation": "pkg install finch",
+    "usage": "After installing finch, you can use it to communicate through various instant messaging protocols.",
+    "features": [
+      "Instant Messaging: Provides a text-based client for instant messaging.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Protocol Support: Supports various instant messaging protocols including AIM, MSN, Yahoo, and more.",
+      "Customizable: Allows customization through plugins and themes.",
+      "Integration: Can be integrated into terminal-based workflows for messaging tasks.",
+      "Security: Supports secure messaging protocols and encryption."
+    ],
+    "additional_resources": "For more information, visit the Finch documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to instant messaging and libpurple for support and discussions.",
+      "GitHub": "Visit the Finch GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_finch": "finch",
+      "uninstall": "pkg uninstall finch"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "findomain",
+    "version": "9.0.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Findomain is a fast and cross-platform subdomain enumerator.",
+    "homepage": "https://github.com/findomain/findomain",
+    "installation": "pkg install findomain",
+    "usage": "After installing findomain, you can use it to enumerate subdomains of a given domain.",
+    "features": [
+      "Subdomain Enumeration: Provides a tool for fast and efficient subdomain enumeration.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Performance: Designed for high performance with multi-threading support.",
+      "Ease of Use: Offers a simple command-line interface for subdomain enumeration.",
+      "Integration: Can be integrated into penetration testing workflows and automated scripts.",
+      "Output Formats: Supports multiple output formats including text, JSON, and CSV.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Findomain documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to penetration testing and subdomain enumeration for support and discussions.",
+      "GitHub": "Visit the Findomain GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "enumerate_subdomains": "findomain -t example.com",
+      "uninstall": "pkg uninstall findomain"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "findutils",
+    "version": "4.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Findutils contains the GNU find, locate, updatedb, and xargs utilities for searching and managing files.",
+    "homepage": "https://www.gnu.org/software/findutils/",
+    "installation": "pkg install findutils",
+    "usage": "After installing findutils, you can use it to search and manage files on your system.",
+    "features": [
+      "File Search: Provides tools for searching and managing files on your system.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Includes find, locate, updatedb, and xargs utilities.",
+      "Powerful Search: Supports advanced search criteria such as file type, size, and modification date.",
+      "Efficiency: Designed for efficient file searching and management.",
+      "Integration: Can be integrated into scripts and automated workflows for file management tasks."
+    ],
+    "additional_resources": "For more information, visit the Findutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line tools and file management for support and discussions.",
+      "GitHub": "Visit the Findutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "search_files": "find /path -name 'filename'",
+      "uninstall": "pkg uninstall findutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fish",
+    "version": "3.7.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fish is a smart and user-friendly command-line shell.",
+    "homepage": "https://fishshell.com/",
+    "installation": "pkg install fish",
+    "usage": "After installing fish, you can use it as your interactive shell for command-line tasks.",
+    "features": [
+      "User-Friendly Shell: Provides a smart and user-friendly command-line shell.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Syntax Highlighting: Offers syntax highlighting for commands and scripts.",
+      "Auto-Suggestions: Provides command auto-suggestions based on history.",
+      "Interactive Search: Supports interactive searching through command history.",
+      "Customizable: Allows customization through configuration files and plugins.",
+      "Scriptable: Supports scripting for automated command execution."
+    ],
+    "additional_resources": "For more information, visit the Fish documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shell development and command-line tools for support and discussions.",
+      "GitHub": "Visit the Fish GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "launch_fish": "fish",
+      "uninstall": "pkg uninstall fish"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "flac",
+    "version": "1.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FLAC is a free lossless audio codec that compresses audio files without any loss in quality.",
+    "homepage": "https://xiph.org/flac/",
+    "installation": "pkg install flac",
+    "usage": "After installing flac, you can use it to compress and decompress audio files without quality loss.",
+    "features": [
+      "Lossless Compression: Provides a codec for compressing audio files without any loss in quality.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Compression Ratio: Achieves high compression ratios while preserving audio quality.",
+      "Metadata Support: Supports rich metadata tagging for audio files.",
+      "Open Source: An open-source project with a large community of users and contributors.",
+      "Versatile: Can be used for archiving, streaming, and playback of high-quality audio."
+    ],
+    "additional_resources": "For more information, visit the FLAC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio compression and FLAC for support and discussions.",
+      "GitHub": "Visit the FLAC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compress_audio": "flac -8 input.wav -o output.flac",
+      "uninstall": "pkg uninstall flac"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "flang",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Flang is a Fortran compiler based on LLVM.",
+    "homepage": "https://github.com/flang-compiler/flang",
+    "installation": "pkg install flang",
+    "usage": "After installing flang, you can use it to compile Fortran code.",
+    "features": [
+      "Fortran Compiler: Provides a compiler for Fortran code.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "LLVM-Based: Built on the LLVM compiler infrastructure for high performance.",
+      "Modern Fortran: Supports modern Fortran standards and features.",
+      "Integration: Can be integrated into development environments and build systems.",
+      "Open Source: An open-source project with a large community of users and contributors.",
+      "Optimization: Offers various optimization options for efficient code generation."
+    ],
+    "additional_resources": "For more information, visit the Flang documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Fortran development and Flang for support and discussions.",
+      "GitHub": "Visit the Flang GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compile_fortran": "flang -o output input.f90",
+      "uninstall": "pkg uninstall flang"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "flatbuffers-static",
+    "version": "24.12.23",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FlatBuffers is an efficient cross-platform serialization library. This is the statically linked version.",
+    "homepage": "https://google.github.io/flatbuffers/",
+    "installation": "pkg install flatbuffers-static",
+    "usage": "After installing flatbuffers-static, you can use it to serialize and deserialize data in your applications.",
+    "features": [
+      "Serialization Library: Provides a library for efficient cross-platform serialization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "High Performance: Designed for high performance with low overhead.",
+      "Compact: Produces compact serialized data for efficient storage and transmission.",
+      "Flexible: Supports various data types and complex data structures.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FlatBuffers documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to serialization and FlatBuffers for support and discussions.",
+      "GitHub": "Visit the FlatBuffers GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_flatbuffers": "Not applicable",
+      "uninstall": "pkg uninstall flatbuffers-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "flatbuffers",
+    "version": "24.12.23",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FlatBuffers is an efficient cross-platform serialization library.",
+    "homepage": "https://google.github.io/flatbuffers/",
+    "installation": "pkg install flatbuffers",
+    "usage": "After installing flatbuffers, you can use it to serialize and deserialize data in your applications.",
+    "features": [
+      "Serialization Library: Provides a library for efficient cross-platform serialization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "High Performance: Designed for high performance with low overhead.",
+      "Compact: Produces compact serialized data for efficient storage and transmission.",
+      "Flexible: Supports various data types and complex data structures.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FlatBuffers documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to serialization and FlatBuffers for support and discussions.",
+      "GitHub": "Visit the FlatBuffers GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_flatbuffers": "Not applicable",
+      "uninstall": "pkg uninstall flatbuffers"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "flex-static",
+    "version": "2.6.4-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Flex is a fast lexical analyzer generator. This is the statically linked version.",
+    "homepage": "https://github.com/westes/flex",
+    "installation": "pkg install flex-static",
+    "usage": "After installing flex-static, you can use it to generate lexical analyzers from input files.",
+    "features": [
+      "Lexical Analyzer Generator: Provides tools for generating lexical analyzers from input files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "High Performance: Designed for high performance with optimized code generation.",
+      "Customizable: Allows customization of generated lexical analyzers through configuration options.",
+      "Integration: Can be integrated into development environments and build systems.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Flex documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compiler development and lexical analysis for support and discussions.",
+      "GitHub": "Visit the Flex GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_analyzer": "flex <input.l>",
+      "uninstall": "pkg uninstall flex-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "flex",
+    "version": "2.6.4-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Flex is a fast lexical analyzer generator.",
+    "homepage": "https://github.com/westes/flex",
+    "installation": "pkg install flex",
+    "usage": "After installing flex, you can use it to generate lexical analyzers from input files.",
+    "features": [
+      "Lexical Analyzer Generator: Provides tools for generating lexical analyzers from input files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "High Performance: Designed for high performance with optimized code generation.",
+      "Customizable: Allows customization of generated lexical analyzers through configuration options.",
+      "Integration: Can be integrated into development environments and build systems.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Flex documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compiler development and lexical analysis for support and discussions.",
+      "GitHub": "Visit the Flex GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "generate_analyzer": "flex <input.l>",
+      "uninstall": "pkg uninstall flex"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fluidsynth",
+    "version": "2.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FluidSynth is a software synthesizer based on the SoundFont 2 specifications.",
+    "homepage": "https://www.fluidsynth.org/",
+    "installation": "pkg install fluidsynth",
+    "usage": "After installing fluidsynth, you can use it to synthesize audio using SoundFont files.",
+    "features": [
+      "Software Synthesizer: Provides a software synthesizer based on the SoundFont 2 specifications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "High Quality: Produces high-quality synthesized audio.",
+      "Customizable: Allows customization of synthesis parameters and effects.",
+      "Integration: Can be integrated into digital audio workstations and music production environments.",
+      "Real-Time: Supports real-time audio synthesis for live performance and interactive applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FluidSynth documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to music production and software synthesizers for support and discussions.",
+      "GitHub": "Visit the FluidSynth GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "synthesize_audio": "fluidsynth <soundfont.sf2> <midi_file.mid>",
+      "uninstall": "pkg uninstall fluidsynth"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "flyctl",
+    "version": "0.3.65",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Flyctl is a command-line interface for managing Fly.io applications and infrastructure.",
+    "homepage": "https://fly.io/docs/flyctl/",
+    "installation": "pkg install flyctl",
+    "usage": "After installing flyctl, you can use it to deploy and manage applications on Fly.io.",
+    "features": [
+      "Application Management: Provides tools for deploying and managing applications on Fly.io.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple and intuitive command-line interface for managing applications.",
+      "Scalability: Supports scalable deployment and management of applications.",
+      "Integration: Can be integrated into CI/CD pipelines and automated workflows.",
+      "Monitoring: Provides monitoring and logging capabilities for applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Flyctl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cloud computing and Fly.io for support and discussions.",
+      "GitHub": "Visit the Flyctl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "deploy_application": "flyctl deploy",
+      "uninstall": "pkg uninstall flyctl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fm",
+    "version": "1.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fm is a simple and modern terminal file manager written in Rust.",
+    "homepage": "https://github.com/ncoden/fm",
+    "installation": "pkg install fm",
+    "usage": "After installing fm, you can use it to navigate and manage files and directories in the terminal.",
+    "features": [
+      "Terminal File Manager: Provides a modern file manager for the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Rust-Based: Written in Rust for performance and safety.",
+      "Ease of Use: Offers a simple and intuitive interface for navigating and managing files.",
+      "Customization: Allows customization through configuration files and plugins.",
+      "Batch Operations: Supports batch operations for copying, moving, and deleting files.",
+      "Integration: Can be integrated into terminal-based workflows for file management tasks."
+    ],
+    "additional_resources": "For more information, visit the Fm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal-based tools and file management for support and discussions.",
+      "GitHub": "Visit the Fm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "launch_fm": "fm",
+      "uninstall": "pkg uninstall fm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fmt",
+    "version": "1:11.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fmt is an open-source formatting library for C++ that can be used as a safer and faster alternative to printf and std::stringstream.",
+    "homepage": "https://fmt.dev/",
+    "installation": "pkg install fmt",
+    "usage": "After installing fmt, you can use it to format strings in C++ applications.",
+    "features": [
+      "String Formatting: Provides a library for safe and fast string formatting in C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Safety: Designed to be safer than traditional printf functions, preventing common vulnerabilities.",
+      "Performance: Optimized for high performance with low overhead.",
+      "Ease of Use: Offers an intuitive API for string formatting.",
+      "Integration: Can be easily integrated into existing C++ projects.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fmt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ programming and Fmt for support and discussions.",
+      "GitHub": "Visit the Fmt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "format_string": "#include <fmt/core.h>\n\nint main() {\n    fmt::print(\"Hello, {}!\", \"World\");\n    return 0;\n}",
+      "uninstall": "pkg uninstall fmt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fontconfig-static",
+    "version": "2.16.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fontconfig is a library for configuring and customizing font access. This is the statically linked version.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/",
+    "installation": "pkg install fontconfig-static",
+    "usage": "After installing fontconfig-static, you can use it to manage fonts in your applications.",
+    "features": [
+      "Font Configuration: Provides tools for configuring and customizing font access.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for font management.",
+      "Customization: Allows customization of font selection and rendering.",
+      "Integration: Can be integrated into applications requiring font management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fontconfig documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to font management and Fontconfig for support and discussions.",
+      "GitHub": "Visit the Fontconfig GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "manage_fonts": "fontconfig --help",
+      "uninstall": "pkg uninstall fontconfig-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fontconfig-utils",
+    "version": "2.16.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fontconfig-utils provides utility programs for Fontconfig, a library for configuring and customizing font access.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/",
+    "installation": "pkg install fontconfig-utils",
+    "usage": "After installing fontconfig-utils, you can use the utility programs to manage fonts on your system.",
+    "features": [
+      "Font Utilities: Provides utility programs for configuring and customizing font access.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers intuitive command-line utilities for font management.",
+      "Customization: Allows customization of font selection and rendering.",
+      "Integration: Can be integrated into applications requiring font management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fontconfig documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to font management and Fontconfig for support and discussions.",
+      "GitHub": "Visit the Fontconfig GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "list_fonts": "fc-list",
+      "uninstall": "pkg uninstall fontconfig-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fontconfig",
+    "version": "2.16.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fontconfig is a library for configuring and customizing font access.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/",
+    "installation": "pkg install fontconfig",
+    "usage": "After installing fontconfig, you can use it to manage fonts in your applications.",
+    "features": [
+      "Font Configuration: Provides tools for configuring and customizing font access.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for font management.",
+      "Customization: Allows customization of font selection and rendering.",
+      "Integration: Can be integrated into applications requiring font management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fontconfig documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to font management and Fontconfig for support and discussions.",
+      "GitHub": "Visit the Fontconfig GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "manage_fonts": "fontconfig --help",
+      "uninstall": "pkg uninstall fontconfig"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "forestdb-dump",
+    "version": "1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ForestDB-dump is a utility for dumping the contents of a ForestDB database.",
+    "homepage": "https://github.com/couchbase/forestdb",
+    "installation": "pkg install forestdb-dump",
+    "usage": "After installing forestdb-dump, you can use it to dump the contents of a ForestDB database.",
+    "features": [
+      "Database Dump: Provides tools for dumping the contents of a ForestDB database.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive command-line interface for database dumping.",
+      "Customization: Allows customization of dump parameters and output format.",
+      "Integration: Can be integrated into database management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ForestDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database management and ForestDB for support and discussions.",
+      "GitHub": "Visit the ForestDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "dump_database": "forestdb-dump <database_file>",
+      "uninstall": "pkg uninstall forestdb-dump"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "forgejo",
+    "version": "10.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Forgejo is an open-source, self-hosted Git service forked from Gitea.",
+    "homepage": "https://forgejo.org/",
+    "installation": "pkg install forgejo",
+    "usage": "After installing forgejo, you can use it to host Git repositories and manage your projects.",
+    "features": [
+      "Git Hosting: Provides a self-hosted Git service for managing repositories.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Project Management: Offers tools for project management including issue tracking, pull requests, and code reviews.",
+      "Ease of Use: Provides a user-friendly web interface for managing repositories and projects.",
+      "Customization: Allows customization through configuration files and plugins.",
+      "Security: Supports secure authentication and access control for repositories.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Forgejo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Git hosting and Forgejo for support and discussions.",
+      "GitHub": "Visit the Forgejo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_forgejo": "forgejo web",
+      "uninstall": "pkg uninstall forgejo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fortune",
+    "version": "1.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fortune is a command-line utility that displays a random quote or saying from a database of quotes.",
+    "homepage": "https://github.com/shlomif/fortune-mod",
+    "installation": "pkg install fortune",
+    "usage": "After installing fortune, you can use it to display a random quote or saying.",
+    "features": [
+      "Random Quotes: Provides a utility for displaying random quotes or sayings from a database.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for displaying quotes.",
+      "Customization: Allows customization of the quote database and display options.",
+      "Integration: Can be integrated into terminal prompts and scripts for fun and inspiration.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fortune documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line utilities and Fortune for support and discussions.",
+      "GitHub": "Visit the Fortune GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "display_quote": "fortune",
+      "uninstall": "pkg uninstall fortune"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fossil",
+    "version": "2.25-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fossil is a distributed version control system, bug tracking system, and wiki software server for software development projects.",
+    "homepage": "https://fossil-scm.org/",
+    "installation": "pkg install fossil",
+    "usage": "After installing fossil, you can use it to manage your software development projects.",
+    "features": [
+      "Version Control: Provides a distributed version control system for managing source code.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Bug Tracking: Includes a built-in bug tracking system for managing issues.",
+      "Wiki: Offers integrated wiki software for project documentation.",
+      "Ease of Use: Provides a simple and intuitive web interface for managing projects.",
+      "Integration: Can be integrated into development workflows and CI/CD pipelines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fossil documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to version control and Fossil for support and discussions.",
+      "GitHub": "Visit the Fossil GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_fossil": "fossil ui",
+      "uninstall": "pkg uninstall fossil"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "freecolor",
+    "version": "0.9.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Freecolor is a command-line utility for displaying colorized text output.",
+    "homepage": "https://github.com/dylanaraps/freecolor",
+    "installation": "pkg install freecolor",
+    "usage": "After installing freecolor, you can use it to display colorized text in the terminal.",
+    "features": [
+      "Colorized Output: Provides a utility for displaying colorized text in the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for colorizing text.",
+      "Customization: Allows customization of text colors and styles.",
+      "Integration: Can be integrated into scripts and terminal prompts for enhanced readability.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Freecolor documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to terminal utilities and Freecolor for support and discussions.",
+      "GitHub": "Visit the Freecolor GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "display_color_text": "freecolor 'Hello, World!'",
+      "uninstall": "pkg uninstall freecolor"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "freeimage-static",
+    "version": "3.18.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FreeImage is an open-source library that supports popular graphics image formats. This is the statically linked version.",
+    "homepage": "http://freeimage.sourceforge.net/",
+    "installation": "pkg install freeimage-static",
+    "usage": "After installing freeimage-static, you can use it to load, save, and manipulate images in various formats.",
+    "features": [
+      "Image Library: Provides a library for loading, saving, and manipulating images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Format Support: Supports a wide range of image formats including BMP, JPEG, PNG, TIFF, and more.",
+      "Ease of Use: Offers an intuitive API for image processing tasks.",
+      "Integration: Can be integrated into applications requiring image processing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FreeImage documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and FreeImage for support and discussions.",
+      "GitHub": "Visit the FreeImage GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_image": "Not applicable",
+      "uninstall": "pkg uninstall freeimage-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "freeimage",
+    "version": "3.18.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FreeImage is an open-source library that supports popular graphics image formats.",
+    "homepage": "http://freeimage.sourceforge.net/",
+    "installation": "pkg install freeimage",
+    "usage": "After installing freeimage, you can use it to load, save, and manipulate images in various formats.",
+    "features": [
+      "Image Library: Provides a library for loading, saving, and manipulating images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Format Support: Supports a wide range of image formats including BMP, JPEG, PNG, TIFF, and more.",
+      "Ease of Use: Offers an intuitive API for image processing tasks.",
+      "Integration: Can be integrated into applications requiring image processing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FreeImage documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and FreeImage for support and discussions.",
+      "GitHub": "Visit the FreeImage GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_image": "Not applicable",
+      "uninstall": "pkg uninstall freeimage"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "freetype-static",
+    "version": "2.13.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FreeType is a software library to render fonts. This is the statically linked version.",
+    "homepage": "https://www.freetype.org/",
+    "installation": "pkg install freetype-static",
+    "usage": "After installing freetype-static, you can use it to render fonts in your applications.",
+    "features": [
+      "Font Rendering: Provides a library for rendering fonts.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Format Support: Supports various font formats including TrueType, OpenType, and Type1.",
+      "Ease of Use: Offers an intuitive API for font rendering tasks.",
+      "Integration: Can be integrated into applications requiring font rendering capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FreeType documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to font rendering and FreeType for support and discussions.",
+      "GitHub": "Visit the FreeType GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "render_font": "Not applicable",
+      "uninstall": "pkg uninstall freetype-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "freetype",
+    "version": "2.13.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FreeType is a software library to render fonts.",
+    "homepage": "https://www.freetype.org/",
+    "installation": "pkg install freetype",
+    "usage": "After installing freetype, you can use it to render fonts in your applications.",
+    "features": [
+      "Font Rendering: Provides a library for rendering fonts.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Format Support: Supports various font formats including TrueType, OpenType, and Type1.",
+      "Ease of Use: Offers an intuitive API for font rendering tasks.",
+      "Integration: Can be integrated into applications requiring font rendering capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FreeType documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to font rendering and FreeType for support and discussions.",
+      "GitHub": "Visit the FreeType GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "render_font": "Not applicable",
+      "uninstall": "pkg uninstall freetype"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "frei0r-plugins",
+    "version": "2.3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Frei0r is a minimalistic plugin API for video effects.",
+    "homepage": "https://frei0r.dyne.org/",
+    "installation": "pkg install frei0r-plugins",
+    "usage": "After installing frei0r-plugins, you can use them in video editing applications that support Frei0r plugins.",
+    "features": [
+      "Video Effects: Provides a variety of plugins for video effects.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple API for integrating video effects.",
+      "Customization: Allows customization and creation of new plugins.",
+      "Integration: Can be integrated into video editing applications.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Frei0r documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video editing and Frei0r for support and discussions.",
+      "GitHub": "Visit the Frei0r GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "apply_effect": "Not applicable",
+      "uninstall": "pkg uninstall frei0r-plugins"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fribidi-static",
+    "version": "1.0.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FriBidi is an implementation of the Unicode Bidirectional Algorithm. This is the statically linked version.",
+    "homepage": "https://github.com/fribidi/fribidi",
+    "installation": "pkg install fribidi-static",
+    "usage": "After installing fribidi-static, you can use it to handle bidirectional text in your applications.",
+    "features": [
+      "Bidirectional Text: Provides an implementation of the Unicode Bidirectional Algorithm.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for handling bidirectional text.",
+      "Integration: Can be integrated into applications requiring bidirectional text support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FriBidi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and FriBidi for support and discussions.",
+      "GitHub": "Visit the FriBidi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_text": "Not applicable",
+      "uninstall": "pkg uninstall fribidi-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fribidi",
+    "version": "1.0.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FriBidi is an implementation of the Unicode Bidirectional Algorithm.",
+    "homepage": "https://github.com/fribidi/fribidi",
+    "installation": "pkg install fribidi",
+    "usage": "After installing fribidi, you can use it to handle bidirectional text in your applications.",
+    "features": [
+      "Bidirectional Text: Provides an implementation of the Unicode Bidirectional Algorithm.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for handling bidirectional text.",
+      "Integration: Can be integrated into applications requiring bidirectional text support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FriBidi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text processing and FriBidi for support and discussions.",
+      "GitHub": "Visit the FriBidi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_text": "Not applicable",
+      "uninstall": "pkg uninstall fribidi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "frobtads",
+    "version": "2.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FrobTADS is a complete rewrite of the Unix versions of the TADS interpreters for Interactive Fiction games.",
+    "homepage": "http://www.tads.org/frobtads.htm",
+    "installation": "pkg install frobtads",
+    "usage": "After installing frobtads, you can use it to play Interactive Fiction games.",
+    "features": [
+      "Interactive Fiction: Provides a TADS interpreter for playing Interactive Fiction games.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for playing games.",
+      "Compatibility: Supports TADS 2 and TADS 3 games.",
+      "Integration: Can be integrated into game development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FrobTADS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Interactive Fiction and FrobTADS for support and discussions.",
+      "GitHub": "Visit the FrobTADS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "play_game": "frobtads <game_file>",
+      "uninstall": "pkg uninstall frobtads"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "frogcomposband",
+    "version": "7.1.salmiak-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FrogComposband is a variant of the roguelike game PosChengband.",
+    "homepage": "https://github.com/poschengband/poschengband",
+    "installation": "pkg install frogcomposband",
+    "usage": "After installing frogcomposband, you can use it to play the roguelike game.",
+    "features": [
+      "Roguelike Game: Provides a variant of the PosChengband roguelike game.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for playing the game.",
+      "Customization: Allows customization of game settings and characters.",
+      "Integration: Can be integrated into game development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FrogComposband documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to roguelike games and FrogComposband for support and discussions.",
+      "GitHub": "Visit the FrogComposband GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "play_game": "frogcomposband",
+      "uninstall": "pkg uninstall frogcomposband"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "frotz",
+    "version": "2.54-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Frotz is an interpreter for Infocom and other Z-Machine Interactive Fiction games.",
+    "homepage": "https://frotz.sourceforge.io/",
+    "installation": "pkg install frotz",
+    "usage": "After installing frotz, you can use it to play Interactive Fiction games.",
+    "features": [
+      "Interactive Fiction: Provides a Z-Machine interpreter for playing Interactive Fiction games.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for playing games.",
+      "Compatibility: Supports Infocom and other Z-Machine games.",
+      "Integration: Can be integrated into game development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Frotz documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Interactive Fiction and Frotz for support and discussions.",
+      "GitHub": "Visit the Frotz GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "play_game": "frotz <game_file>",
+      "uninstall": "pkg uninstall frotz"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "frp",
+    "version": "0.61.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FRP (Fast Reverse Proxy) is a fast and modern reverse proxy to expose a local server to the internet.",
+    "homepage": "https://github.com/fatedier/frp",
+    "installation": "pkg install frp",
+    "usage": "After installing frp, you can use it to expose a local server to the internet.",
+    "features": [
+      "Reverse Proxy: Provides a fast and modern reverse proxy for exposing local servers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for setting up reverse proxies.",
+      "Customization: Allows customization of proxy settings and configurations.",
+      "Integration: Can be integrated into development workflows and CI/CD pipelines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FRP documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to networking and FRP for support and discussions.",
+      "GitHub": "Visit the FRP GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_proxy": "frp -c <config_file>",
+      "uninstall": "pkg uninstall frp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fselect",
+    "version": "0.8.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FSelect is a command-line tool to search files with SQL syntax.",
+    "homepage": "https://github.com/jhspetersson/fselect",
+    "installation": "pkg install fselect",
+    "usage": "After installing fselect, you can use it to search for files using SQL syntax.",
+    "features": [
+      "File Search: Provides a tool for searching files using SQL syntax.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for searching files.",
+      "Customization: Allows customization of search queries and filters.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FSelect documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file search tools and FSelect for support and discussions.",
+      "GitHub": "Visit the FSelect GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "search_files": "fselect * from <directory> where <conditions>",
+      "uninstall": "pkg uninstall fselect"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fsmon",
+    "version": "1.8.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "FsMon is a File System Monitor utility for monitoring file system changes.",
+    "homepage": "https://github.com/nowsecure/fsmon",
+    "installation": "pkg install fsmon",
+    "usage": "After installing fsmon, you can use it to monitor file system changes.",
+    "features": [
+      "File System Monitoring: Provides a utility for monitoring file system changes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for monitoring file system changes.",
+      "Customization: Allows customization of monitoring settings and filters.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the FsMon documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file system monitoring and FsMon for support and discussions.",
+      "GitHub": "Visit the FsMon GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_monitoring": "fsmon <directory>",
+      "uninstall": "pkg uninstall fsmon"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fwknop-static",
+    "version": "2.6.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fwknop (FireWall KNock OPerator) implements an authorization scheme known as Single Packet Authorization (SPA). This is the statically linked version.",
+    "homepage": "https://www.cipherdyne.org/fwknop/",
+    "installation": "pkg install fwknop-static",
+    "usage": "After installing fwknop-static, you can use it to implement Single Packet Authorization for your firewall.",
+    "features": [
+      "Single Packet Authorization: Provides a method for authenticating users with a single encrypted packet.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers a simple command-line interface for managing SPA rules.",
+      "Security: Enhances security by making it difficult for attackers to detect open ports.",
+      "Integration: Can be integrated into network security workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fwknop documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network security and Fwknop for support and discussions.",
+      "GitHub": "Visit the Fwknop GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_fwknop": "fwknop -A -s <server>",
+      "uninstall": "pkg uninstall fwknop-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fwknop",
+    "version": "2.6.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fwknop (FireWall KNock OPerator) implements an authorization scheme known as Single Packet Authorization (SPA).",
+    "homepage": "https://www.cipherdyne.org/fwknop/",
+    "installation": "pkg install fwknop",
+    "usage": "After installing fwknop, you can use it to implement Single Packet Authorization for your firewall.",
+    "features": [
+      "Single Packet Authorization: Provides a method for authenticating users with a single encrypted packet.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers a simple command-line interface for managing SPA rules.",
+      "Security: Enhances security by making it difficult for attackers to detect open ports.",
+      "Integration: Can be integrated into network security workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fwknop documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network security and Fwknop for support and discussions.",
+      "GitHub": "Visit the Fwknop GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_fwknop": "fwknop -A -s <server>",
+      "uninstall": "pkg uninstall fwknop"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fx",
+    "version": "35.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fx is a command-line JSON processing tool.",
+    "homepage": "https://github.com/antonmedv/fx",
+    "installation": "pkg install fx",
+    "usage": "After installing fx, you can use it to process and manipulate JSON data in the terminal.",
+    "features": [
+      "JSON Processing: Provides a tool for processing and manipulating JSON data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for working with JSON.",
+      "Customization: Allows customization of JSON queries and transformations.",
+      "Integration: Can be integrated into scripts and automation workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fx documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JSON processing and Fx for support and discussions.",
+      "GitHub": "Visit the Fx GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "process_json": "fx <data.json>",
+      "uninstall": "pkg uninstall fx"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fzf",
+    "version": "0.58.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fzf is a general-purpose command-line fuzzy finder.",
+    "homepage": "https://github.com/junegunn/fzf",
+    "installation": "pkg install fzf",
+    "usage": "After installing fzf, you can use it to perform fuzzy searching in the terminal.",
+    "features": [
+      "Fuzzy Searching: Provides a tool for performing fuzzy searching in the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for fuzzy searching.",
+      "Customization: Allows customization of search queries and results.",
+      "Integration: Can be integrated into scripts and terminal workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fzf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to fuzzy searching and Fzf for support and discussions.",
+      "GitHub": "Visit the Fzf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "fuzzy_search": "fzf",
+      "uninstall": "pkg uninstall fzf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "fzy",
+    "version": "1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Fzy is a fast, simple fuzzy text selector for the terminal.",
+    "homepage": "https://github.com/jhawthorn/fzy",
+    "installation": "pkg install fzy",
+    "usage": "After installing fzy, you can use it to perform fuzzy searching in the terminal.",
+    "features": [
+      "Fuzzy Searching: Provides a tool for performing fuzzy searching in the terminal.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a simple command-line interface for fuzzy searching.",
+      "Customization: Allows customization of search queries and results.",
+      "Integration: Can be integrated into scripts and terminal workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Fzy documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to fuzzy searching and Fzy for support and discussions.",
+      "GitHub": "Visit the Fzy GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "fuzzy_search": "fzy",
+      "uninstall": "pkg uninstall fzy"
+    },
+    "isFavorite": false
+  }
+]

@@ -1,0 +1,1413 @@
+[
+  {
+    "name": "libopencc",
+    "version": "1.1.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopencc (Open Chinese Convert) is a library for conversion between Traditional and Simplified Chinese.",
+    "homepage": "https://github.com/BYVoid/OpenCC",
+    "installation": "pkg install libopencc",
+    "usage": "After installing libopencc, you can use it to convert between Traditional and Simplified Chinese in your applications.",
+    "features": [
+      "Chinese Conversion: Provides tools for conversion between Traditional and Simplified Chinese.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for conversion tasks.",
+      "Integration: Can be integrated into applications requiring Chinese conversion.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OpenCC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Chinese language processing and OpenCC for support and discussions.",
+      "GitHub": "Visit the OpenCC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_opencc": "Not applicable",
+      "uninstall": "pkg uninstall libopencc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopencore-amr-static",
+    "version": "0.1.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopencore-amr is a library for Adaptive Multi-Rate (AMR) audio codec. This is the statically linked version.",
+    "homepage": "https://sourceforge.net/projects/opencore-amr/",
+    "installation": "pkg install libopencore-amr-static",
+    "usage": "After installing libopencore-amr-static, you can use it to handle AMR audio codec in your applications.",
+    "features": [
+      "AMR Codec: Provides tools for handling Adaptive Multi-Rate (AMR) audio codec.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for codec tasks.",
+      "Integration: Can be integrated into applications requiring AMR codec handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Opencore-AMR documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio codecs and Opencore-AMR for support and discussions.",
+      "GitHub": "Visit the Opencore-AMR GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_opencore_amr": "Not applicable",
+      "uninstall": "pkg uninstall libopencore-amr-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopencore-amr",
+    "version": "0.1.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopencore-amr is a library for Adaptive Multi-Rate (AMR) audio codec.",
+    "homepage": "https://sourceforge.net/projects/opencore-amr/",
+    "installation": "pkg install libopencore-amr",
+    "usage": "After installing libopencore-amr, you can use it to handle AMR audio codec in your applications.",
+    "features": [
+      "AMR Codec: Provides tools for handling Adaptive Multi-Rate (AMR) audio codec.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for codec tasks.",
+      "Integration: Can be integrated into applications requiring AMR codec handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Opencore-AMR documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio codecs and Opencore-AMR for support and discussions.",
+      "GitHub": "Visit the Opencore-AMR GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_opencore_amr": "Not applicable",
+      "uninstall": "pkg uninstall libopencore-amr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopenfec",
+    "version": "1.4.2.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopenfec is a library for Forward Error Correction (FEC) codes.",
+    "homepage": "http://openfec.org/",
+    "installation": "pkg install libopenfec",
+    "usage": "After installing libopenfec, you can use it to implement FEC codes in your applications.",
+    "features": [
+      "Forward Error Correction: Provides tools for implementing Forward Error Correction (FEC) codes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for FEC tasks.",
+      "Integration: Can be integrated into applications requiring FEC codes.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OpenFEC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to error correction and OpenFEC for support and discussions.",
+      "GitHub": "Visit the OpenFEC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_openfec": "Not applicable",
+      "uninstall": "pkg uninstall libopenfec"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopenmpt-static",
+    "version": "0.7.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopenmpt is a library to decode tracker music module files into a PCM audio stream. This is the statically linked version.",
+    "homepage": "https://lib.openmpt.org/",
+    "installation": "pkg install libopenmpt-static",
+    "usage": "After installing libopenmpt-static, you can use it to decode tracker music module files in your applications.",
+    "features": [
+      "Tracker Music Decoding: Provides tools for decoding tracker music module files into a PCM audio stream.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for decoding tasks.",
+      "Integration: Can be integrated into applications requiring tracker music decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OpenMPT documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to music decoding and OpenMPT for support and discussions.",
+      "GitHub": "Visit the OpenMPT GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_openmpt": "Not applicable",
+      "uninstall": "pkg uninstall libopenmpt-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopenmpt",
+    "version": "0.7.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopenmpt is a library to decode tracker music module files into a PCM audio stream.",
+    "homepage": "https://lib.openmpt.org/",
+    "installation": "pkg install libopenmpt",
+    "usage": "After installing libopenmpt, you can use it to decode tracker music module files in your applications.",
+    "features": [
+      "Tracker Music Decoding: Provides tools for decoding tracker music module files into a PCM audio stream.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for decoding tasks.",
+      "Integration: Can be integrated into applications requiring tracker music decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OpenMPT documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to music decoding and OpenMPT for support and discussions.",
+      "GitHub": "Visit the OpenMPT GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_openmpt": "Not applicable",
+      "uninstall": "pkg uninstall libopenmpt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopus-static",
+    "version": "1.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopus is a totally open, royalty-free, highly versatile audio codec. This is the statically linked version.",
+    "homepage": "https://opus-codec.org/",
+    "installation": "pkg install libopus-static",
+    "usage": "After installing libopus-static, you can use it to encode and decode audio in your applications.",
+    "features": [
+      "Audio Codec: Provides tools for encoding and decoding audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring audio codec functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Opus documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio codecs and Opus for support and discussions.",
+      "GitHub": "Visit the Opus GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_opus": "Not applicable",
+      "uninstall": "pkg uninstall libopus-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopus",
+    "version": "1.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopus is a totally open, royalty-free, highly versatile audio codec.",
+    "homepage": "https://opus-codec.org/",
+    "installation": "pkg install libopus",
+    "usage": "After installing libopus, you can use it to encode and decode audio in your applications.",
+    "features": [
+      "Audio Codec: Provides tools for encoding and decoding audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for audio tasks.",
+      "Integration: Can be integrated into applications requiring audio codec functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Opus documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio codecs and Opus for support and discussions.",
+      "GitHub": "Visit the Opus GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_opus": "Not applicable",
+      "uninstall": "pkg uninstall libopus"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopusenc-static",
+    "version": "0.2.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopusenc is a library for encoding audio in the Opus format. This is the statically linked version.",
+    "homepage": "https://opus-codec.org/",
+    "installation": "pkg install libopusenc-static",
+    "usage": "After installing libopusenc-static, you can use it to encode audio in the Opus format in your applications.",
+    "features": [
+      "Opus Encoding: Provides tools for encoding audio in the Opus format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for encoding tasks.",
+      "Integration: Can be integrated into applications requiring Opus encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Opus documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio codecs and Opus for support and discussions.",
+      "GitHub": "Visit the Opus GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_opusenc": "Not applicable",
+      "uninstall": "pkg uninstall libopusenc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libopusenc",
+    "version": "0.2.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libopusenc is a library for encoding audio in the Opus format.",
+    "homepage": "https://opus-codec.org/",
+    "installation": "pkg install libopusenc",
+    "usage": "After installing libopusenc, you can use it to encode audio in the Opus format in your applications.",
+    "features": [
+      "Opus Encoding: Provides tools for encoding audio in the Opus format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for encoding tasks.",
+      "Integration: Can be integrated into applications requiring Opus encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Opus documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio codecs and Opus for support and discussions.",
+      "GitHub": "Visit the Opus GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_opusenc": "Not applicable",
+      "uninstall": "pkg uninstall libopusenc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liborc",
+    "version": "0.4.40",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liborc (Oil Runtime Compiler) is a library for creating and executing very simple programs that operate on arrays of data.",
+    "homepage": "https://gstreamer.freedesktop.org/modules/orc.html",
+    "installation": "pkg install liborc",
+    "usage": "After installing liborc, you can use it to create and execute programs that operate on arrays of data in your applications.",
+    "features": [
+      "Array Operations: Provides tools for creating and executing programs that operate on arrays of data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for array operation tasks.",
+      "Integration: Can be integrated into applications requiring array operations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Orc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to array processing and Orc for support and discussions.",
+      "GitHub": "Visit the Orc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_orc": "Not applicable",
+      "uninstall": "pkg uninstall liborc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libosl-static",
+    "version": "0.9.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libosl is a library for Open Shading Language (OSL). This is the statically linked version.",
+    "homepage": "https://github.com/AcademySoftwareFoundation/OpenShadingLanguage",
+    "installation": "pkg install libosl-static",
+    "usage": "After installing libosl-static, you can use it to implement Open Shading Language (OSL) in your applications.",
+    "features": [
+      "Open Shading Language: Provides tools for implementing Open Shading Language (OSL).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for shading tasks.",
+      "Integration: Can be integrated into applications requiring shading language functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OSL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shading languages and OSL for support and discussions.",
+      "GitHub": "Visit the OSL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_osl": "Not applicable",
+      "uninstall": "pkg uninstall libosl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libosl",
+    "version": "0.9.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libosl is a library for Open Shading Language (OSL).",
+    "homepage": "https://github.com/AcademySoftwareFoundation/OpenShadingLanguage",
+    "installation": "pkg install libosl",
+    "usage": "After installing libosl, you can use it to implement Open Shading Language (OSL) in your applications.",
+    "features": [
+      "Open Shading Language: Provides tools for implementing Open Shading Language (OSL).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for shading tasks.",
+      "Integration: Can be integrated into applications requiring shading language functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OSL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shading languages and OSL for support and discussions.",
+      "GitHub": "Visit the OSL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_osl": "Not applicable",
+      "uninstall": "pkg uninstall libosl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libosmium",
+    "version": "2.21.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Libosmium is a fast and flexible C++ library for working with OpenStreetMap data.",
+    "homepage": "https://osmcode.org/libosmium/",
+    "installation": "pkg install libosmium",
+    "usage": "After installing libosmium, you can use it to work with OpenStreetMap data in your applications.",
+    "features": [
+      "OpenStreetMap Data: Provides tools for working with OpenStreetMap data.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for OpenStreetMap tasks.",
+      "Integration: Can be integrated into applications requiring OpenStreetMap data handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Osmium documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to OpenStreetMap and Osmium for support and discussions.",
+      "GitHub": "Visit the Osmium GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_osmium": "Not applicable",
+      "uninstall": "pkg uninstall libosmium"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libotr-static",
+    "version": "4.1.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libotr (Off-the-Record Messaging) is a library for providing off-the-record messaging. This is the statically linked version.",
+    "homepage": "https://otr.cypherpunks.ca/",
+    "installation": "pkg install libotr-static",
+    "usage": "After installing libotr-static, you can use it to implement off-the-record messaging in your applications.",
+    "features": [
+      "Off-the-Record Messaging: Provides tools for implementing off-the-record messaging.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for messaging tasks.",
+      "Integration: Can be integrated into applications requiring off-the-record messaging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OTR documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to secure messaging and OTR for support and discussions.",
+      "GitHub": "Visit the OTR GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_otr": "Not applicable",
+      "uninstall": "pkg uninstall libotr-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libotr",
+    "version": "4.1.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libotr (Off-the-Record Messaging) is a library for providing off-the-record messaging.",
+    "homepage": "https://otr.cypherpunks.ca/",
+    "installation": "pkg install libotr",
+    "usage": "After installing libotr, you can use it to implement off-the-record messaging in your applications.",
+    "features": [
+      "Off-the-Record Messaging: Provides tools for implementing off-the-record messaging.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for messaging tasks.",
+      "Integration: Can be integrated into applications requiring off-the-record messaging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the OTR documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to secure messaging and OTR for support and discussions.",
+      "GitHub": "Visit the OTR GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_otr": "Not applicable",
+      "uninstall": "pkg uninstall libotr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libowfat",
+    "version": "0.33-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libowfat is a library of general purpose APIs extracted from the code of the djbdns package.",
+    "homepage": "http://www.fefe.de/libowfat/",
+    "installation": "pkg install libowfat",
+    "usage": "After installing libowfat, you can use it to provide general purpose APIs in your applications.",
+    "features": [
+      "General Purpose APIs: Provides tools for various general purpose APIs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for various tasks.",
+      "Integration: Can be integrated into applications requiring general purpose APIs.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libowfat documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to general purpose libraries and Libowfat for support and discussions.",
+      "GitHub": "Visit the Libowfat GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libowfat": "Not applicable",
+      "uninstall": "pkg uninstall libowfat"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libp8-platform",
+    "version": "2.1.0.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libp8-platform is a C++ library providing platform-specific code for p8 Kodi binary addons.",
+    "homepage": "https://github.com/Pulse-Eight/platform",
+    "installation": "pkg install libp8-platform",
+    "usage": "After installing libp8-platform, you can use it to provide platform-specific code in your Kodi addons.",
+    "features": [
+      "Platform-Specific Code: Provides tools for platform-specific code in Kodi addons.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for platform-specific tasks.",
+      "Integration: Can be integrated into applications requiring platform-specific code.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the P8-Platform documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Kodi development and P8-Platform for support and discussions.",
+      "GitHub": "Visit the P8-Platform GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_p8_platform": "Not applicable",
+      "uninstall": "pkg uninstall libp8-platform"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpagmo",
+    "version": "2.19.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpagmo is a C++ library for parallel and global multi-objective optimization.",
+    "homepage": "https://esa.github.io/pagmo2/",
+    "installation": "pkg install libpagmo",
+    "usage": "After installing libpagmo, you can use it to perform optimization tasks in your applications.",
+    "features": [
+      "Optimization: Provides tools for parallel and global multi-objective optimization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for optimization tasks.",
+      "Integration: Can be integrated into applications requiring optimization functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Pagmo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optimization and Pagmo for support and discussions.",
+      "GitHub": "Visit the Pagmo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pagmo": "Not applicable",
+      "uninstall": "pkg uninstall libpagmo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpangomm-1.4",
+    "version": "2.46.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpangomm-1.4 is a C++ binding for Pango, a library for laying out and rendering text.",
+    "homepage": "https://developer.gnome.org/pangomm/",
+    "installation": "pkg install libpangomm-1.4",
+    "usage": "After installing libpangomm-1.4, you can use it to lay out and render text in your applications.",
+    "features": [
+      "Text Layout and Rendering: Provides tools for laying out and rendering text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for text tasks.",
+      "Integration: Can be integrated into applications requiring text layout and rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Pangomm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text rendering and Pangomm for support and discussions.",
+      "GitHub": "Visit the Pangomm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pangomm": "Not applicable",
+      "uninstall": "pkg uninstall libpangomm-1.4"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpangomm-2.48",
+    "version": "2.56.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpangomm-2.48 is a C++ binding for Pango, a library for laying out and rendering text.",
+    "homepage": "https://developer.gnome.org/pangomm/",
+    "installation": "pkg install libpangomm-2.48",
+    "usage": "After installing libpangomm-2.48, you can use it to lay out and render text in your applications.",
+    "features": [
+      "Text Layout and Rendering: Provides tools for laying out and rendering text.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for text tasks.",
+      "Integration: Can be integrated into applications requiring text layout and rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Pangomm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text rendering and Pangomm for support and discussions.",
+      "GitHub": "Visit the Pangomm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pangomm": "Not applicable",
+      "uninstall": "pkg uninstall libpangomm-2.48"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpano13-static",
+    "version": "2.9.22-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpano13 is a library for panorama stitching. This is the statically linked version.",
+    "homepage": "http://panotools.sourceforge.net/",
+    "installation": "pkg install libpano13-static",
+    "usage": "After installing libpano13-static, you can use it to stitch panoramas in your applications.",
+    "features": [
+      "Panorama Stitching: Provides tools for stitching panoramas.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for stitching tasks.",
+      "Integration: Can be integrated into applications requiring panorama stitching.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the PanoTools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to panorama stitching and PanoTools for support and discussions.",
+      "GitHub": "Visit the PanoTools GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pano13": "Not applicable",
+      "uninstall": "pkg uninstall libpano13-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpano13",
+    "version": "2.9.22-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpano13 is a library for panorama stitching.",
+    "homepage": "http://panotools.sourceforge.net/",
+    "installation": "pkg install libpano13",
+    "usage": "After installing libpano13, you can use it to stitch panoramas in your applications.",
+    "features": [
+      "Panorama Stitching: Provides tools for stitching panoramas.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for stitching tasks.",
+      "Integration: Can be integrated into applications requiring panorama stitching.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the PanoTools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to panorama stitching and PanoTools for support and discussions.",
+      "GitHub": "Visit the PanoTools GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pano13": "Not applicable",
+      "uninstall": "pkg uninstall libpano13"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpaper-static",
+    "version": "2.2.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpaper is a library for handling paper characteristics. This is the statically linked version.",
+    "homepage": "https://packages.debian.org/sid/libpaper1-dev",
+    "installation": "pkg install libpaper-static",
+    "usage": "After installing libpaper-static, you can use it to handle paper characteristics in your applications.",
+    "features": [
+      "Paper Characteristics: Provides tools for handling paper characteristics.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for paper tasks.",
+      "Integration: Can be integrated into applications requiring paper handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libpaper documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to paper handling and Libpaper for support and discussions.",
+      "GitHub": "Visit the Libpaper GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_paper": "Not applicable",
+      "uninstall": "pkg uninstall libpaper-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpaper",
+    "version": "2.2.5-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpaper is a library for handling paper characteristics.",
+    "homepage": "https://packages.debian.org/sid/libpaper1-dev",
+    "installation": "pkg install libpaper",
+    "usage": "After installing libpaper, you can use it to handle paper characteristics in your applications.",
+    "features": [
+      "Paper Characteristics: Provides tools for handling paper characteristics.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for paper tasks.",
+      "Integration: Can be integrated into applications requiring paper handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libpaper documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to paper handling and Libpaper for support and discussions.",
+      "GitHub": "Visit the Libpaper GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_paper": "Not applicable",
+      "uninstall": "pkg uninstall libpaper"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpcap-static",
+    "version": "1.10.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpcap is a portable C/C++ library for network traffic capture. This is the statically linked version.",
+    "homepage": "https://www.tcpdump.org/",
+    "installation": "pkg install libpcap-static",
+    "usage": "After installing libpcap-static, you can use it to capture network traffic in your applications.",
+    "features": [
+      "Network Traffic Capture: Provides tools for capturing network traffic.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for network capture tasks.",
+      "Integration: Can be integrated into applications requiring network traffic capture.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libpcap documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network capture and Libpcap for support and discussions.",
+      "GitHub": "Visit the Libpcap GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pcap": "Not applicable",
+      "uninstall": "pkg uninstall libpcap-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpcap",
+    "version": "1.10.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpcap is a portable C/C++ library for network traffic capture.",
+    "homepage": "https://www.tcpdump.org/",
+    "installation": "pkg install libpcap",
+    "usage": "After installing libpcap, you can use it to capture network traffic in your applications.",
+    "features": [
+      "Network Traffic Capture: Provides tools for capturing network traffic.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for network capture tasks.",
+      "Integration: Can be integrated into applications requiring network traffic capture.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libpcap documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network capture and Libpcap for support and discussions.",
+      "GitHub": "Visit the Libpcap GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pcap": "Not applicable",
+      "uninstall": "pkg uninstall libpcap"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpcreposix",
+    "version": "8.45-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpcreposix is a library for Perl Compatible Regular Expressions (POSIX API).",
+    "homepage": "https://www.pcre.org/",
+    "installation": "pkg install libpcreposix",
+    "usage": "After installing libpcreposix, you can use it to implement POSIX regular expressions in your applications.",
+    "features": [
+      "POSIX Regular Expressions: Provides tools for implementing Perl Compatible Regular Expressions using POSIX API.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for regular expression tasks.",
+      "Integration: Can be integrated into applications requiring regular expressions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the PCRE documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to regular expressions and PCRE for support and discussions.",
+      "GitHub": "Visit the PCRE GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pcreposix": "Not applicable",
+      "uninstall": "pkg uninstall libpcreposix"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libphysfs",
+    "version": "3.2.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libphysfs is a library to provide abstract access to various archives.",
+    "homepage": "https://icculus.org/physfs/",
+    "installation": "pkg install libphysfs",
+    "usage": "After installing libphysfs, you can use it to provide abstract access to various archives in your applications.",
+    "features": [
+      "Abstract Access: Provides tools for abstract access to various archives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for archive access tasks.",
+      "Integration: Can be integrated into applications requiring archive access.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the PhysFS documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file systems and PhysFS for support and discussions.",
+      "GitHub": "Visit the PhysFS GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_physfs": "Not applicable",
+      "uninstall": "pkg uninstall libphysfs"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpipeline-static",
+    "version": "1.5.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpipeline is a C library for manipulating pipelines of subprocesses in a flexible and convenient way. This is the statically linked version.",
+    "homepage": "http://libpipeline.nongnu.org/",
+    "installation": "pkg install libpipeline-static",
+    "usage": "After installing libpipeline-static, you can use it to manipulate pipelines of subprocesses in your applications.",
+    "features": [
+      "Pipeline Manipulation: Provides tools for manipulating pipelines of subprocesses.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for pipeline tasks.",
+      "Integration: Can be integrated into applications requiring pipeline manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libpipeline documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to pipeline manipulation and Libpipeline for support and discussions.",
+      "GitHub": "Visit the Libpipeline GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pipeline": "Not applicable",
+      "uninstall": "pkg uninstall libpipeline-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpipeline",
+    "version": "1.5.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpipeline is a C library for manipulating pipelines of subprocesses in a flexible and convenient way.",
+    "homepage": "http://libpipeline.nongnu.org/",
+    "installation": "pkg install libpipeline",
+    "usage": "After installing libpipeline, you can use it to manipulate pipelines of subprocesses in your applications.",
+    "features": [
+      "Pipeline Manipulation: Provides tools for manipulating pipelines of subprocesses.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for pipeline tasks.",
+      "Integration: Can be integrated into applications requiring pipeline manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libpipeline documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to pipeline manipulation and Libpipeline for support and discussions.",
+      "GitHub": "Visit the Libpipeline GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pipeline": "Not applicable",
+      "uninstall": "pkg uninstall libpipeline"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpixman",
+    "version": "0.44.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpixman is a low-level library for pixel manipulation.",
+    "homepage": "https://pixman.org/",
+    "installation": "pkg install libpixman",
+    "usage": "After installing libpixman, you can use it to manipulate pixels in your applications.",
+    "features": [
+      "Pixel Manipulation: Provides tools for low-level pixel manipulation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for pixel tasks.",
+      "Integration: Can be integrated into applications requiring pixel manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Pixman documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to graphics programming and Pixman for support and discussions.",
+      "GitHub": "Visit the Pixman GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pixman": "Not applicable",
+      "uninstall": "pkg uninstall libpixman"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libplacebo",
+    "version": "6.338.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libplacebo is a library for GPU-accelerated video/image rendering primitives.",
+    "homepage": "https://code.videolan.org/videolan/libplacebo",
+    "installation": "pkg install libplacebo",
+    "usage": "After installing libplacebo, you can use it to implement GPU-accelerated rendering in your applications.",
+    "features": [
+      "GPU-Accelerated Rendering: Provides tools for GPU-accelerated video/image rendering primitives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for rendering tasks.",
+      "Integration: Can be integrated into applications requiring GPU-accelerated rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libplacebo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video/image rendering and Libplacebo for support and discussions.",
+      "GitHub": "Visit the Libplacebo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_placebo": "Not applicable",
+      "uninstall": "pkg uninstall libplacebo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libplist-static",
+    "version": "2.6.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libplist is a library for handling Apple Property List (plist) format. This is the statically linked version.",
+    "homepage": "https://github.com/libimobiledevice/libplist",
+    "installation": "pkg install libplist-static",
+    "usage": "After installing libplist-static, you can use it to handle plist files in your applications.",
+    "features": [
+      "Property List Handling: Provides tools for handling Apple Property List (plist) format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for plist tasks.",
+      "Integration: Can be integrated into applications requiring plist handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libplist documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to plist handling and Libplist for support and discussions.",
+      "GitHub": "Visit the Libplist GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_plist": "Not applicable",
+      "uninstall": "pkg uninstall libplist-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libplist",
+    "version": "2.6.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libplist is a library for handling Apple Property List (plist) format.",
+    "homepage": "https://github.com/libimobiledevice/libplist",
+    "installation": "pkg install libplist",
+    "usage": "After installing libplist, you can use it to handle plist files in your applications.",
+    "features": [
+      "Property List Handling: Provides tools for handling Apple Property List (plist) format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for plist tasks.",
+      "Integration: Can be integrated into applications requiring plist handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libplist documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to plist handling and Libplist for support and discussions.",
+      "GitHub": "Visit the Libplist GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_plist": "Not applicable",
+      "uninstall": "pkg uninstall libplist"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpluto-static",
+    "version": "0.10.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpluto is a library for creating and managing virtual file systems. This is the statically linked version.",
+    "homepage": "https://github.com/plutoproject/libpluto",
+    "installation": "pkg install libpluto-static",
+    "usage": "After installing libpluto-static, you can use it to create and manage virtual file systems in your applications.",
+    "features": [
+      "Virtual File Systems: Provides tools for creating and managing virtual file systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for file system tasks.",
+      "Integration: Can be integrated into applications requiring virtual file systems.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Pluto documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file systems and Pluto for support and discussions.",
+      "GitHub": "Visit the Pluto GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pluto": "Not applicable",
+      "uninstall": "pkg uninstall libpluto-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpluto",
+    "version": "0.10.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpluto is a library for creating and managing virtual file systems.",
+    "homepage": "https://github.com/plutoproject/libpluto",
+    "installation": "pkg install libpluto",
+    "usage": "After installing libpluto, you can use it to create and manage virtual file systems in your applications.",
+    "features": [
+      "Virtual File Systems: Provides tools for creating and managing virtual file systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for file system tasks.",
+      "Integration: Can be integrated into applications requiring virtual file systems.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Pluto documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file systems and Pluto for support and discussions.",
+      "GitHub": "Visit the Pluto GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pluto": "Not applicable",
+      "uninstall": "pkg uninstall libpluto"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpng-static",
+    "version": "1.6.46",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpng is the official PNG reference library. This is the statically linked version.",
+    "homepage": "http://www.libpng.org/pub/png/libpng.html",
+    "installation": "pkg install libpng-static",
+    "usage": "After installing libpng-static, you can use it to handle PNG images in your applications.",
+    "features": [
+      "PNG Handling: Provides tools for handling PNG images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for image tasks.",
+      "Integration: Can be integrated into applications requiring PNG handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libpng documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libpng for support and discussions.",
+      "GitHub": "Visit the Libpng GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_png": "Not applicable",
+      "uninstall": "pkg uninstall libpng-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpng",
+    "version": "1.6.46",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpng is the official PNG reference library.",
+    "homepage": "http://www.libpng.org/pub/png/libpng.html",
+    "installation": "pkg install libpng",
+    "usage": "After installing libpng, you can use it to handle PNG images in your applications.",
+    "features": [
+      "PNG Handling: Provides tools for handling PNG images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image tasks.",
+      "Integration: Can be integrated into applications requiring PNG handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libpng documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libpng for support and discussions.",
+      "GitHub": "Visit the Libpng GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_png": "Not applicable",
+      "uninstall": "pkg uninstall libpng"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpngwriter-static",
+    "version": "0.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpngwriter is a library for creating PNG images. This is the statically linked version.",
+    "homepage": "https://github.com/pngwriter/pngwriter",
+    "installation": "pkg install libpngwriter-static",
+    "usage": "After installing libpngwriter-static, you can use it to create PNG images in your applications.",
+    "features": [
+      "PNG Creation: Provides tools for creating PNG images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for image creation tasks.",
+      "Integration: Can be integrated into applications requiring PNG creation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the PNGwriter documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image creation and PNGwriter for support and discussions.",
+      "GitHub": "Visit the PNGwriter GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pngwriter": "Not applicable",
+      "uninstall": "pkg uninstall libpngwriter-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpngwriter",
+    "version": "0.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpngwriter is a library for creating PNG images.",
+    "homepage": "https://github.com/pngwriter/pngwriter",
+    "installation": "pkg install libpngwriter",
+    "usage": "After installing libpngwriter, you can use it to create PNG images in your applications.",
+    "features": [
+      "PNG Creation: Provides tools for creating PNG images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image creation tasks.",
+      "Integration: Can be integrated into applications requiring PNG creation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the PNGwriter documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image creation and PNGwriter for support and discussions.",
+      "GitHub": "Visit the PNGwriter GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_pngwriter": "Not applicable",
+      "uninstall": "pkg uninstall libpngwriter"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpoco",
+    "version": "1.14.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpoco (POCO C++ Libraries) are a collection of open source class libraries for building network- and internet-based applications.",
+    "homepage": "https://pocoproject.org/",
+    "installation": "pkg install libpoco",
+    "usage": "After installing libpoco, you can use it to build network- and internet-based applications in C++.",
+    "features": [
+      "Network Applications: Provides tools for building network- and internet-based applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for application development tasks.",
+      "Integration: Can be integrated into applications requiring network functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the POCO documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to C++ development and POCO for support and discussions.",
+      "GitHub": "Visit the POCO GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_poco": "Not applicable",
+      "uninstall": "pkg uninstall libpoco"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpolly",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpolly is a library for polyhedral optimizations in LLVM.",
+    "homepage": "https://polly.llvm.org/",
+    "installation": "pkg install libpolly",
+    "usage": "After installing libpolly, you can use it to perform polyhedral optimizations in LLVM.",
+    "features": [
+      "Polyhedral Optimizations: Provides tools for polyhedral optimizations in LLVM.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for optimization tasks.",
+      "Integration: Can be integrated into applications requiring polyhedral optimizations.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Polly documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to LLVM and Polly for support and discussions.",
+      "GitHub": "Visit the Polly GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_polly": "Not applicable",
+      "uninstall": "pkg uninstall libpolly"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpopt-static",
+    "version": "1.19-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpopt is a C library for parsing command-line options. This is the statically linked version.",
+    "homepage": "https://github.com/rpm-software-management/popt",
+    "installation": "pkg install libpopt-static",
+    "usage": "After installing libpopt-static, you can use it to parse command-line options in your applications.",
+    "features": [
+      "Command-Line Parsing: Provides tools for parsing command-line options.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for parsing tasks.",
+      "Integration: Can be integrated into applications requiring command-line parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Popt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line parsing and Popt for support and discussions.",
+      "GitHub": "Visit the Popt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_popt": "Not applicable",
+      "uninstall": "pkg uninstall libpopt-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpopt",
+    "version": "1.19-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpopt is a C library for parsing command-line options.",
+    "homepage": "https://github.com/rpm-software-management/popt",
+    "installation": "pkg install libpopt",
+    "usage": "After installing libpopt, you can use it to parse command-line options in your applications.",
+    "features": [
+      "Command-Line Parsing: Provides tools for parsing command-line options.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for parsing tasks.",
+      "Integration: Can be integrated into applications requiring command-line parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Popt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command-line parsing and Popt for support and discussions.",
+      "GitHub": "Visit the Popt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_popt": "Not applicable",
+      "uninstall": "pkg uninstall libpopt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libprotobuf-c-static",
+    "version": "1.5.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libprotobuf-c is a C library for Google's Protocol Buffers. This is the statically linked version.",
+    "homepage": "https://github.com/protobuf-c/protobuf-c",
+    "installation": "pkg install libprotobuf-c-static",
+    "usage": "After installing libprotobuf-c-static, you can use it to work with Protocol Buffers in your C applications.",
+    "features": [
+      "Protocol Buffers: Provides tools for working with Google's Protocol Buffers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Protocol Buffers tasks.",
+      "Integration: Can be integrated into applications requiring Protocol Buffers.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Protobuf-C documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Protocol Buffers and Protobuf-C for support and discussions.",
+      "GitHub": "Visit the Protobuf-C GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_protobuf_c": "Not applicable",
+      "uninstall": "pkg uninstall libprotobuf-c-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libprotobuf-c",
+    "version": "1.5.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libprotobuf-c is a C library for Google's Protocol Buffers.",
+    "homepage": "https://github.com/protobuf-c/protobuf-c",
+    "installation": "pkg install libprotobuf-c",
+    "usage": "After installing libprotobuf-c, you can use it to work with Protocol Buffers in your C applications.",
+    "features": [
+      "Protocol Buffers: Provides tools for working with Google's Protocol Buffers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Protocol Buffers tasks.",
+      "Integration: Can be integrated into applications requiring Protocol Buffers.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Protobuf-C documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Protocol Buffers and Protobuf-C for support and discussions.",
+      "GitHub": "Visit the Protobuf-C GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_protobuf_c": "Not applicable",
+      "uninstall": "pkg uninstall libprotobuf-c"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libprotobuf",
+    "version": "25.1-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libprotobuf is a C++ library for Google's Protocol Buffers.",
+    "homepage": "https://developers.google.com/protocol-buffers",
+    "installation": "pkg install libprotobuf",
+    "usage": "After installing libprotobuf, you can use it to work with Protocol Buffers in your C++ applications.",
+    "features": [
+      "Protocol Buffers: Provides tools for working with Google's Protocol Buffers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Protocol Buffers tasks.",
+      "Integration: Can be integrated into applications requiring Protocol Buffers.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Protocol Buffers documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Protocol Buffers and Libprotobuf for support and discussions.",
+      "GitHub": "Visit the Protocol Buffers GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_protobuf": "Not applicable",
+      "uninstall": "pkg uninstall libprotobuf"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libprotozero",
+    "version": "1.7.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libprotozero is a minimalistic protocol buffer decoder and encoder in C++.",
+    "homepage": "https://github.com/mapbox/protozero",
+    "installation": "pkg install libprotozero",
+    "usage": "After installing libprotozero, you can use it to decode and encode protocol buffers in your C++ applications.",
+    "features": [
+      "Protocol Buffers: Provides tools for decoding and encoding protocol buffers.",
+      "Minimalistic: Designed to be minimalistic and efficient.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for protocol buffer tasks.",
+      "Integration: Can be integrated into applications requiring protocol buffer handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Protozero documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to protocol buffers and Protozero for support and discussions.",
+      "GitHub": "Visit the Protozero GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_protozero": "Not applicable",
+      "uninstall": "pkg uninstall libprotozero"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpsl-static",
+    "version": "0.21.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpsl is a C library for the Public Suffix List. This is the statically linked version.",
+    "homepage": "https://github.com/rockdaboot/libpsl",
+    "installation": "pkg install libpsl-static",
+    "usage": "After installing libpsl-static, you can use it to handle the Public Suffix List in your applications.",
+    "features": [
+      "Public Suffix List: Provides tools for handling the Public Suffix List.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Public Suffix List tasks.",
+      "Integration: Can be integrated into applications requiring Public Suffix List handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libpsl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to domain handling and Libpsl for support and discussions.",
+      "GitHub": "Visit the Libpsl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_psl": "Not applicable",
+      "uninstall": "pkg uninstall libpsl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libpsl",
+    "version": "0.21.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libpsl is a C library for the Public Suffix List.",
+    "homepage": "https://github.com/rockdaboot/libpsl",
+    "installation": "pkg install libpsl",
+    "usage": "After installing libpsl, you can use it to handle the Public Suffix List in your applications.",
+    "features": [
+      "Public Suffix List: Provides tools for handling the Public Suffix List.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Public Suffix List tasks.",
+      "Integration: Can be integrated into applications requiring Public Suffix List handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libpsl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to domain handling and Libpsl for support and discussions.",
+      "GitHub": "Visit the Libpsl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_psl": "Not applicable",
+      "uninstall": "pkg uninstall libpsl"
+    },
+    "isFavorite": false
+  }
+]

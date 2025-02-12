@@ -1,0 +1,1448 @@
+[
+  {
+    "name": "apr",
+    "version": "1.7.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Core Apache Portable Runtime (APR) libraries, providing cross-platform abstractions for networking, filesystem, and threading.",
+    "homepage": "https://apr.apache.org/",
+    "installation": "pkg install apr",
+    "usage": "Dependency for Apache HTTP Server and other apps",
+    "features": [
+      "Memory Management: Pool-based allocation",
+      "Threading: Portable mutexes and condition variables",
+      "File I/O: Atomic operations, mmap support",
+      "Shared Memory: Cross-platform IPC"
+    ],
+    "gameplay": null,
+    "additional_resources": "APR API documentation",
+    "community_and_support": {
+      "forums": "Apache APR mailing lists",
+      "GitHub": "https://github.com/apache/apr"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (runtime dependency)",
+      "uninstall_the_game": "pkg uninstall apr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apt-file",
+    "version": "3.3",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "A utility to search for files in Debian packages, ideal for finding missing dependencies or package contents.",
+    "homepage": "https://tracker.debian.org/pkg/apt-file",
+    "installation": "pkg install apt-file",
+    "usage": "Search packages: apt-file search libssl.so",
+    "features": [
+      "Remote Searches: Query repository contents",
+      "Cache Management: Update with apt-file update",
+      "Regex Support: Advanced pattern matching",
+      "Multi-Arch: Handles foreign architectures"
+    ],
+    "gameplay": null,
+    "additional_resources": "Debian Wiki and man pages",
+    "community_and_support": {
+      "forums": "Debian User Forums",
+      "GitHub": "https://salsa.debian.org/doc/apt-file"
+    },
+    "example_commands": {
+      "start_the_game": "apt-file list openssl",
+      "uninstall_the_game": "pkg uninstall apt-file"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apt-ftparchive",
+    "version": "2.9.24",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A tool to generate APT repository metadata, used for creating custom package archives or mirrors.",
+    "homepage": "https://manpages.debian.org/apt-ftparchive",
+    "installation": "pkg install apt-ftparchive",
+    "usage": "Generate Packages.gz: apt-ftparchive packages . > Packages",
+    "features": [
+      "Metadata Generation: Creates Packages, Release files",
+      "GPG Signing: Integrates with GPG for secure repos",
+      "Compression: Supports gzip, xz, and bzip2",
+      "Filtering: Include/exclude packages by criteria"
+    ],
+    "gameplay": null,
+    "additional_resources": "Debian Administrator's Handbook",
+    "community_and_support": {
+      "forums": "Debian Maintainer Forums",
+      "GitHub": "Part of APT project"
+    },
+    "example_commands": {
+      "start_the_game": "apt-ftparchive release . > Release",
+      "uninstall_the_game": "pkg uninstall apt-ftparchive"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apt-transport-tor",
+    "version": "2.9.24",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "An APT transport method for downloading packages over the Tor anonymity network. Enhances privacy for Debian-based systems.",
+    "homepage": "https://github.com/Whonix/apt-transport-tor",
+    "installation": "pkg install apt-transport-tor",
+    "usage": "Configure sources.list with tor+http:// URLs",
+    "features": [
+      "Tor Integration: Routes traffic through Tor nodes",
+      "Onion Services: Supports .onion repositories",
+      "Transparent Proxy: No manual SOCKS configuration",
+      "Fallback: Auto-fallback to clearnet if Tor fails"
+    ],
+    "gameplay": null,
+    "additional_resources": "Whonix documentation",
+    "community_and_support": {
+      "forums": "Privacy-focused communities",
+      "GitHub": "https://github.com/Whonix/apt-transport-tor"
+    },
+    "example_commands": {
+      "start_the_game": "echo 'deb tor+http://deb.debian.org/debian stable main' > /etc/apt/sources.list",
+      "uninstall_the_game": "pkg uninstall apt-transport-tor"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "apt",
+    "version": "2.9.24",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Advanced Package Tool (APT) for managing Debian packages. Handles installation, removal, and dependency resolution.",
+    "homepage": "https://wiki.debian.org/Apt",
+    "installation": "pkg install apt",
+    "usage": "Install packages: apt install nginx",
+    "features": [
+      "Dependency Resolution: Automatic handling of package relationships",
+      "Sources Management: /etc/apt/sources.list configuration",
+      "Version Pinning: Hold packages at specific versions",
+      "Secure APT: GPG signature verification"
+    ],
+    "gameplay": null,
+    "additional_resources": "APT User's Guide",
+    "community_and_support": {
+      "forums": "Debian User Forums",
+      "GitHub": "https://github.com/Debian/apt"
+    },
+    "example_commands": {
+      "start_the_game": "apt update && apt upgrade",
+      "uninstall_the_game": "pkg uninstall apt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aptly",
+    "version": "1.6.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A powerful Debian repository management tool designed for mirroring, snapshotting, and publishing APT repositories. Enables reproducible repository states and complex workflow automation for package maintainers.",
+    "homepage": "https://www.aptly.info/",
+    "installation": "pkg install aptly",
+    "usage": "Create repository snapshots: aptly snapshot create stable-2024 from mirror bookworm-main",
+    "features": [
+      "Mirror Management: Clone remote repositories with GPG verification",
+      "Snapshot Isolation: Freeze repository states for testing/rollbacks",
+      "Publishing: Serve repos via HTTP/HTTPS or S3-compatible storage",
+      "Dependency Resolution: Handle complex package relationships",
+      "REST API: Integrate with CI/CD pipelines via HTTP endpoints"
+    ],
+    "gameplay": null,
+    "additional_resources": "Official documentation includes migration guides and API references",
+    "community_and_support": {
+      "forums": "GitHub Discussions and Debian Packaging mailing lists",
+      "GitHub": "https://github.com/aptly-dev/aptly"
+    },
+    "example_commands": {
+      "start_the_game": "aptly serve -listen=:8080",
+      "uninstall_the_game": "pkg uninstall aptly"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "argon2-static",
+    "version": "20190702-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Statically linked version of Argon2, the winner of the 2015 Password Hashing Competition. Provides memory-hard hashing for secure password storage and key derivation.",
+    "homepage": "https://github.com/P-H-C/phc-winner-argon2",
+    "installation": "pkg install argon2-static",
+    "usage": "Compile into applications: gcc -largon2 -static myapp.c",
+    "features": [
+      "Memory-Hard Computation: Resistant to GPU/ASIC attacks",
+      "Thread Support: Parallel hashing for performance",
+      "RFC 9106 Compliance: Implements Argon2id variant",
+      "Side-Channel Resistance: Protected against timing attacks"
+    ],
+    "gameplay": null,
+    "additional_resources": "PHC documentation and cryptanalysis papers",
+    "community_and_support": {
+      "forums": "Cryptography Stack Exchange",
+      "GitHub": "https://github.com/P-H-C/phc-winner-argon2"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (development library)",
+      "uninstall_the_game": "pkg uninstall argon2-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "argon2",
+    "version": "20190702-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dynamic library implementation of Argon2 password hashing algorithm. Essential for modern authentication systems requiring secure credential storage.",
+    "homepage": "https://github.com/P-H-C/phc-winner-argon2",
+    "installation": "pkg install argon2",
+    "usage": "Hash passwords via CLI: argon2 somesalt -t 3 -m 12 -p 1",
+    "features": [
+      "Adaptive Cost Parameters: Adjust memory/time/threads",
+      "CLI Utility: Direct password hashing from terminal",
+      "Cross-Platform: Works with Linux/Unix systems",
+      "Language Bindings: Python/Node.js/Rust integrations"
+    ],
+    "gameplay": null,
+    "additional_resources": "OWASP Password Storage Cheat Sheet",
+    "community_and_support": {
+      "forums": "Security-focused communities like Hacker News",
+      "GitHub": "https://github.com/P-H-C/phc-winner-argon2"
+    },
+    "example_commands": {
+      "start_the_game": "argon2 'password' -d",
+      "uninstall_the_game": "pkg uninstall argon2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "argp-static",
+    "version": "1.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Static GNU argp library for parsing command-line arguments with --help/--version support. Provides POSIX-compliant argument handling for C applications.",
+    "homepage": "https://www.gnu.org/software/libc/manual/html_node/Argp.html",
+    "installation": "pkg install argp-static",
+    "usage": "Link in C projects: gcc -largp -static myapp.c",
+    "features": [
+      "Hierarchical Help: Nested argument documentation",
+      "Error Handling: Built-in error message formatting",
+      "Portability: Emulates glibc argp on non-GNU systems",
+      "Custom Parsers: Extend with custom option filters"
+    ],
+    "gameplay": null,
+    "additional_resources": "GNU C Library documentation",
+    "community_and_support": {
+      "forums": "GNU mailing lists",
+      "GitHub": "https://github.com/rurban/argp-standalone"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (development library)",
+      "uninstall_the_game": "pkg uninstall argp-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "argp",
+    "version": "1.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dynamic GNU argp library for advanced command-line argument parsing. Enables rich CLI interfaces with automatic help generation and option grouping.",
+    "homepage": "https://www.gnu.org/software/libc/manual/html_node/Argp.html",
+    "installation": "pkg install argp",
+    "usage": "Runtime dependency for argp-enabled applications",
+    "features": [
+      "Automatic --help: Generates formatted documentation",
+      "Option Aliases: Short/long option variants",
+      "Version Reporting: Standard --version output",
+      "POSIX Compliance: Follows getopt_long conventions"
+    ],
+    "gameplay": null,
+    "additional_resources": "Linux man-pages project",
+    "community_and_support": {
+      "forums": "GNU libc-help mailing list",
+      "GitHub": "Part of glibc sources"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (runtime dependency)",
+      "uninstall_the_game": "pkg uninstall argp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aria2",
+    "version": "1.37.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A lightweight multi-protocol download utility supporting HTTP/HTTPS, FTP, SFTP, BitTorrent, and Metalink. Designed for high-speed parallel downloads and remote control via JSON-RPC.",
+    "homepage": "https://aria2.github.io/",
+    "installation": "pkg install aria2",
+    "usage": "Download with 16 connections: aria2c -x16 https://example.com/large.iso",
+    "features": [
+      "Multi-Source: Combine HTTP and torrent sources",
+      "Resume Capability: Continue interrupted downloads",
+      "RPC Interface: Control via XML-RPC/JSON-RPC",
+      "Metalink Support: Automatic mirror selection",
+      "Cookies/Auth: Handle login-protected resources"
+    ],
+    "gameplay": null,
+    "additional_resources": "Official man pages and cookbook",
+    "community_and_support": {
+      "forums": "GitHub Discussions",
+      "GitHub": "https://github.com/aria2/aria2"
+    },
+    "example_commands": {
+      "start_the_game": "aria2c --enable-rpc --rpc-listen-all",
+      "uninstall_the_game": "pkg uninstall aria2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "arj",
+    "version": "3.10.22-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A legacy archiving utility compatible with ARJ format popular in DOS-era systems. Maintains support for multi-volume archives and file versioning.",
+    "homepage": "https://arj.sourceforge.net/",
+    "installation": "pkg install arj",
+    "usage": "Extract ARJ archive: arj x archive.arj",
+    "features": [
+      "Volume Splitting: Span archives across floppies/disks",
+      "File Recovery: Rebuild damaged archives",
+      "Password Protection: AES-256 encryption",
+      "DOS Compatibility: Preserve 8.3 filenames"
+    ],
+    "gameplay": null,
+    "additional_resources": "ARJ Software Inc. technical documentation",
+    "community_and_support": {
+      "forums": "Retro computing communities",
+      "GitHub": "https://github.com/fjhars/arj"
+    },
+    "example_commands": {
+      "start_the_game": "arj a backup.arj /path/to/files",
+      "uninstall_the_game": "pkg uninstall arj"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "arpack-ng",
+    "version": "3.9.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A collection of Fortran77 subroutines for solving large-scale eigenvalue problems. Core dependency for scientific computing in Python (SciPy) and R.",
+    "homepage": "https://github.com/opencollab/arpack-ng",
+    "installation": "pkg install arpack-ng",
+    "usage": "Link in numerical applications: gfortran -larpack myeigen.f",
+    "features": [
+      "Arnoldi Method: For non-symmetric matrices",
+      "Parallel Support: MPI-based distributed computing",
+      "Single/Double Precision: Float/double implementations",
+      "Reverse Communication: Flexible matrix operations"
+    ],
+    "gameplay": null,
+    "additional_resources": "User guide and BLAS/LAPACK integration docs",
+    "community_and_support": {
+      "forums": "SciPy and NumFOCUS communities",
+      "GitHub": "https://github.com/opencollab/arpack-ng"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (numerical library)",
+      "uninstall_the_game": "pkg uninstall arpack-ng"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "artalk",
+    "version": "2.9.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A self-hosted comment system prioritizing privacy and simplicity. Offers Markdown support, anti-spam measures, and seamless integration with static site generators.",
+    "homepage": "https://artalk.js.org/",
+    "installation": "pkg install artalk",
+    "usage": "Run server: artalk server -c artalk.yml",
+    "features": [
+      "Privacy-First: No tracking or external services",
+      "Moderation Tools: Akismet integration",
+      "SSO Support: OAuth2/OpenID Connect",
+      "Email Notifications: Reply tracking",
+      "Import/Export: Disqus/WordPress migration"
+    ],
+    "gameplay": null,
+    "additional_resources": "Official configuration examples",
+    "community_and_support": {
+      "forums": "GitHub Discussions",
+      "GitHub": "https://github.com/ArtalkJS/Artalk"
+    },
+    "example_commands": {
+      "start_the_game": "artalk start -host 0.0.0.0 -port 8080",
+      "uninstall_the_game": "pkg uninstall artalk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "arturo",
+    "version": "0.9.83",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A modern, expressive programming language combining Lisp-like syntax with pragmatic features for scripting, data analysis, and cross-platform development.",
+    "homepage": "https://arturo-lang.io/",
+    "installation": "pkg install arturo",
+    "usage": "Run script: arturo hello.art",
+    "features": [
+      "REPL Environment: Interactive coding sessions",
+      "FFI Support: Call C libraries directly",
+      "Concurrency: Async/await and actors model",
+      "Batteries Included: Built-in JSON/YAML/XML parsers",
+      "Cross-Compile: Generate standalone binaries"
+    ],
+    "gameplay": null,
+    "additional_resources": "Language tutorial and standard library docs",
+    "community_and_support": {
+      "forums": "Discord community",
+      "GitHub": "https://github.com/arturo-lang/arturo"
+    },
+    "example_commands": {
+      "start_the_game": "arturo -e 'print \"Hello World\"'",
+      "uninstall_the_game": "pkg uninstall arturo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "asciidoc",
+    "version": "10.2.1-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "A mature text document format and toolchain for writing books, articles, and documentation with semantic markup. Generates HTML, PDF, EPUB, and man pages.",
+    "homepage": "http://asciidoc.org/",
+    "installation": "pkg install asciidoc",
+    "usage": "Convert to HTML: asciidoc -b html5 document.txt",
+    "features": [
+      "Semantic Markup: Abstracts presentation from content",
+      "Extensions: Custom filters and XSLT stylesheets",
+      "Math Support: LaTeX equations via MathJax",
+      "Table of Contents: Auto-generated navigation",
+      "PDF Output: Via DocBook toolchain"
+    ],
+    "gameplay": null,
+    "additional_resources": "AsciiDoc Language Documentation",
+    "community_and_support": {
+      "forums": "AsciiDoc Subreddit",
+      "GitHub": "https://github.com/asciidoc/asciidoc"
+    },
+    "example_commands": {
+      "start_the_game": "asciidoc -a toc mybook.txt",
+      "uninstall_the_game": "pkg uninstall asciidoc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "asciidoctor",
+    "version": "2.0.23",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "A modern implementation of AsciiDoc in Ruby, featuring faster processing, enhanced syntax, and direct integration with static site generators like Jekyll.",
+    "homepage": "https://asciidoctor.org/",
+    "installation": "pkg install asciidoctor",
+    "usage": "Convert to PDF: asciidoctor-pdf manual.adoc",
+    "features": [
+      "HTML5 Backend: Semantic output with CSS theming",
+      "Extensions: Write custom converters in Ruby",
+      "Live Reload: Asciidoctor Live for real-time preview",
+      "Diagram Support: PlantUML/Ditaa integration",
+      "Security: Safe mode for untrusted content"
+    ],
+    "gameplay": null,
+    "additional_resources": "Asciidoctor User Manual",
+    "community_and_support": {
+      "forums": "Asciidoctor Discourse",
+      "GitHub": "https://github.com/asciidoctor/asciidoctor"
+    },
+    "example_commands": {
+      "start_the_game": "asciidoctor -D output/ doc.adoc",
+      "uninstall_the_game": "pkg uninstall asciidoctor"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "asciinema",
+    "version": "2.4.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "A terminal session recorder that captures command-line interactions in a shareable, text-based format with timing metadata for realistic playback.",
+    "homepage": "https://asciinema.org/",
+    "installation": "pkg install asciinema",
+    "usage": "Record session: asciinema rec demo.cast",
+    "features": [
+      "Playback Control: Speed adjustment/pause during replay",
+      "Sharing: Upload to asciinema.org or self-host",
+      "Embedding: Integrate casts into Markdown/HTML",
+      "Keyboard Shortcuts: Navigate recordings efficiently",
+      "Theming: Customize terminal colors/styles"
+    ],
+    "gameplay": null,
+    "additional_resources": "Official documentation and API reference",
+    "community_and_support": {
+      "forums": "GitHub Discussions",
+      "GitHub": "https://github.com/asciinema/asciinema"
+    },
+    "example_commands": {
+      "start_the_game": "asciinema play tutorial.cast",
+      "uninstall_the_game": "pkg uninstall asciinema"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "asm-lsp",
+    "version": "0.9.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "A Language Server Protocol (LSP) implementation for assembly languages (x86, ARM, and RISC-V), providing real-time syntax checking, code completion, and disassembly features. Integrates with editors like VSCode, Vim, and Emacs for modern assembly development workflows.",
+    "homepage": "https://github.com/bergercookie/asm-lsp",
+    "installation": "pkg install asm-lsp",
+    "usage": "Configure your editor's LSP client to point to asm-lsp for assembly file support.",
+    "features": [
+      "Multi-Architecture: Supports x86-64, ARM32/64, and RISC-V syntax",
+      "Semantic Highlighting: Distinguishes registers, mnemonics, and literals",
+      "Disassembly Preview: Inline machine code visualization",
+      "Error Diagnostics: Detects invalid opcodes and addressing modes",
+      "Cross-Platform: Works with NASM, GAS, and LLVM assemblers"
+    ],
+    "gameplay": null,
+    "additional_resources": "GitHub repository includes configuration examples for major IDEs",
+    "community_and_support": {
+      "forums": "GitHub Discussions and r/asm subreddit",
+      "GitHub": "https://github.com/bergercookie/asm-lsp"
+    },
+    "example_commands": {
+      "start_the_game": "asm-lsp --stdio",
+      "uninstall_the_game": "pkg uninstall asm-lsp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspell-de",
+    "version": "20161207.7.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "German dictionary package for GNU Aspell, enabling spell-checking for German-language texts with support for compound words, umlauts, and regional variants (e.g., Swiss German).",
+    "homepage": "http://aspell.net/",
+    "installation": "pkg install aspell-de",
+    "usage": "Check German text: aspell -d de check document.txt",
+    "features": [
+      "Compound Word Handling: Properly validates words like 'Arbeitsunfähigkeitsbescheinigung'",
+      "Umlaut Support: Recognizes ä, ö, ü, and ß",
+      "Regional Variants: Includes Austrian and Swiss German rules",
+      "Custom Wordlists: Add technical/domain-specific terms"
+    ],
+    "gameplay": null,
+    "additional_resources": "Aspell manual and Debian localization guides",
+    "community_and_support": {
+      "forums": "Debian l10n-de mailing list",
+      "GitHub": "https://github.com/GNUAspell/aspell-de"
+    },
+    "example_commands": {
+      "start_the_game": "aspell -l de list < text.txt",
+      "uninstall_the_game": "pkg uninstall aspell-de"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspell-en",
+    "version": "2020.12.07",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Comprehensive English dictionary for GNU Aspell, covering American, British, Canadian, and Australian English variants with scientific, technical, and literary vocabulary.",
+    "homepage": "http://aspell.net/",
+    "installation": "pkg install aspell-en",
+    "usage": "Spell-check English documents: aspell -d en check thesis.tex",
+    "features": [
+      "Variant Support: -ise/-ize suffixes, colour/color distinctions",
+      "Scientific Vocabulary: Includes terms from biology, physics, and mathematics",
+      "Profanity Filter: Optionally flag informal/inappropriate words",
+      "Update Mechanism: Regular additions from Wiktionary"
+    ],
+    "gameplay": null,
+    "additional_resources": "Aspell customization guide for domain-specific vocabularies",
+    "community_and_support": {
+      "forums": "Aspell mailing lists",
+      "GitHub": "https://github.com/GNUAspell/aspell-en"
+    },
+    "example_commands": {
+      "start_the_game": "aspell --lang=en dump master | grep 'linux'",
+      "uninstall_the_game": "pkg uninstall aspell-en"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspell-es",
+    "version": "1.11-2-0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Spanish dictionary for GNU Aspell with support for Castilian, Latin American, and regional dialects. Includes accented characters (ñ, á, é) and verb conjugations.",
+    "homepage": "http://aspell.net/",
+    "installation": "pkg install aspell-es",
+    "usage": "Verify Spanish text: aspell -d es check documento.txt",
+    "features": [
+      "Diacritic Handling: Properly validates accents and tildes",
+      "Verb Conjugations: Detects incorrect forms like 'yo sabo'",
+      "Regional Variants: Mexican, Argentinian, and Rioplatense Spanish",
+      "Technical Terms: Medical, legal, and engineering vocabulary"
+    ],
+    "gameplay": null,
+    "additional_resources": "Real Academia Española (RAE) integration notes",
+    "community_and_support": {
+      "forums": "Debian Spanish mailing lists",
+      "GitHub": "https://github.com/sbosio/rla-es"
+    },
+    "example_commands": {
+      "start_the_game": "aspell -l es add ./.aspell.es.pws",
+      "uninstall_the_game": "pkg uninstall aspell-es"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspell-fr",
+    "version": "0.50-3-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "French language dictionary for GNU Aspell, including modern orthography, Canadian French variants, and classical literary terms. Supports ligatures (œ, æ) and elisions.",
+    "homepage": "http://aspell.net/",
+    "installation": "pkg install aspell-fr",
+    "usage": "Check French text: aspell -d fr check rapport.txt",
+    "features": [
+      "Orthographic Reform: 1990 and traditional spellings",
+      "Canadian French: Québecois vocabulary and idioms",
+      "Hyphenation: Corrects improper word breaks",
+      "Classical Terms: Includes archaic spellings for literature"
+    ],
+    "gameplay": null,
+    "additional_resources": "Académie Française compatibility notes",
+    "community_and_support": {
+      "forums": "Debian l10n-fr mailing list",
+      "GitHub": "https://github.com/GNUAspell/aspell-fr"
+    },
+    "example_commands": {
+      "start_the_game": "echo 'langue' | aspell -a -l fr",
+      "uninstall_the_game": "pkg uninstall aspell-fr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspell-static",
+    "version": "0.60.8.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Statically linked GNU Aspell library for embedding spell-checking capabilities into standalone applications. Avoids runtime dependencies for portable software.",
+    "homepage": "http://aspell.net/",
+    "installation": "pkg install aspell-static",
+    "usage": "Compile with Aspell: gcc -laspell -static myapp.c",
+    "features": [
+      "Self-Contained: No external libaspell required",
+      "Dictionary Embedding: Bundle specific languages",
+      "Performance: Optimized for low-memory environments",
+      "Cross-Compilation: Build for embedded systems"
+    ],
+    "gameplay": null,
+    "additional_resources": "Aspell developer documentation",
+    "community_and_support": {
+      "forums": "Aspell developer mailing list",
+      "GitHub": "https://github.com/GNUAspell/aspell"
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable (development library)",
+      "uninstall_the_game": "pkg uninstall aspell-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspell",
+    "version": "0.60.8.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "GNU Aspell spell-checking system with dynamic library support. Offers interactive correction, suggestion algorithms, and integration with editors like Vim and Emacs.",
+    "homepage": "http://aspell.net/",
+    "installation": "pkg install aspell",
+    "usage": "Interactive spell-check: aspell check document.txt",
+    "features": [
+      "Fuzzy Matching: Suggests corrections for typos",
+      "Multi-Dictionary: Switch languages mid-document",
+      "TeX/LaTeX Support: Ignore markup commands",
+      "Pipe Integration: Use in scripts for batch processing"
+    ],
+    "gameplay": null,
+    "additional_resources": "Aspell user manual and API docs",
+    "community_and_support": {
+      "forums": "Aspell mailing lists",
+      "GitHub": "https://github.com/GNUAspell/aspell"
+    },
+    "example_commands": {
+      "start_the_game": "aspell -c --sug-mode=ultra report.md",
+      "uninstall_the_game": "pkg uninstall aspell"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspnetcore-runtime-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Microsoft ASP.NET Core 8.0 runtime for building and running cross-platform web applications. Includes Just-In-Time (JIT) compilation, garbage collection, and dependency injection.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install aspnetcore-runtime-8.0",
+    "usage": "Run ASP.NET apps: dotnet MyApp.dll",
+    "features": [
+      "Cross-Platform: Linux/macOS/Windows support",
+      "High Performance: Tiered compilation and SIMD",
+      "Container-Ready: Optimized for Docker/Kubernetes",
+      "Security: Automatic certificate management",
+      "Middleware Pipeline: Modular HTTP request handling"
+    ],
+    "gameplay": null,
+    "additional_resources": "Microsoft .NET documentation",
+    "community_and_support": {
+      "forums": "Microsoft Q&A and Stack Overflow",
+      "GitHub": "https://github.com/dotnet/aspnetcore"
+    },
+    "example_commands": {
+      "start_the_game": "dotnet run --project MyWebApp.csproj",
+      "uninstall_the_game": "pkg uninstall aspnetcore-runtime-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspnetcore-runtime-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Latest ASP.NET Core 9.0 runtime featuring enhanced performance, Native AOT compilation, and improved Blazor capabilities for building modern web apps and microservices.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install aspnetcore-runtime-9.0",
+    "usage": "Launch apps with AOT: dotnet publish --runtime linux-arm64 -c Release",
+    "features": [
+      "Native AOT: Compile to standalone binaries",
+      "Blazor United: Server/WASM hybrid rendering",
+      "Minimal APIs: Simplified startup configuration",
+      "gRPC Performance: HTTP/3 and QUIC support"
+    ],
+    "gameplay": null,
+    "additional_resources": ".NET 9 Preview release notes",
+    "community_and_support": {
+      "forums": ".NET Foundation forums",
+      "GitHub": "https://github.com/dotnet/aspnetcore"
+    },
+    "example_commands": {
+      "start_the_game": "dotnet new webapp -o MyApp9",
+      "uninstall_the_game": "pkg uninstall aspnetcore-runtime-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspnetcore-runtime-dbg-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Debugging symbols and tools for ASP.NET Core 8.0 runtime. Enables detailed crash analysis, stack traces, and live debugging of .NET applications.",
+    "homepage": "https://docs.microsoft.com/dotnet/core/diagnostics",
+    "installation": "pkg install aspnetcore-runtime-dbg-8.0",
+    "usage": "Debug with lldb: lldb --core core.dump dotnet",
+    "features": [
+      "Symbol Files: .pdb and .dbg integration",
+      "Diagnostic Ports: Connect to running apps",
+      "SOS Debugging: Analyze heaps and threads",
+      "Core Dumps: Post-mortem crash inspection"
+    ],
+    "gameplay": null,
+    "additional_resources": "Microsoft debugging documentation",
+    "community_and_support": {
+      "forums": "Microsoft Developer Community",
+      "GitHub": "https://github.com/dotnet/diagnostics"
+    },
+    "example_commands": {
+      "start_the_game": "createdump --process-id 1234",
+      "uninstall_the_game": "pkg uninstall aspnetcore-runtime-dbg-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspnetcore-runtime-dbg-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Debugging assets for ASP.NET Core 9.0, including symbols and tools for diagnosing AOT-compiled applications and performance regressions.",
+    "homepage": "https://docs.microsoft.com/dotnet/core/diagnostics",
+    "installation": "pkg install aspnetcore-runtime-dbg-9.0",
+    "usage": "Profile with dotnet-trace: dotnet-trace collect -p 5678",
+    "features": [
+      "AOT Diagnostics: Debug optimized binaries",
+      "EventPipe: Lightweight performance tracing",
+      "Source Link: Map binaries to GitHub sources",
+      "Time Travel Debugging: Record and replay execution"
+    ],
+    "gameplay": null,
+    "additional_resources": ".NET 9 Debugging Guide",
+    "community_and_support": {
+      "forums": "r/dotnet subreddit",
+      "GitHub": "https://github.com/dotnet/runtime"
+    },
+    "example_commands": {
+      "start_the_game": "dotnet counters monitor System.Runtime",
+      "uninstall_the_game": "pkg uninstall aspnetcore-runtime-dbg-9.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspnetcore-targeting-pack-8.0",
+    "version": "8.0.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Framework targeting pack for building ASP.NET Core 8.0 applications. Includes reference assemblies and IntelliSense for Visual Studio Code.",
+    "homepage": "https://dotnet.microsoft.com/",
+    "installation": "pkg install aspnetcore-targeting-pack-8.0",
+    "usage": "Reference in .csproj: <TargetFramework>net8.0</TargetFramework>",
+    "features": [
+      "Cross-Targeting: Build for multiple frameworks",
+      "API Compatibility: Ensure backward compatibility",
+      "Design-Time Builds: Enable IDE tooling",
+      "NuGet Integration: Resolve package dependencies"
+    ],
+    "gameplay": null,
+    "additional_resources": ".NET SDK documentation",
+    "community_and_support": {
+      "forums": "Microsoft Learn Q&A",
+      "GitHub": "https://github.com/dotnet/aspnetcore"
+    },
+    "example_commands": {
+      "start_the_game": "dotnet build --framework net8.0",
+      "uninstall_the_game": "pkg uninstall aspnetcore-targeting-pack-8.0"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "aspnetcore-targeting-pack-9.0",
+    "version": "9.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The ASP.NET Core Targeting Pack allows developers to build and run applications targeting ASP.NET Core 9.0.1.",
+    "homepage": "https://dotnet.microsoft.com/apps/aspnet",
+    "installation": "pkg install aspnetcore-targeting-pack-9.0",
+    "usage": "After installing, you can reference this targeting pack in your .NET projects to build applications.",
+    "features": [
+      "Comprehensive Libraries: Provides all necessary libraries to develop and run ASP.NET Core applications.",
+      "Cross-Platform: Develop applications that run on Windows, Linux, and macOS.",
+      "Performance Optimizations: Includes performance improvements and new features for ASP.NET Core applications."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the official ASP.NET Core documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out the ASP.NET Core forums for support and discussions.",
+      "GitHub": "Visit the ASP.NET Core GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall aspnetcore-targeting-pack-9.0"
+    }
+  },
+  {
+    "name": "assimp",
+    "version": "5.4.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Assimp (Open Asset Import Library) is a library to import various well-known 3D model formats in a uniform manner.",
+    "homepage": "http://www.assimp.org/",
+    "installation": "pkg install assimp",
+    "usage": "After installation, use Assimp in your projects to import and export 3D models.",
+    "features": [
+      "Wide Format Support: Supports a multitude of 3D model formats including COLLADA, 3DS, and OBJ.",
+      "Scene Post-Processing: Offers various post-processing steps to optimize and prepare the model for rendering.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Assimp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out the Assimp forums for support and discussions.",
+      "GitHub": "Visit the Assimp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall assimp"
+    }
+  },
+  {
+    "name": "astra-sm",
+    "version": "2019.06.19",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Astra Streaming Manager (astra-sm) is a tool for managing and streaming satellite TV services.",
+    "homepage": "Not available in the package listing.",
+    "installation": "pkg install astra-sm",
+    "usage": "After installing, use astra-sm to manage and stream satellite TV services.",
+    "features": [
+      "Stream Management: Manage multiple satellite TV streams efficiently.",
+      "Scheduling: Schedule recordings and streaming sessions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit community forums and discussion boards related to satellite TV streaming.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to satellite TV streaming for support and discussions.",
+      "GitHub": "Search for repositories or forks of Astra Streaming Manager for additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall astra-sm"
+    }
+  },
+  {
+    "name": "asymptote",
+    "version": "2.95",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Asymptote is a vector graphics language that provides a natural coordinate-based framework for technical drawing.",
+    "homepage": "http://asymptote.sourceforge.net/",
+    "installation": "pkg install asymptote",
+    "usage": "After installing, use asymptote to create high-quality vector graphics.",
+    "features": [
+      "Vector Graphics: Create high-quality vector graphics with ease.",
+      "Technical Drawing: Ideal for creating technical and scientific diagrams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Asymptote documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to technical drawing and vector graphics for support and discussions.",
+      "GitHub": "Visit the Asymptote GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall asymptote"
+    }
+  },
+  {
+    "name": "at-spi2-core",
+    "version": "2.54.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "AT-SPI2 Core is a part of the Assistive Technology Service Provider Interface (AT-SPI) framework, facilitating accessibility in applications.",
+    "homepage": "https://wiki.linuxfoundation.org/accessibility/at-spi",
+    "installation": "pkg install at-spi2-core",
+    "usage": "After installing, AT-SPI2 Core services will be available for accessibility tools.",
+    "features": [
+      "Accessibility Support: Provides essential services for accessibility tools.",
+      "Integration: Integrates with various assistive technologies for improved accessibility.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the AT-SPI documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to accessibility for support and discussions.",
+      "GitHub": "Visit the AT-SPI2 Core GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall at-spi2-core"
+    }
+  },
+  {
+    "name": "at",
+    "version": "3.2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "The 'at' command is used to schedule commands to be executed at a later time.",
+    "homepage": "Not available in the package listing.",
+    "installation": "pkg install at",
+    "usage": "After installing, use 'at' to schedule commands.",
+    "features": [
+      "Command Scheduling: Schedule commands to be executed at a specified time.",
+      "Batch Processing: Manage batch jobs efficiently.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit community forums and discussion boards related to system administration.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system administration for support and discussions.",
+      "GitHub": "Search for repositories or forks of 'at' for additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall at"
+    }
+  },
+  {
+    "name": "atomicparsley",
+    "version": "20240608.083822.1ed9031",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "AtomicParsley is a lightweight command line program for reading, parsing, and setting metadata into MPEG-4 files.",
+    "homepage": "https://bitbucket.org/wez/atomicparsley",
+    "installation": "pkg install atomicparsley",
+    "usage": "After installing, use AtomicParsley to manage metadata in MPEG-4 files.",
+    "features": [
+      "Metadata Management: Read, parse, and set metadata in MPEG-4 files.",
+      "Lightweight: Efficient and lightweight command line tool.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the AtomicParsley documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to multimedia tools for support and discussions.",
+      "GitHub": "Visit the AtomicParsley GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall atomicparsley"
+    }
+  },
+  {
+    "name": "atomvm",
+    "version": "0.6.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "AtomVM is a minimalistic virtual machine for running Erlang and Elixir code on embedded devices.",
+    "homepage": "https://github.com/bettio/AtomVM",
+    "installation": "pkg install atomvm",
+    "usage": "After installing, use AtomVM to run Erlang and Elixir code on embedded devices.",
+    "features": [
+      "Erlang and Elixir Support: Run Erlang and Elixir code on embedded devices.",
+      "Lightweight: Designed to be minimalistic and efficient for resource-constrained environments.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the AtomVM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Erlang and Elixir for support and discussions.",
+      "GitHub": "Visit the AtomVM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall atomvm"
+    }
+  },
+  {
+    "name": "atool",
+    "version": "0.39.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Atool is a script for managing file archives of various types (tar, zip, rar, etc.).",
+    "homepage": "https://savannah.nongnu.org/projects/atool",
+    "installation": "pkg install atool",
+    "usage": "After installing, use atool to manage file archives.",
+    "features": [
+      "Archive Management: Handle various types of file archives.",
+      "Command Line: Use atool from the command line for efficient archive management.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the atool documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file management tools for support and discussions.",
+      "GitHub": "Visit the atool GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall atool"
+    }
+  },
+  {
+    "name": "attr-static",
+    "version": "2.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Attr-static is a package that provides static libraries for extended attributes support.",
+    "homepage": "https://savannah.nongnu.org/projects/attr",
+    "installation": "pkg install attr-static",
+    "usage": "After installing, use attr-static to manage extended attributes in your projects.",
+    "features": [
+      "Extended Attributes: Manage extended file attributes.",
+      "Static Libraries: Provides static libraries for extended attributes support.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the attr documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file systems for support and discussions.",
+      "GitHub": "Visit the attr GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall attr-static"
+    }
+  },
+  {
+    "name": "attr",
+    "version": "2.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Attr is a package that provides utilities for managing extended attributes on file systems.",
+    "homepage": "https://savannah.nongnu.org/projects/attr",
+    "installation": "pkg install attr",
+    "usage": "After installing, use attr to manage extended attributes on file systems.",
+    "features": [
+      "Extended Attributes: Manage extended file attributes.",
+      "Utilities: Provides command line utilities for managing extended attributes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the attr documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file systems for support and discussions.",
+      "GitHub": "Visit the attr GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall attr"
+    }
+  },
+  {
+    "name": "atuin",
+    "version": "18.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Atuin is a powerful, self-hosted, and extensible shell history manager.",
+    "homepage": "https://github.com/ellie/atuin",
+    "installation": "pkg install atuin",
+    "usage": "After installing, use atuin to manage your shell history.",
+    "features": [
+      "Shell History Management: Manage and search your shell history efficiently.",
+      "Self-Hosted: Host your own instance of atuin for privacy and control.",
+      "Extensible: Customize and extend atuin with plugins and integrations."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the atuin documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shell tools for support and discussions.",
+      "GitHub": "Visit the atuin GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall atuin"
+    }
+  },
+  {
+    "name": "aubio-static",
+    "version": "0.4.9-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Aubio is a library for audio and music analysis. It provides tools to extract information from audio signals such as pitch, onset, beat tracking, and more. The static version allows for easier integration into standalone applications.",
+    "homepage": "https://aubio.org/",
+    "installation": "pkg install aubio-static",
+    "usage": "After installing, you can use the aubio library in your applications for various audio analysis tasks.",
+    "features": [
+      "Pitch Detection: Detect the pitch of audio signals.",
+      "Onset Detection: Identify the beginning of sounds.",
+      "Beat Tracking: Track beats in audio signals.",
+      "MFCC Extraction: Extract Mel Frequency Cepstral Coefficients."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Aubio documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing for support and discussions.",
+      "GitHub": "Visit the Aubio GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall aubio-static"
+    }
+  },
+  {
+    "name": "aubio",
+    "version": "0.4.9-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Aubio is a library for audio and music analysis. It provides tools to extract information from audio signals such as pitch, onset, beat tracking, and more.",
+    "homepage": "https://aubio.org/",
+    "installation": "pkg install aubio",
+    "usage": "After installing, you can use the aubio library in your applications for various audio analysis tasks.",
+    "features": [
+      "Pitch Detection: Detect the pitch of audio signals.",
+      "Onset Detection: Identify the beginning of sounds.",
+      "Beat Tracking: Track beats in audio signals.",
+      "MFCC Extraction: Extract Mel Frequency Cepstral Coefficients."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Aubio documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing for support and discussions.",
+      "GitHub": "Visit the Aubio GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall aubio"
+    }
+  },
+  {
+    "name": "autoconf-archive",
+    "version": "2024.10.16",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "The Autoconf Archive is a collection of reusable macros for GNU Autoconf that can be used to build and configure software packages.",
+    "homepage": "https://www.gnu.org/software/autoconf-archive/",
+    "installation": "pkg install autoconf-archive",
+    "usage": "After installing, use the macros in your Autoconf configuration scripts.",
+    "features": [
+      "Reusable Macros: A large collection of reusable macros for Autoconf.",
+      "Community Contributions: Many macros are contributed by the community.",
+      "Cross-Platform: Useful for building software on multiple operating systems."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Autoconf Archive documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to software development for support and discussions.",
+      "GitHub": "Visit the Autoconf Archive GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall autoconf-archive"
+    }
+  },
+  {
+    "name": "autoconf213",
+    "version": "2.13",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Autoconf 2.13 is an older version of the Autoconf tool, which is used to generate configuration scripts for software packages.",
+    "homepage": "https://www.gnu.org/software/autoconf/",
+    "installation": "pkg install autoconf213",
+    "usage": "After installing, use autoconf213 to generate configuration scripts for legacy software packages.",
+    "features": [
+      "Configuration Scripts: Generate scripts to configure software packages.",
+      "Legacy Support: Useful for building older software packages that require Autoconf 2.13.",
+      "Cross-Platform: Generate configuration scripts for multiple operating systems."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Autoconf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to software development for support and discussions.",
+      "GitHub": "Visit the Autoconf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall autoconf213"
+    }
+  },
+  {
+    "name": "autoconf",
+    "version": "2.72",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Autoconf is a tool for producing shell scripts that automatically configure software source code packages to adapt to many kinds of Unix-like systems.",
+    "homepage": "https://www.gnu.org/software/autoconf/",
+    "installation": "pkg install autoconf",
+    "usage": "After installing, use autoconf to generate configuration scripts for your software packages.",
+    "features": [
+      "Configuration Scripts: Generate scripts to configure software packages.",
+      "Cross-Platform: Generate configuration scripts for multiple operating systems.",
+      "Automation: Automate the configuration process for software packages."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Autoconf documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to software development for support and discussions.",
+      "GitHub": "Visit the Autoconf GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall autoconf"
+    }
+  },
+  {
+    "name": "autojump",
+    "version": "22.5.3-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Autojump is a faster way to navigate your filesystem from the command line. It learns your most frequently used directories and allows you to jump to them quickly.",
+    "homepage": "https://github.com/wting/autojump",
+    "installation": "pkg install autojump",
+    "usage": "After installing, use autojump to quickly navigate to frequently used directories.",
+    "features": [
+      "Fast Navigation: Quickly jump to frequently used directories.",
+      "Learning Algorithm: Learns your most frequently used directories over time.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Autojump documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to command line tools for support and discussions.",
+      "GitHub": "Visit the Autojump GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall autojump"
+    }
+  },
+  {
+    "name": "automake",
+    "version": "1.17",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Automake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards.",
+    "homepage": "https://www.gnu.org/software/automake/",
+    "installation": "pkg install automake",
+    "usage": "After installing, use automake to generate Makefile.in files for your software packages.",
+    "features": [
+      "Makefile Generation: Automatically generate Makefile.in files.",
+      "GNU Standards: Ensure compliance with the GNU Coding Standards.",
+      "Cross-Platform: Generate Makefile.in files for multiple operating systems."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Automake documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to software development for support and discussions.",
+      "GitHub": "Visit the Automake GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall automake"
+    }
+  },
+  {
+    "name": "autossh",
+    "version": "1.4g-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Autossh is a program to start an SSH session and automatically restart it if it dies or stops forwarding traffic.",
+    "homepage": "https://www.harding.motd.ca/autossh/",
+    "installation": "pkg install autossh",
+    "usage": "After installing, use autossh to start and maintain stable SSH sessions.",
+    "features": [
+      "Automatic Restart: Automatically restart SSH sessions if they die.",
+      "Traffic Monitoring: Monitor traffic and ensure connection stability.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Autossh documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to SSH tools for support and discussions.",
+      "GitHub": "Visit the Autossh GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall autossh"
+    }
+  },
+  {
+    "name": "aview",
+    "version": "1.3.0rc1-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "AView is a high-quality image viewer for ASCII art.",
+    "homepage": "https://aa-project.sourceforge.net/aview/",
+    "installation": "pkg install aview",
+    "usage": "After installing, use aview to view images as ASCII art.",
+    "features": [
+      "ASCII Art Viewer: View images as high-quality ASCII art.",
+      "Multiple Formats: Supports various image formats.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the AView documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ASCII art for support and discussions.",
+      "GitHub": "Visit the AView GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall aview"
+    }
+  },
+  {
+    "name": "avra",
+    "version": "1.4.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "AVRA is an assembler for the Atmel AVR microcontroller family.",
+    "homepage": "https://avra.sourceforge.net/",
+    "installation": "pkg install avra",
+    "usage": "After installing, use avra to assemble programs for Atmel AVR microcontrollers.",
+    "features": [
+      "Assembler: Assemble programs for Atmel AVR microcontrollers.",
+      "Compatibility: Compatible with the original Atmel assembler.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the AVRA documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to microcontroller programming for support and discussions.",
+      "GitHub": "Visit the AVRA GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall avra"
+    }
+  },
+  {
+    "name": "await",
+    "version": "1.0.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Await is a tool for waiting for a condition to become true.",
+    "homepage": "Not available in the package listing.",
+    "installation": "pkg install await",
+    "usage": "After installing, use await to wait for specific conditions in your scripts.",
+    "features": [
+      "Condition Waiting: Wait for conditions to become true.",
+      "Scripting Integration: Integrate with shell scripts for automation.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit community forums and discussion boards related to scripting tools.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to scripting tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of Await for additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall await"
+    }
+  },
+  {
+    "name": "awesomeshot",
+    "version": "1.1.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Awesome Screenshot is a tool for taking screenshots and annotating them.",
+    "homepage": "https://github.com/ximet/awesome-screenshot",
+    "installation": "pkg install awesomeshot",
+    "usage": "After installing, use awesomeshot to take and annotate screenshots.",
+    "features": [
+      "Screenshot Tool: Take high-quality screenshots.",
+      "Annotation: Annotate screenshots with various tools.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Awesome Screenshot documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to screenshot tools for support and discussions.",
+      "GitHub": "Visit the Awesome Screenshot GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall awesomeshot"
+    }
+  },
+  {
+    "name": "axel",
+    "version": "2.17.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Axel is a command-line download accelerator that speeds up file downloads by using multiple connections for one file.",
+    "homepage": "https://github.com/axel-download-accelerator/axel",
+    "installation": "pkg install axel",
+    "usage": "After installing, use axel to download files faster by opening multiple connections.",
+    "features": [
+      "Download Acceleration: Speed up file downloads with multiple connections.",
+      "Command-Line Tool: Use axel from the command line for efficient downloads.",
+      "Cross-Platform: Works on multiple operating systems including Windows, Linux, and macOS."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Axel documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to download tools for support and discussions.",
+      "GitHub": "Visit the Axel GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": null,
+      "uninstall_the_game": "pkg uninstall axel"
+    }
+  }
+]

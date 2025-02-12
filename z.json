@@ -1,0 +1,597 @@
+[
+  {
+    "name": "z-push",
+    "version": "2.7.5",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Z-Push is an open-source implementation of the ActiveSync protocol, which is used to synchronize email, personal contacts, and other items.",
+    "homepage": "https://z-push.org/",
+    "installation": "pkg install z-push",
+    "usage": "After installing z-push, you can use it to synchronize email and other items using the ActiveSync protocol.",
+    "features": [
+      "ActiveSync Protocol: Synchronizes email, contacts, and other items.",
+      "Open-Source: Available as open-source software.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Z-Push website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to email synchronization for support and discussions.",
+      "GitHub": "Search for repositories or forks of Z-Push to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_zpush": "z-push-admin -a list",
+      "uninstall": "pkg uninstall z-push"
+    }
+  },
+  {
+    "name": "z3",
+    "version": "4.13.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Z3 is a high-performance theorem prover developed at Microsoft Research.",
+    "homepage": "https://github.com/Z3Prover/z3",
+    "installation": "pkg install z3",
+    "usage": "After installing z3, you can use it for theorem proving and constraint solving.",
+    "features": [
+      "Theorem Prover: Provides tools for high-performance theorem proving.",
+      "Constraint Solver: Solves constraints in various domains.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to theorem proving for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_z3": "z3 -smt2 input.smt2",
+      "uninstall": "pkg uninstall z3"
+    }
+  },
+  {
+    "name": "zbar-static",
+    "version": "0.23.93",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zbar-static provides a static library version of ZBar, a software suite for reading barcodes from various sources.",
+    "homepage": "http://zbar.sourceforge.net/",
+    "installation": "pkg install zbar-static",
+    "usage": "After installing zbar-static, you can link it with your applications to use ZBar functionalities.",
+    "features": [
+      "Barcode Reading: Provides a static library for reading barcodes from images and video streams.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official ZBar website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to barcode reading for support and discussions.",
+      "GitHub": "Search for repositories or forks of ZBar to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lzbar",
+      "uninstall": "pkg uninstall zbar-static"
+    }
+  },
+  {
+    "name": "zbar",
+    "version": "0.23.93",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ZBar is a software suite for reading barcodes from various sources such as images and video streams.",
+    "homepage": "http://zbar.sourceforge.net/",
+    "installation": "pkg install zbar",
+    "usage": "After installing ZBar, you can use it to read barcodes from images and video streams.",
+    "features": [
+      "Barcode Reading: Provides tools for reading barcodes from images and video streams.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official ZBar website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to barcode reading for support and discussions.",
+      "GitHub": "Search for repositories or forks of ZBar to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "scan_barcode": "zbarimg image.png",
+      "uninstall": "pkg uninstall zbar"
+    }
+  },
+  {
+    "name": "zellij",
+    "version": "0.41.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Zellij is a terminal workspace with batteries included.",
+    "homepage": "https://zellij.dev/",
+    "installation": "pkg install zellij",
+    "usage": "After installing zellij, you can use it to manage terminal workspaces.",
+    "features": [
+      "Terminal Workspace: Provides tools for managing terminal workspaces.",
+      "Batteries Included: Comes with various built-in features.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Zellij website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of Zellij to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_zellij": "zellij",
+      "uninstall": "pkg uninstall zellij"
+    }
+  },
+  {
+    "name": "zeronet",
+    "version": "0.7.1-9",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "ZeroNet is a decentralized web-like network of peer-to-peer users.",
+    "homepage": "https://zeronet.io/",
+    "installation": "pkg install zeronet",
+    "usage": "After installing zeronet, you can use it to access the decentralized ZeroNet network.",
+    "features": [
+      "Decentralized Network: Provides access to a decentralized web-like network.",
+      "Peer-to-Peer: Uses P2P technology for connectivity.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official ZeroNet website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to decentralized networks for support and discussions.",
+      "GitHub": "Search for repositories or forks of ZeroNet to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_zeronet": "zeronet.py",
+      "uninstall": "pkg uninstall zeronet"
+    }
+  },
+  {
+    "name": "zip",
+    "version": "3.0-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Zip is a compression and file packaging utility for Unix.",
+    "homepage": "https://infozip.sourceforge.net/",
+    "installation": "pkg install zip",
+    "usage": "After installing zip, you can use it to compress files and create zip archives.",
+    "features": [
+      "File Compression: Provides tools for compressing files and creating zip archives.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Info-ZIP website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file compression for support and discussions.",
+      "GitHub": "Search for repositories or forks of Info-ZIP to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_zip": "zip archive.zip file1 file2",
+      "uninstall": "pkg uninstall zip"
+    }
+  },
+  {
+    "name": "zipios",
+    "version": "2.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Zipios is a C++ library for reading and writing zip files.",
+    "homepage": "https://github.com/klaussfreire/zipios",
+    "installation": "pkg install zipios",
+    "usage": "After installing zipios, you can use it to read and write zip files in C++ applications.",
+    "features": [
+      "Zip File Handling: Provides a C++ library for reading and writing zip files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file compression for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include zipios in your C++ projects.",
+      "uninstall": "pkg uninstall zipios"
+    }
+  },
+  {
+    "name": "zk",
+    "version": "0.14.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zk is a plain text note-taking assistant.",
+    "homepage": "https://github.com/mickael-menu/zk",
+    "installation": "pkg install zk",
+    "usage": "After installing zk, you can use it to manage plain text notes.",
+    "features": [
+      "Note-Taking: Provides tools for managing plain text notes.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to note-taking for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_note": "zk new 'My Note'",
+      "uninstall": "pkg uninstall zk"
+    }
+  },
+  {
+    "name": "zlib-static",
+    "version": "1.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zlib-static provides a static library version of zlib, a compression library.",
+    "homepage": "https://zlib.net/",
+    "installation": "pkg install zlib-static",
+    "usage": "After installing zlib-static, you can link it with your applications to use zlib functionalities.",
+    "features": [
+      "Compression Library: Provides a static library for compression and decompression.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official zlib website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data compression for support and discussions.",
+      "GitHub": "Search for repositories or forks of zlib to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lz",
+      "uninstall": "pkg uninstall zlib-static"
+    }
+  },
+  {
+    "name": "zlib",
+    "version": "1.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zlib is a compression library for deflate, gzip, and raw deflate.",
+    "homepage": "https://zlib.net/",
+    "installation": "pkg install zlib",
+    "usage": "After installing zlib, you can use it for compression and decompression tasks.",
+    "features": [
+      "Compression Library: Provides tools for compression and decompression.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official zlib website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data compression for support and discussions.",
+      "GitHub": "Search for repositories or forks of zlib to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_data": "import zlib",
+      "uninstall": "pkg uninstall zlib"
+    }
+  },
+  {
+    "name": "znc",
+    "version": "1.9.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ZNC is an advanced IRC bouncer that is left connected so an IRC client can disconnect/reconnect without losing the chat session.",
+    "homepage": "https://znc.in/",
+    "installation": "pkg install znc",
+    "usage": "After installing znc, you can configure and run it as an IRC bouncer.",
+    "features": [
+      "IRC Bouncer: Provides tools for bouncing IRC sessions.",
+      "Persistent Connection: Maintains a persistent connection to IRC servers.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official ZNC website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to IRC for support and discussions.",
+      "GitHub": "Search for repositories or forks of ZNC to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_znc": "znc --makeconf",
+      "uninstall": "pkg uninstall znc"
+    }
+  },
+  {
+    "name": "zola",
+    "version": "0.19.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Zola is a fast static site generator in a single binary with everything built-in.",
+    "homepage": "https://getzola.org/",
+    "installation": "pkg install zola",
+    "usage": "After installing zola, you can use it to generate static sites.",
+    "features": [
+      "Static Site Generator: Provides tools for generating static sites.",
+      "Single Binary: Comes as a single binary with everything built-in.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Zola website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to static site generation for support and discussions.",
+      "GitHub": "Search for repositories or forks of Zola to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "build_site": "zola build",
+      "serve_site": "zola serve",
+      "uninstall": "pkg uninstall zola"
+    }
+  },
+  {
+    "name": "zopfli",
+    "version": "1.0.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Zopfli is a compression library that encodes data in the Deflate, Gzip, and Zlib formats.",
+    "homepage": "https://github.com/google/zopfli",
+    "installation": "pkg install zopfli",
+    "usage": "After installing zopfli, you can use it to compress files using the Zopfli algorithm.",
+    "features": [
+      "Compression Library: Provides tools for compressing data in Deflate, Gzip, and Zlib formats.",
+      "High Compression: Achieves high compression ratios.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data compression for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_file": "zopfli file.txt",
+      "uninstall": "pkg uninstall zopfli"
+    }
+  },
+  {
+    "name": "zoxide",
+    "version": "0.9.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zoxide is a smarter cd command for the terminal.",
+    "homepage": "https://github.com/ajeetdsouza/zoxide",
+    "installation": "pkg install zoxide",
+    "usage": "After installing zoxide, you can use it to navigate directories more efficiently.",
+    "features": [
+      "Smarter cd: Provides an enhanced cd command for smarter directory navigation.",
+      "Terminal Integration: Integrates seamlessly with the terminal.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "navigate_directory": "zoxide cd directory_name",
+      "uninstall": "pkg uninstall zoxide"
+    }
+  },
+  {
+    "name": "zpaq",
+    "version": "7.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zpaq is a journaling incremental deduplicating archiver.",
+    "homepage": "http://mattmahoney.net/dc/zpaq.html",
+    "installation": "pkg install zpaq",
+    "usage": "After installing zpaq, you can use it to create and manage deduplicated archives.",
+    "features": [
+      "Incremental Archiver: Provides tools for creating incremental deduplicated archives.",
+      "Journaling: Supports journaling to track changes.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official zpaq website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data archiving for support and discussions.",
+      "GitHub": "Search for repositories or forks of zpaq to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_archive": "zpaq add archive.zpaq file.txt",
+      "uninstall": "pkg uninstall zpaq"
+    }
+  },
+  {
+    "name": "zrok",
+    "version": "0.4.46",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zrok is a reverse proxy that exposes local services to the internet.",
+    "homepage": "https://github.com/openziti/zrok",
+    "installation": "pkg install zrok",
+    "usage": "After installing zrok, you can use it to expose local services to the internet.",
+    "features": [
+      "Reverse Proxy: Provides tools for exposing local services to the internet.",
+      "Secure: Ensures secure access to local services.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to reverse proxies for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "expose_service": "zrok expose local_service",
+      "uninstall": "pkg uninstall zrok"
+    }
+  },
+  {
+    "name": "zsh-completions",
+    "version": "0.35.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "zsh-completions provides additional completion definitions for Zsh.",
+    "homepage": "https://github.com/zsh-users/zsh-completions",
+    "installation": "pkg install zsh-completions",
+    "usage": "After installing zsh-completions, you can use the additional completions in your Zsh shell.",
+    "features": [
+      "Completion Definitions: Provides additional completion definitions for Zsh.",
+      "Zsh Integration: Integrates seamlessly with the Zsh shell.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Zsh for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_completions": "source /usr/share/zsh-completions/zsh-completions.zsh",
+      "uninstall": "pkg uninstall zsh-completions"
+    }
+  },
+  {
+    "name": "zsh",
+    "version": "5.9-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Zsh is a powerful shell designed for interactive use, although it is also a scripting language.",
+    "homepage": "http://www.zsh.org/",
+    "installation": "pkg install zsh",
+    "usage": "After installing zsh, you can use it as your default shell.",
+    "features": [
+      "Interactive Shell: Provides a powerful shell for interactive use.",
+      "Scripting Language: Supports scripting for automation.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Zsh website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Zsh for support and discussions.",
+      "GitHub": "Search for repositories or forks of Zsh to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_zsh": "zsh",
+      "uninstall": "pkg uninstall zsh"
+    }
+  },
+  {
+    "name": "zssh",
+    "version": "1.5c-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zssh (Zmodem SSH) is a program for transferring files to a remote machine while using an interactive shell.",
+    "homepage": "http://zssh.sourceforge.net/",
+    "installation": "pkg install zssh",
+    "usage": "After installing zssh, you can use it to transfer files while using an interactive shell.",
+    "features": [
+      "File Transfer: Provides tools for transferring files over SSH.",
+      "Interactive Shell: Allows file transfer while using an interactive shell.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official zssh website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SSH for support and discussions.",
+      "GitHub": "Search for repositories or forks of zssh to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "transfer_file": "zssh user@remote_host",
+      "uninstall": "pkg uninstall zssh"
+    }
+  },
+  {
+    "name": "zstd",
+    "version": "1.5.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zstd is a fast real-time compression algorithm.",
+    "homepage": "https://facebook.github.io/zstd/",
+    "installation": "pkg install zstd",
+    "usage": "After installing zstd, you can use it to compress and decompress files.",
+    "features": [
+      "Compression Algorithm: Provides tools for fast real-time compression.",
+      "High Performance: Designed for high compression ratios and speed.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official zstd website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to data compression for support and discussions.",
+      "GitHub": "Search for repositories or forks of zstd to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compress_file": "zstd file.txt",
+      "decompress_file": "zstd -d file.txt.zst",
+      "uninstall": "pkg uninstall zstd"
+    }
+  },
+  {
+    "name": "zsync",
+    "version": "0.6.2-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zsync is a file transfer program to download files from remote servers.",
+    "homepage": "http://zsync.moria.org.uk/",
+    "installation": "pkg install zsync",
+    "usage": "After installing zsync, you can use it to download files efficiently from remote servers.",
+    "features": [
+      "File Transfer: Provides tools for downloading files from remote servers.",
+      "Efficient Downloading: Designed for efficient incremental downloading.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official zsync website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file transfer for support and discussions.",
+      "GitHub": "Search for repositories or forks of zsync to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "download_file": "zsync file.zsync",
+      "uninstall": "pkg uninstall zsync"
+    }
+  },
+  {
+    "name": "zziplib",
+    "version": "0.13.78",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zziplib is a library providing read access to zipped files in a zip archive.",
+    "homepage": "https://github.com/gdraheim/zziplib",
+    "installation": "pkg install zziplib",
+    "usage": "After installing zziplib, you can use it to read files from zip archives in your applications.",
+    "features": [
+      "Zip File Access: Provides a library for reading files from zip archives.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file compression for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include zziplib in your C++ projects.",
+      "uninstall": "pkg uninstall zziplib"
+    }
+  },
+  {
+    "name": "zzuf-static",
+    "version": "2022.05.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zzuf-static provides a static library version of zzuf, a transparent application input fuzzer.",
+    "homepage": "http://caca.zoy.org/wiki/zzuf",
+    "installation": "pkg install zzuf-static",
+    "usage": "After installing zzuf-static, you can link it with your applications to use zzuf functionalities.",
+    "features": [
+      "Input Fuzzer: Provides a static library for fuzzing application inputs.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official zzuf website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to fuzz testing for support and discussions.",
+      "GitHub": "Search for repositories or forks of zzuf to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lzzuf",
+      "uninstall": "pkg uninstall zzuf-static"
+    }
+  },
+  {
+    "name": "zzuf",
+    "version": "2022.05.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "zzuf is a transparent application input fuzzer.",
+    "homepage": "http://caca.zoy.org/wiki/zzuf",
+    "installation": "pkg install zzuf",
+    "usage": "After installing zzuf, you can use it to fuzz application inputs.",
+    "features": [
+      "Input Fuzzer: Provides tools for fuzzing application inputs.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and documentation on the official zzuf website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to fuzz testing for support and discussions.",
+      "GitHub": "Search for repositories or forks of zzuf to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "fuzz_input": "zzuf -r 0.01-0.05 -s 0:1000 -- myapp",
+      "uninstall": "pkg uninstall zzuf"
+    }
+  }
+]

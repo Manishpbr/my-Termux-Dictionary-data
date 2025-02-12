@@ -1,0 +1,700 @@
+[
+  {
+    "name": "mount-utils",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mount-utils provides utilities for mounting and unmounting filesystems.",
+    "homepage": "https://github.com/util-linux/util-linux",
+    "installation": "pkg install mount-utils",
+    "usage": "After installing mount-utils, you can use the provided utilities for mounting and unmounting filesystems.",
+    "features": [
+      "Filesystem Utilities: Provides utilities for mounting and unmounting filesystems.",
+      "Command Line Tools: Use the command line to manage filesystems.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Unix utilities for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "mount_fs": "mount /dev/sda1 /mnt",
+      "unmount_fs": "umount /mnt",
+      "uninstall": "pkg uninstall mount-utils"
+    }
+  },
+  {
+    "name": "mp3cat-go",
+    "version": "4.2.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mp3cat-go is a Go-based tool for concatenating MP3 files.",
+    "homepage": "https://github.com/richardlehane/mp3cat-go",
+    "installation": "pkg install mp3cat-go",
+    "usage": "After installing mp3cat-go, you can concatenate MP3 files by typing: mp3cat-go file1.mp3 file2.mp3 > output.mp3",
+    "features": [
+      "MP3 Concatenation: Concatenate multiple MP3 files into one.",
+      "Go-Based: Built using the Go programming language.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "concat_mp3": "mp3cat-go file1.mp3 file2.mp3 > output.mp3",
+      "uninstall": "pkg uninstall mp3cat-go"
+    }
+  },
+  {
+    "name": "mp3cat",
+    "version": "0.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mp3cat is a simple command line tool for concatenating MP3 files.",
+    "homepage": "https://github.com/richardlehane/mp3cat",
+    "installation": "pkg install mp3cat",
+    "usage": "After installing mp3cat, you can concatenate MP3 files by typing: mp3cat file1.mp3 file2.mp3 > output.mp3",
+    "features": [
+      "MP3 Concatenation: Concatenate multiple MP3 files into one.",
+      "Command Line Tool: Use the command line to concatenate MP3 files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "concat_mp3": "mp3cat file1.mp3 file2.mp3 > output.mp3",
+      "uninstall": "pkg uninstall mp3cat"
+    }
+  },
+  {
+    "name": "mp3gain",
+    "version": "1.6.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mp3gain is a tool for lossless volume adjustment of MP3 files.",
+    "homepage": "http://mp3gain.sourceforge.net/",
+    "installation": "pkg install mp3gain",
+    "usage": "After installing mp3gain, you can adjust the volume of MP3 files by typing: mp3gain -r file.mp3",
+    "features": [
+      "Volume Adjustment: Adjust the volume of MP3 files without loss of quality.",
+      "Command Line Tool: Use the command line to adjust MP3 file volume.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of mp3gain to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "adjust_volume": "mp3gain -r file.mp3",
+      "uninstall": "pkg uninstall mp3gain"
+    }
+  },
+  {
+    "name": "mp3splt",
+    "version": "2.6.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mp3splt is a command line tool for splitting MP3 and Ogg Vorbis files without decoding.",
+    "homepage": "http://mp3splt.sourceforge.net/",
+    "installation": "pkg install mp3splt",
+    "usage": "After installing mp3splt, you can split MP3 files by typing: mp3splt file.mp3",
+    "features": [
+      "File Splitting: Split MP3 and Ogg Vorbis files without decoding.",
+      "Command Line Tool: Use the command line to split audio files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of mp3splt to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "split_file": "mp3splt file.mp3",
+      "uninstall": "pkg uninstall mp3splt"
+    }
+  },
+  {
+    "name": "mp3wrap",
+    "version": "0.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mp3wrap is a command line utility that wraps multiple MP3 files into a single file.",
+    "homepage": "http://mp3wrap.sourceforge.net/",
+    "installation": "pkg install mp3wrap",
+    "usage": "After installing mp3wrap, you can wrap MP3 files by typing: mp3wrap output.mp3 file1.mp3 file2.mp3",
+    "features": [
+      "MP3 Wrapping: Wrap multiple MP3 files into a single file.",
+      "Command Line Tool: Use the command line to wrap MP3 files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of mp3wrap to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "wrap_files": "mp3wrap output.mp3 file1.mp3 file2.mp3",
+      "uninstall": "pkg uninstall mp3wrap"
+    }
+  },
+  {
+    "name": "mpc",
+    "version": "0.35",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mpc (Music Player Command) is a command line client for MPD (Music Player Daemon).",
+    "homepage": "https://www.musicpd.org/",
+    "installation": "pkg install mpc",
+    "usage": "After installing mpc, you can control MPD by typing: mpc play",
+    "features": [
+      "MPD Client: Provides a command line client for Music Player Daemon.",
+      "Music Control: Control MPD from the command line.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPD for support and discussions.",
+      "GitHub": "Search for repositories or forks of mpc to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_music": "mpc play",
+      "uninstall": "pkg uninstall mpc"
+    }
+  },
+  {
+    "name": "mpd",
+    "version": "0.23.16-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mpd (Music Player Daemon) is a flexible, powerful, server-side application for playing music.",
+    "homepage": "https://www.musicpd.org/",
+    "installation": "pkg install mpd",
+    "usage": "After installing mpd, you can start the daemon by typing: mpd",
+    "features": [
+      "Music Server: Provides a server-side application for playing music.",
+      "Flexible: Highly configurable and supports various audio formats.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPD for support and discussions.",
+      "GitHub": "Search for repositories or forks of mpd to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_daemon": "mpd",
+      "uninstall": "pkg uninstall mpd"
+    }
+  },
+  {
+    "name": "mpdscribble",
+    "version": "0.25",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mpdscribble is a client for MPD that submits played tracks to Last.fm.",
+    "homepage": "https://www.musicpd.org/",
+    "installation": "pkg install mpdscribble",
+    "usage": "After installing mpdscribble, you can start it by typing: mpdscribble",
+    "features": [
+      "Last.fm Submission: Submits played tracks to Last.fm.",
+      "MPD Client: Works as a client for MPD.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPD for support and discussions.",
+      "GitHub": "Search for repositories or forks of mpdscribble to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "mpdscribble",
+      "uninstall": "pkg uninstall mpdscribble"
+    }
+  },
+  {
+    "name": "mpg123-static",
+    "version": "1.32.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mpg123-static is a static library version of mpg123, a fast and portable MP3 player for Unix.",
+    "homepage": "https://www.mpg123.de/",
+    "installation": "pkg install mpg123-static",
+    "usage": "After installing mpg123-static, you can link it with your applications to play MP3 files.",
+    "features": [
+      "MP3 Playback: Provides a fast and portable MP3 player.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of mpg123 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lmpg123",
+      "uninstall": "pkg uninstall mpg123-static"
+    }
+  },
+  {
+    "name": "mpg123",
+    "version": "1.32.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mpg123 is a fast and portable MP3 player for Unix.",
+    "homepage": "https://www.mpg123.de/",
+    "installation": "pkg install mpg123",
+    "usage": "After installing mpg123, you can play MP3 files by typing: mpg123 file.mp3",
+    "features": [
+      "MP3 Playback: Provides a fast and portable MP3 player.",
+      "Command Line Tool: Use the command line to play MP3 files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of mpg123 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_mp3": "mpg123 file.mp3",
+      "uninstall": "pkg uninstall mpg123"
+    }
+  },
+  {
+    "name": "mplayer",
+    "version": "1.5-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mplayer is a movie player that runs on many systems and supports a wide variety of video and audio formats.",
+    "homepage": "http://mplayerhq.hu/",
+    "installation": "pkg install mplayer",
+    "usage": "After installing mplayer, you can play media files by typing: mplayer file",
+    "features": [
+      "Media Playback: Supports a wide variety of video and audio formats.",
+      "Command Line Tool: Use the command line to play media files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to media players for support and discussions.",
+      "GitHub": "Search for repositories or forks of mplayer to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_media": "mplayer file",
+      "uninstall": "pkg uninstall mplayer"
+    }
+  },
+  {
+    "name": "mpv",
+    "version": "0.39.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mpv is a media player based on MPlayer and mplayer2, with support for a wide variety of video and audio formats.",
+    "homepage": "https://mpv.io/",
+    "installation": "pkg install mpv",
+    "usage": "After installing mpv, you can play media files by typing: mpv file",
+    "features": [
+      "Media Playback: Supports a wide variety of video and audio formats.",
+      "Modern Features: Includes features like GPU video decoding and high-quality video output.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to media players for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_media": "mpv file",
+      "uninstall": "pkg uninstall mpv"
+    }
+  },
+  {
+    "name": "mruby-static",
+    "version": "3.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mruby-static is a static library for mruby, a lightweight implementation of the Ruby language.",
+    "homepage": "https://mruby.org/",
+    "installation": "pkg install mruby-static",
+    "usage": "After installing mruby-static, you can link it with your applications to use mruby functionalities.",
+    "features": [
+      "Ruby Implementation: Provides a lightweight implementation of the Ruby language.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Ruby for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lmruby",
+      "uninstall": "pkg uninstall mruby-static"
+    }
+  },
+  {
+    "name": "mruby",
+    "version": "3.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mruby is a lightweight implementation of the Ruby language designed for embedding within applications.",
+    "homepage": "https://mruby.org/",
+    "installation": "pkg install mruby",
+    "usage": "After installing mruby, you can use it to run Ruby scripts by typing: mruby script.rb",
+    "features": [
+      "Ruby Implementation: Provides a lightweight implementation of the Ruby language.",
+      "Embeddable: Designed for embedding within applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Ruby for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_script": "mruby script.rb",
+      "uninstall": "pkg uninstall mruby"
+    }
+  },
+  {
+    "name": "msmtp",
+    "version": "1.8.28",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "msmtp is an SMTP client that can be used to send emails from the command line or scripts.",
+    "homepage": "https://marlam.de/msmtp/",
+    "installation": "pkg install msmtp",
+    "usage": "After installing msmtp, you can send emails by typing: msmtp recipient@example.com < message.txt",
+    "features": [
+      "SMTP Client: Send emails from the command line or scripts.",
+      "Configurable: Highly configurable with support for various authentication methods.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to email clients for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "send_email": "msmtp recipient@example.com < message.txt",
+      "uninstall": "pkg uninstall msmtp"
+    }
+  },
+  {
+    "name": "mtd-utils",
+    "version": "2.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mtd-utils is a collection of utilities for managing MTD (Memory Technology Device) devices.",
+    "homepage": "https://www.linux-mtd.infradead.org/",
+    "installation": "pkg install mtd-utils",
+    "usage": "After installing mtd-utils, you can use the provided utilities to manage MTD devices.",
+    "features": [
+      "MTD Management: Provides utilities for managing Memory Technology Devices.",
+      "Command Line Tools: Use the command line to manage MTD devices.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MTD for support and discussions.",
+      "GitHub": "Search for repositories or forks of mtd-utils to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_mtd": "cat /proc/mtd",
+      "uninstall": "pkg uninstall mtd-utils"
+    }
+  },
+  {
+    "name": "mtools",
+    "version": "4.0.47",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mtools is a collection of utilities to access MS-DOS disks from Unix without mounting them.",
+    "homepage": "https://www.gnu.org/software/mtools/",
+    "installation": "pkg install mtools",
+    "usage": "After installing mtools, you can use the provided utilities to access MS-DOS disks.",
+    "features": [
+      "MS-DOS Disk Access: Access MS-DOS disks from Unix without mounting them.",
+      "Command Line Tools: Use the command line to manage MS-DOS disks.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to disk management for support and discussions.",
+      "GitHub": "Search for repositories or forks of mtools to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_files": "mdir a:",
+      "uninstall": "pkg uninstall mtools"
+    }
+  },
+  {
+    "name": "mu",
+    "version": "1.12.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mu is a tool for searching and indexing emails stored in Maildir format.",
+    "homepage": "https://www.djcbsoftware.nl/code/mu/",
+    "installation": "pkg install mu",
+    "usage": "After installing mu, you can index and search emails by typing: mu index",
+    "features": [
+      "Email Indexing: Index and search emails stored in Maildir format.",
+      "Command Line Tool: Use the command line to search emails.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to email clients for support and discussions.",
+      "GitHub": "Search for repositories or forks of mu to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "index_emails": "mu index",
+      "search_emails": "mu find subject:example",
+      "uninstall": "pkg uninstall mu"
+    }
+  },
+  {
+    "name": "muchsync",
+    "version": "7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "muchsync is a tool for synchronizing Notmuch mail across multiple devices.",
+    "homepage": "https://www.muchsync.org/",
+    "installation": "pkg install muchsync",
+    "usage": "After installing muchsync, you can sync Notmuch mail by typing: muchsync user@hostname",
+    "features": [
+      "Mail Synchronization: Synchronize Notmuch mail across multiple devices.",
+      "Command Line Tool: Use the command line to sync mail.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to email clients for support and discussions.",
+      "GitHub": "Search for repositories or forks of muchsync to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "sync_mail": "muchsync user@hostname",
+      "uninstall": "pkg uninstall muchsync"
+    }
+  },
+  {
+    "name": "multitail",
+    "version": "7.1.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "multitail is a tool for viewing multiple log files in a single terminal window.",
+    "homepage": "https://www.vanheusden.com/multitail/",
+    "installation": "pkg install multitail",
+    "usage": "After installing multitail, you can view multiple log files by typing: multitail file1 file2",
+    "features": [
+      "Log Viewing: View multiple log files in a single terminal window.",
+      "Command Line Tool: Use the command line to view log files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to log management for support and discussions.",
+      "GitHub": "Search for repositories or forks of multitail to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_logs": "multitail file1 file2",
+      "uninstall": "pkg uninstall multitail"
+    }
+  },
+  {
+    "name": "mupdf-static",
+    "version": "1.24.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mupdf-static is a static library version of MuPDF, a lightweight PDF and XPS viewer.",
+    "homepage": "https://mupdf.com/",
+    "installation": "pkg install mupdf-static",
+    "usage": "After installing mupdf-static, you can link it with your applications to view PDF and XPS files.",
+    "features": [
+      "PDF and XPS Viewing: Provides a lightweight viewer for PDF and XPS files.",
+      "Static Library: Can be statically linked with applications.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to document viewers for support and discussions.",
+      "GitHub": "Search for repositories or forks of MuPDF to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lmupdf",
+      "uninstall": "pkg uninstall mupdf-static"
+    }
+  },
+  {
+    "name": "mupdf-tools",
+    "version": "1.24.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mupdf-tools is a collection of command line tools for working with PDF and XPS files using MuPDF.",
+    "homepage": "https://mupdf.com/",
+    "installation": "pkg install mupdf-tools",
+    "usage": "After installing mupdf-tools, you can use the provided tools to manipulate PDF and XPS files.",
+    "features": [
+      "PDF and XPS Tools: Provides tools for manipulating PDF and XPS files.",
+      "Command Line Tools: Use the command line to work with PDF and XPS files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to document viewers for support and discussions.",
+      "GitHub": "Search for repositories or forks of MuPDF to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "convert_pdf_to_text": "mutool convert -o output.txt input.pdf",
+      "uninstall": "pkg uninstall mupdf-tools"
+    }
+  },
+  {
+    "name": "mupdf",
+    "version": "1.24.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mupdf is a lightweight PDF and XPS viewer.",
+    "homepage": "https://mupdf.com/",
+    "installation": "pkg install mupdf",
+    "usage": "After installing mupdf, you can view PDF and XPS files by typing: mupdf file.pdf",
+    "features": [
+      "PDF and XPS Viewing: Provides a lightweight viewer for PDF and XPS files.",
+      "Command Line Tool: Use the command line to view PDF and XPS files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to document viewers for support and discussions.",
+      "GitHub": "Search for repositories or forks of MuPDF to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "view_pdf": "mupdf file.pdf",
+      "uninstall": "pkg uninstall mupdf"
+    }
+  },
+  {
+    "name": "music-file-organizer",
+    "version": "1.0.4-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "music-file-organizer is a tool for organizing music files into a structured directory format.",
+    "homepage": "https://github.com/example/music-file-organizer",
+    "installation": "pkg install music-file-organizer",
+    "usage": "After installing music-file-organizer, you can organize music files by typing: music-file-organizer /path/to/music",
+    "features": [
+      "Music Organization: Organize music files into a structured directory format.",
+      "Command Line Tool: Use the command line to organize music files.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to music management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "organize_music": "music-file-organizer /path/to/music",
+      "uninstall": "pkg uninstall music-file-organizer"
+    }
+  },
+  {
+    "name": "mutt",
+    "version": "2.2.13-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mutt is a small but powerful text-based email client for Unix-like operating systems.",
+    "homepage": "http://www.mutt.org/",
+    "installation": "pkg install mutt",
+    "usage": "After installing mutt, you can start the email client by typing: mutt",
+    "features": [
+      "Email Client: Provides a text-based email client for Unix-like operating systems.",
+      "Configurable: Highly configurable with support for various email protocols.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to email clients for support and discussions.",
+      "GitHub": "Search for repositories or forks of mutt to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "mutt",
+      "uninstall": "pkg uninstall mutt"
+    }
+  },
+  {
+    "name": "mympd",
+    "version": "19.0.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "mympd is a standalone and lightweight web-based client for MPD (Music Player Daemon).",
+    "homepage": "https://jcorporation.github.io/myMPD/",
+    "installation": "pkg install mympd",
+    "usage": "After installing mympd, you can start the server by typing: mympd",
+    "features": [
+      "Web-Based Client: Provides a web-based client for Music Player Daemon.",
+      "Lightweight: Designed to be lightweight and standalone.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPD for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "mympd",
+      "uninstall": "pkg uninstall mympd"
+    }
+  },
+  {
+    "name": "mypaint-brushes",
+    "version": "2.0.2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "mypaint-brushes is a collection of brushes for MyPaint, an open-source painting application.",
+    "homepage": "https://github.com/mypaint/mypaint-brushes",
+    "installation": "pkg install mypaint-brushes",
+    "usage": "After installing mypaint-brushes, you can use the brushes in MyPaint.",
+    "features": [
+      "Brush Collection: Provides a collection of brushes for MyPaint.",
+      "Open Source: Available for modification and redistribution.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to digital painting for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_brushes": "Open MyPaint and select the new brushes.",
+      "uninstall": "pkg uninstall mypaint-brushes"
+    }
+  },
+  {
+    "name": "myrepos",
+    "version": "1.20180726-4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "myrepos is a tool for managing multiple version control repositories.",
+    "homepage": "https://myrepos.branchable.com/",
+    "installation": "pkg install myrepos",
+    "usage": "After installing myrepos, you can manage multiple repositories by typing: mr",
+    "features": [
+      "Repository Management: Manage multiple version control repositories.",
+      "Command Line Tool: Use the command line to manage repositories.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to version control for support and discussions.",
+      "GitHub": "Search for repositories or forks of myrepos to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_repos": "mr",
+      "uninstall": "pkg uninstall myrepos"
+    }
+  }
+]

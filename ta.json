@@ -1,0 +1,1527 @@
+[
+  {
+    "name": "tinyproxy",
+    "version": "1.11.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tinyproxy is a lightweight HTTP proxy server.",
+    "homepage": "https://tinyproxy.github.io/",
+    "installation": "pkg install tinyproxy",
+    "usage": "After installing Tinyproxy, you can use it to set up a lightweight HTTP proxy server.",
+    "features": [
+      "HTTP Proxy: Provides a lightweight HTTP proxy server.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tinyproxy website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to proxy servers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_proxy": "tinyproxy",
+      "uninstall": "pkg uninstall tinyproxy"
+    }
+  },
+  {
+    "name": "tinyscheme",
+    "version": "1.42-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tinyscheme is a lightweight Scheme interpreter.",
+    "homepage": "http://tinyscheme.sourceforge.net/",
+    "installation": "pkg install tinyscheme",
+    "usage": "After installing Tinyscheme, you can use it to run Scheme programs.",
+    "features": [
+      "Scheme Interpreter: Provides a lightweight Scheme interpreter.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tinyscheme website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Scheme for support and discussions.",
+      "GitHub": "Search for repositories or forks of Tinyscheme to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_scheme": "tinyscheme",
+      "uninstall": "pkg uninstall tinyscheme"
+    }
+  },
+  {
+    "name": "tizonia",
+    "version": "0.22.0-15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tizonia is a cloud music player for the terminal.",
+    "homepage": "https://tizonia.org/",
+    "installation": "pkg install tizonia",
+    "usage": "After installing Tizonia, you can use it to stream music from various cloud services.",
+    "features": [
+      "Cloud Music Player: Provides a cloud music player for the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tizonia website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to music streaming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_music": "tizonia --spotify-playlist 'Spotify playlist URL'",
+      "uninstall": "pkg uninstall tizonia"
+    }
+  },
+  {
+    "name": "tk",
+    "version": "8.6.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tk is a GUI toolkit for Tcl.",
+    "homepage": "https://www.tcl.tk/",
+    "installation": "pkg install tk",
+    "usage": "After installing Tk, you can use it to create graphical user interfaces with Tcl.",
+    "features": [
+      "GUI Toolkit: Provides a GUI toolkit for Tcl.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tcl/Tk website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tcl/Tk for support and discussions.",
+      "GitHub": "Search for repositories or forks of Tk to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_gui": "tclsh script.tcl",
+      "uninstall": "pkg uninstall tk"
+    }
+  },
+  {
+    "name": "tmate",
+    "version": "2.4.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tmate is a terminal multiplexer with instant terminal sharing.",
+    "homepage": "https://tmate.io/",
+    "installation": "pkg install tmate",
+    "usage": "After installing Tmate, you can use it to share your terminal session instantly.",
+    "features": [
+      "Terminal Multiplexer: Provides a terminal multiplexer with instant terminal sharing.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tmate website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal multiplexers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_tmate": "tmate",
+      "uninstall": "pkg uninstall tmate"
+    }
+  },
+  {
+    "name": "tmux",
+    "version": "3.5a",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tmux is a terminal multiplexer.",
+    "homepage": "https://github.com/tmux/tmux",
+    "installation": "pkg install tmux",
+    "usage": "After installing Tmux, you can use it to manage multiple terminal sessions.",
+    "features": [
+      "Terminal Multiplexer: Provides a terminal multiplexer for managing multiple terminal sessions.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tmux repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal multiplexers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_tmux": "tmux",
+      "uninstall": "pkg uninstall tmux"
+    }
+  },
+  {
+    "name": "toilet",
+    "version": "0.3-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Toilet is a tool for creating ASCII art text banners.",
+    "homepage": "http://caca.zoy.org/wiki/toilet",
+    "installation": "pkg install toilet",
+    "usage": "After installing Toilet, you can use it to create ASCII art text banners.",
+    "features": [
+      "ASCII Art: Provides tools for creating ASCII art text banners.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Toilet website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to ASCII art for support and discussions.",
+      "GitHub": "Search for repositories or forks of Toilet to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_banner": "toilet 'Hello, World!'",
+      "uninstall": "pkg uninstall toilet"
+    }
+  },
+  {
+    "name": "tokei",
+    "version": "13.0.0-alpha.8-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tokei is a program that displays statistics about your code.",
+    "homepage": "https://github.com/XAMPPRocky/tokei",
+    "installation": "pkg install tokei",
+    "usage": "After installing Tokei, you can use it to display statistics about your code.",
+    "features": [
+      "Code Statistics: Provides tools for displaying statistics about your code.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tokei repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to code analysis for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "display_stats": "tokei src/",
+      "uninstall": "pkg uninstall tokei"
+    }
+  },
+  {
+    "name": "tome2",
+    "version": "2022.12.27-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tome2 is a dungeon exploration game.",
+    "homepage": "https://github.com/username/tome2",
+    "installation": "pkg install tome2",
+    "usage": "After installing Tome2, you can play the dungeon exploration game.",
+    "features": [
+      "Dungeon Exploration: Provides a dungeon exploration game.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tome2 repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to dungeon exploration games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "tome2",
+      "uninstall": "pkg uninstall tome2"
+    }
+  },
+  {
+    "name": "toml11",
+    "version": "4.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Toml11 is a TOML parser and serializer for modern C++.",
+    "homepage": "https://github.com/marzer/toml11",
+    "installation": "pkg install toml11",
+    "usage": "After installing Toml11, you can use it to parse and serialize TOML files in C++.",
+    "features": [
+      "TOML Parsing: Provides tools for parsing and serializing TOML files in C++.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Toml11 repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TOML for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_toml": "Include Toml11 in your C++ project to parse TOML files.",
+      "uninstall": "pkg uninstall toml11"
+    }
+  },
+  {
+    "name": "topgrade",
+    "version": "16.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Topgrade is a tool to upgrade all your packages.",
+    "homepage": "https://github.com/r-darwish/topgrade",
+    "installation": "pkg install topgrade",
+    "usage": "After installing Topgrade, you can use it to upgrade all your packages.",
+    "features": [
+      "Package Upgrader: Provides a tool to upgrade all your packages.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Topgrade repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to package management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "upgrade_packages": "topgrade",
+      "uninstall": "pkg uninstall topgrade"
+    }
+  },
+  {
+    "name": "tor",
+    "version": "0.4.8.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tor is free and open-source software for enabling anonymous communication.",
+    "homepage": "https://www.torproject.org/",
+    "installation": "pkg install tor",
+    "usage": "After installing Tor, you can use it to enable anonymous communication.",
+    "features": [
+      "Anonymous Communication: Provides tools for enabling anonymous communication.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tor website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to anonymous communication for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_tor": "tor",
+      "uninstall": "pkg uninstall tor"
+    }
+  },
+  {
+    "name": "torchaudio-ffmpeg",
+    "version": "2.5.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Torchaudio-ffmpeg is an extension for torchaudio that adds ffmpeg support.",
+    "homepage": "https://github.com/pyannote/torchaudio-ffmpeg",
+    "installation": "pkg install torchaudio-ffmpeg",
+    "usage": "After installing Torchaudio-ffmpeg, you can use it to add ffmpeg support to torchaudio.",
+    "features": [
+      "FFmpeg Support: Provides an extension for torchaudio to add ffmpeg support.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Torchaudio-ffmpeg repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to torchaudio for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_torchaudio_ffmpeg": "Include Torchaudio-ffmpeg in your torchaudio project to add ffmpeg support.",
+      "uninstall": "pkg uninstall torchaudio-ffmpeg"
+    }
+  },
+  {
+    "name": "torsocks-static",
+    "version": "2.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Torsocks-static provides a static binary version of Torsocks, a tool to force applications to use Tor.",
+    "homepage": "https://gitweb.torproject.org/torsocks.git",
+    "installation": "pkg install torsocks-static",
+    "usage": "After installing Torsocks-static, you can use it to force applications to use Tor.",
+    "features": [
+      "Tor Integration: Forces applications to use Tor.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Torsocks repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tor for support and discussions.",
+      "GitHub": "Search for repositories or forks of Torsocks to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "force_tor": "torsocks application",
+      "uninstall": "pkg uninstall torsocks-static"
+    }
+  },
+  {
+    "name": "torsocks",
+    "version": "2.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Torsocks is a tool to force applications to use Tor.",
+    "homepage": "https://gitweb.torproject.org/torsocks.git",
+    "installation": "pkg install torsocks",
+    "usage": "After installing Torsocks, you can use it to force applications to use Tor.",
+    "features": [
+      "Tor Integration: Forces applications to use Tor.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Torsocks repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tor for support and discussions.",
+      "GitHub": "Search for repositories or forks of Torsocks to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "force_tor": "torsocks application",
+      "uninstall": "pkg uninstall torsocks"
+    }
+  },
+  {
+    "name": "totem-pl-parser",
+    "version": "3.26.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Totem-pl-parser is a playlist parser library for Totem.",
+    "homepage": "https://gitlab.gnome.org/GNOME/totem-pl-parser",
+    "installation": "pkg install totem-pl-parser",
+    "usage": "After installing Totem-pl-parser, you can use it to parse playlists in Totem.",
+    "features": [
+      "Playlist Parsing: Provides a playlist parser library for Totem.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Totem-pl-parser repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Totem for support and discussions.",
+      "GitHub": "Visit the GitLab repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_playlist": "totem-pl-parser playlist.xspf",
+      "uninstall": "pkg uninstall totem-pl-parser"
+    }
+  },
+  {
+    "name": "toxic",
+    "version": "0.16.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Toxic is a Tox-based instant messaging client.",
+    "homepage": "https://github.com/JFreegman/toxic",
+    "installation": "pkg install toxic",
+    "usage": "After installing Toxic, you can use it to communicate via the Tox protocol.",
+    "features": [
+      "Instant Messaging: Provides a Tox-based instant messaging client.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Toxic repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tox for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_toxic": "toxic",
+      "uninstall": "pkg uninstall toxic"
+    }
+  },
+  {
+    "name": "tracepath",
+    "version": "20240905",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tracepath is a network diagnostic tool to trace the path to a remote host.",
+    "homepage": "https://man7.org/linux/man-pages/man8/tracepath.8.html",
+    "installation": "pkg install tracepath",
+    "usage": "After installing Tracepath, you can use it to trace the path to a remote host.",
+    "features": [
+      "Network Diagnostics: Provides tools to trace the path to a remote host.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Tracepath man page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network diagnostics for support and discussions.",
+      "GitHub": "Search for repositories or forks of Tracepath to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "trace_path": "tracepath example.com",
+      "uninstall": "pkg uninstall tracepath"
+    }
+  },
+  {
+    "name": "traceroute",
+    "version": "2.1.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Traceroute is a network diagnostic tool to trace the route packets take to a remote host.",
+    "homepage": "https://man7.org/linux/man-pages/man8/traceroute.8.html",
+    "installation": "pkg install traceroute",
+    "usage": "After installing Traceroute, you can use it to trace the route packets take to a remote host.",
+    "features": [
+      "Network Diagnostics: Provides tools to trace the route packets take to a remote host.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Traceroute man page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network diagnostics for support and discussions.",
+      "GitHub": "Search for repositories or forks of Traceroute to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "trace_route": "traceroute example.com",
+      "uninstall": "pkg uninstall traceroute"
+    }
+  },
+  {
+    "name": "translate-shell",
+    "version": "0.9.7.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Translate-shell is a command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.",
+    "homepage": "https://github.com/soimort/translate-shell",
+    "installation": "pkg install translate-shell",
+    "usage": "After installing Translate-shell, you can use it to translate text from the command line.",
+    "features": [
+      "Command-Line Translation: Provides a command-line translator using various translation services.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Translate-shell repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to translation tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "translate_text": "trans 'Hello, World!'",
+      "uninstall": "pkg uninstall translate-shell"
+    }
+  },
+  {
+    "name": "transmission",
+    "version": "4.0.6-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Transmission is a fast, easy, and free BitTorrent client.",
+    "homepage": "https://transmissionbt.com/",
+    "installation": "pkg install transmission",
+    "usage": "After installing Transmission, you can use it to download and share files via the BitTorrent protocol.",
+    "features": [
+      "BitTorrent Client: Provides a fast, easy, and free BitTorrent client.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Transmission website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to BitTorrent for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_transmission": "transmission-gtk",
+      "uninstall": "pkg uninstall transmission"
+    }
+  },
+  {
+    "name": "tree-sitter-c",
+    "version": "0.23.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-c is a parser for the C programming language using the Tree-sitter parsing library.",
+    "homepage": "https://github.com/tree-sitter/tree-sitter-c",
+    "installation": "pkg install tree-sitter-c",
+    "usage": "After installing Tree-sitter-c, you can use it to parse C code.",
+    "features": [
+      "C Parsing: Provides a parser for the C programming language using Tree-sitter.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-c repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_c_code": "tree-sitter parse file.c",
+      "uninstall": "pkg uninstall tree-sitter-c"
+    }
+  },
+  {
+    "name": "tree-sitter-lua-static",
+    "version": "0.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-lua-static provides a static binary version of the Tree-sitter parser for the Lua programming language.",
+    "homepage": "https://github.com/tjdevries/tree-sitter-lua",
+    "installation": "pkg install tree-sitter-lua-static",
+    "usage": "After installing Tree-sitter-lua-static, you can use it to parse Lua code.",
+    "features": [
+      "Lua Parsing: Provides a static binary version of the Tree-sitter parser for Lua.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-lua repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Lua programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_lua_code": "tree-sitter-lua-static parse file.lua",
+      "uninstall": "pkg uninstall tree-sitter-lua-static"
+    }
+  },
+  {
+    "name": "tree-sitter-lua",
+    "version": "0.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-lua is a parser for the Lua programming language using the Tree-sitter parsing library.",
+    "homepage": "https://github.com/tjdevries/tree-sitter-lua",
+    "installation": "pkg install tree-sitter-lua",
+    "usage": "After installing Tree-sitter-lua, you can use it to parse Lua code.",
+    "features": [
+      "Lua Parsing: Provides a parser for the Lua programming language using Tree-sitter.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-lua repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Lua programming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_lua_code": "tree-sitter-lua parse file.lua",
+      "uninstall": "pkg uninstall tree-sitter-lua"
+    }
+  },
+  {
+    "name": "tree-sitter-markdown-static",
+    "version": "0.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-markdown-static provides a static binary version of the Tree-sitter parser for Markdown.",
+    "homepage": "https://github.com/MichaelMure/tree-sitter-markdown",
+    "installation": "pkg install tree-sitter-markdown-static",
+    "usage": "After installing Tree-sitter-markdown-static, you can use it to parse Markdown.",
+    "features": [
+      "Markdown Parsing: Provides a static binary version of the Tree-sitter parser for Markdown.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-markdown repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Markdown for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_markdown": "tree-sitter-markdown-static parse file.md",
+      "uninstall": "pkg uninstall tree-sitter-markdown-static"
+    }
+  },
+  {
+    "name": "tree-sitter-markdown",
+    "version": "0.3.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-markdown is a parser for Markdown using the Tree-sitter parsing library.",
+    "homepage": "https://github.com/MichaelMure/tree-sitter-markdown",
+    "installation": "pkg install tree-sitter-markdown",
+    "usage": "After installing Tree-sitter-markdown, you can use it to parse Markdown.",
+    "features": [
+      "Markdown Parsing: Provides a parser for Markdown using Tree-sitter.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-markdown repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Markdown for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_markdown": "tree-sitter-markdown parse file.md",
+      "uninstall": "pkg uninstall tree-sitter-markdown"
+    }
+  },
+  {
+    "name": "tree-sitter-parsers",
+    "version": "0.0.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Tree-sitter parsers collection for various languages.",
+    "homepage": "https://github.com/tree-sitter/tree-sitter",
+    "installation": "pkg install tree-sitter-parsers",
+    "usage": "After installing tree-sitter-parsers, you can use the parsers with Tree-sitter.",
+    "features": [
+      "Language Parsers: Provides a collection of Tree-sitter parsers for various languages.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tree-sitter for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_parsers": "Include tree-sitter-parsers in your project to use the language parsers.",
+      "uninstall": "pkg uninstall tree-sitter-parsers"
+    }
+  },
+  {
+    "name": "tree-sitter-query-static",
+    "version": "0.4.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-query-static provides a static binary version of the Tree-sitter query language parser.",
+    "homepage": "https://github.com/tree-sitter/tree-sitter-query",
+    "installation": "pkg install tree-sitter-query-static",
+    "usage": "After installing tree-sitter-query-static, you can use it to parse Tree-sitter queries.",
+    "features": [
+      "Query Parsing: Provides a static binary version of the Tree-sitter query language parser.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-query repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tree-sitter for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_query": "tree-sitter-query-static parse query.scm",
+      "uninstall": "pkg uninstall tree-sitter-query-static"
+    }
+  },
+  {
+    "name": "tree-sitter-query",
+    "version": "0.4.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-query is a parser for the Tree-sitter query language.",
+    "homepage": "https://github.com/tree-sitter/tree-sitter-query",
+    "installation": "pkg install tree-sitter-query",
+    "usage": "After installing tree-sitter-query, you can use it to parse Tree-sitter queries.",
+    "features": [
+      "Query Parsing: Provides a parser for the Tree-sitter query language.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-query repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tree-sitter for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_query": "tree-sitter-query parse query.scm",
+      "uninstall": "pkg uninstall tree-sitter-query"
+    }
+  },
+  {
+    "name": "tree-sitter-static",
+    "version": "0.24.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-static provides a static binary version of the Tree-sitter parsing library.",
+    "homepage": "https://github.com/tree-sitter/tree-sitter",
+    "installation": "pkg install tree-sitter-static",
+    "usage": "After installing tree-sitter-static, you can use it to parse code with Tree-sitter.",
+    "features": [
+      "Code Parsing: Provides a static binary version of the Tree-sitter parsing library.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Tree-sitter for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_code": "tree-sitter-static parse file.c",
+      "uninstall": "pkg uninstall tree-sitter-static"
+    }
+  },
+  {
+    "name": "tree-sitter-vim-static",
+    "version": "0.4.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-vim-static provides a static binary version of the Tree-sitter parser for Vim script.",
+    "homepage": "https://github.com/vim-syntax/tree-sitter-vim",
+    "installation": "pkg install tree-sitter-vim-static",
+    "usage": "After installing tree-sitter-vim-static, you can use it to parse Vim script.",
+    "features": [
+      "Vim Script Parsing: Provides a static binary version of the Tree-sitter parser for Vim script.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-vim repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Vim for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_vim_script": "tree-sitter-vim-static parse file.vim",
+      "uninstall": "pkg uninstall tree-sitter-vim-static"
+    }
+  },
+  {
+    "name": "tree-sitter-vim",
+    "version": "0.4.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-vim is a parser for Vim script using the Tree-sitter parsing library.",
+    "homepage": "https://github.com/vim-syntax/tree-sitter-vim",
+    "installation": "pkg install tree-sitter-vim",
+    "usage": "After installing tree-sitter-vim, you can use it to parse Vim script.",
+    "features": [
+      "Vim Script Parsing: Provides a parser for Vim script using Tree-sitter.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-vim repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Vim for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_vim_script": "tree-sitter-vim parse file.vim",
+      "uninstall": "pkg uninstall tree-sitter-vim"
+    }
+  },
+  {
+    "name": "tree-sitter-vimdoc-static",
+    "version": "3.0.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-vimdoc-static provides a static binary version of the Tree-sitter parser for Vim documentation files.",
+    "homepage": "https://github.com/neovim/tree-sitter-vimdoc",
+    "installation": "pkg install tree-sitter-vimdoc-static",
+    "usage": "After installing tree-sitter-vimdoc-static, you can use it to parse Vim documentation files.",
+    "features": [
+      "Vim Documentation Parsing: Provides a static binary version of the Tree-sitter parser for Vim documentation files.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-vimdoc repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Vim for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_vimdoc": "tree-sitter-vimdoc-static parse file.txt",
+      "uninstall": "pkg uninstall tree-sitter-vimdoc-static"
+    }
+  },
+  {
+    "name": "tree-sitter-vimdoc",
+    "version": "3.0.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter-vimdoc is a parser for Vim documentation files using the Tree-sitter parsing library.",
+    "homepage": "https://github.com/neovim/tree-sitter-vimdoc",
+    "installation": "pkg install tree-sitter-vimdoc",
+    "usage": "After installing tree-sitter-vimdoc, you can use it to parse Vim documentation files.",
+    "features": [
+      "Vim Documentation Parsing: Provides a parser for Vim documentation files using Tree-sitter.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter-vimdoc repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Vim for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_vimdoc": "tree-sitter-vimdoc parse file.txt",
+      "uninstall": "pkg uninstall tree-sitter-vimdoc"
+    }
+  },
+  {
+    "name": "tree-sitter",
+    "version": "0.24.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree-sitter is a parsing library and tool for creating fast, robust parsers.",
+    "homepage": "https://tree-sitter.github.io/tree-sitter/",
+    "installation": "pkg install tree-sitter",
+    "usage": "After installing Tree-sitter, you can use it to create fast, robust parsers.",
+    "features": [
+      "Parsing Library: Provides a parsing library and tool for creating fast, robust parsers.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree-sitter website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to parsing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_parser": "tree-sitter generate",
+      "uninstall": "pkg uninstall tree-sitter"
+    }
+  },
+  {
+    "name": "tree",
+    "version": "2.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tree is a recursive directory listing command that produces a depth-indented listing of files.",
+    "homepage": "http://mama.indstate.edu/users/ice/tree/",
+    "installation": "pkg install tree",
+    "usage": "After installing Tree, you can use it to produce a depth-indented listing of files.",
+    "features": [
+      "Directory Listing: Provides a recursive directory listing command.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tree website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to directory listing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Tree to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "list_directory": "tree",
+      "uninstall": "pkg uninstall tree"
+    }
+  },
+  {
+    "name": "trojan-go",
+    "version": "0.10.6-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Trojan-go is an unidentifiable mechanism that helps you bypass GFW.",
+    "homepage": "https://p4gefau1t.github.io/trojan-go/",
+    "installation": "pkg install trojan-go",
+    "usage": "After installing trojan-go, you can use it to bypass GFW.",
+    "features": [
+      "Bypass GFW: Provides an unidentifiable mechanism to bypass GFW.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Trojan-go website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to bypassing GFW for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_trojan_go": "trojan-go",
+      "uninstall": "pkg uninstall trojan-go"
+    }
+  },
+  {
+    "name": "trurl",
+    "version": "0.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Trurl is a command line tool for URL parsing and manipulation.",
+    "homepage": "https://github.com/curl/trurl",
+    "installation": "pkg install trurl",
+    "usage": "After installing trurl, you can use it to parse and manipulate URLs.",
+    "features": [
+      "URL Parsing: Provides tools for URL parsing and manipulation.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Trurl repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to URL manipulation for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "parse_url": "trurl parse https://example.com",
+      "uninstall": "pkg uninstall trurl"
+    }
+  },
+  {
+    "name": "trzsz-go",
+    "version": "1.1.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Trzsz-go is a simple file transfer tool over SSH.",
+    "homepage": "https://github.com/trzsz/trzsz-go",
+    "installation": "pkg install trzsz-go",
+    "usage": "After installing trzsz-go, you can use it to transfer files over SSH.",
+    "features": [
+      "File Transfer: Provides a simple file transfer tool over SSH.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Trzsz-go repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file transfer for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "transfer_file": "trzsz-go",
+      "uninstall": "pkg uninstall trzsz-go"
+    }
+  },
+  {
+    "name": "trzsz-ssh",
+    "version": "0.1.22",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Trzsz-ssh is a simple file transfer tool over SSH.",
+    "homepage": "https://github.com/trzsz/trzsz-ssh",
+    "installation": "pkg install trzsz-ssh",
+    "usage": "After installing trzsz-ssh, you can use it to transfer files over SSH.",
+    "features": [
+      "File Transfer: Provides a simple file transfer tool over SSH.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Trzsz-ssh repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file transfer for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "transfer_file": "trzsz-ssh",
+      "uninstall": "pkg uninstall trzsz-ssh"
+    }
+  },
+  {
+    "name": "tsduck-java",
+    "version": "3.39.3956",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TSDuck-java is a Java binding for TSDuck, the MPEG transport stream toolkit.",
+    "homepage": "https://tsduck.io/",
+    "installation": "pkg install tsduck-java",
+    "usage": "After installing TSDuck-java, you can use it to work with MPEG transport streams in Java.",
+    "features": [
+      "Java Binding: Provides a Java binding for TSDuck.",
+      "MPEG Transport Stream: Tools for working with MPEG transport streams.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TSDuck website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPEG transport streams for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_tsduck_java": "Include TSDuck-java in your Java project to work with MPEG transport streams.",
+      "uninstall": "pkg uninstall tsduck-java"
+    }
+  },
+  {
+    "name": "tsduck-plugins",
+    "version": "3.39.3956",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TSDuck-plugins provides a collection of plugins for TSDuck, the MPEG transport stream toolkit.",
+    "homepage": "https://tsduck.io/",
+    "installation": "pkg install tsduck-plugins",
+    "usage": "After installing TSDuck-plugins, you can use various plugins with TSDuck.",
+    "features": [
+      "Plugins: Provides a collection of plugins for TSDuck.",
+      "MPEG Transport Stream: Tools for working with MPEG transport streams.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TSDuck website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPEG transport streams for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_tsduck_plugins": "Include TSDuck-plugins in your TSDuck project to enhance functionality.",
+      "uninstall": "pkg uninstall tsduck-plugins"
+    }
+  },
+  {
+    "name": "tsduck-python",
+    "version": "3.39.3956",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TSDuck-python is a Python binding for TSDuck, the MPEG transport stream toolkit.",
+    "homepage": "https://tsduck.io/",
+    "installation": "pkg install tsduck-python",
+    "usage": "After installing TSDuck-python, you can use it to work with MPEG transport streams in Python.",
+    "features": [
+      "Python Binding: Provides a Python binding for TSDuck.",
+      "MPEG Transport Stream: Tools for working with MPEG transport streams.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TSDuck website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPEG transport streams for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_tsduck_python": "Include TSDuck-python in your Python project to work with MPEG transport streams.",
+      "uninstall": "pkg uninstall tsduck-python"
+    }
+  },
+  {
+    "name": "tsduck-tools",
+    "version": "3.39.3956",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TSDuck-tools provides a collection of command-line tools for TSDuck, the MPEG transport stream toolkit.",
+    "homepage": "https://tsduck.io/",
+    "installation": "pkg install tsduck-tools",
+    "usage": "After installing TSDuck-tools, you can use various command-line tools for working with MPEG transport streams.",
+    "features": [
+      "Command-Line Tools: Provides a collection of command-line tools for TSDuck.",
+      "MPEG Transport Stream: Tools for working with MPEG transport streams.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TSDuck website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to MPEG transport streams for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_tsduck_tools": "Use TSDuck-tools to work with MPEG transport streams from the command line.",
+      "uninstall": "pkg uninstall tsduck-tools"
+    }
+  },
+  {
+    "name": "tsmuxer",
+    "version": "2023.01.30",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tsmuxer is a tool for muxing elementary streams into transport streams, program streams, and more.",
+    "homepage": "https://github.com/justdan96/tsMuxer",
+    "installation": "pkg install tsmuxer",
+    "usage": "After installing Tsmuxer, you can use it to mux elementary streams into transport streams, program streams, and more.",
+    "features": [
+      "Muxing: Provides tools for muxing elementary streams into transport streams, program streams, and more.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tsmuxer repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to muxing for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "mux_streams": "tsmuxer input.meta output.ts",
+      "uninstall": "pkg uninstall tsmuxer"
+    }
+  },
+  {
+    "name": "tsocks",
+    "version": "1.8beta5-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tsocks is a transparent SOCKS proxying library.",
+    "homepage": "https://github.com/pc/tsocks",
+    "installation": "pkg install tsocks",
+    "usage": "After installing Tsocks, you can use it to force applications to use a SOCKS proxy.",
+    "features": [
+      "SOCKS Proxy: Provides a transparent SOCKS proxying library.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tsocks repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to SOCKS proxies for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "force_socks": "tsocks application",
+      "uninstall": "pkg uninstall tsocks"
+    }
+  },
+  {
+    "name": "tsu",
+    "version": "8.6.0-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Tsu is a tool to run commands with superuser privileges in Termux.",
+    "homepage": "https://github.com/termux/termux-packages",
+    "installation": "pkg install tsu",
+    "usage": "After installing Tsu, you can use it to run commands with superuser privileges in Termux.",
+    "features": [
+      "Superuser Privileges: Provides a tool to run commands with superuser privileges in Termux.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_as_root": "tsu command",
+      "uninstall": "pkg uninstall tsu"
+    }
+  },
+  {
+    "name": "ttf-dejavu",
+    "version": "2.37-8",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "TTF-DejaVu is a collection of free fonts based on the Bitstream Vera Fonts.",
+    "homepage": "https://dejavu-fonts.github.io/",
+    "installation": "pkg install ttf-dejavu",
+    "usage": "After installing TTF-DejaVu, you can use the fonts in your applications.",
+    "features": [
+      "Free Fonts: Provides a collection of free fonts based on the Bitstream Vera Fonts.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official DejaVu Fonts website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to fonts for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_font": "Include TTF-DejaVu fonts in your applications.",
+      "uninstall": "pkg uninstall ttf-dejavu"
+    }
+  },
+  {
+    "name": "tty-clock",
+    "version": "2.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TTY-Clock is a simple clock for the terminal.",
+    "homepage": "https://github.com/xorg62/tty-clock",
+    "installation": "pkg install tty-clock",
+    "usage": "After installing TTY-Clock, you can use it to display a clock in the terminal.",
+    "features": [
+      "Terminal Clock: Provides a simple clock for the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TTY-Clock repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "display_clock": "tty-clock",
+      "uninstall": "pkg uninstall tty-clock"
+    }
+  },
+  {
+    "name": "tty-solitaire",
+    "version": "1.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TTY-Solitaire is a Solitaire game for the terminal.",
+    "homepage": "https://github.com/mpereira/tty-solitaire",
+    "installation": "pkg install tty-solitaire",
+    "usage": "After installing TTY-Solitaire, you can play Solitaire in the terminal.",
+    "features": [
+      "Solitaire Game: Provides a Solitaire game for the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TTY-Solitaire repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "play_solitaire": "tty-solitaire",
+      "uninstall": "pkg uninstall tty-solitaire"
+    }
+  },
+  {
+    "name": "ttyc",
+    "version": "0.4-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "TTYC is a terminal emulator library.",
+    "homepage": "https://github.com/username/ttyc",
+    "installation": "pkg install ttyc",
+    "usage": "After installing TTYC, you can use it to create terminal emulator applications.",
+    "features": [
+      "Terminal Emulator Library: Provides a terminal emulator library.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official TTYC repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal emulators for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_emulator": "Include TTYC in your project to create terminal emulator applications.",
+      "uninstall": "pkg uninstall ttyc"
+    }
+  },
+  {
+    "name": "ttyd",
+    "version": "1.7.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ttyd is a simple command-line tool for sharing terminal over the web.",
+    "homepage": "https://github.com/tsl0922/ttyd",
+    "installation": "pkg install ttyd",
+    "usage": "After installing Ttyd, you can use it to share your terminal over the web.",
+    "features": [
+      "Terminal Sharing: Provides tools for sharing terminal over the web.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Ttyd repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "share_terminal": "ttyd bash",
+      "uninstall": "pkg uninstall ttyd"
+    }
+  },
+  {
+    "name": "ttyper",
+    "version": "1.6.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ttyper is a terminal typing test application.",
+    "homepage": "https://github.com/max-niederman/ttyper",
+    "installation": "pkg install ttyper",
+    "usage": "After installing Ttyper, you can use it to take typing tests in the terminal.",
+    "features": [
+      "Typing Test: Provides a terminal typing test application.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Ttyper repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to typing tests for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_typing_test": "ttyper",
+      "uninstall": "pkg uninstall ttyper"
+    }
+  },
+  {
+    "name": "ttyplot",
+    "version": "1.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ttyplot is a realtime plotting utility for the terminal.",
+    "homepage": "https://github.com/tenox7/ttyplot",
+    "installation": "pkg install ttyplot",
+    "usage": "After installing Ttyplot, you can use it to plot data in real-time in the terminal.",
+    "features": [
+      "Realtime Plotting: Provides a realtime plotting utility for the terminal.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Ttyplot repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "plot_data": "ttyplot < data.txt",
+      "uninstall": "pkg uninstall ttyplot"
+    }
+  },
+  {
+    "name": "ttyrec",
+    "version": "1.0.8-7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ttyrec is a terminal session recorder.",
+    "homepage": "https://0xcc.net/ttyrec/",
+    "installation": "pkg install ttyrec",
+    "usage": "After installing Ttyrec, you can use it to record and replay terminal sessions.",
+    "features": [
+      "Session Recording: Provides tools for recording and replaying terminal sessions.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Ttyrec website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Search for repositories or forks of Ttyrec to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "record_session": "ttyrec",
+      "replay_session": "ttyplay ttyrecord",
+      "uninstall": "pkg uninstall ttyrec"
+    }
+  },
+  {
+    "name": "tur-repo",
+    "version": "1.0.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Tur-repo is a tool for managing Termux repositories.",
+    "homepage": "https://github.com/termux/termux-packages",
+    "installation": "pkg install tur-repo",
+    "usage": "After installing Tur-repo, you can use it to manage Termux repositories.",
+    "features": [
+      "Repository Management: Provides tools for managing Termux repositories.",
+      "Cross-Platform: Works on various Android devices.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Termux repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Termux for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_repo": "tur-repo",
+      "uninstall": "pkg uninstall tur-repo"
+    }
+  },
+  {
+    "name": "tut",
+    "version": "2.0.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tut is a TUI for Mastodon with vim inspired keys.",
+    "homepage": "https://github.com/RasmusLindroth/tut",
+    "installation": "pkg install tut",
+    "usage": "After installing Tut, you can use it to interact with Mastodon from the terminal.",
+    "features": [
+      "Mastodon Client: Provides a TUI for interacting with Mastodon with vim inspired keys.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tut repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Mastodon for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_tut": "tut",
+      "uninstall": "pkg uninstall tut"
+    }
+  },
+  {
+    "name": "tvheadend-data",
+    "version": "4.2.8-11",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Tvheadend-data provides data files for Tvheadend, a TV streaming server for Linux.",
+    "homepage": "https://tvheadend.org/",
+    "installation": "pkg install tvheadend-data",
+    "usage": "After installing Tvheadend-data, you can use it with Tvheadend to stream TV.",
+    "features": [
+      "Data Files: Provides data files for Tvheadend.",
+      "TV Streaming: Tools for streaming TV on Linux.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tvheadend website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TV streaming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_tvheadend_data": "Include Tvheadend-data in your Tvheadend setup to stream TV.",
+      "uninstall": "pkg uninstall tvheadend-data"
+    }
+  },
+  {
+    "name": "tvheadend",
+    "version": "4.2.8-11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tvheadend is a TV streaming server for Linux.",
+    "homepage": "https://tvheadend.org/",
+    "installation": "pkg install tvheadend",
+    "usage": "After installing Tvheadend, you can use it to stream TV on Linux.",
+    "features": [
+      "TV Streaming: Provides a TV streaming server for Linux.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tvheadend website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TV streaming for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_tvheadend": "tvheadend",
+      "uninstall": "pkg uninstall tvheadend"
+    }
+  },
+  {
+    "name": "tweego",
+    "version": "2.1.1-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Tweego is a compiler for Twine/Twee story formats.",
+    "homepage": "https://www.motoslave.net/tweego/",
+    "installation": "pkg install tweego",
+    "usage": "After installing Tweego, you can use it to compile Twine/Twee story formats.",
+    "features": [
+      "Story Compiler: Provides tools for compiling Twine/Twee story formats.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Tweego website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to interactive fiction for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "compile_story": "tweego -o story.html story.twee",
+      "uninstall": "pkg uninstall tweego"
+    }
+  },
+  {
+    "name": "twolame",
+    "version": "0.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Twolame is an optimized MPEG Audio Layer 2 (MP2) encoder.",
+    "homepage": "https://www.twolame.org/",
+    "installation": "pkg install twolame",
+    "usage": "After installing Twolame, you can use it to encode MP2 audio files.",
+    "features": [
+      "MP2 Encoder: Provides an optimized MPEG Audio Layer 2 (MP2) encoder.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Twolame website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to audio encoding for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_mp2": "twolame input.wav output.mp2",
+      "uninstall": "pkg uninstall twolame"
+    }
+  },
+  {
+    "name": "typst",
+    "version": "0.12.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Typst is a modernized, complete, self-contained typesetting system.",
+    "homepage": "https://typst.app/",
+    "installation": "pkg install typst",
+    "usage": "After installing Typst, you can use it to typeset documents.",
+    "features": [
+      "Typesetting System: Provides a modernized, complete, self-contained typesetting system.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Typst website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to typesetting for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "typeset_document": "typst compile document.typ",
+      "uninstall": "pkg uninstall typst"
+    }
+  },
+  {
+    "name": "typstfmt",
+    "version": "0.2.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Typstfmt is a formatter for Typst source files.",
+    "homepage": "https://github.com/typst/typstfmt",
+    "installation": "pkg install typstfmt",
+    "usage": "After installing Typstfmt, you can use it to format Typst source files.",
+    "features": [
+      "Source Formatter: Provides a formatter for Typst source files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Typstfmt repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to typesetting for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "format_source": "typstfmt format document.typ",
+      "uninstall": "pkg uninstall typstfmt"
+    }
+  }
+]

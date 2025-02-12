@@ -1,0 +1,517 @@
+[
+  {
+    "name": "k2pdfopt",
+    "version": "2.55-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "K2pdfopt optimizes PDF/DJVU files for mobile e-readers (e-ink devices, tablets, and smartphones).",
+    "homepage": "http://www.willus.com/k2pdfopt/",
+    "installation": "pkg install k2pdfopt",
+    "usage": "After installing k2pdfopt, you can use it to optimize PDF/DJVU files for better readability on mobile e-readers.",
+    "features": [
+      "PDF/DJVU Optimization: Provides tools for optimizing PDF/DJVU files for mobile devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for file optimization.",
+      "Integration: Can be integrated into document management and e-reading workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the K2pdfopt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to document optimization and K2pdfopt for support and discussions.",
+      "GitHub": "Visit the K2pdfopt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "optimize_file": "k2pdfopt myfile.pdf",
+      "uninstall": "pkg uninstall k2pdfopt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "k9s",
+    "version": "0.32.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "K9s provides a terminal UI to interact with your Kubernetes clusters.",
+    "homepage": "https://k9scli.io/",
+    "installation": "pkg install k9s",
+    "usage": "After installing k9s, you can use it to manage and interact with your Kubernetes clusters from the terminal.",
+    "features": [
+      "Kubernetes Management: Provides tools for managing and interacting with Kubernetes clusters.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a terminal UI for Kubernetes management tasks.",
+      "Integration: Can be integrated into DevOps and Kubernetes workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the K9s documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Kubernetes and K9s for support and discussions.",
+      "GitHub": "Visit the K9s GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_k9s": "k9s",
+      "uninstall": "pkg uninstall k9s"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kainjow-mustache",
+    "version": "4.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Kainjow Mustache is a C++ implementation of the Mustache templating engine.",
+    "homepage": "https://github.com/kainjow/Mustache",
+    "installation": "pkg install kainjow-mustache",
+    "usage": "After installing kainjow-mustache, you can use it to render Mustache templates in your C++ projects.",
+    "features": [
+      "Templating Engine: Provides tools for rendering Mustache templates in C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for template rendering.",
+      "Integration: Can be integrated into C++ development workflows requiring templating.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kainjow Mustache documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to templating and Kainjow Mustache for support and discussions.",
+      "GitHub": "Visit the Kainjow Mustache GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mustache": "Not applicable",
+      "uninstall": "pkg uninstall kainjow-mustache"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kakoune-lsp",
+    "version": "18.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Kakoune-lsp is a Language Server Protocol (LSP) client for the Kakoune editor.",
+    "homepage": "https://github.com/kak-lsp/kak-lsp",
+    "installation": "pkg install kakoune-lsp",
+    "usage": "After installing kakoune-lsp, you can use it to add LSP support to your Kakoune editor.",
+    "features": [
+      "LSP Support: Provides tools for adding LSP support to the Kakoune editor.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for enhancing Kakoune with LSP features.",
+      "Integration: Can be integrated into development workflows using Kakoune.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kakoune-lsp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Kakoune and LSP support for discussions and assistance.",
+      "GitHub": "Visit the Kakoune-lsp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_lsp": "kak-lsp --start",
+      "uninstall": "pkg uninstall kakoune-lsp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kakoune",
+    "version": "2024.05.18",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Kakoune is a modal text editor inspired by Vim.",
+    "homepage": "https://kakoune.org/",
+    "installation": "pkg install kakoune",
+    "usage": "After installing kakoune, you can use it to edit text files with modal editing features.",
+    "features": [
+      "Text Editing: Provides tools for modal text editing inspired by Vim.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for text editing.",
+      "Integration: Can be integrated into development and scripting workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kakoune documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editing and Kakoune for support and discussions.",
+      "GitHub": "Visit the Kakoune GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_file": "kak myfile.txt",
+      "uninstall": "pkg uninstall kakoune"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kbd",
+    "version": "2.6.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Kbd includes utilities for managing the Linux keyboard and console.",
+    "homepage": "https://mirrors.edge.kernel.org/pub/linux/utils/kbd/",
+    "installation": "pkg install kbd",
+    "usage": "After installing kbd, you can use it to manage keyboard layouts and console settings on Linux.",
+    "features": [
+      "Keyboard Management: Provides tools for managing keyboard layouts and console settings.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for keyboard and console management.",
+      "Integration: Can be integrated into system administration and configuration workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kbd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to keyboard and console management for support and discussions.",
+      "GitHub": "Visit the Kbd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "set_keyboard_layout": "loadkeys us",
+      "uninstall": "pkg uninstall kbd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kcptun",
+    "version": "20241227",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "KCPTun is a simple and fast tunnel based on KCP protocol.",
+    "homepage": "https://github.com/xtaci/kcptun",
+    "installation": "pkg install kcptun",
+    "usage": "After installing kcptun, you can use it to create fast and reliable network tunnels.",
+    "features": [
+      "Network Tunneling: Provides tools for creating fast and reliable network tunnels using KCP protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for tunnel creation and management.",
+      "Integration: Can be integrated into networking and security workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the KCPTun documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to networking and KCPTun for support and discussions.",
+      "GitHub": "Visit the KCPTun GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_tunnel": "kcptun --config config.json",
+      "uninstall": "pkg uninstall kcptun"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "keybase",
+    "version": "6.4.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Keybase is a secure messaging and file-sharing platform.",
+    "homepage": "https://keybase.io/",
+    "installation": "pkg install keybase",
+    "usage": "After installing keybase, you can use it to securely communicate and share files.",
+    "features": [
+      "Secure Messaging: Provides tools for secure messaging and file sharing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for secure communication tasks.",
+      "Integration: Can be integrated into workflows requiring secure communication and file sharing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Keybase documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to secure communication and Keybase for support and discussions.",
+      "GitHub": "Visit the Keybase GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_keybase": "keybase service",
+      "uninstall": "pkg uninstall keybase"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "keychain",
+    "version": "2.8.5-2",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Keychain helps manage SSH and GPG keys in a convenient and secure way.",
+    "homepage": "https://www.funtoo.org/Keychain",
+    "installation": "pkg install keychain",
+    "usage": "After installing keychain, you can use it to manage your SSH and GPG keys securely.",
+    "features": [
+      "Key Management: Provides tools for managing SSH and GPG keys.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for key management.",
+      "Integration: Can be integrated into security workflows requiring key management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Keychain documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to key management and Keychain for support and discussions.",
+      "GitHub": "Visit the Keychain GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_keychain": "keychain id_rsa",
+      "uninstall": "pkg uninstall keychain"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kibi",
+    "version": "0.2.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Kibi is a text editor with a focus on minimalism.",
+    "homepage": "https://github.com/ilai-deutel/kibi",
+    "installation": "pkg install kibi",
+    "usage": "After installing kibi, you can use it to edit text files with a minimalist interface.",
+    "features": [
+      "Text Editing: Provides tools for editing text files with a minimalist interface.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for text editing.",
+      "Integration: Can be integrated into lightweight text editing workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kibi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text editing and Kibi for support and discussions.",
+      "GitHub": "Visit the Kibi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "edit_file": "kibi myfile.txt",
+      "uninstall": "pkg uninstall kibi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kiwix-tools",
+    "version": "3.7.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Kiwix-tools is a suite of tools to serve Kiwix offline content.",
+    "homepage": "https://www.kiwix.org/",
+    "installation": "pkg install kiwix-tools",
+    "usage": "After installing kiwix-tools, you can use it to serve and manage Kiwix offline content.",
+    "features": [
+      "Offline Content Serving: Provides tools for serving Kiwix offline content.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers command-line interfaces for serving and managing offline content.",
+      "Integration: Can be integrated into content distribution and offline access workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kiwix-tools documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to offline content and Kiwix for support and discussions.",
+      "GitHub": "Visit the Kiwix GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "serve_content": "kiwix-serve --library mylibrary.xml",
+      "uninstall": "pkg uninstall kiwix-tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "knockd",
+    "version": "0.8-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Knockd is a port-knocking server.",
+    "homepage": "http://www.zeroflux.org/projects/knock",
+    "installation": "pkg install knockd",
+    "usage": "After installing knockd, you can use it to set up port-knocking sequences to secure your server.",
+    "features": [
+      "Port-Knocking: Provides tools for setting up port-knocking sequences.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers command-line interfaces for managing port-knocking.",
+      "Integration: Can be integrated into server security and access control workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Knockd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to server security and Knockd for support and discussions.",
+      "GitHub": "Visit the Knockd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_knockd": "knockd -c /etc/knockd.conf",
+      "uninstall": "pkg uninstall knockd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "knot-utils",
+    "version": "3.2.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Knot-utils is a collection of utilities for managing Knot DNS server.",
+    "homepage": "https://www.knot-dns.cz/",
+    "installation": "pkg install knot-utils",
+    "usage": "After installing knot-utils, you can use it to manage and configure Knot DNS servers.",
+    "features": [
+      "DNS Management: Provides tools for managing and configuring Knot DNS servers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers command-line interfaces for DNS management.",
+      "Integration: Can be integrated into DNS administration and management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Knot-utils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS management and Knot-utils for support and discussions.",
+      "GitHub": "Visit the Knot-utils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_knot": "knotc start",
+      "uninstall": "pkg uninstall knot-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kona",
+    "version": "20211225",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Kona is an open-source implementation of the K programming language.",
+    "homepage": "https://github.com/kevinlawler/kona",
+    "installation": "pkg install kona",
+    "usage": "After installing kona, you can use it to write and run programs in the K programming language.",
+    "features": [
+      "Programming Language: Provides tools for writing and running programs in the K programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface and REPL for K programming.",
+      "Integration: Can be integrated into programming and development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kona documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to programming languages and Kona for support and discussions.",
+      "GitHub": "Visit the Kona GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_repl": "kona",
+      "run_script": "kona myscript.k",
+      "uninstall": "pkg uninstall kona"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kotlin",
+    "version": "2.1.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Kotlin is a modern programming language that makes developers happier.",
+    "homepage": "https://kotlinlang.org/",
+    "installation": "pkg install kotlin",
+    "usage": "After installing kotlin, you can use it to write and run programs in the Kotlin programming language.",
+    "features": [
+      "Programming Language: Provides tools for writing and running programs in the Kotlin programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface and IDE support for Kotlin programming.",
+      "Integration: Can be integrated into programming and development workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kotlin documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to programming languages and Kotlin for support and discussions.",
+      "GitHub": "Visit the Kotlin GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_repl": "kotlinc",
+      "run_script": "kotlinc myscript.kt -include-runtime -d myscript.jar",
+      "uninstall": "pkg uninstall kotlin"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "krb5",
+    "version": "1.21.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Krb5 is a free implementation of the Kerberos network authentication protocol.",
+    "homepage": "https://web.mit.edu/kerberos/",
+    "installation": "pkg install krb5",
+    "usage": "After installing krb5, you can use it to manage Kerberos network authentication.",
+    "features": [
+      "Network Authentication: Provides tools for managing Kerberos network authentication.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers command-line interfaces for Kerberos administration.",
+      "Integration: Can be integrated into network security and authentication workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Krb5 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network security and Krb5 for support and discussions.",
+      "GitHub": "Visit the Krb5 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "initialize_realm": "kadmin.local",
+      "uninstall": "pkg uninstall krb5"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kubecolor",
+    "version": "0.5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Kubecolor adds color and formatting to kubectl output.",
+    "homepage": "https://github.com/hidetatz/kubecolor",
+    "installation": "pkg install kubecolor",
+    "usage": "After installing kubecolor, you can use it to enhance the readability of kubectl output with colors.",
+    "features": [
+      "Output Formatting: Provides tools for adding color and formatting to kubectl output.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for enhanced kubectl output.",
+      "Integration: Can be integrated into Kubernetes management workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kubecolor documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Kubernetes and Kubecolor for support and discussions.",
+      "GitHub": "Visit the Kubecolor GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_kubecolor": "kubecolor get pods",
+      "uninstall": "pkg uninstall kubecolor"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kubectl",
+    "version": "1.32.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Kubectl is a command-line tool for interacting with Kubernetes clusters.",
+    "homepage": "https://kubernetes.io/docs/reference/kubectl/",
+    "installation": "pkg install kubectl",
+    "usage": "After installing kubectl, you can use it to manage and interact with your Kubernetes clusters.",
+    "features": [
+      "Kubernetes Management: Provides tools for managing and interacting with Kubernetes clusters.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for Kubernetes management tasks.",
+      "Integration: Can be integrated into DevOps and Kubernetes workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kubectl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Kubernetes and Kubectl for support and discussions.",
+      "GitHub": "Visit the Kubectl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "get_pods": "kubectl get pods",
+      "uninstall": "pkg uninstall kubectl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "kubelogin",
+    "version": "1.32.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Kubelogin is a tool for Kubernetes authentication using OIDC.",
+    "homepage": "https://github.com/int128/kubelogin",
+    "installation": "pkg install kubelogin",
+    "usage": "After installing kubelogin, you can use it to authenticate to Kubernetes clusters using OIDC.",
+    "features": [
+      "OIDC Authentication: Provides tools for authenticating to Kubernetes clusters using OIDC.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers a command-line interface for Kubernetes authentication.",
+      "Integration: Can be integrated into Kubernetes and security workflows.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Kubelogin documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Kubernetes and Kubelogin for support and discussions.",
+      "GitHub": "Visit the Kubelogin GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "authenticate": "kubelogin --kubeconfig ~/.kube/config",
+      "uninstall": "pkg uninstall kubelogin"
+    },
+    "isFavorite": false
+  }
+]

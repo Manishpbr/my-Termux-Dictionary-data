@@ -1,0 +1,1391 @@
+[
+  {
+    "name": "libcoap-static",
+    "version": "4.3.5-rc3-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcoap is a C implementation of the Constrained Application Protocol (CoAP). This is the statically linked version.",
+    "homepage": "https://libcoap.net/",
+    "installation": "pkg install libcoap-static",
+    "usage": "After installing libcoap-static, you can use it to implement the Constrained Application Protocol (CoAP) in your applications.",
+    "features": [
+      "CoAP Implementation: Provides tools for implementing the Constrained Application Protocol (CoAP).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for CoAP tasks.",
+      "Integration: Can be integrated into applications requiring CoAP support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcoap documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CoAP and Libcoap for support and discussions.",
+      "GitHub": "Visit the Libcoap GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcoap": "Not applicable",
+      "uninstall": "pkg uninstall libcoap-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcoap",
+    "version": "4.3.5-rc3-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcoap is a C implementation of the Constrained Application Protocol (CoAP).",
+    "homepage": "https://libcoap.net/",
+    "installation": "pkg install libcoap",
+    "usage": "After installing libcoap, you can use it to implement the Constrained Application Protocol (CoAP) in your applications.",
+    "features": [
+      "CoAP Implementation: Provides tools for implementing the Constrained Application Protocol (CoAP).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for CoAP tasks.",
+      "Integration: Can be integrated into applications requiring CoAP support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcoap documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CoAP and Libcoap for support and discussions.",
+      "GitHub": "Visit the Libcoap GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcoap": "Not applicable",
+      "uninstall": "pkg uninstall libcoap"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcoinor-cgl-static",
+    "version": "0.60.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcoinor-cgl is a library for cutting plane generation. This is the statically linked version.",
+    "homepage": "https://github.com/coin-or/Cgl",
+    "installation": "pkg install libcoinor-cgl-static",
+    "usage": "After installing libcoinor-cgl-static, you can use it to generate cutting planes in your optimization problems.",
+    "features": [
+      "Cutting Plane Generation: Provides tools for generating cutting planes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for cutting plane tasks.",
+      "Integration: Can be integrated into applications requiring cutting plane generation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Cgl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optimization and Cgl for support and discussions.",
+      "GitHub": "Visit the Cgl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_cgl": "Not applicable",
+      "uninstall": "pkg uninstall libcoinor-cgl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcoinor-cgl",
+    "version": "0.60.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcoinor-cgl is a library for cutting plane generation.",
+    "homepage": "https://github.com/coin-or/Cgl",
+    "installation": "pkg install libcoinor-cgl",
+    "usage": "After installing libcoinor-cgl, you can use it to generate cutting planes in your optimization problems.",
+    "features": [
+      "Cutting Plane Generation: Provides tools for generating cutting planes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for cutting plane tasks.",
+      "Integration: Can be integrated into applications requiring cutting plane generation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Cgl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optimization and Cgl for support and discussions.",
+      "GitHub": "Visit the Cgl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_cgl": "Not applicable",
+      "uninstall": "pkg uninstall libcoinor-cgl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcoinor-osi",
+    "version": "0.108.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcoinor-osi is an abstraction layer for calling various solvers.",
+    "homepage": "https://github.com/coin-or/Osi",
+    "installation": "pkg install libcoinor-osi",
+    "usage": "After installing libcoinor-osi, you can use it to call various solvers in your optimization problems.",
+    "features": [
+      "Solver Abstraction: Provides an abstraction layer for calling various solvers.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for solver tasks.",
+      "Integration: Can be integrated into applications requiring solver abstraction.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Osi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optimization and Osi for support and discussions.",
+      "GitHub": "Visit the Osi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_osi": "Not applicable",
+      "uninstall": "pkg uninstall libcoinor-osi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcoinor-utils",
+    "version": "2.11.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcoinor-utils provides utility functions for optimization.",
+    "homepage": "https://github.com/coin-or/CoinUtils",
+    "installation": "pkg install libcoinor-utils",
+    "usage": "After installing libcoinor-utils, you can use it to perform utility functions in your optimization problems.",
+    "features": [
+      "Optimization Utilities: Provides utility functions for optimization.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for utility tasks.",
+      "Integration: Can be integrated into applications requiring optimization utilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the CoinUtils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to optimization and CoinUtils for support and discussions.",
+      "GitHub": "Visit the CoinUtils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_coinutils": "Not applicable",
+      "uninstall": "pkg uninstall libcoinor-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcommons-lang3-java",
+    "version": "3.17.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Apache Commons Lang provides a host of helper utilities for the java.lang API.",
+    "homepage": "https://commons.apache.org/proper/commons-lang/",
+    "installation": "pkg install libcommons-lang3-java",
+    "usage": "After installing libcommons-lang3-java, you can use it to simplify common tasks in your Java applications.",
+    "features": [
+      "Helper Utilities: Provides a host of helper utilities for the java.lang API.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for common tasks.",
+      "Integration: Can be integrated into Java applications requiring helper utilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Apache Commons Lang documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Java development and Apache Commons Lang for support and discussions.",
+      "GitHub": "Visit the Apache Commons Lang GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_commons_lang3": "Not applicable",
+      "uninstall": "pkg uninstall libcommons-lang3-java"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcompiler-rt",
+    "version": "19.1.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcompiler-rt provides low-level target-specific routines used by the compiler.",
+    "homepage": "https://compiler-rt.llvm.org/",
+    "installation": "pkg install libcompiler-rt",
+    "usage": "After installing libcompiler-rt, you can use it to provide low-level routines for your compiler.",
+    "features": [
+      "Compiler Routines: Provides low-level target-specific routines used by the compiler.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for low-level routine tasks.",
+      "Integration: Can be integrated into applications requiring compiler routines.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Compiler-rt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compiler development and Compiler-rt for support and discussions.",
+      "GitHub": "Visit the Compiler-rt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_compiler_rt": "Not applicable",
+      "uninstall": "pkg uninstall libcompiler-rt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libconfig-static",
+    "version": "1.7.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libconfig is a library for processing structured configuration files. This is the statically linked version.",
+    "homepage": "https://hyperrealm.github.io/libconfig/",
+    "installation": "pkg install libconfig-static",
+    "usage": "After installing libconfig-static, you can use it to process structured configuration files in your applications.",
+    "features": [
+      "Configuration Files: Provides tools for processing structured configuration files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for configuration tasks.",
+      "Integration: Can be integrated into applications requiring configuration file processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libconfig documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to configuration management and Libconfig for support and discussions.",
+      "GitHub": "Visit the Libconfig GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libconfig": "Not applicable",
+      "uninstall": "pkg uninstall libconfig-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libconfig",
+    "version": "1.7.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libconfig is a library for processing structured configuration files.",
+    "homepage": "https://hyperrealm.github.io/libconfig/",
+    "installation": "pkg install libconfig",
+    "usage": "After installing libconfig, you can use it to process structured configuration files in your applications.",
+    "features": [
+      "Configuration Files: Provides tools for processing structured configuration files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for configuration tasks.",
+      "Integration: Can be integrated into applications requiring configuration file processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libconfig documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to configuration management and Libconfig for support and discussions.",
+      "GitHub": "Visit the Libconfig GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libconfig": "Not applicable",
+      "uninstall": "pkg uninstall libconfig"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libconfuse-static",
+    "version": "3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libconfuse is a configuration file parser library. This is the statically linked version.",
+    "homepage": "https://github.com/martinh/libconfuse",
+    "installation": "pkg install libconfuse-static",
+    "usage": "After installing libconfuse-static, you can use it to parse configuration files in your applications.",
+    "features": [
+      "Configuration Parsing: Provides tools for parsing configuration files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for configuration parsing tasks.",
+      "Integration: Can be integrated into applications requiring configuration parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libconfuse documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to configuration management and Libconfuse for support and discussions.",
+      "GitHub": "Visit the Libconfuse GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libconfuse": "Not applicable",
+      "uninstall": "pkg uninstall libconfuse-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libconfuse",
+    "version": "3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libconfuse is a configuration file parser library.",
+    "homepage": "https://github.com/martinh/libconfuse",
+    "installation": "pkg install libconfuse",
+    "usage": "After installing libconfuse, you can use it to parse configuration files in your applications.",
+    "features": [
+      "Configuration Parsing: Provides tools for parsing configuration files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for configuration parsing tasks.",
+      "Integration: Can be integrated into applications requiring configuration parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libconfuse documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to configuration management and Libconfuse for support and discussions.",
+      "GitHub": "Visit the Libconfuse GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libconfuse": "Not applicable",
+      "uninstall": "pkg uninstall libconfuse"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcpufeatures",
+    "version": "0.9.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcpufeatures is a library for detecting CPU features.",
+    "homepage": "https://github.com/google/cpu_features",
+    "installation": "pkg install libcpufeatures",
+    "usage": "After installing libcpufeatures, you can use it to detect CPU features in your applications.",
+    "features": [
+      "CPU Feature Detection: Provides tools for detecting CPU features.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for CPU feature detection tasks.",
+      "Integration: Can be integrated into applications requiring CPU feature detection.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcpufeatures documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CPU features and Libcpufeatures for support and discussions.",
+      "GitHub": "Visit the Libcpufeatures GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcpufeatures": "Not applicable",
+      "uninstall": "pkg uninstall libcpufeatures"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcroco-static",
+    "version": "0.6.13-8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcroco is a library for parsing and manipulating CSS. This is the statically linked version.",
+    "homepage": "https://developer.gnome.org/libcroco/",
+    "installation": "pkg install libcroco-static",
+    "usage": "After installing libcroco-static, you can use it to parse and manipulate CSS in your applications.",
+    "features": [
+      "CSS Parsing: Provides tools for parsing and manipulating CSS.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for CSS tasks.",
+      "Integration: Can be integrated into applications requiring CSS parsing and manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcroco documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CSS and Libcroco for support and discussions.",
+      "GitHub": "Visit the Libcroco GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcroco": "Not applicable",
+      "uninstall": "pkg uninstall libcroco-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcroco",
+    "version": "0.6.13-8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcroco is a library for parsing and manipulating CSS.",
+    "homepage": "https://developer.gnome.org/libcroco/",
+    "installation": "pkg install libcroco",
+    "usage": "After installing libcroco, you can use it to parse and manipulate CSS in your applications.",
+    "features": [
+      "CSS Parsing: Provides tools for parsing and manipulating CSS.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for CSS tasks.",
+      "Integration: Can be integrated into applications requiring CSS parsing and manipulation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcroco documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CSS and Libcroco for support and discussions.",
+      "GitHub": "Visit the Libcroco GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcroco": "Not applicable",
+      "uninstall": "pkg uninstall libcroco"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcrypt",
+    "version": "0.2-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcrypt is a library that provides cryptographic functions.",
+    "homepage": "https://www.gnu.org/software/libc/",
+    "installation": "pkg install libcrypt",
+    "usage": "After installing libcrypt, you can use it to perform cryptographic functions in your applications.",
+    "features": [
+      "Cryptographic Functions: Provides tools for performing cryptographic functions.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for cryptographic tasks.",
+      "Integration: Can be integrated into applications requiring cryptographic functions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcrypt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libcrypt for support and discussions.",
+      "GitHub": "Visit the Libcrypt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcrypt": "Not applicable",
+      "uninstall": "pkg uninstall libcrypt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcue",
+    "version": "2.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcue is a library for parsing and working with CUE sheet files.",
+    "homepage": "https://github.com/lipnitsk/libcue",
+    "installation": "pkg install libcue",
+    "usage": "After installing libcue, you can use it to parse and work with CUE sheet files in your applications.",
+    "features": [
+      "CUE Sheet Parsing: Provides tools for parsing and working with CUE sheet files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for CUE sheet tasks.",
+      "Integration: Can be integrated into applications requiring CUE sheet parsing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcue documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to CUE sheet files and Libcue for support and discussions.",
+      "GitHub": "Visit the Libcue GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcue": "Not applicable",
+      "uninstall": "pkg uninstall libcue"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcunit-static",
+    "version": "2.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcunit is a unit testing framework for C. This is the statically linked version.",
+    "homepage": "http://cunit.sourceforge.net/",
+    "installation": "pkg install libcunit-static",
+    "usage": "After installing libcunit-static, you can use it to perform unit testing in your C applications.",
+    "features": [
+      "Unit Testing: Provides tools for performing unit testing in C.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for unit testing tasks.",
+      "Integration: Can be integrated into applications requiring unit testing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the CUnit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to unit testing and CUnit for support and discussions.",
+      "GitHub": "Visit the CUnit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_cunit": "Not applicable",
+      "uninstall": "pkg uninstall libcunit-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcunit",
+    "version": "2.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcunit is a unit testing framework for C.",
+    "homepage": "http://cunit.sourceforge.net/",
+    "installation": "pkg install libcunit",
+    "usage": "After installing libcunit, you can use it to perform unit testing in your C applications.",
+    "features": [
+      "Unit Testing: Provides tools for performing unit testing in C.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for unit testing tasks.",
+      "Integration: Can be integrated into applications requiring unit testing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the CUnit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to unit testing and CUnit for support and discussions.",
+      "GitHub": "Visit the CUnit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_cunit": "Not applicable",
+      "uninstall": "pkg uninstall libcunit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcurl-static",
+    "version": "8.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcurl is a library for transferring data with URLs. This is the statically linked version.",
+    "homepage": "https://curl.se/libcurl/",
+    "installation": "pkg install libcurl-static",
+    "usage": "After installing libcurl-static, you can use it to perform data transfers in your applications.",
+    "features": [
+      "Data Transfer: Provides tools for transferring data with URLs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for data transfer tasks.",
+      "Integration: Can be integrated into applications requiring data transfer.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcurl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data transfer and Libcurl for support and discussions.",
+      "GitHub": "Visit the Libcurl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcurl": "Not applicable",
+      "uninstall": "pkg uninstall libcurl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libcurl",
+    "version": "8.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libcurl is a library for transferring data with URLs.",
+    "homepage": "https://curl.se/libcurl/",
+    "installation": "pkg install libcurl",
+    "usage": "After installing libcurl, you can use it to perform data transfers in your applications.",
+    "features": [
+      "Data Transfer: Provides tools for transferring data with URLs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for data transfer tasks.",
+      "Integration: Can be integrated into applications requiring data transfer.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libcurl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data transfer and Libcurl for support and discussions.",
+      "GitHub": "Visit the Libcurl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libcurl": "Not applicable",
+      "uninstall": "pkg uninstall libcurl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libczmq-static",
+    "version": "4.2.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libczmq is a high-level C binding for ØMQ (ZeroMQ). This is the statically linked version.",
+    "homepage": "https://zeromq.org/",
+    "installation": "pkg install libczmq-static",
+    "usage": "After installing libczmq-static, you can use it to implement high-level messaging in your applications.",
+    "features": [
+      "High-Level Messaging: Provides tools for implementing high-level messaging with ZeroMQ.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for messaging tasks.",
+      "Integration: Can be integrated into applications requiring messaging capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libczmq documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to messaging and ZeroMQ for support and discussions.",
+      "GitHub": "Visit the Libczmq GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libczmq": "Not applicable",
+      "uninstall": "pkg uninstall libczmq-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libczmq",
+    "version": "4.2.1-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libczmq is a high-level C binding for ØMQ (ZeroMQ).",
+    "homepage": "https://zeromq.org/",
+    "installation": "pkg install libczmq",
+    "usage": "After installing libczmq, you can use it to implement high-level messaging in your applications.",
+    "features": [
+      "High-Level Messaging: Provides tools for implementing high-level messaging with ZeroMQ.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for messaging tasks.",
+      "Integration: Can be integrated into applications requiring messaging capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libczmq documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to messaging and ZeroMQ for support and discussions.",
+      "GitHub": "Visit the Libczmq GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libczmq": "Not applicable",
+      "uninstall": "pkg uninstall libczmq"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdaemon-static",
+    "version": "0.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdaemon is a lightweight C library that eases the writing of UNIX daemons. This is the statically linked version.",
+    "homepage": "http://0pointer.de/lennart/projects/libdaemon/",
+    "installation": "pkg install libdaemon-static",
+    "usage": "After installing libdaemon-static, you can use it to write UNIX daemons in your applications.",
+    "features": [
+      "UNIX Daemons: Provides tools for writing UNIX daemons.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for daemon tasks.",
+      "Integration: Can be integrated into applications requiring daemon functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdaemon documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to daemon development and Libdaemon for support and discussions.",
+      "GitHub": "Visit the Libdaemon GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdaemon": "Not applicable",
+      "uninstall": "pkg uninstall libdaemon-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdaemon",
+    "version": "0.14",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdaemon is a lightweight C library that eases the writing of UNIX daemons.",
+    "homepage": "http://0pointer.de/lennart/projects/libdaemon/",
+    "installation": "pkg install libdaemon",
+    "usage": "After installing libdaemon, you can use it to write UNIX daemons in your applications.",
+    "features": [
+      "UNIX Daemons: Provides tools for writing UNIX daemons.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for daemon tasks.",
+      "Integration: Can be integrated into applications requiring daemon functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdaemon documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to daemon development and Libdaemon for support and discussions.",
+      "GitHub": "Visit the Libdaemon GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdaemon": "Not applicable",
+      "uninstall": "pkg uninstall libdaemon"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdart",
+    "version": "6.15.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdart is a collaborative framework for developing and analyzing dynamic robotic systems.",
+    "homepage": "https://dartsim.github.io/",
+    "installation": "pkg install libdart",
+    "usage": "After installing libdart, you can use it to develop and analyze dynamic robotic systems in your applications.",
+    "features": [
+      "Robotic Systems: Provides tools for developing and analyzing dynamic robotic systems.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for robotic system tasks.",
+      "Integration: Can be integrated into applications requiring robotic system development and analysis.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the DART documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to robotic systems and DART for support and discussions.",
+      "GitHub": "Visit the DART GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_dart": "Not applicable",
+      "uninstall": "pkg uninstall libdart"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdav1d",
+    "version": "1.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdav1d is a fast and small AV1 decoder.",
+    "homepage": "https://code.videolan.org/videolan/dav1d",
+    "installation": "pkg install libdav1d",
+    "usage": "After installing libdav1d, you can use it to decode AV1 video streams in your applications.",
+    "features": [
+      "AV1 Decoding: Provides tools for decoding AV1 video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for decoding tasks.",
+      "Integration: Can be integrated into applications requiring AV1 decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdav1d documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video decoding and Libdav1d for support and discussions.",
+      "GitHub": "Visit the Libdav1d GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdav1d": "Not applicable",
+      "uninstall": "pkg uninstall libdav1d"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdb-static",
+    "version": "18.1.40-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdb is a library that provides a high-performance database engine. This is the statically linked version.",
+    "homepage": "https://www.oracle.com/database/berkeley-db/",
+    "installation": "pkg install libdb-static",
+    "usage": "After installing libdb-static, you can use it to manage high-performance databases in your applications.",
+    "features": [
+      "Database Engine: Provides tools for managing high-performance databases.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring high-performance database management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Berkeley DB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database management and Berkeley DB for support and discussions.",
+      "GitHub": "Visit the Berkeley DB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdb": "Not applicable",
+      "uninstall": "pkg uninstall libdb-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdb",
+    "version": "18.1.40-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdb is a library that provides a high-performance database engine.",
+    "homepage": "https://www.oracle.com/database/berkeley-db/",
+    "installation": "pkg install libdb",
+    "usage": "After installing libdb, you can use it to manage high-performance databases in your applications.",
+    "features": [
+      "Database Engine: Provides tools for managing high-performance databases.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring high-performance database management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Berkeley DB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database management and Berkeley DB for support and discussions.",
+      "GitHub": "Visit the Berkeley DB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdb": "Not applicable",
+      "uninstall": "pkg uninstall libdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libde265-static",
+    "version": "1.0.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libde265 is an open-source implementation of the H.265 video codec. This is the statically linked version.",
+    "homepage": "https://github.com/strukturag/libde265",
+    "installation": "pkg install libde265-static",
+    "usage": "After installing libde265-static, you can use it to encode and decode H.265 video streams in your applications.",
+    "features": [
+      "H.265 Codec: Provides tools for encoding and decoding H.265 video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for codec tasks.",
+      "Integration: Can be integrated into applications requiring H.265 codec support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libde265 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video codecs and Libde265 for support and discussions.",
+      "GitHub": "Visit the Libde265 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_video": "libde265 --encode input.y4m output.h265",
+      "decode_video": "libde265 --decode input.h265 output.y4m",
+      "uninstall": "pkg uninstall libde265-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libde265",
+    "version": "1.0.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libde265 is an open-source implementation of the H.265 video codec.",
+    "homepage": "https://github.com/strukturag/libde265",
+    "installation": "pkg install libde265",
+    "usage": "After installing libde265, you can use it to encode and decode H.265 video streams in your applications.",
+    "features": [
+      "H.265 Codec: Provides tools for encoding and decoding H.265 video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for codec tasks.",
+      "Integration: Can be integrated into applications requiring H.265 codec support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libde265 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video codecs and Libde265 for support and discussions.",
+      "GitHub": "Visit the Libde265 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "encode_video": "libde265 --encode input.y4m output.h265",
+      "decode_video": "libde265 --decode input.h265 output.y4m",
+      "uninstall": "pkg uninstall libde265"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdebuginfod",
+    "version": "0.192",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdebuginfod is a library for accessing debugging information.",
+    "homepage": "https://sourceware.org/elfutils/Debuginfod.html",
+    "installation": "pkg install libdebuginfod",
+    "usage": "After installing libdebuginfod, you can use it to access debugging information in your applications.",
+    "features": [
+      "Debugging Information: Provides tools for accessing debugging information.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for debugging tasks.",
+      "Integration: Can be integrated into applications requiring debugging information.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdebuginfod documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to debugging and Libdebuginfod for support and discussions.",
+      "GitHub": "Visit the Libdebuginfod GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdebuginfod": "Not applicable",
+      "uninstall": "pkg uninstall libdebuginfod"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdeflate-static",
+    "version": "1.23",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdeflate is a library for fast, whole-buffer DEFLATE-based compression and decompression. This is the statically linked version.",
+    "homepage": "https://github.com/ebiggers/libdeflate",
+    "installation": "pkg install libdeflate-static",
+    "usage": "After installing libdeflate-static, you can use it to perform fast compression and decompression in your applications.",
+    "features": [
+      "DEFLATE Compression: Provides tools for fast, whole-buffer DEFLATE-based compression and decompression.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring DEFLATE compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdeflate documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression and Libdeflate for support and discussions.",
+      "GitHub": "Visit the Libdeflate GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compress_data": "libdeflate -c input.txt output.deflate",
+      "decompress_data": "libdeflate -d input.deflate output.txt",
+      "uninstall": "pkg uninstall libdeflate-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdeflate",
+    "version": "1.23",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdeflate is a library for fast, whole-buffer DEFLATE-based compression and decompression.",
+    "homepage": "https://github.com/ebiggers/libdeflate",
+    "installation": "pkg install libdeflate",
+    "usage": "After installing libdeflate, you can use it to perform fast compression and decompression in your applications.",
+    "features": [
+      "DEFLATE Compression: Provides tools for fast, whole-buffer DEFLATE-based compression and decompression.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring DEFLATE compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdeflate documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression and Libdeflate for support and discussions.",
+      "GitHub": "Visit the Libdeflate GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "compress_data": "libdeflate -c input.txt output.deflate",
+      "decompress_data": "libdeflate -d input.deflate output.txt",
+      "uninstall": "pkg uninstall libdeflate"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdevil",
+    "version": "1.8.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdevil is a cross-platform image library. It can load, save, convert, manipulate images in many formats.",
+    "homepage": "http://openil.sourceforge.net/",
+    "installation": "pkg install libdevil",
+    "usage": "After installing libdevil, you can use it to handle image files in your applications.",
+    "features": [
+      "Image Handling: Provides tools for loading, saving, converting, and manipulating images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image handling tasks.",
+      "Integration: Can be integrated into applications requiring image handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdevil documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libdevil for support and discussions.",
+      "GitHub": "Visit the Libdevil GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdevil": "Not applicable",
+      "uninstall": "pkg uninstall libdevil"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdispatch",
+    "version": "1:6.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdispatch, also known as Grand Central Dispatch (GCD), provides comprehensive support for concurrent code execution on multicore hardware.",
+    "homepage": "https://opensource.apple.com/tarballs/libdispatch/",
+    "installation": "pkg install libdispatch",
+    "usage": "After installing libdispatch, you can use it to manage concurrent code execution in your applications.",
+    "features": [
+      "Concurrent Execution: Provides tools for concurrent code execution on multicore hardware.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for concurrency tasks.",
+      "Integration: Can be integrated into applications requiring concurrent execution.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdispatch documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to concurrency and Libdispatch for support and discussions.",
+      "GitHub": "Visit the Libdispatch GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdispatch": "Not applicable",
+      "uninstall": "pkg uninstall libdispatch"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdisplay-info",
+    "version": "0.2.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdisplay-info is a library for parsing and managing display information.",
+    "homepage": "https://gitlab.freedesktop.org/emersion/libdisplay-info",
+    "installation": "pkg install libdisplay-info",
+    "usage": "After installing libdisplay-info, you can use it to parse and manage display information in your applications.",
+    "features": [
+      "Display Information: Provides tools for parsing and managing display information.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for display information tasks.",
+      "Integration: Can be integrated into applications requiring display information management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdisplay-info documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to display management and Libdisplay-info for support and discussions.",
+      "GitHub": "Visit the Libdisplay-info GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdisplay_info": "Not applicable",
+      "uninstall": "pkg uninstall libdisplay-info"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdmtx-static",
+    "version": "0.7.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdmtx is a software library that enables programs to read and write Data Matrix barcodes. This is the statically linked version.",
+    "homepage": "https://github.com/dmtx/libdmtx",
+    "installation": "pkg install libdmtx-static",
+    "usage": "After installing libdmtx-static, you can use it to read and write Data Matrix barcodes in your applications.",
+    "features": [
+      "Barcode Handling: Provides tools for reading and writing Data Matrix barcodes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for barcode tasks.",
+      "Integration: Can be integrated into applications requiring barcode handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdmtx documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to barcode handling and Libdmtx for support and discussions.",
+      "GitHub": "Visit the Libdmtx GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdmtx": "Not applicable",
+      "uninstall": "pkg uninstall libdmtx-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdmtx",
+    "version": "0.7.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdmtx is a software library that enables programs to read and write Data Matrix barcodes.",
+    "homepage": "https://github.com/dmtx/libdmtx",
+    "installation": "pkg install libdmtx",
+    "usage": "After installing libdmtx, you can use it to read and write Data Matrix barcodes in your applications.",
+    "features": [
+      "Barcode Handling: Provides tools for reading and writing Data Matrix barcodes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for barcode tasks.",
+      "Integration: Can be integrated into applications requiring barcode handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdmtx documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to barcode handling and Libdmtx for support and discussions.",
+      "GitHub": "Visit the Libdmtx GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdmtx": "Not applicable",
+      "uninstall": "pkg uninstall libdmtx"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdrm",
+    "version": "2.4.124",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdrm is a library for Direct Rendering Manager (DRM) in the Linux kernel.",
+    "homepage": "https://dri.freedesktop.org/libdrm/",
+    "installation": "pkg install libdrm",
+    "usage": "After installing libdrm, you can use it to interface with the Direct Rendering Manager in your applications.",
+    "features": [
+      "DRM Interface: Provides tools for interfacing with the Direct Rendering Manager.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for DRM tasks.",
+      "Integration: Can be integrated into applications requiring DRM support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdrm documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DRM and Libdrm for support and discussions.",
+      "GitHub": "Visit the Libdrm GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdrm": "Not applicable",
+      "uninstall": "pkg uninstall libdrm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libduckdb-static",
+    "version": "1.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libduckdb is a high-performance in-process SQL OLAP database management system. This is the statically linked version.",
+    "homepage": "https://www.duckdb.org/",
+    "installation": "pkg install libduckdb-static",
+    "usage": "After installing libduckdb-static, you can use it to manage SQL OLAP databases in your applications.",
+    "features": [
+      "SQL OLAP Database: Provides tools for managing high-performance SQL OLAP databases.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring SQL OLAP database management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the DuckDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database management and DuckDB for support and discussions.",
+      "GitHub": "Visit the DuckDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_duckdb": "Not applicable",
+      "uninstall": "pkg uninstall libduckdb-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libduckdb",
+    "version": "1.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libduckdb is a high-performance in-process SQL OLAP database management system.",
+    "homepage": "https://www.duckdb.org/",
+    "installation": "pkg install libduckdb",
+    "usage": "After installing libduckdb, you can use it to manage SQL OLAP databases in your applications.",
+    "features": [
+      "SQL OLAP Database: Provides tools for managing high-performance SQL OLAP databases.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring SQL OLAP database management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the DuckDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database management and DuckDB for support and discussions.",
+      "GitHub": "Visit the DuckDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_duckdb": "Not applicable",
+      "uninstall": "pkg uninstall libduckdb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libduktape",
+    "version": "2.7.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libduktape is an embeddable Javascript engine with a focus on portability and compact footprint.",
+    "homepage": "https://duktape.org/",
+    "installation": "pkg install libduktape",
+    "usage": "After installing libduktape, you can use it to embed a Javascript engine in your applications.",
+    "features": [
+      "Javascript Engine: Provides an embeddable Javascript engine.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for embedding Javascript.",
+      "Integration: Can be integrated into applications requiring Javascript execution.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Duktape documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Javascript engines and Duktape for support and discussions.",
+      "GitHub": "Visit the Duktape GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_duktape": "Not applicable",
+      "uninstall": "pkg uninstall libduktape"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdvbcsa-static",
+    "version": "1.1.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdvbcsa is an implementation of the DVB Common Scrambling Algorithm with encryption and decryption capabilities. This is the statically linked version.",
+    "homepage": "https://www.videolan.org/developers/libdvbcsa.html",
+    "installation": "pkg install libdvbcsa-static",
+    "usage": "After installing libdvbcsa-static, you can use it to perform encryption and decryption using the DVB Common Scrambling Algorithm in your applications.",
+    "features": [
+      "DVB CSA: Provides tools for encryption and decryption using the DVB Common Scrambling Algorithm.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for encryption and decryption tasks.",
+      "Integration: Can be integrated into applications requiring DVB CSA.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdvbcsa documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to encryption and Libdvbcsa for support and discussions.",
+      "GitHub": "Visit the Libdvbcsa GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdvbcsa": "Not applicable",
+      "uninstall": "pkg uninstall libdvbcsa-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdvbcsa",
+    "version": "1.1.0-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdvbcsa is an implementation of the DVB Common Scrambling Algorithm with encryption and decryption capabilities.",
+    "homepage": "https://www.videolan.org/developers/libdvbcsa.html",
+    "installation": "pkg install libdvbcsa",
+    "usage": "After installing libdvbcsa, you can use it to perform encryption and decryption using the DVB Common Scrambling Algorithm in your applications.",
+    "features": [
+      "DVB CSA: Provides tools for encryption and decryption using the DVB Common Scrambling Algorithm.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for encryption and decryption tasks.",
+      "Integration: Can be integrated into applications requiring DVB CSA.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdvbcsa documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to encryption and Libdvbcsa for support and discussions.",
+      "GitHub": "Visit the Libdvbcsa GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdvbcsa": "Not applicable",
+      "uninstall": "pkg uninstall libdvbcsa"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdvbpsi-static",
+    "version": "1.3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdvbpsi is a library for decoding and generating MPEG TS and DVB PSI tables. This is the statically linked version.",
+    "homepage": "https://www.videolan.org/developers/libdvbpsi.html",
+    "installation": "pkg install libdvbpsi-static",
+    "usage": "After installing libdvbpsi-static, you can use it to decode and generate MPEG TS and DVB PSI tables in your applications.",
+    "features": [
+      "MPEG TS and DVB PSI: Provides tools for decoding and generating MPEG TS and DVB PSI tables.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for MPEG TS and DVB PSI tasks.",
+      "Integration: Can be integrated into applications requiring MPEG TS and DVB PSI support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdvbpsi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to MPEG TS and DVB PSI and Libdvbpsi for support and discussions.",
+      "GitHub": "Visit the Libdvbpsi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdvbpsi": "Not applicable",
+      "uninstall": "pkg uninstall libdvbpsi-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdvbpsi",
+    "version": "1.3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdvbpsi is a library for decoding and generating MPEG TS and DVB PSI tables.",
+    "homepage": "https://www.videolan.org/developers/libdvbpsi.html",
+    "installation": "pkg install libdvbpsi",
+    "usage": "After installing libdvbpsi, you can use it to decode and generate MPEG TS and DVB PSI tables in your applications.",
+    "features": [
+      "MPEG TS and DVB PSI: Provides tools for decoding and generating MPEG TS and DVB PSI tables.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for MPEG TS and DVB PSI tasks.",
+      "Integration: Can be integrated into applications requiring MPEG TS and DVB PSI support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdvbpsi documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to MPEG TS and DVB PSI and Libdvbpsi for support and discussions.",
+      "GitHub": "Visit the Libdvbpsi GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdvbpsi": "Not applicable",
+      "uninstall": "pkg uninstall libdvbpsi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdvdnav-static",
+    "version": "6.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdvdnav is a library for DVD navigation. This is the statically linked version.",
+    "homepage": "https://www.videolan.org/developers/libdvdnav.html",
+    "installation": "pkg install libdvdnav-static",
+    "usage": "After installing libdvdnav-static, you can use it to implement DVD navigation in your applications.",
+    "features": [
+      "DVD Navigation: Provides tools for implementing DVD navigation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for DVD navigation tasks.",
+      "Integration: Can be integrated into applications requiring DVD navigation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdvdnav documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DVD navigation and Libdvdnav for support and discussions.",
+      "GitHub": "Visit the Libdvdnav GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdvdnav": "Not applicable",
+      "uninstall": "pkg uninstall libdvdnav-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdvdnav",
+    "version": "6.1.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdvdnav is a library for DVD navigation.",
+    "homepage": "https://www.videolan.org/developers/libdvdnav.html",
+    "installation": "pkg install libdvdnav",
+    "usage": "After installing libdvdnav, you can use it to implement DVD navigation in your applications.",
+    "features": [
+      "DVD Navigation: Provides tools for implementing DVD navigation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for DVD navigation tasks.",
+      "Integration: Can be integrated into applications requiring DVD navigation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdvdnav documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DVD navigation and Libdvdnav for support and discussions.",
+      "GitHub": "Visit the Libdvdnav GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdvdnav": "Not applicable",
+      "uninstall": "pkg uninstall libdvdnav"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libdvdread-static",
+    "version": "6.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libdvdread provides a simple foundation for reading DVD-Video images. This is the statically linked version.",
+    "homepage": "https://www.videolan.org/developers/libdvdread.html",
+    "installation": "pkg install libdvdread-static",
+    "usage": "After installing libdvdread-static, you can use it to read DVD-Video images in your applications.",
+    "features": [
+      "DVD Reading: Provides tools for reading DVD-Video images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for DVD reading tasks.",
+      "Integration: Can be integrated into applications requiring DVD reading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libdvdread documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DVD reading and Libdvdread for support and discussions.",
+      "GitHub": "Visit the Libdvdread GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libdvdread": "Not applicable",
+      "uninstall": "pkg uninstall libdvdread-static"
+    },
+    "isFavorite": false
+  }
+]

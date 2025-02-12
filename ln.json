@@ -1,0 +1,1440 @@
+[
+  {
+    "name": "libxext",
+    "version": "1.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxext is a library that provides an interface to several extensions of the X Window System protocol.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxext",
+    "usage": "After installing libxext, you can use it to interface with several extensions of the X Window System protocol in your applications.",
+    "features": [
+      "X Window System Extensions: Provides an interface to several extensions of the X Window System protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for extension tasks.",
+      "Integration: Can be integrated into applications requiring X Window System extensions.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X Window System extensions and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xext": "Not applicable",
+      "uninstall": "pkg uninstall libxext"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxfixes-static",
+    "version": "6.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxfixes is a library that provides an interface to the XFIXES extension of the X Window System protocol. This is the statically linked version.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxfixes-static",
+    "usage": "After installing libxfixes-static, you can use it to interface with the XFIXES extension of the X Window System protocol in your applications.",
+    "features": [
+      "XFIXES Extension: Provides an interface to the XFIXES extension of the X Window System protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for XFIXES tasks.",
+      "Integration: Can be integrated into applications requiring XFIXES extension.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XFIXES extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xfixes": "Not applicable",
+      "uninstall": "pkg uninstall libxfixes-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxfixes",
+    "version": "6.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxfixes is a library that provides an interface to the XFIXES extension of the X Window System protocol.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxfixes",
+    "usage": "After installing libxfixes, you can use it to interface with the XFIXES extension of the X Window System protocol in your applications.",
+    "features": [
+      "XFIXES Extension: Provides an interface to the XFIXES extension of the X Window System protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for XFIXES tasks.",
+      "Integration: Can be integrated into applications requiring XFIXES extension.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XFIXES extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xfixes": "Not applicable",
+      "uninstall": "pkg uninstall libxfixes"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxft-static",
+    "version": "2.3.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxft is a library that provides a client-side font API for X applications. This is the statically linked version.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxft-static",
+    "usage": "After installing libxft-static, you can use it to provide client-side font rendering in your X applications.",
+    "features": [
+      "Client-Side Font API: Provides a client-side font API for X applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for font rendering tasks.",
+      "Integration: Can be integrated into applications requiring client-side font rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to font rendering and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xft": "Not applicable",
+      "uninstall": "pkg uninstall libxft-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxft",
+    "version": "2.3.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxft is a library that provides a client-side font API for X applications.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxft",
+    "usage": "After installing libxft, you can use it to provide client-side font rendering in your X applications.",
+    "features": [
+      "Client-Side Font API: Provides a client-side font API for X applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for font rendering tasks.",
+      "Integration: Can be integrated into applications requiring client-side font rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to font rendering and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xft": "Not applicable",
+      "uninstall": "pkg uninstall libxft"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxi-static",
+    "version": "1.8.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxi is a library that provides an interface to the X Input Extension of the X Window System protocol. This is the statically linked version.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxi-static",
+    "usage": "After installing libxi-static, you can use it to interface with the X Input Extension of the X Window System protocol in your applications.",
+    "features": [
+      "X Input Extension: Provides an interface to the X Input Extension of the X Window System protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for X Input Extension tasks.",
+      "Integration: Can be integrated into applications requiring X Input Extension.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X Input Extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xi": "Not applicable",
+      "uninstall": "pkg uninstall libxi-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxi",
+    "version": "1.8.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxi is a library that provides an interface to the X Input Extension of the X Window System protocol.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxi",
+    "usage": "After installing libxi, you can use it to interface with the X Input Extension of the X Window System protocol in your applications.",
+    "features": [
+      "X Input Extension: Provides an interface to the X Input Extension of the X Window System protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for X Input Extension tasks.",
+      "Integration: Can be integrated into applications requiring X Input Extension.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X Input Extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xi": "Not applicable",
+      "uninstall": "pkg uninstall libxi"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxls-static",
+    "version": "1.6.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxls is a library for reading Microsoft Excel files in the XLS format. This is the statically linked version.",
+    "homepage": "https://github.com/libxls/libxls",
+    "installation": "pkg install libxls-static",
+    "usage": "After installing libxls-static, you can use it to read Microsoft Excel files in the XLS format in your applications.",
+    "features": [
+      "XLS Format: Provides tools for reading Microsoft Excel files in the XLS format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Excel file reading tasks.",
+      "Integration: Can be integrated into applications requiring XLS file reading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxls documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file reading and Libxls for support and discussions.",
+      "GitHub": "Visit the Libxls GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xls": "Not applicable",
+      "uninstall": "pkg uninstall libxls-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxls",
+    "version": "1.6.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxls is a library for reading Microsoft Excel files in the XLS format.",
+    "homepage": "https://github.com/libxls/libxls",
+    "installation": "pkg install libxls",
+    "usage": "After installing libxls, you can use it to read Microsoft Excel files in the XLS format in your applications.",
+    "features": [
+      "XLS Format: Provides tools for reading Microsoft Excel files in the XLS format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Excel file reading tasks.",
+      "Integration: Can be integrated into applications requiring XLS file reading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxls documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file reading and Libxls for support and discussions.",
+      "GitHub": "Visit the Libxls GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xls": "Not applicable",
+      "uninstall": "pkg uninstall libxls"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxlsxwriter",
+    "version": "1.1.9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxlsxwriter is a C library for creating Excel XLSX files.",
+    "homepage": "https://github.com/jmcnamara/libxlsxwriter",
+    "installation": "pkg install libxlsxwriter",
+    "usage": "After installing libxlsxwriter, you can use it to create Excel XLSX files in your applications.",
+    "features": [
+      "XLSX Format: Provides tools for creating Excel XLSX files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for Excel file creation tasks.",
+      "Integration: Can be integrated into applications requiring XLSX file creation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxlsxwriter documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file creation and Libxlsxwriter for support and discussions.",
+      "GitHub": "Visit the Libxlsxwriter GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xlsxwriter": "Not applicable",
+      "uninstall": "pkg uninstall libxlsxwriter"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxml2-python-static",
+    "version": "2.13.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxml2-python is a Python binding for the libxml2 library, which provides XML and HTML processing capabilities. This is the statically linked version.",
+    "homepage": "http://xmlsoft.org/",
+    "installation": "pkg install libxml2-python-static",
+    "usage": "After installing libxml2-python-static, you can use it to process XML and HTML in your Python applications.",
+    "features": [
+      "XML/HTML Processing: Provides tools for processing XML and HTML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for XML/HTML processing tasks.",
+      "Integration: Can be integrated into applications requiring XML/HTML processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxml2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML/HTML processing and Libxml2 for support and discussions.",
+      "GitHub": "Visit the Libxml2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xml2_python": "Not applicable",
+      "uninstall": "pkg uninstall libxml2-python-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxml2-python",
+    "version": "2.13.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxml2-python is a Python binding for the libxml2 library, which provides XML and HTML processing capabilities.",
+    "homepage": "http://xmlsoft.org/",
+    "installation": "pkg install libxml2-python",
+    "usage": "After installing libxml2-python, you can use it to process XML and HTML in your Python applications.",
+    "features": [
+      "XML/HTML Processing: Provides tools for processing XML and HTML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for XML/HTML processing tasks.",
+      "Integration: Can be integrated into applications requiring XML/HTML processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxml2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML/HTML processing and Libxml2 for support and discussions.",
+      "GitHub": "Visit the Libxml2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xml2_python": "Not applicable",
+      "uninstall": "pkg uninstall libxml2-python"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxml2-static",
+    "version": "2.13.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxml2 is a library providing XML and HTML processing capabilities. This is the statically linked version.",
+    "homepage": "http://xmlsoft.org/",
+    "installation": "pkg install libxml2-static",
+    "usage": "After installing libxml2-static, you can use it to process XML and HTML in your applications.",
+    "features": [
+      "XML/HTML Processing: Provides tools for processing XML and HTML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for XML/HTML processing tasks.",
+      "Integration: Can be integrated into applications requiring XML/HTML processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxml2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML/HTML processing and Libxml2 for support and discussions.",
+      "GitHub": "Visit the Libxml2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xml2": "Not applicable",
+      "uninstall": "pkg uninstall libxml2-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxml2-utils",
+    "version": "2.13.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxml2-utils is a collection of command-line tools for processing XML and HTML using the libxml2 library.",
+    "homepage": "http://xmlsoft.org/",
+    "installation": "pkg install libxml2-utils",
+    "usage": "After installing libxml2-utils, you can use the command-line tools to process XML and HTML in your applications.",
+    "features": [
+      "XML/HTML Processing: Provides command-line tools for processing XML and HTML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for XML/HTML processing tasks.",
+      "Integration: Can be integrated into applications requiring XML/HTML processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxml2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML/HTML processing and Libxml2 for support and discussions.",
+      "GitHub": "Visit the Libxml2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xml2_utils": "Not applicable",
+      "uninstall": "pkg uninstall libxml2-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxml2",
+    "version": "2.13.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxml2 is a library providing XML and HTML processing capabilities.",
+    "homepage": "http://xmlsoft.org/",
+    "installation": "pkg install libxml2",
+    "usage": "After installing libxml2, you can use it to process XML and HTML in your applications.",
+    "features": [
+      "XML/HTML Processing: Provides tools for processing XML and HTML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for XML/HTML processing tasks.",
+      "Integration: Can be integrated into applications requiring XML/HTML processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxml2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML/HTML processing and Libxml2 for support and discussions.",
+      "GitHub": "Visit the Libxml2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xml2": "Not applicable",
+      "uninstall": "pkg uninstall libxml2"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxmlb",
+    "version": "0.3.21",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxmlb is a library to help create and query binary XML blobs.",
+    "homepage": "https://github.com/hughsie/libxmlb",
+    "installation": "pkg install libxmlb",
+    "usage": "After installing libxmlb, you can use it to create and query binary XML blobs in your applications.",
+    "features": [
+      "Binary XML Blobs: Provides tools for creating and querying binary XML blobs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for binary XML tasks.",
+      "Integration: Can be integrated into applications requiring binary XML blob creation and querying.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxmlb documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML processing and Libxmlb for support and discussions.",
+      "GitHub": "Visit the Libxmlb GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xmlb": "Not applicable",
+      "uninstall": "pkg uninstall libxmlb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxmlrpc-static",
+    "version": "1.59.03",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxmlrpc is a lightweight RPC library based on XML. This is the statically linked version.",
+    "homepage": "http://xmlrpc-c.sourceforge.net/",
+    "installation": "pkg install libxmlrpc-static",
+    "usage": "After installing libxmlrpc-static, you can use it to implement RPC functionalities in your applications.",
+    "features": [
+      "RPC: Provides tools for implementing Remote Procedure Call (RPC) functionalities based on XML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for RPC tasks.",
+      "Integration: Can be integrated into applications requiring RPC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxmlrpc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RPC and Libxmlrpc for support and discussions.",
+      "GitHub": "Visit the Libxmlrpc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xmlrpc": "Not applicable",
+      "uninstall": "pkg uninstall libxmlrpc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxmlrpc",
+    "version": "1.59.03",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxmlrpc is a lightweight RPC library based on XML.",
+    "homepage": "http://xmlrpc-c.sourceforge.net/",
+    "installation": "pkg install libxmlrpc",
+    "usage": "After installing libxmlrpc, you can use it to implement RPC functionalities in your applications.",
+    "features": [
+      "RPC: Provides tools for implementing Remote Procedure Call (RPC) functionalities based on XML.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for RPC tasks.",
+      "Integration: Can be integrated into applications requiring RPC functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxmlrpc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RPC and Libxmlrpc for support and discussions.",
+      "GitHub": "Visit the Libxmlrpc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xmlrpc": "Not applicable",
+      "uninstall": "pkg uninstall libxmlrpc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxrandr-static",
+    "version": "1.5.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxrandr is a library for the X Resize, Rotate and Reflect Extension (RandR). This is the statically linked version.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxrandr-static",
+    "usage": "After installing libxrandr-static, you can use it to interact with the RandR extension in your applications.",
+    "features": [
+      "RandR Extension: Provides tools for interacting with the X Resize, Rotate and Reflect Extension (RandR).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for RandR tasks.",
+      "Integration: Can be integrated into applications requiring RandR functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RandR extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xrandr": "Not applicable",
+      "uninstall": "pkg uninstall libxrandr-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxrandr",
+    "version": "1.5.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxrandr is a library for the X Resize, Rotate and Reflect Extension (RandR).",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxrandr",
+    "usage": "After installing libxrandr, you can use it to interact with the RandR extension in your applications.",
+    "features": [
+      "RandR Extension: Provides tools for interacting with the X Resize, Rotate and Reflect Extension (RandR).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for RandR tasks.",
+      "Integration: Can be integrated into applications requiring RandR functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to RandR extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xrandr": "Not applicable",
+      "uninstall": "pkg uninstall libxrandr"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxrender",
+    "version": "0.9.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxrender is a library for the X Render Extension, which provides a 2D rendering model for the X Window System.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxrender",
+    "usage": "After installing libxrender, you can use it to interact with the X Render Extension in your applications.",
+    "features": [
+      "X Render Extension: Provides tools for interacting with the X Render Extension.",
+      "2D Rendering: Offers a 2D rendering model for the X Window System.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for rendering tasks.",
+      "Integration: Can be integrated into applications requiring 2D rendering.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to rendering and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xrender": "Not applicable",
+      "uninstall": "pkg uninstall libxrender"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxshmfence",
+    "version": "1.3.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxshmfence is a library that provides a shared memory 'SyncFence' synchronization primitive for the X Window System.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxshmfence",
+    "usage": "After installing libxshmfence, you can use it to implement shared memory synchronization in your applications.",
+    "features": [
+      "Shared Memory Sync: Provides a shared memory 'SyncFence' synchronization primitive for the X Window System.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for synchronization tasks.",
+      "Integration: Can be integrated into applications requiring shared memory synchronization.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to synchronization and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xshmfence": "Not applicable",
+      "uninstall": "pkg uninstall libxshmfence"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxslt",
+    "version": "1.1.42-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxslt is a library for transforming XML documents into other XML documents using XSLT.",
+    "homepage": "http://xmlsoft.org/XSLT/",
+    "installation": "pkg install libxslt",
+    "usage": "After installing libxslt, you can use it to transform XML documents in your applications.",
+    "features": [
+      "XSLT: Provides tools for transforming XML documents using XSLT.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for transformation tasks.",
+      "Integration: Can be integrated into applications requiring XML transformation.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libxslt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XML transformation and Libxslt for support and discussions.",
+      "GitHub": "Visit the Libxslt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xslt": "Not applicable",
+      "uninstall": "pkg uninstall libxslt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxss-static",
+    "version": "1.2.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxss is a library that provides an interface to the X11 Screen Saver extension. This is the statically linked version.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxss-static",
+    "usage": "After installing libxss-static, you can use it to interface with the X11 Screen Saver extension in your applications.",
+    "features": [
+      "X11 Screen Saver: Provides an interface to the X11 Screen Saver extension.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for screen saver tasks.",
+      "Integration: Can be integrated into applications requiring screen saver functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to screen saver extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xss": "Not applicable",
+      "uninstall": "pkg uninstall libxss-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxss",
+    "version": "1.2.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxss is a library that provides an interface to the X11 Screen Saver extension.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxss",
+    "usage": "After installing libxss, you can use it to interface with the X11 Screen Saver extension in your applications.",
+    "features": [
+      "X11 Screen Saver: Provides an interface to the X11 Screen Saver extension.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for screen saver tasks.",
+      "Integration: Can be integrated into applications requiring screen saver functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to screen saver extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xss": "Not applicable",
+      "uninstall": "pkg uninstall libxss"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxt-static",
+    "version": "1.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxt is the X Toolkit Intrinsics library, which provides a set of base functions for building X Window System applications. This is the statically linked version.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxt-static",
+    "usage": "After installing libxt-static, you can use it to build X Window System applications in your projects.",
+    "features": [
+      "X Toolkit Intrinsics: Provides a set of base functions for building X Window System applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for application building tasks.",
+      "Integration: Can be integrated into applications requiring X Toolkit Intrinsics.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X Toolkit Intrinsics and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xt": "Not applicable",
+      "uninstall": "pkg uninstall libxt-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxt",
+    "version": "1.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxt is the X Toolkit Intrinsics library, which provides a set of base functions for building X Window System applications.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxt",
+    "usage": "After installing libxt, you can use it to build X Window System applications in your projects.",
+    "features": [
+      "X Toolkit Intrinsics: Provides a set of base functions for building X Window System applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for application building tasks.",
+      "Integration: Can be integrated into applications requiring X Toolkit Intrinsics.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X Toolkit Intrinsics and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xt": "Not applicable",
+      "uninstall": "pkg uninstall libxt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxtst-static",
+    "version": "1.2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxtst is a library that provides an interface to the X11 Testing Extension (XTEST). This is the statically linked version.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxtst-static",
+    "usage": "After installing libxtst-static, you can use it to interface with the X11 Testing Extension in your applications.",
+    "features": [
+      "X11 Testing Extension: Provides an interface to the X11 Testing Extension.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for testing tasks.",
+      "Integration: Can be integrated into applications requiring X11 Testing Extension.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X11 Testing Extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xtst": "Not applicable",
+      "uninstall": "pkg uninstall libxtst-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxtst",
+    "version": "1.2.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxtst is a library that provides an interface to the X11 Testing Extension (XTEST).",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxtst",
+    "usage": "After installing libxtst, you can use it to interface with the X11 Testing Extension in your applications.",
+    "features": [
+      "X11 Testing Extension: Provides an interface to the X11 Testing Extension.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for testing tasks.",
+      "Integration: Can be integrated into applications requiring X11 Testing Extension.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X11 Testing Extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xtst": "Not applicable",
+      "uninstall": "pkg uninstall libxtst"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxv",
+    "version": "1.0.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxv is a library that provides an interface to the X Video Extension (Xv).",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxv",
+    "usage": "After installing libxv, you can use it to interface with the X Video Extension in your applications.",
+    "features": [
+      "X Video Extension: Provides an interface to the X Video Extension.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for video tasks.",
+      "Integration: Can be integrated into applications requiring X Video functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to X Video Extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xv": "Not applicable",
+      "uninstall": "pkg uninstall libxv"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libxxf86vm",
+    "version": "1.1.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libxxf86vm is a library that provides an interface to the XFree86-VidMode Extension.",
+    "homepage": "https://www.x.org/wiki/",
+    "installation": "pkg install libxxf86vm",
+    "usage": "After installing libxxf86vm, you can use it to interface with the XFree86-VidMode Extension in your applications.",
+    "features": [
+      "XFree86-VidMode Extension: Provides an interface to the XFree86-VidMode Extension.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for video mode tasks.",
+      "Integration: Can be integrated into applications requiring XFree86-VidMode functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the X.Org documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XFree86-VidMode Extension and X.Org for support and discussions.",
+      "GitHub": "Visit the X.Org GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_xxf86vm": "Not applicable",
+      "uninstall": "pkg uninstall libxxf86vm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libyaml-cpp",
+    "version": "0.8.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libyaml-cpp is a YAML parser and emitter in C++.",
+    "homepage": "https://github.com/jbeder/yaml-cpp",
+    "installation": "pkg install libyaml-cpp",
+    "usage": "After installing libyaml-cpp, you can use it to parse and emit YAML in your C++ applications.",
+    "features": [
+      "YAML Parsing and Emitting: Provides tools for parsing and emitting YAML in C++.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for YAML tasks.",
+      "Integration: Can be integrated into applications requiring YAML functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the yaml-cpp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to YAML and yaml-cpp for support and discussions.",
+      "GitHub": "Visit the yaml-cpp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_yaml_cpp": "Not applicable",
+      "uninstall": "pkg uninstall libyaml-cpp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libyaml-static",
+    "version": "0.2.5-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libyaml is a YAML 1.1 parser and emitter written in C. This is the statically linked version.",
+    "homepage": "https://github.com/yaml/libyaml",
+    "installation": "pkg install libyaml-static",
+    "usage": "After installing libyaml-static, you can use it to parse and emit YAML in your C applications.",
+    "features": [
+      "YAML Parsing and Emitting: Provides tools for parsing and emitting YAML in C.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for YAML tasks.",
+      "Integration: Can be integrated into applications requiring YAML functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the libyaml documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to YAML and libyaml for support and discussions.",
+      "GitHub": "Visit the libyaml GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_yaml": "Not applicable",
+      "uninstall": "pkg uninstall libyaml-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libyaml",
+    "version": "0.2.5-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libyaml is a YAML 1.1 parser and emitter written in C.",
+    "homepage": "https://github.com/yaml/libyaml",
+    "installation": "pkg install libyaml",
+    "usage": "After installing libyaml, you can use it to parse and emit YAML in your C applications.",
+    "features": [
+      "YAML Parsing and Emitting: Provides tools for parsing and emitting YAML in C.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for YAML tasks.",
+      "Integration: Can be integrated into applications requiring YAML functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the libyaml documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to YAML and libyaml for support and discussions.",
+      "GitHub": "Visit the libyaml GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_yaml": "Not applicable",
+      "uninstall": "pkg uninstall libyaml"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzen-static",
+    "version": "0.4.41",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzen is a library that provides shared components for ZenLib applications. This is the statically linked version.",
+    "homepage": "https://github.com/MediaArea/ZenLib",
+    "installation": "pkg install libzen-static",
+    "usage": "After installing libzen-static, you can use it to provide shared components in your ZenLib applications.",
+    "features": [
+      "Shared Components: Provides shared components for ZenLib applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for shared component tasks.",
+      "Integration: Can be integrated into applications requiring ZenLib shared components.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ZenLib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ZenLib and shared components for support and discussions.",
+      "GitHub": "Visit the ZenLib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zen": "Not applicable",
+      "uninstall": "pkg uninstall libzen-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzen",
+    "version": "0.4.41",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzen is a library that provides shared components for ZenLib applications.",
+    "homepage": "https://github.com/MediaArea/ZenLib",
+    "installation": "pkg install libzen",
+    "usage": "After installing libzen, you can use it to provide shared components in your ZenLib applications.",
+    "features": [
+      "Shared Components: Provides shared components for ZenLib applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for shared component tasks.",
+      "Integration: Can be integrated into applications requiring ZenLib shared components.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ZenLib documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ZenLib and shared components for support and discussions.",
+      "GitHub": "Visit the ZenLib GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zen": "Not applicable",
+      "uninstall": "pkg uninstall libzen"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzim",
+    "version": "9.2.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzim is a library for managing ZIM files, a highly compressed open file format for storing wiki content.",
+    "homepage": "https://openzim.org/",
+    "installation": "pkg install libzim",
+    "usage": "After installing libzim, you can use it to manage ZIM files in your applications.",
+    "features": [
+      "ZIM Files: Provides tools for managing ZIM files, which are used for storing wiki content.",
+      "Compression: Supports highly compressed open file formats.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for ZIM file management tasks.",
+      "Integration: Can be integrated into applications requiring ZIM file management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libzim documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to ZIM file management and OpenZIM for support and discussions.",
+      "GitHub": "Visit the Libzim GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zim": "Not applicable",
+      "uninstall": "pkg uninstall libzim"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzimg-static",
+    "version": "3.0.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzimg is a library for high-performance image processing and scaling. This is the statically linked version.",
+    "homepage": "https://github.com/sekrit-twc/zimg",
+    "installation": "pkg install libzimg-static",
+    "usage": "After installing libzimg-static, you can use it for high-performance image processing and scaling in your applications.",
+    "features": [
+      "Image Processing: Provides tools for high-performance image processing and scaling.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for image processing tasks.",
+      "Integration: Can be integrated into applications requiring high-performance image processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libzimg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libzimg for support and discussions.",
+      "GitHub": "Visit the Libzimg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zimg": "Not applicable",
+      "uninstall": "pkg uninstall libzimg-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzimg",
+    "version": "3.0.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzimg is a library for high-performance image processing and scaling.",
+    "homepage": "https://github.com/sekrit-twc/zimg",
+    "installation": "pkg install libzimg",
+    "usage": "After installing libzimg, you can use it for high-performance image processing and scaling in your applications.",
+    "features": [
+      "Image Processing: Provides tools for high-performance image processing and scaling.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for image processing tasks.",
+      "Integration: Can be integrated into applications requiring high-performance image processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libzimg documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Libzimg for support and discussions.",
+      "GitHub": "Visit the Libzimg GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zimg": "Not applicable",
+      "uninstall": "pkg uninstall libzimg"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzip",
+    "version": "1.11.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzip is a library for reading, creating, and modifying zip archives.",
+    "homepage": "https://libzip.org/",
+    "installation": "pkg install libzip",
+    "usage": "After installing libzip, you can use it to read, create, and modify zip archives in your applications.",
+    "features": [
+      "Zip Archives: Provides tools for reading, creating, and modifying zip archives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for zip archive tasks.",
+      "Integration: Can be integrated into applications requiring zip archive management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libzip documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to zip archive management and Libzip for support and discussions.",
+      "GitHub": "Visit the Libzip GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zip": "Not applicable",
+      "uninstall": "pkg uninstall libzip"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzita-convolver",
+    "version": "4.0.3-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzita-convolver is a C++ library for real-time convolution with multiple inputs and outputs.",
+    "homepage": "https://kokkinizita.linuxaudio.org/linuxaudio/",
+    "installation": "pkg install libzita-convolver",
+    "usage": "After installing libzita-convolver, you can use it for real-time convolution in your audio applications.",
+    "features": [
+      "Real-Time Convolution: Provides tools for real-time convolution with multiple inputs and outputs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for convolution tasks.",
+      "Integration: Can be integrated into applications requiring real-time convolution.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Zita-Convolver documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Zita-Convolver for support and discussions.",
+      "GitHub": "Visit the Zita-Convolver GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zita": "Not applicable",
+      "uninstall": "pkg uninstall libzita-convolver"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzix",
+    "version": "0.6.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzix is a C library for safe and simple abstract data types.",
+    "homepage": "https://github.com/lv2/zix",
+    "installation": "pkg install libzix",
+    "usage": "After installing libzix, you can use it to manage abstract data types in your applications.",
+    "features": [
+      "Abstract Data Types: Provides tools for managing safe and simple abstract data types.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for data type management tasks.",
+      "Integration: Can be integrated into applications requiring abstract data type management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Zix documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data type management and Zix for support and discussions.",
+      "GitHub": "Visit the Zix GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zix": "Not applicable",
+      "uninstall": "pkg uninstall libzix"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzmq-static",
+    "version": "4.3.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzmq is a high-performance asynchronous messaging library. This is the statically linked version.",
+    "homepage": "https://zeromq.org/",
+    "installation": "pkg install libzmq-static",
+    "usage": "After installing libzmq-static, you can use it for high-performance asynchronous messaging in your applications.",
+    "features": [
+      "Asynchronous Messaging: Provides tools for high-performance asynchronous messaging.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for messaging tasks.",
+      "Integration: Can be integrated into applications requiring asynchronous messaging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ZeroMQ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to asynchronous messaging and ZeroMQ for support and discussions.",
+      "GitHub": "Visit the ZeroMQ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zmq": "Not applicable",
+      "uninstall": "pkg uninstall libzmq-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzmq",
+    "version": "4.3.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzmq is a high-performance asynchronous messaging library.",
+    "homepage": "https://zeromq.org/",
+    "installation": "pkg install libzmq",
+    "usage": "After installing libzmq, you can use it for high-performance asynchronous messaging in your applications.",
+    "features": [
+      "Asynchronous Messaging: Provides tools for high-performance asynchronous messaging.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for messaging tasks.",
+      "Integration: Can be integrated into applications requiring asynchronous messaging.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the ZeroMQ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to asynchronous messaging and ZeroMQ for support and discussions.",
+      "GitHub": "Visit the ZeroMQ GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zmq": "Not applicable",
+      "uninstall": "pkg uninstall libzmq"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzopfli",
+    "version": "1.0.3-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzopfli is a compression library that provides very good compression ratios at the cost of being slow.",
+    "homepage": "https://github.com/google/zopfli",
+    "installation": "pkg install libzopfli",
+    "usage": "After installing libzopfli, you can use it for compression tasks that require very good compression ratios.",
+    "features": [
+      "Compression: Provides tools for achieving very good compression ratios.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring high compression ratios.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Zopfli documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression and Zopfli for support and discussions.",
+      "GitHub": "Visit the Zopfli GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zopfli": "Not applicable",
+      "uninstall": "pkg uninstall libzopfli"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libzxing-cpp",
+    "version": "2.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libzxing-cpp is a C++ port of the ZXing library, which provides barcode image processing for 1D/2D barcodes.",
+    "homepage": "https://github.com/nu-book/zxing-cpp",
+    "installation": "pkg install libzxing-cpp",
+    "usage": "After installing libzxing-cpp, you can use it to process barcode images in your C++ applications.",
+    "features": [
+      "Barcode Processing: Provides tools for processing 1D and 2D barcode images.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for barcode processing tasks.",
+      "Integration: Can be integrated into applications requiring barcode image processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libzxing-cpp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to barcode processing and Libzxing-cpp for support and discussions.",
+      "GitHub": "Visit the Libzxing-cpp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_zxing": "Not applicable",
+      "uninstall": "pkg uninstall libzxing-cpp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lighttpd",
+    "version": "1.4.77",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lighttpd is a lightweight and high-performance web server designed for speed-critical environments.",
+    "homepage": "https://www.lighttpd.net/",
+    "installation": "pkg install lighttpd",
+    "usage": "After installing lighttpd, you can configure and run a lightweight web server for your applications.",
+    "features": [
+      "Lightweight: Designed to be lightweight and efficient, suitable for speed-critical environments.",
+      "High Performance: Optimized for high performance and low memory usage.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive configuration and management interface.",
+      "Integration: Can be integrated into web applications requiring a lightweight web server.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lighttpd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web server management and Lighttpd for support and discussions.",
+      "GitHub": "Visit the Lighttpd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lighttpd": "Not applicable",
+      "uninstall": "pkg uninstall lighttpd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lilv",
+    "version": "0.24.26",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lilv is a library for simple use of LV2 plugins.",
+    "homepage": "https://drobilla.net/software/lilv",
+    "installation": "pkg install lilv",
+    "usage": "After installing lilv, you can use it to manage and use LV2 plugins in your applications.",
+    "features": [
+      "LV2 Plugins: Provides tools for managing and using LV2 audio plugins.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for plugin management tasks.",
+      "Integration: Can be integrated into applications requiring LV2 plugin support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lilv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio plugins and Lilv for support and discussions.",
+      "GitHub": "Visit the Lilv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lilv": "Not applicable",
+      "uninstall": "pkg uninstall lilv"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lilypond",
+    "version": "2.24.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lilypond is a music engraving program, devoted to producing the highest-quality sheet music possible.",
+    "homepage": "https://lilypond.org/",
+    "installation": "pkg install lilypond",
+    "usage": "After installing lilypond, you can use it to create high-quality sheet music from your music notation files.",
+    "features": [
+      "Music Engraving: Provides tools for creating high-quality sheet music.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for music notation and engraving tasks.",
+      "Integration: Can be integrated into applications requiring music engraving capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lilypond documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to music engraving and Lilypond for support and discussions.",
+      "GitHub": "Visit the Lilypond GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lilypond": "Not applicable",
+      "uninstall": "pkg uninstall lilypond"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "links",
+    "version": "2.29-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Links is a text and graphic web browser that runs in both graphical and text mode.",
+    "homepage": "http://links.twibright.com/",
+    "installation": "pkg install links",
+    "usage": "After installing links, you can use it to browse the web in both graphical and text mode.",
+    "features": [
+      "Web Browsing: Provides tools for browsing the web in both graphical and text mode.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for web browsing tasks.",
+      "Integration: Can be integrated into applications requiring web browsing capabilities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Links documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web browsing and Links for support and discussions.",
+      "GitHub": "Visit the Links GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_links": "Not applicable",
+      "uninstall": "pkg uninstall links"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lipl",
+    "version": "0.1.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lipl is a simple, lightweight library for image processing.",
+    "homepage": "https://github.com/lipl",
+    "installation": "pkg install lipl",
+    "usage": "After installing lipl, you can use it to perform basic image processing tasks in your applications.",
+    "features": [
+      "Image Processing: Provides tools for basic image processing tasks.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for image processing tasks.",
+      "Integration: Can be integrated into applications requiring simple image processing.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lipl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to image processing and Lipl for support and discussions.",
+      "GitHub": "Visit the Lipl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lipl": "Not applicable",
+      "uninstall": "pkg uninstall lipl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "lit",
+    "version": "3.8.5-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Lit is a simple, portable, language-independent test suite tool.",
+    "homepage": "https://llvm.org/docs/CommandGuide/lit.html",
+    "installation": "pkg install lit",
+    "usage": "After installing lit, you can use it to run and manage test suites for your applications.",
+    "features": [
+      "Test Suite Management: Provides tools for running and managing test suites.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive interface for test suite management tasks.",
+      "Integration: Can be integrated into applications requiring test suite management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lit documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to test suite management and Lit for support and discussions.",
+      "GitHub": "Visit the Lit GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lit": "Not applicable",
+      "uninstall": "pkg uninstall lit"
+    },
+    "isFavorite": false
+  }
+]

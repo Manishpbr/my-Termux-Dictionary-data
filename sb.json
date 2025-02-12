@@ -1,0 +1,835 @@
+[
+  {
+    "name": "stfl",
+    "version": "0.24-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "STFL is a library for creating text-based user interfaces.",
+    "homepage": "https://www.clifford.at/stfl/",
+    "installation": "pkg install stfl",
+    "usage": "After installing stfl, you can use it to create text-based user interfaces.",
+    "features": [
+      "Text-Based UI: Provides a library for creating text-based user interfaces.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official STFL website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to text-based user interfaces for support and discussions.",
+      "GitHub": "Search for repositories or forks of STFL to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include stfl in your text-based user interface projects.",
+      "uninstall": "pkg uninstall stfl"
+    }
+  },
+  {
+    "name": "stoken-static",
+    "version": "0.93-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Stoken-static provides a static binary version of stoken, a software token compatible with RSA SecurID.",
+    "homepage": "https://github.com/cernekee/stoken",
+    "installation": "pkg install stoken-static",
+    "usage": "After installing stoken-static, you can use it to generate RSA SecurID compatible tokens.",
+    "features": [
+      "Software Token: Provides a static binary version of stoken for generating RSA SecurID compatible tokens.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to software tokens for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_token": "stoken --generate",
+      "uninstall": "pkg uninstall stoken-static"
+    }
+  },
+  {
+    "name": "stoken",
+    "version": "0.93-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Stoken is a software token compatible with RSA SecurID.",
+    "homepage": "https://github.com/cernekee/stoken",
+    "installation": "pkg install stoken",
+    "usage": "After installing stoken, you can use it to generate RSA SecurID compatible tokens.",
+    "features": [
+      "Software Token: Provides tools for generating RSA SecurID compatible tokens.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to software tokens for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_token": "stoken --generate",
+      "uninstall": "pkg uninstall stoken"
+    }
+  },
+  {
+    "name": "stone",
+    "version": "2.4-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Stone is a simple, highly configurable TCP/IP packet repeater.",
+    "homepage": "http://www.gcd.org/sengoku/stone/",
+    "installation": "pkg install stone",
+    "usage": "After installing stone, you can use it to repeat TCP/IP packets.",
+    "features": [
+      "Packet Repeater: Provides tools for repeating TCP/IP packets.",
+      "Highly Configurable: Designed to be simple and highly configurable.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Stone website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to networking for support and discussions.",
+      "GitHub": "Search for repositories or forks of Stone to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_stone": "stone -n -l :8080 -r server:80",
+      "uninstall": "pkg uninstall stone"
+    }
+  },
+  {
+    "name": "storj-uplink",
+    "version": "1.119.15",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Storj Uplink is a command-line tool for interacting with the Storj decentralized cloud storage network.",
+    "homepage": "https://www.storj.io/",
+    "installation": "pkg install storj-uplink",
+    "usage": "After installing Storj Uplink, you can use it to manage storage on the Storj decentralized cloud storage network.",
+    "features": [
+      "Decentralized Storage: Provides tools for interacting with the Storj decentralized cloud storage network.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Storj website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to decentralized storage for support and discussions.",
+      "GitHub": "Search for repositories or forks of Storj Uplink to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "upload_file": "storj-uplink cp local_file sj://bucket/remote_file",
+      "uninstall": "pkg uninstall storj-uplink"
+    }
+  },
+  {
+    "name": "stow",
+    "version": "2.4.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Stow is a symlink farm manager that takes distinct packages of software and/or data located in separate directories and makes them appear to be installed in a common directory.",
+    "homepage": "https://www.gnu.org/software/stow/",
+    "installation": "pkg install stow",
+    "usage": "After installing Stow, you can use it to manage symlink farms.",
+    "features": [
+      "Symlink Manager: Provides tools for managing symlink farms.",
+      "Simplifies Management: Helps in managing software packages and data in a common directory.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official GNU Stow website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to software management for support and discussions.",
+      "GitHub": "Search for repositories or forks of Stow to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_symlinks": "stow package_name",
+      "uninstall": "pkg uninstall stow"
+    }
+  },
+  {
+    "name": "strace",
+    "version": "6.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Strace is a diagnostic, debugging and instructional userspace utility for Linux.",
+    "homepage": "https://strace.io/",
+    "installation": "pkg install strace",
+    "usage": "After installing strace, you can use it to monitor system calls and signals.",
+    "features": [
+      "Diagnostic Tool: Provides tools for monitoring system calls and signals.",
+      "Debugging Utility: Helps in debugging applications by tracing system calls.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official strace website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to debugging for support and discussions.",
+      "GitHub": "Search for repositories or forks of strace to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "trace_program": "strace -o output.txt program",
+      "uninstall": "pkg uninstall strace"
+    }
+  },
+  {
+    "name": "streamripper",
+    "version": "1.64.6-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Streamripper is a command-line tool for recording streaming mp3 to your hard drive.",
+    "homepage": "http://streamripper.sourceforge.net/",
+    "installation": "pkg install streamripper",
+    "usage": "After installing streamripper, you can use it to record streaming mp3 to your hard drive.",
+    "features": [
+      "Streaming Recorder: Provides tools for recording streaming mp3.",
+      "Command-Line Tool: Designed for command-line usage.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Streamripper website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to streaming for support and discussions.",
+      "GitHub": "Search for repositories or forks of Streamripper to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "record_stream": "streamripper http://example.com/stream",
+      "uninstall": "pkg uninstall streamripper"
+    }
+  },
+  {
+    "name": "stunnel-static",
+    "version": "5.74",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Stunnel-static provides a static binary version of stunnel, a program that allows you to encrypt arbitrary TCP connections inside SSL (Secure Sockets Layer).",
+    "homepage": "https://www.stunnel.org/",
+    "installation": "pkg install stunnel-static",
+    "usage": "After installing stunnel-static, you can use it to encrypt arbitrary TCP connections inside SSL.",
+    "features": [
+      "SSL Encryption: Provides a static binary version of stunnel for encrypting TCP connections inside SSL.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Stunnel website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to encryption for support and discussions.",
+      "GitHub": "Search for repositories or forks of Stunnel to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_stunnel": "stunnel",
+      "uninstall": "pkg uninstall stunnel-static"
+    }
+  },
+  {
+    "name": "stunnel",
+    "version": "5.74",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Stunnel is a program that allows you to encrypt arbitrary TCP connections inside SSL (Secure Sockets Layer).",
+    "homepage": "https://www.stunnel.org/",
+    "installation": "pkg install stunnel",
+    "usage": "After installing stunnel, you can use it to encrypt arbitrary TCP connections inside SSL.",
+    "features": [
+      "SSL Encryption: Provides tools for encrypting TCP connections inside SSL.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Stunnel website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to encryption for support and discussions.",
+      "GitHub": "Search for repositories or forks of Stunnel to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_stunnel": "stunnel",
+      "uninstall": "pkg uninstall stunnel"
+    }
+  },
+  {
+    "name": "stuntman",
+    "version": "1.2.16-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Stuntman is an open-source STUN server and client library.",
+    "homepage": "https://www.stunprotocol.org/",
+    "installation": "pkg install stuntman",
+    "usage": "After installing stuntman, you can use it to run a STUN server or client.",
+    "features": [
+      "STUN Server: Provides tools for running a STUN server.",
+      "STUN Client: Includes a library for running a STUN client.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Stuntman website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to networking for support and discussions.",
+      "GitHub": "Search for repositories or forks of Stuntman to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_server": "stunserver",
+      "uninstall": "pkg uninstall stuntman"
+    }
+  },
+  {
+    "name": "stylua",
+    "version": "2.0.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "StyLua is an opinionated code formatter for Lua.",
+    "homepage": "https://github.com/JohnnyMorganz/StyLua",
+    "installation": "pkg install stylua",
+    "usage": "After installing StyLua, you can use it to format Lua code according to a set of opinions.",
+    "features": [
+      "Code Formatter: Provides an opinionated code formatter for Lua.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Lua for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "format_code": "stylua file.lua",
+      "uninstall": "pkg uninstall stylua"
+    }
+  },
+  {
+    "name": "subtitleripper",
+    "version": "0.3.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Subtitle Ripper is a tool for extracting subtitles from DVD VOB files.",
+    "homepage": "http://subtitleripper.sourceforge.net/",
+    "installation": "pkg install subtitleripper",
+    "usage": "After installing Subtitle Ripper, you can use it to extract subtitles from DVD VOB files.",
+    "features": [
+      "Subtitle Extraction: Provides tools for extracting subtitles from DVD VOB files.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official Subtitle Ripper website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to subtitle extraction for support and discussions.",
+      "GitHub": "Search for repositories or forks of Subtitle Ripper to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "extract_subtitles": "subtitleripper -i input.vob -o output.sub",
+      "uninstall": "pkg uninstall subtitleripper"
+    }
+  },
+  {
+    "name": "subversion-perl-static",
+    "version": "1.14.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Subversion Perl Static provides a static binary version of the Perl bindings for Subversion.",
+    "homepage": "https://subversion.apache.org/",
+    "installation": "pkg install subversion-perl-static",
+    "usage": "After installing Subversion Perl Static, you can use the static Perl bindings for Subversion.",
+    "features": [
+      "Version Control: Provides static Perl bindings for Subversion.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Subversion website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to version control for support and discussions.",
+      "GitHub": "Search for repositories or forks of Subversion to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_perl_bindings": "Include Subversion Perl bindings in your Perl projects.",
+      "uninstall": "pkg uninstall subversion-perl-static"
+    }
+  },
+  {
+    "name": "subversion-perl",
+    "version": "1.14.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Subversion Perl provides the Perl bindings for Subversion.",
+    "homepage": "https://subversion.apache.org/",
+    "installation": "pkg install subversion-perl",
+    "usage": "After installing Subversion Perl, you can use the Perl bindings for Subversion.",
+    "features": [
+      "Version Control: Provides Perl bindings for Subversion.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Subversion website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to version control for support and discussions.",
+      "GitHub": "Search for repositories or forks of Subversion to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_perl_bindings": "Include Subversion Perl bindings in your Perl projects.",
+      "uninstall": "pkg uninstall subversion-perl"
+    }
+  },
+  {
+    "name": "subversion-static",
+    "version": "1.14.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Subversion Static provides a static binary version of the Subversion client.",
+    "homepage": "https://subversion.apache.org/",
+    "installation": "pkg install subversion-static",
+    "usage": "After installing Subversion Static, you can use the static Subversion client for version control.",
+    "features": [
+      "Version Control: Provides a static binary version of the Subversion client.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Subversion website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to version control for support and discussions.",
+      "GitHub": "Search for repositories or forks of Subversion to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_subversion": "svn checkout http://example.com/repository",
+      "uninstall": "pkg uninstall subversion-static"
+    }
+  },
+  {
+    "name": "subversion",
+    "version": "1.14.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Subversion is an open-source version control system.",
+    "homepage": "https://subversion.apache.org/",
+    "installation": "pkg install subversion",
+    "usage": "After installing Subversion, you can use it for version control of your projects.",
+    "features": [
+      "Version Control: Provides an open-source version control system.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Subversion website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to version control for support and discussions.",
+      "GitHub": "Search for repositories or forks of Subversion to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_subversion": "svn checkout http://example.com/repository",
+      "uninstall": "pkg uninstall subversion"
+    }
+  },
+  {
+    "name": "suil",
+    "version": "0.10.22",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Suil is a library for loading and wrapping LV2 plugin UIs.",
+    "homepage": "https://drobilla.net/software/suil/",
+    "installation": "pkg install suil",
+    "usage": "After installing suil, you can use it to load and wrap LV2 plugin UIs.",
+    "features": [
+      "LV2 Plugin UIs: Provides tools for loading and wrapping LV2 plugin UIs.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Suil website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to LV2 for support and discussions.",
+      "GitHub": "Search for repositories or forks of Suil to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "load_lv2_ui": "Include suil in your LV2 projects for loading plugin UIs.",
+      "uninstall": "pkg uninstall suil"
+    }
+  },
+  {
+    "name": "suite3270",
+    "version": "4.1ga11-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Suite3270 is a suite of terminal emulators for IBM 3270 and 5250 terminals.",
+    "homepage": "http://x3270.bgp.nu/",
+    "installation": "pkg install suite3270",
+    "usage": "After installing Suite3270, you can use it to emulate IBM 3270 and 5250 terminals.",
+    "features": [
+      "Terminal Emulation: Provides tools for emulating IBM 3270 and 5250 terminals.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Suite3270 website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal emulation for support and discussions.",
+      "GitHub": "Search for repositories or forks of Suite3270 to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_emulator": "x3270",
+      "uninstall": "pkg uninstall suite3270"
+    }
+  },
+  {
+    "name": "suitesparse-static",
+    "version": "7.8.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SuiteSparse Static provides a static binary version of the SuiteSparse library for sparse matrix computations.",
+    "homepage": "https://people.engr.tamu.edu/davis/suitesparse.html",
+    "installation": "pkg install suitesparse-static",
+    "usage": "After installing SuiteSparse Static, you can link the static library with your applications for sparse matrix computations.",
+    "features": [
+      "Sparse Matrix Computations: Provides a static binary version of the SuiteSparse library.",
+      "Static Library: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SuiteSparse website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to sparse matrix computations for support and discussions.",
+      "GitHub": "Search for repositories or forks of SuiteSparse to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lsuitesparse",
+      "uninstall": "pkg uninstall suitesparse-static"
+    }
+  },
+  {
+    "name": "suitesparse",
+    "version": "7.8.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SuiteSparse is a library for sparse matrix computations.",
+    "homepage": "https://people.engr.tamu.edu/davis/suitesparse.html",
+    "installation": "pkg install suitesparse",
+    "usage": "After installing SuiteSparse, you can use it for sparse matrix computations in your applications.",
+    "features": [
+      "Sparse Matrix Computations: Provides a library for sparse matrix computations.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SuiteSparse website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to sparse matrix computations for support and discussions.",
+      "GitHub": "Search for repositories or forks of SuiteSparse to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_suitesparse": "Include SuiteSparse in your projects for sparse matrix computations.",
+      "uninstall": "pkg uninstall suitesparse"
+    }
+  },
+  {
+    "name": "sun",
+    "version": "1.0.0-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sun is a simple utility for calculating sunrise and sunset times.",
+    "homepage": "https://github.com/username/sun",
+    "installation": "pkg install sun",
+    "usage": "After installing Sun, you can use it to calculate sunrise and sunset times for a given location.",
+    "features": [
+      "Sunrise and Sunset Calculation: Provides tools for calculating sunrise and sunset times.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to astronomy for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "calculate_times": "sun -l 40.7128 -L -74.0060",
+      "uninstall": "pkg uninstall sun"
+    }
+  },
+  {
+    "name": "sundials-static",
+    "version": "7.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sundials Static provides a static binary version of the Sundials library for nonlinear and differential/algebraic equation solving.",
+    "homepage": "https://computing.llnl.gov/projects/sundials",
+    "installation": "pkg install sundials-static",
+    "usage": "After installing Sundials Static, you can link the static library with your applications for solving nonlinear and differential/algebraic equations.",
+    "features": [
+      "Equation Solving: Provides a static binary version of the Sundials library.",
+      "Static Library: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Sundials website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to equation solving for support and discussions.",
+      "GitHub": "Search for repositories or forks of Sundials to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "link_library": "gcc -o myapp myapp.c -lsundials",
+      "uninstall": "pkg uninstall sundials-static"
+    }
+  },
+  {
+    "name": "sundials",
+    "version": "7.2.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sundials is a library for nonlinear and differential/algebraic equation solving.",
+    "homepage": "https://computing.llnl.gov/projects/sundials",
+    "installation": "pkg install sundials",
+    "usage": "After installing Sundials, you can use it to solve nonlinear and differential/algebraic equations in your applications.",
+    "features": [
+      "Equation Solving: Provides tools for solving nonlinear and differential/algebraic equations.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Sundials website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to equation solving for support and discussions.",
+      "GitHub": "Search for repositories or forks of Sundials to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "solve_equations": "Include Sundials in your projects for solving equations.",
+      "uninstall": "pkg uninstall sundials"
+    }
+  },
+  {
+    "name": "surfraw",
+    "version": "2.3.0-10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Surfraw provides a fast Unix command line interface to a variety of popular search engines.",
+    "homepage": "https://gitlab.com/surfraw/Surfraw",
+    "installation": "pkg install surfraw",
+    "usage": "After installing Surfraw, you can use it to search various search engines from the command line.",
+    "features": [
+      "Search Interface: Provides a fast command line interface to a variety of popular search engines.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitLab repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to command line tools for support and discussions.",
+      "GitHub": "Visit the GitLab repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "search_google": "surfraw google 'search query'",
+      "uninstall": "pkg uninstall surfraw"
+    }
+  },
+  {
+    "name": "svt-av1",
+    "version": "2.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SVT-AV1 is an AV1 encoder and decoder library.",
+    "homepage": "https://gitlab.com/AOMediaCodec/SVT-AV1",
+    "installation": "pkg install svt-av1",
+    "usage": "After installing SVT-AV1, you can use it to encode and decode AV1 video streams.",
+    "features": [
+      "AV1 Encoding: Provides tools for encoding AV1 video streams.",
+      "AV1 Decoding: Includes tools for decoding AV1 video streams.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitLab repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to video encoding for support and discussions.",
+      "GitHub": "Visit the GitLab repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "encode_video": "svt-av1-encoder input.yuv output.ivf",
+      "decode_video": "svt-av1-decoder input.ivf output.yuv",
+      "uninstall": "pkg uninstall svt-av1"
+    }
+  },
+  {
+    "name": "swaks",
+    "version": "20240103.0",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Swaks (Swiss Army Knife for SMTP) is a featureful, flexible, scriptable, transaction-oriented SMTP test tool.",
+    "homepage": "https://jetmore.org/john/code/swaks/",
+    "installation": "pkg install swaks",
+    "usage": "After installing Swaks, you can use it to test SMTP transactions.",
+    "features": [
+      "SMTP Testing: Provides a featureful, flexible, scriptable, transaction-oriented SMTP test tool.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Swaks website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to email testing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Swaks to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "test_smtp": "swaks --to user@example.com --server smtp.example.com",
+      "uninstall": "pkg uninstall swaks"
+    }
+  },
+  {
+    "name": "swi-prolog",
+    "version": "9.3.19",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SWI-Prolog is a comprehensive Prolog environment.",
+    "homepage": "https://www.swi-prolog.org/",
+    "installation": "pkg install swi-prolog",
+    "usage": "After installing SWI-Prolog, you can use it to develop and run Prolog programs.",
+    "features": [
+      "Prolog Environment: Provides a comprehensive environment for Prolog development.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SWI-Prolog website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Prolog for support and discussions.",
+      "GitHub": "Search for repositories or forks of SWI-Prolog to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_prolog": "swipl",
+      "uninstall": "pkg uninstall swi-prolog"
+    }
+  },
+  {
+    "name": "swiftshader",
+    "version": "2024.05.08",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SwiftShader is a high-performance CPU-based implementation of the Vulkan and OpenGL ES graphics APIs.",
+    "homepage": "https://swiftshader.googlesource.com/SwiftShader",
+    "installation": "pkg install swiftshader",
+    "usage": "After installing SwiftShader, you can use it to run Vulkan and OpenGL ES applications on the CPU.",
+    "features": [
+      "Graphics API Implementation: Provides a high-performance CPU-based implementation of Vulkan and OpenGL ES.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the official SwiftShader repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to graphics development for support and discussions.",
+      "GitHub": "Visit the official SwiftShader repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_vulkan_app": "VK_ICD_FILENAMES=/path/to/icd.json vulkan_app",
+      "run_opengles_app": "LIBGL_DRIVERS_PATH=/path/to/swiftshader/lib gl_app",
+      "uninstall": "pkg uninstall swiftshader"
+    }
+  },
+  {
+    "name": "swig",
+    "version": "4.3.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "SWIG (Simplified Wrapper and Interface Generator) is a software development tool for connecting C/C++ code with various high-level programming languages.",
+    "homepage": "http://www.swig.org/",
+    "installation": "pkg install swig",
+    "usage": "After installing SWIG, you can use it to generate bindings between C/C++ code and other programming languages.",
+    "features": [
+      "Language Bindings: Provides tools for generating bindings between C/C++ and various high-level programming languages.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official SWIG website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to language bindings for support and discussions.",
+      "GitHub": "Search for repositories or forks of SWIG to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "generate_bindings": "swig -python example.i",
+      "uninstall": "pkg uninstall swig"
+    }
+  },
+  {
+    "name": "swtpm-static",
+    "version": "0.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "swtpm-static provides a static binary version of swtpm, a software TPM emulator.",
+    "homepage": "https://github.com/stefanberger/swtpm",
+    "installation": "pkg install swtpm-static",
+    "usage": "After installing swtpm-static, you can use it to emulate a TPM (Trusted Platform Module).",
+    "features": [
+      "TPM Emulation: Provides a static binary version of swtpm for emulating a Trusted Platform Module.",
+      "Static Binary: Available as a static binary for ease of use.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TPM for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_swtpm": "swtpm socket --tpmstate dir=/tmp/mytpm1 --ctrl type=unixio,path=/tmp/mytpm1/swtpm-sock",
+      "uninstall": "pkg uninstall swtpm-static"
+    }
+  },
+  {
+    "name": "swtpm",
+    "version": "0.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "swtpm is a software TPM emulator.",
+    "homepage": "https://github.com/stefanberger/swtpm",
+    "installation": "pkg install swtpm",
+    "usage": "After installing swtpm, you can use it to emulate a TPM (Trusted Platform Module).",
+    "features": [
+      "TPM Emulation: Provides tools for emulating a Trusted Platform Module.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to TPM for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_swtpm": "swtpm socket --tpmstate dir=/tmp/mytpm1 --ctrl type=unixio,path=/tmp/mytpm1/swtpm-sock",
+      "uninstall": "pkg uninstall swtpm"
+    }
+  },
+  {
+    "name": "syncthing",
+    "version": "1.29.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Syncthing is a continuous file synchronization program.",
+    "homepage": "https://syncthing.net/",
+    "installation": "pkg install syncthing",
+    "usage": "After installing Syncthing, you can use it to synchronize files across multiple devices.",
+    "features": [
+      "File Synchronization: Provides tools for continuous file synchronization.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and documentation on the official Syncthing website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file synchronization for support and discussions.",
+      "GitHub": "Search for repositories or forks of Syncthing to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_syncthing": "syncthing",
+      "uninstall": "pkg uninstall syncthing"
+    }
+  },
+  {
+    "name": "sysprop",
+    "version": "13.0.0.15-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Sysprop is a tool for manipulating system properties.",
+    "homepage": "https://github.com/username/sysprop",
+    "installation": "pkg install sysprop",
+    "usage": "After installing Sysprop, you can use it to manipulate system properties.",
+    "features": [
+      "System Properties: Provides tools for manipulating system properties.",
+      "Cross-Platform: Works on various operating systems.",
+      "Open-Source: Available as open-source software."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to system administration for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "set_property": "sysprop set property_name property_value",
+      "get_property": "sysprop get property_name",
+      "uninstall": "pkg uninstall sysprop"
+    }
+  }
+]

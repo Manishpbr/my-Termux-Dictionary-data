@@ -1,0 +1,602 @@
+[
+  {
+    "name": "ninvaders",
+    "version": "0.1.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "ninvaders is a terminal-based clone of the classic Space Invaders game.",
+    "homepage": "https://ninvaders.sourceforge.net/",
+    "installation": "pkg install ninvaders",
+    "usage": "After installing ninvaders, you can start the game by typing: ninvaders",
+    "features": [
+      "Terminal Game: Provides a terminal-based clone of the classic Space Invaders game.",
+      "Simple Controls: Designed to be played with simple keyboard controls.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Search for repositories or forks of ninvaders to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "ninvaders",
+      "uninstall": "pkg uninstall ninvaders"
+    }
+  },
+  {
+    "name": "nlohmann-json",
+    "version": "3.11.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nlohmann-json is a C++ library for JSON parsing and serialization.",
+    "homepage": "https://github.com/nlohmann/json",
+    "installation": "pkg install nlohmann-json",
+    "usage": "After installing nlohmann-json, you can include it in your C++ projects to handle JSON data.",
+    "features": [
+      "JSON Library: Provides a C++ library for JSON parsing and serialization.",
+      "Easy to Use: Designed to be easy to use with a clean and readable syntax.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to C++ libraries for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_library": "#include <nlohmann/json.hpp>",
+      "uninstall": "pkg uninstall nlohmann-json"
+    }
+  },
+  {
+    "name": "nlopt",
+    "version": "2.9.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nlopt is a library for nonlinear optimization, providing a common interface for a number of optimization algorithms.",
+    "homepage": "https://nlopt.readthedocs.io/",
+    "installation": "pkg install nlopt",
+    "usage": "After installing nlopt, you can use it in your projects to solve optimization problems.",
+    "features": [
+      "Optimization Library: Provides a library for nonlinear optimization.",
+      "Multiple Algorithms: Supports a variety of optimization algorithms.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to optimization for support and discussions.",
+      "GitHub": "Search for repositories or forks of nlopt to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "include_library": "#include <nlopt.h>",
+      "uninstall": "pkg uninstall nlopt"
+    }
+  },
+  {
+    "name": "nmap-ncat",
+    "version": "7.95",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nmap-ncat is a networking utility for reading from and writing to network connections using TCP or UDP, part of the Nmap suite.",
+    "homepage": "https://nmap.org/ncat/",
+    "installation": "pkg install nmap-ncat",
+    "usage": "After installing nmap-ncat, you can use it to create network connections by typing: ncat",
+    "features": [
+      "Networking Utility: Provides a utility for reading from and writing to network connections.",
+      "TCP/UDP Support: Supports both TCP and UDP protocols.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to networking for support and discussions.",
+      "GitHub": "Search for repositories or forks of ncat to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_connection": "ncat -l -p 1234",
+      "uninstall": "pkg uninstall nmap-ncat"
+    }
+  },
+  {
+    "name": "nmap",
+    "version": "7.95",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nmap (Network Mapper) is a security scanner used to discover hosts and services on a computer network.",
+    "homepage": "https://nmap.org/",
+    "installation": "pkg install nmap",
+    "usage": "After installing nmap, you can scan networks by typing: nmap <target>",
+    "features": [
+      "Network Scanner: Provides a security scanner used to discover hosts and services on a network.",
+      "Service Detection: Detects services and open ports on target hosts.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network security for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "scan_network": "nmap <target>",
+      "uninstall": "pkg uninstall nmap"
+    }
+  },
+  {
+    "name": "nmh",
+    "version": "1.8-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nmh (new MH) is a powerful electronic mail handling system.",
+    "homepage": "https://www.nongnu.org/nmh/",
+    "installation": "pkg install nmh",
+    "usage": "After installing nmh, you can start managing emails by typing: nmh",
+    "features": [
+      "Email Handling: Provides a powerful electronic mail handling system.",
+      "Command Line Interface: Use the command line to manage emails.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to email clients for support and discussions.",
+      "GitHub": "Search for repositories or forks of nmh to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_client": "nmh",
+      "uninstall": "pkg uninstall nmh"
+    }
+  },
+  {
+    "name": "nmon",
+    "version": "16q",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nmon is a system monitor tool for Unix-like operating systems that provides performance information in real-time.",
+    "homepage": "http://nmon.sourceforge.net/",
+    "installation": "pkg install nmon",
+    "usage": "After installing nmon, you can start monitoring system performance by typing: nmon",
+    "features": [
+      "System Monitor: Provides a system monitor tool for Unix-like operating systems.",
+      "Real-Time Information: Displays real-time performance information.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to system monitoring for support and discussions.",
+      "GitHub": "Search for repositories or forks of nmon to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_monitor": "nmon",
+      "uninstall": "pkg uninstall nmon"
+    }
+  },
+  {
+    "name": "nnn",
+    "version": "5.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nnn is a terminal-based file manager with a focus on simplicity and speed.",
+    "homepage": "https://github.com/jarun/nnn",
+    "installation": "pkg install nnn",
+    "usage": "After installing nnn, you can start the file manager by typing: nnn",
+    "features": [
+      "File Manager: Provides a terminal-based file manager.",
+      "Simplicity and Speed: Designed to be simple and fast.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to file managers for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_file_manager": "nnn",
+      "uninstall": "pkg uninstall nnn"
+    }
+  },
+  {
+    "name": "no-more-secrets",
+    "version": "1.0.1-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "no-more-secrets is a tool that recreates the data encryption effect from the movie 'Sneakers'.",
+    "homepage": "https://github.com/bartobri/no-more-secrets",
+    "installation": "pkg install no-more-secrets",
+    "usage": "After installing no-more-secrets, you can recreate the data encryption effect by typing: nms",
+    "features": [
+      "Data Encryption Effect: Recreates the data encryption effect from the movie 'Sneakers'.",
+      "Command Line Tool: Use the command line to apply the effect.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal tools for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "apply_effect": "nms",
+      "uninstall": "pkg uninstall no-more-secrets"
+    }
+  },
+  {
+    "name": "nodejs-lts",
+    "version": "22.13.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nodejs-lts is the Long Term Support (LTS) version of Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+    "homepage": "https://nodejs.org/",
+    "installation": "pkg install nodejs-lts",
+    "usage": "After installing nodejs-lts, you can run JavaScript applications by typing: node",
+    "features": [
+      "JavaScript Runtime: Provides a JavaScript runtime built on Chrome's V8 engine.",
+      "Long Term Support: Offers a Long Term Support version for stability.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Node.js for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_js_app": "node app.js",
+      "uninstall": "pkg uninstall nodejs-lts"
+    }
+  },
+  {
+    "name": "nodejs",
+    "version": "23.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nodejs is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+    "homepage": "https://nodejs.org/",
+    "installation": "pkg install nodejs",
+    "usage": "After installing nodejs, you can run JavaScript applications by typing: node",
+    "features": [
+      "JavaScript Runtime: Provides a JavaScript runtime built on Chrome's V8 engine.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to Node.js for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "run_js_app": "node app.js",
+      "uninstall": "pkg uninstall nodejs"
+    }
+  },
+  {
+    "name": "notcurses-data",
+    "version": "3.0.13",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "notcurses-data provides data files for Notcurses, a library for creating modern terminal UIs.",
+    "homepage": "https://github.com/dankamongmen/notcurses",
+    "installation": "pkg install notcurses-data",
+    "usage": "After installing notcurses-data, you can use the data files in your Notcurses applications.",
+    "features": [
+      "Data Files: Provides data files for Notcurses.",
+      "Terminal UIs: Used for creating modern terminal user interfaces.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal UIs for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_data_files": "Include data files in your Notcurses applications.",
+      "uninstall": "pkg uninstall notcurses-data"
+    }
+  },
+  {
+    "name": "notcurses-tools",
+    "version": "3.0.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "notcurses-tools provides tools for Notcurses, a library for creating modern terminal UIs.",
+    "homepage": "https://github.com/dankamongmen/notcurses",
+    "installation": "pkg install notcurses-tools",
+    "usage": "After installing notcurses-tools, you can use the provided tools to create terminal UIs.",
+    "features": [
+      "Tools: Provides tools for creating modern terminal UIs.",
+      "Terminal UIs: Used for creating modern terminal user interfaces.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal UIs for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_tools": "Use the provided tools to create terminal UIs.",
+      "uninstall": "pkg uninstall notcurses-tools"
+    }
+  },
+  {
+    "name": "notcurses",
+    "version": "3.0.13",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Notcurses is a library for creating modern terminal UIs.",
+    "homepage": "https://github.com/dankamongmen/notcurses",
+    "installation": "pkg install notcurses",
+    "usage": "After installing notcurses, you can use it to create modern terminal UIs.",
+    "features": [
+      "Terminal UIs: Provides a library for creating modern terminal user interfaces.",
+      "Rich Features: Includes features like multimedia support, complex layouts, and more.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal UIs for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_library": "Include notcurses in your terminal UI projects.",
+      "uninstall": "pkg uninstall notcurses"
+    }
+  },
+  {
+    "name": "notmuch",
+    "version": "0.38.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Notmuch is a mail indexer designed for efficient e-mail searching.",
+    "homepage": "https://notmuchmail.org/",
+    "installation": "pkg install notmuch",
+    "usage": "After installing notmuch, you can index and search emails by typing: notmuch",
+    "features": [
+      "Mail Indexer: Provides an efficient mail indexer for e-mail searching.",
+      "Fast Search: Designed for fast and efficient e-mail search.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to e-mail clients for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "index_emails": "notmuch new",
+      "search_emails": "notmuch search keyword",
+      "uninstall": "pkg uninstall notmuch"
+    }
+  },
+  {
+    "name": "npush",
+    "version": "0.7-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "npush is a terminal-based puzzle game where players push boxes to designated locations.",
+    "homepage": "https://npush.sourceforge.io/",
+    "installation": "pkg install npush",
+    "usage": "After installing npush, you can start the game by typing: npush",
+    "features": [
+      "Puzzle Game: Provides a terminal-based puzzle game.",
+      "Box Pushing: Involves pushing boxes to designated locations.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Search for repositories or forks of npush to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "npush",
+      "uninstall": "pkg uninstall npush"
+    }
+  },
+  {
+    "name": "nsis-stubs",
+    "version": "3.10",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "nsis-stubs provides stub libraries for NSIS (Nullsoft Scriptable Install System), a tool for creating Windows installers.",
+    "homepage": "https://nsis.sourceforge.io/",
+    "installation": "pkg install nsis-stubs",
+    "usage": "After installing nsis-stubs, you can use the stub libraries in your NSIS projects.",
+    "features": [
+      "Stub Libraries: Provides stub libraries for NSIS.",
+      "Installer Creation: Used for creating Windows installers.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to installer creation for support and discussions.",
+      "GitHub": "Search for repositories or forks of NSIS to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "use_stubs": "Include stub libraries in your NSIS projects.",
+      "uninstall": "pkg uninstall nsis-stubs"
+    }
+  },
+  {
+    "name": "nsis",
+    "version": "3.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "NSIS (Nullsoft Scriptable Install System) is a tool for creating Windows installers.",
+    "homepage": "https://nsis.sourceforge.io/",
+    "installation": "pkg install nsis",
+    "usage": "After installing NSIS, you can create Windows installers by typing: makensis script.nsi",
+    "features": [
+      "Installer Creation: Provides a tool for creating Windows installers.",
+      "Scriptable: Allows for scriptable installer creation.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the SourceForge project page.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to installer creation for support and discussions.",
+      "GitHub": "Search for repositories or forks of NSIS to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "create_installer": "makensis script.nsi",
+      "uninstall": "pkg uninstall nsis"
+    }
+  },
+  {
+    "name": "nsnake",
+    "version": "3.0.1-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nsnake is a terminal-based clone of the classic Snake game.",
+    "homepage": "https://github.com/alexdantas/nsnake",
+    "installation": "pkg install nsnake",
+    "usage": "After installing nsnake, you can start the game by typing: nsnake",
+    "features": [
+      "Terminal Game: Provides a terminal-based clone of the classic Snake game.",
+      "Simple Controls: Designed to be played with simple keyboard controls.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "nsnake",
+      "uninstall": "pkg uninstall nsnake"
+    }
+  },
+  {
+    "name": "nss-utils",
+    "version": "3.107",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nss-utils provides utilities for managing NSS (Network Security Services) databases.",
+    "homepage": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS",
+    "installation": "pkg install nss-utils",
+    "usage": "After installing nss-utils, you can use the provided utilities to manage NSS databases.",
+    "features": [
+      "NSS Management: Provides utilities for managing Network Security Services databases.",
+      "Command Line Tools: Use the command line to manage NSS databases.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official Mozilla Developer Network.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to network security for support and discussions.",
+      "GitHub": "Search for repositories or forks of NSS to find additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "manage_nss": "certutil -d sql:$HOME/.pki/nssdb -L",
+      "uninstall": "pkg uninstall nss-utils"
+    }
+  },
+  {
+    "name": "nudoku",
+    "version": "5.0.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nudoku is a terminal-based Sudoku game with various difficulty levels and features.",
+    "homepage": "https://github.com/jubalh/nudoku",
+    "installation": "pkg install nudoku",
+    "usage": "After installing nudoku, you can start the game by typing: nudoku",
+    "features": [
+      "Sudoku Game: Provides a terminal-based Sudoku game.",
+      "Various Difficulties: Offers various difficulty levels and features.",
+      "Cross-Platform: Works on various Unix-like operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal games for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_game": "nudoku",
+      "uninstall": "pkg uninstall nudoku"
+    }
+  },
+  {
+    "name": "nushell",
+    "version": "0.101.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nushell is a modern shell that focuses on being both powerful and easy to use.",
+    "homepage": "https://www.nushell.sh/",
+    "installation": "pkg install nushell",
+    "usage": "After installing nushell, you can start the shell by typing: nu",
+    "features": [
+      "Modern Shell: Provides a modern shell that focuses on being both powerful and easy to use.",
+      "Data-Oriented: Designed to handle structured data and pipelines.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to shell environments for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_shell": "nu",
+      "uninstall": "pkg uninstall nushell"
+    }
+  },
+  {
+    "name": "nwipe",
+    "version": "0.38",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nwipe is a command-line tool for securely erasing disks.",
+    "homepage": "https://github.com/martijnvanbrummelen/nwipe",
+    "installation": "pkg install nwipe",
+    "usage": "After installing nwipe, you can securely erase disks by typing: nwipe",
+    "features": [
+      "Disk Erasure: Provides a command-line tool for securely erasing disks.",
+      "Secure Methods: Uses secure methods to ensure data is unrecoverable.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, updates, and community discussions on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to disk management for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "erase_disk": "nwipe -l",
+      "uninstall": "pkg uninstall nwipe"
+    }
+  },
+  {
+    "name": "nyancat",
+    "version": "1.5.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nyancat is a terminal-based animation of the classic Nyan Cat meme.",
+    "homepage": "https://github.com/klange/nyancat",
+    "installation": "pkg install nyancat",
+    "usage": "After installing nyancat, you can start the animation by typing: nyancat",
+    "features": [
+      "Terminal Animation: Provides a terminal-based animation of the Nyan Cat meme.",
+      "Fun and Entertaining: Designed to be a fun and entertaining terminal tool.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information and updates on the GitHub repository.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to terminal fun for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_animation": "nyancat",
+      "uninstall": "pkg uninstall nyancat"
+    }
+  },
+  {
+    "name": "nzbget",
+    "version": "21.1-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "nzbget is a cross-platform usenet downloader optimized for performance and efficiency.",
+    "homepage": "https://nzbget.net/",
+    "installation": "pkg install nzbget",
+    "usage": "After installing nzbget, you can start downloading from usenet by typing: nzbget",
+    "features": [
+      "Usenet Downloader: Provides a cross-platform usenet downloader.",
+      "Optimized Performance: Designed for performance and efficiency.",
+      "Cross-Platform: Works on various operating systems."
+    ],
+    "additional_resources": "You can find more information, documentation, and community discussions on the official website.",
+    "community_and_support": {
+      "forums": "Check out forums and communities dedicated to usenet for support and discussions.",
+      "GitHub": "Visit the GitHub repository for additional resources, updates, or modifications made by the community."
+    },
+    "example_commands": {
+      "start_downloader": "nzbget",
+      "uninstall": "pkg uninstall nzbget"
+    }
+  }
+]

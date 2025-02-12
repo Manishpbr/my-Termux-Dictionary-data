@@ -1,0 +1,1303 @@
+[
+  {
+    "name": "d8",
+    "version": "33.0.1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "D8 is a V8 JavaScript engine shell, useful for running JavaScript and debugging.",
+    "homepage": "https://v8.dev/docs/d8",
+    "installation": "pkg install d8",
+    "usage": "After installing d8, you can use it to run and debug JavaScript code.",
+    "features": [
+      "JavaScript Engine: Runs JavaScript code using the V8 engine.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Debugging: Provides debugging capabilities for JavaScript."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the D8 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to JavaScript and V8 engine for support and discussions.",
+      "GitHub": "Visit the V8 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "d8 <script.js>",
+      "uninstall_the_game": "pkg uninstall d8"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "daemonize",
+    "version": "1.7.8-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Daemonize is a tool to run a command as a Unix daemon.",
+    "homepage": "http://software.clapper.org/daemonize/",
+    "installation": "pkg install daemonize",
+    "usage": "After installing daemonize, you can use it to run commands as Unix daemons.",
+    "features": [
+      "Daemon Creation: Runs commands as Unix daemons.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Operated via the command line, making it suitable for scripting and automation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Daemonize documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Unix daemons and system administration for support and discussions.",
+      "GitHub": "Visit the Daemonize GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall daemonize"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dar-static",
+    "version": "2.7.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dar is a disk archiver, a tool like tar but with enhancements.",
+    "homepage": "http://dar.linux.free.fr/",
+    "installation": "pkg install dar-static",
+    "usage": "After installing dar-static, you can use it to create and manage disk archives.",
+    "features": [
+      "Disk Archiving: Creates and manages disk archives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Dar documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disk archiving and file management for support and discussions.",
+      "GitHub": "Visit the Dar GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall dar-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dar",
+    "version": "2.7.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dar is a disk archiver, a tool like tar but with enhancements.",
+    "homepage": "http://dar.linux.free.fr/",
+    "installation": "pkg install dar",
+    "usage": "After installing dar, you can use it to create and manage disk archives.",
+    "features": [
+      "Disk Archiving: Creates and manages disk archives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Dar documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disk archiving and file management for support and discussions.",
+      "GitHub": "Visit the Dar GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall dar"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "darkhttpd",
+    "version": "1.16",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Darkhttpd is a simple and lightweight web server.",
+    "homepage": "https://unix4lyfe.org/darkhttpd/",
+    "installation": "pkg install darkhttpd",
+    "usage": "After installing darkhttpd, you can use it to serve static files over HTTP.",
+    "features": [
+      "Web Server: Serves static files over HTTP.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Lightweight: Designed to be simple and lightweight for efficient performance."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Darkhttpd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web servers and lightweight HTTP servers for support and discussions.",
+      "GitHub": "Visit the Darkhttpd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "darkhttpd <directory>",
+      "uninstall_the_game": "pkg uninstall darkhttpd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dart",
+    "version": "3.6.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dart is a client-optimized language for fast apps on any platform.",
+    "homepage": "https://dart.dev/",
+    "installation": "pkg install dart",
+    "usage": "After installing dart, you can use it to develop and run Dart applications.",
+    "features": [
+      "Client-Optimized Language: Designed for fast apps on any platform.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Supports various application types including web, mobile, and server."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Dart documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Dart development for support and discussions.",
+      "GitHub": "Visit the Dart GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dart <script.dart>",
+      "uninstall_the_game": "pkg uninstall dart"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dasel",
+    "version": "2.8.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dasel is a tool for querying and modifying data structures from the command line.",
+    "homepage": "https://daseldocs.tomwright.me/",
+    "installation": "pkg install dasel",
+    "usage": "After installing dasel, you can use it to query and modify JSON, YAML, TOML, and XML files.",
+    "features": [
+      "Data Structure Manipulation: Queries and modifies JSON, YAML, TOML, and XML files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Provides a powerful command-line interface for data manipulation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Dasel documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data manipulation and command-line tools for support and discussions.",
+      "GitHub": "Visit the Dasel GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dasel -f <file.json> get <key>",
+      "uninstall_the_game": "pkg uninstall dasel"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dash",
+    "version": "0.5.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dash is a POSIX-compliant implementation of /bin/sh that aims to be as small as possible.",
+    "homepage": "https://gondor.apana.org.au/~herbert/dash/",
+    "installation": "pkg install dash",
+    "usage": "After installing dash, you can use it as a lightweight POSIX-compliant shell.",
+    "features": [
+      "POSIX-Compliant Shell: Provides a small and efficient POSIX-compliant shell.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Lightweight: Designed to be lightweight and efficient for performance."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Dash documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Unix shells and POSIX compliance for support and discussions.",
+      "GitHub": "Visit the Dash GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dash",
+      "uninstall_the_game": "pkg uninstall dash"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dasm",
+    "version": "2.20.14.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "DASM is a cross-assembler for several 8-bit microprocessors.",
+    "homepage": "https://dasm-assembler.github.io/",
+    "installation": "pkg install dasm",
+    "usage": "After installing dasm, you can use it to assemble code for various 8-bit microprocessors.",
+    "features": [
+      "Cross-Assembler: Assembles code for multiple 8-bit microprocessors.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Supports various microprocessor architectures."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the DASM documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to microprocessor development and assembly language for support and discussions.",
+      "GitHub": "Visit the DASM GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dasm <source.asm> -o <output.bin>",
+      "uninstall_the_game": "pkg uninstall dasm"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "datamash",
+    "version": "1.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Datamash is a command-line program which performs basic numeric, textual and statistical operations on input textual data files.",
+    "homepage": "https://www.gnu.org/software/datamash/",
+    "installation": "pkg install datamash",
+    "usage": "After installing datamash, you can use it to perform various operations on textual data files.",
+    "features": [
+      "Data Manipulation: Performs basic numeric, textual, and statistical operations on input data files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Provides a powerful command-line interface for data manipulation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Datamash documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data manipulation and command-line tools for support and discussions.",
+      "GitHub": "Visit the Datamash GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "datamash <operation> <input_file>",
+      "uninstall_the_game": "pkg uninstall datamash"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dateutils",
+    "version": "0.4.11",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dateutils are a bunch of tools that revolve around fiddling with dates and times in the command line.",
+    "homepage": "https://github.com/hroptatyr/dateutils",
+    "installation": "pkg install dateutils",
+    "usage": "After installing dateutils, you can use it to manipulate dates and times from the command line.",
+    "features": [
+      "Date and Time Manipulation: Provides tools for manipulating dates and times.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Offers a powerful command-line interface for date and time operations."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Dateutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to date and time manipulation and command-line tools for support and discussions.",
+      "GitHub": "Visit the Dateutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dateutils.ddiff <date1> <date2>",
+      "uninstall_the_game": "pkg uninstall dateutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "db",
+    "version": "18.1.40-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Berkeley DB is a family of embedded key-value database libraries providing scalable, high-performance data management services to applications.",
+    "homepage": "https://www.oracle.com/database/technologies/related/berkeleydb.html",
+    "installation": "pkg install db",
+    "usage": "After installing db, you can use it to manage embedded key-value databases.",
+    "features": [
+      "Key-Value Database: Provides scalable and high-performance data management services.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Embedded: Designed to be embedded within applications for efficient data management."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Berkeley DB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database management and embedded systems for support and discussions.",
+      "GitHub": "Visit the Berkeley DB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall db"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dbus-python",
+    "version": "1.3.2-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "D-Bus Python bindings allow the use of D-Bus from Python programs.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/DBusBindings/",
+    "installation": "pkg install dbus-python",
+    "usage": "After installing dbus-python, you can use it to integrate D-Bus communication in Python programs.",
+    "features": [
+      "D-Bus Integration: Allows the use of D-Bus from Python programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Provides a simple interface for D-Bus communication in Python."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the D-Bus Python documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to D-Bus and Python development for support and discussions.",
+      "GitHub": "Visit the D-Bus Python GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall dbus-python"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dbus-static",
+    "version": "1.15.6-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "D-Bus is a message bus system, a simple way for applications to talk to one another. This is the statically linked version.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/dbus/",
+    "installation": "pkg install dbus-static",
+    "usage": "After installing dbus-static, you can use it to enable inter-process communication.",
+    "features": [
+      "Inter-Process Communication: Facilitates communication between applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the D-Bus documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to D-Bus and system communication for support and discussions.",
+      "GitHub": "Visit the D-Bus GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall dbus-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dbus",
+    "version": "1.15.6-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "D-Bus is a message bus system, a simple way for applications to talk to one another.",
+    "homepage": "https://www.freedesktop.org/wiki/Software/dbus/",
+    "installation": "pkg install dbus",
+    "usage": "After installing dbus, you can use it to enable inter-process communication.",
+    "features": [
+      "Inter-Process Communication: Facilitates communication between applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the D-Bus documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to D-Bus and system communication for support and discussions.",
+      "GitHub": "Visit the D-Bus GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall dbus"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dcmtk",
+    "version": "3.6.7-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "DCMTK is a collection of libraries and applications implementing large parts of the DICOM standard.",
+    "homepage": "https://dicom.offis.de/dcmtk.php.en",
+    "installation": "pkg install dcmtk",
+    "usage": "After installing dcmtk, you can use it to process and manage DICOM files.",
+    "features": [
+      "DICOM Support: Implements large parts of the DICOM standard.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Libraries and Applications: Provides both libraries and applications for DICOM processing."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the DCMTK documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DICOM and medical imaging for support and discussions.",
+      "GitHub": "Visit the DCMTK GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall dcmtk"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dcraw",
+    "version": "9.28.0-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dcraw is a command-line tool for reading RAW image data from digital cameras.",
+    "homepage": "https://www.cybercom.net/~dcoffin/dcraw/",
+    "installation": "pkg install dcraw",
+    "usage": "After installing dcraw, you can use it to convert RAW image data to standard image formats.",
+    "features": [
+      "RAW Image Conversion: Reads and converts RAW image data from digital cameras.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Provides a powerful command-line interface for image conversion."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Dcraw documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to digital photography and RAW image processing for support and discussions.",
+      "GitHub": "Search for repositories or forks of Dcraw to find additional resources and updates."
+    },
+    "example_commands": {
+      "start_the_game": "dcraw <filename.raw>",
+      "uninstall_the_game": "pkg uninstall dcraw"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "ddrescue",
+    "version": "1.29",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Ddrescue is a data recovery tool that copies data from one file or block device to another.",
+    "homepage": "https://www.gnu.org/software/ddrescue/",
+    "installation": "pkg install ddrescue",
+    "usage": "After installing ddrescue, you can use it to recover data from damaged or corrupted devices.",
+    "features": [
+      "Data Recovery: Copies data from one file or block device to another, recovering data from damaged devices.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficient: Designed to be efficient and effective in data recovery operations."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Ddrescue documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data recovery and system administration for support and discussions.",
+      "GitHub": "Visit the Ddrescue GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "ddrescue <source> <destination> <logfile>",
+      "uninstall_the_game": "pkg uninstall ddrescue"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "debianutils",
+    "version": "5.21",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Debianutils contains a number of small utilities which are used primarily by the Debian project.",
+    "homepage": "https://packages.debian.org/sid/debianutils",
+    "installation": "pkg install debianutils",
+    "usage": "After installing debianutils, you can use the various utilities included in the package.",
+    "features": [
+      "Utility Collection: Provides a collection of small utilities used by the Debian project.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Essential Tools: Includes essential tools for system administration and maintenance."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Debianutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Debian and system administration for support and discussions.",
+      "GitHub": "Visit the Debianutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall debianutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "debootstrap",
+    "version": "1.0.140",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Debootstrap is a tool which will install a Debian base system into a subdirectory of another, already installed system.",
+    "homepage": "https://wiki.debian.org/Debootstrap",
+    "installation": "pkg install debootstrap",
+    "usage": "After installing debootstrap, you can use it to install a Debian base system into a subdirectory.",
+    "features": [
+      "Debian Installation: Installs a Debian base system into a subdirectory.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "System Setup: Provides a simple way to set up a Debian system within another system."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Debootstrap documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Debian installation and system setup for support and discussions.",
+      "GitHub": "Visit the Debootstrap GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "debootstrap <suite> <target_directory> <mirror_url>",
+      "uninstall_the_game": "pkg uninstall debootstrap"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "delve",
+    "version": "1.24.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Delve is a debugger for the Go programming language.",
+    "homepage": "https://github.com/go-delve/delve",
+    "installation": "pkg install delve",
+    "usage": "After installing delve, you can use it to debug Go programs.",
+    "features": [
+      "Go Debugger: Provides debugging capabilities for Go programs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Powerful: Designed to be a powerful and easy-to-use debugger for Go."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Delve documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Go programming and debugging for support and discussions.",
+      "GitHub": "Visit the Delve GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dlv debug <program>",
+      "uninstall_the_game": "pkg uninstall delve"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "desed",
+    "version": "1.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Desed is a command-line tool for stream editing with a focus on regular expressions and data manipulation.",
+    "homepage": "https://github.com/jesobreira/desed",
+    "installation": "pkg install desed",
+    "usage": "After installing desed, you can use it to perform advanced stream editing tasks.",
+    "features": [
+      "Stream Editing: Provides advanced stream editing capabilities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Regular Expressions: Focuses on regular expressions and data manipulation."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Desed documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to stream editing and regular expressions for support and discussions.",
+      "GitHub": "Visit the Desed GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "desed <pattern> <replacement> <input_file>",
+      "uninstall_the_game": "pkg uninstall desed"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "deutex",
+    "version": "5.2.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Deutex is a command-line tool for manipulating WAD files (used by Doom, Heretic, Hexen, and Strife).",
+    "homepage": "http://www.teaser.fr/~amajorel/deutex/",
+    "installation": "pkg install deutex",
+    "usage": "After installing deutex, you can use it to manipulate WAD files for Doom and related games.",
+    "features": [
+      "WAD File Manipulation: Provides tools for manipulating WAD files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Game Support: Supports WAD files used by Doom, Heretic, Hexen, and Strife."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Deutex documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Doom modding and WAD file manipulation for support and discussions.",
+      "GitHub": "Visit the Deutex GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "deutex <wad_file>",
+      "uninstall_the_game": "pkg uninstall deutex"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dex2jar",
+    "version": "2.4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "Dex2jar is a tool for converting Android .dex files to Java .class files.",
+    "homepage": "https://github.com/pxb1988/dex2jar",
+    "installation": "pkg install dex2jar",
+    "usage": "After installing dex2jar, you can use it to convert .dex files to .class files for further analysis.",
+    "features": [
+      "Dex to Jar Conversion: Converts Android .dex files to Java .class files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Analysis: Facilitates analysis of Android applications by converting them to Java format."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Dex2jar documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Android development and reverse engineering for support and discussions.",
+      "GitHub": "Visit the Dex2jar GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "d2j-dex2jar <file.dex>",
+      "uninstall_the_game": "pkg uninstall dex2jar"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dialog-static",
+    "version": "1.3-20240307-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dialog is a utility for creating TTY dialog boxes. This is the statically linked version.",
+    "homepage": "https://invisible-island.net/dialog/",
+    "installation": "pkg install dialog-static",
+    "usage": "After installing dialog-static, you can use it to create TTY dialog boxes in shell scripts.",
+    "features": [
+      "TTY Dialog Boxes: Creates dialog boxes in TTY environments.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Dialog documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shell scripting and TTY interfaces for support and discussions.",
+      "GitHub": "Visit the Dialog GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dialog --msgbox 'Hello, world!' 10 30",
+      "uninstall_the_game": "pkg uninstall dialog-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dialog",
+    "version": "1.3-20240307-0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dialog is a utility for creating TTY dialog boxes.",
+    "homepage": "https://invisible-island.net/dialog/",
+    "installation": "pkg install dialog",
+    "usage": "After installing dialog, you can use it to create TTY dialog boxes in shell scripts.",
+    "features": [
+      "TTY Dialog Boxes: Creates dialog boxes in TTY environments.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "gameplay": null,
+    "additional_resources": "For more information, visit the Dialog documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to shell scripting and TTY interfaces for support and discussions.",
+      "GitHub": "Visit the Dialog GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dialog --msgbox 'Hello, world!' 10 30",
+      "uninstall_the_game": "pkg uninstall dialog"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dictd",
+    "version": "1.13.3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dictd is a dictionary server that allows clients to access dictionary definitions from a variety of dictionary databases.",
+    "homepage": "https://sourceforge.net/projects/dict/",
+    "installation": "pkg install dictd",
+    "usage": "After installing dictd, you can use it to serve and query dictionary databases.",
+    "features": [
+      "Dictionary Server: Serves dictionary definitions from various databases.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Extensible: Supports a wide range of dictionary databases."
+    ],
+    "additional_resources": "For more information, visit the Dictd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to dictionary servers and language tools for support and discussions.",
+      "GitHub": "Visit the Dictd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall dictd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "diffstat",
+    "version": "1.67",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Diffstat reads the output of the diff command and displays a histogram of the insertions, deletions, and modifications in each file.",
+    "homepage": "http://invisible-island.net/diffstat/",
+    "installation": "pkg install diffstat",
+    "usage": "After installing diffstat, you can use it to analyze the output of diff and generate histograms.",
+    "features": [
+      "Histogram Generation: Reads diff output and generates histograms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tool: Provides a powerful command-line interface for analyzing diffs."
+    ],
+    "additional_resources": "For more information, visit the Diffstat documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to version control and diff tools for support and discussions.",
+      "GitHub": "Visit the Diffstat GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "diffstat <diff_output>",
+      "uninstall_the_game": "pkg uninstall diffstat"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "difftastic",
+    "version": "0.62.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Difftastic is a structural diff tool that understands syntax.",
+    "homepage": "https://github.com/Wilfred/difftastic",
+    "installation": "pkg install difftastic",
+    "usage": "After installing difftastic, you can use it to perform structural diffs that understand syntax.",
+    "features": [
+      "Structural Diff: Understands syntax for more accurate diffs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Syntax-Aware: Provides more accurate diffs by understanding code structure."
+    ],
+    "additional_resources": "For more information, visit the Difftastic documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to version control and diff tools for support and discussions.",
+      "GitHub": "Visit the Difftastic GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "difftastic <file1> <file2>",
+      "uninstall_the_game": "pkg uninstall difftastic"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "diffutils",
+    "version": "3.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Diffutils contains the GNU diff, diff3, sdiff, and cmp utilities for comparing files.",
+    "homepage": "https://www.gnu.org/software/diffutils/",
+    "installation": "pkg install diffutils",
+    "usage": "After installing diffutils, you can use it to compare files and generate diffs.",
+    "features": [
+      "File Comparison: Provides tools for comparing files and generating diffs.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Includes diff, diff3, sdiff, and cmp utilities."
+    ],
+    "additional_resources": "For more information, visit the Diffutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to version control and diff tools for support and discussions.",
+      "GitHub": "Visit the Diffutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "diff <file1> <file2>",
+      "uninstall_the_game": "pkg uninstall diffutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dirb",
+    "version": "2.22-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dirb is a web content scanner, which scans for and analyzes web content.",
+    "homepage": "https://dirb.sourceforge.io/",
+    "installation": "pkg install dirb",
+    "usage": "After installing dirb, you can use it to scan and analyze web content.",
+    "features": [
+      "Web Content Scanning: Scans for and analyzes web content.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Comprehensive: Provides detailed analysis of web content."
+    ],
+    "additional_resources": "For more information, visit the Dirb documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web security and content scanning for support and discussions.",
+      "GitHub": "Visit the Dirb GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dirb <URL>",
+      "uninstall_the_game": "pkg uninstall dirb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "direnv",
+    "version": "2.35.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Direnv is an environment switcher for the shell, allowing you to load and unload environment variables based on the current directory.",
+    "homepage": "https://direnv.net/",
+    "installation": "pkg install direnv",
+    "usage": "After installing direnv, you can use it to manage environment variables based on the current directory.",
+    "features": [
+      "Environment Switching: Loads and unloads environment variables based on the current directory.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Provides a simple interface for managing environment variables."
+    ],
+    "additional_resources": "For more information, visit the Direnv documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to environment management and shell tools for support and discussions.",
+      "GitHub": "Visit the Direnv GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "direnv allow",
+      "uninstall_the_game": "pkg uninstall direnv"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "direvent",
+    "version": "5.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Direvent monitors events in file systems and calls user-defined commands when they occur.",
+    "homepage": "https://www.gnu.org/software/direvent/",
+    "installation": "pkg install direvent",
+    "usage": "After installing direvent, you can use it to monitor file system events and execute commands.",
+    "features": [
+      "Event Monitoring: Monitors file system events and executes commands.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Customizable: Allows user-defined commands for various events."
+    ],
+    "additional_resources": "For more information, visit the Direvent documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to file system monitoring and automation for support and discussions.",
+      "GitHub": "Visit the Direvent GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "direvent -c <config_file>",
+      "uninstall_the_game": "pkg uninstall direvent"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "discordo",
+    "version": "2022.08.12-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Discordo is a lightweight, secure, and fast terminal-based Discord client.",
+    "homepage": "https://github.com/ayntgl/discordo",
+    "installation": "pkg install discordo",
+    "usage": "After installing discordo, you can use it to interact with Discord from the terminal.",
+    "features": [
+      "Terminal-Based: Provides a lightweight, secure, and fast terminal-based Discord client.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Secure: Focuses on security and privacy while interacting with Discord."
+    ],
+    "additional_resources": "For more information, visit the Discordo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Discord clients and terminal applications for support and discussions.",
+      "GitHub": "Visit the Discordo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "discordo",
+      "uninstall_the_game": "pkg uninstall discordo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "diskus",
+    "version": "0.8.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Diskus is a fast and simple disk usage analyzer.",
+    "homepage": "https://github.com/sharkdp/diskus",
+    "installation": "pkg install diskus",
+    "usage": "After installing diskus, you can use it to analyze disk usage.",
+    "features": [
+      "Disk Usage Analysis: Provides fast and simple disk usage analysis.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficient: Designed to be fast and efficient for quick analysis."
+    ],
+    "additional_resources": "For more information, visit the Diskus documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to disk usage analysis and system administration for support and discussions.",
+      "GitHub": "Visit the Diskus GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "diskus <directory>",
+      "uninstall_the_game": "pkg uninstall diskus"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "distant",
+    "version": "1:0.20.0-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Distant is a remote file and process manager for developers.",
+    "homepage": "https://github.com/chipsenkbeil/distant",
+    "installation": "pkg install distant",
+    "usage": "After installing distant, you can use it to manage remote files and processes.",
+    "features": [
+      "Remote Management: Provides tools for managing remote files and processes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Developer Focused: Designed with developers in mind for efficient remote management."
+    ],
+    "additional_resources": "For more information, visit the Distant documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to remote management and development tools for support and discussions.",
+      "GitHub": "Visit the Distant GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "distant --help",
+      "uninstall_the_game": "pkg uninstall distant"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "distcc",
+    "version": "3.4-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Distcc is a program to distribute compilation of C, C++, Objective-C, or Objective-C++ code across several machines on a network.",
+    "homepage": "https://distcc.github.io/",
+    "installation": "pkg install distcc",
+    "usage": "After installing distcc, you can use it to distribute compilation tasks across multiple machines.",
+    "features": [
+      "Distributed Compilation: Distributes compilation tasks across multiple machines.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficient: Designed to speed up compilation by leveraging multiple machines."
+    ],
+    "additional_resources": "For more information, visit the Distcc documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to distributed computing and compilation for support and discussions.",
+      "GitHub": "Visit the Distcc GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "distcc gcc -c <source_file>",
+      "uninstall_the_game": "pkg uninstall distcc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "djvulibre-static",
+    "version": "3.5.28-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "DjVuLibre is an open-source implementation of DjVu, a format for distributing documents and images. This is the statically linked version.",
+    "homepage": "http://djvu.sourceforge.net/",
+    "installation": "pkg install djvulibre-static",
+    "usage": "After installing djvulibre-static, you can use it to view and manipulate DjVu files.",
+    "features": [
+      "DjVu Support: Provides tools for viewing and manipulating DjVu files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "additional_resources": "For more information, visit the DjVuLibre documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to document formats and DjVu for support and discussions.",
+      "GitHub": "Visit the DjVuLibre GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "djview <file.djvu>",
+      "uninstall_the_game": "pkg uninstall djvulibre-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "djvulibre",
+    "version": "3.5.28-6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "DjVuLibre is an open-source implementation of DjVu, a format for distributing documents and images.",
+    "homepage": "http://djvu.sourceforge.net/",
+    "installation": "pkg install djvulibre",
+    "usage": "After installing djvulibre, you can use it to view and manipulate DjVu files.",
+    "features": [
+      "DjVu Support: Provides tools for viewing and manipulating DjVu files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "additional_resources": "For more information, visit the DjVuLibre documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to document formats and DjVu for support and discussions.",
+      "GitHub": "Visit the DjVuLibre GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "djview <file.djvu>",
+      "uninstall_the_game": "pkg uninstall djvulibre"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dmagnetic",
+    "version": "0.37",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "DMagnetic is a Magnetic Scrolls Interpreter, capable of running classic text adventure games.",
+    "homepage": "https://dmagnetic.readthedocs.io/",
+    "installation": "pkg install dmagnetic",
+    "usage": "After installing dmagnetic, you can use it to play classic text adventure games.",
+    "features": [
+      "Text Adventure Games: Runs classic text adventure games.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Magnetic Scrolls Interpreter: Supports games developed by Magnetic Scrolls."
+    ],
+    "additional_resources": "For more information, visit the DMagnetic documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to text adventure games and interpreters for support and discussions.",
+      "GitHub": "Visit the DMagnetic GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dmagnetic <game_file>",
+      "uninstall_the_game": "pkg uninstall dmagnetic"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dmtx-utils",
+    "version": "0.7.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dmtx-utils is a collection of utilities for reading and writing Data Matrix barcodes.",
+    "homepage": "http://www.libdmtx.org/",
+    "installation": "pkg install dmtx-utils",
+    "usage": "After installing dmtx-utils, you can use it to read and write Data Matrix barcodes.",
+    "features": [
+      "Data Matrix Barcodes: Provides tools for reading and writing Data Matrix barcodes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Command Line Tools: Offers powerful command-line utilities for barcode manipulation."
+    ],
+    "additional_resources": "For more information, visit the Dmtx-utils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to barcode technology and command-line tools for support and discussions.",
+      "GitHub": "Visit the Dmtx-utils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dmtxread <image_file>",
+      "uninstall_the_game": "pkg uninstall dmtx-utils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dnote-server",
+    "version": "2.1.1-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dnote-server is a server for Dnote, a lightweight personal knowledge base.",
+    "homepage": "https://www.getdnote.com/",
+    "installation": "pkg install dnote-server",
+    "usage": "After installing dnote-server, you can use it to host your own Dnote server.",
+    "features": [
+      "Knowledge Base: Hosts a lightweight personal knowledge base.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Self-Hosted: Allows you to host your own Dnote server for personal use."
+    ],
+    "additional_resources": "For more information, visit the Dnote-server documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to knowledge bases and server hosting for support and discussions.",
+      "GitHub": "Visit the Dnote-server GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dnote-server start",
+      "uninstall_the_game": "pkg uninstall dnote-server"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dnote",
+    "version": "0.15.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dnote is a lightweight personal knowledge base that lets you capture and organize your notes efficiently.",
+    "homepage": "https://www.getdnote.com/",
+    "installation": "pkg install dnote",
+    "usage": "After installing dnote, you can use it to capture and organize your notes.",
+    "features": [
+      "Knowledge Base: Captures and organizes personal notes.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Efficiency: Designed to be lightweight and efficient for quick note-taking."
+    ],
+    "additional_resources": "For more information, visit the Dnote documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to note-taking and personal knowledge bases for support and discussions.",
+      "GitHub": "Visit the Dnote GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dnote add <note>",
+      "uninstall_the_game": "pkg uninstall dnote"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dns2tcp",
+    "version": "0.5.2-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dns2tcp is a tool for relaying TCP connections over DNS.",
+    "homepage": "https://www.codewatch.org/blog/?p=366",
+    "installation": "pkg install dns2tcp",
+    "usage": "After installing dns2tcp, you can use it to relay TCP connections over DNS.",
+    "features": [
+      "TCP Relay: Relays TCP connections over DNS.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Network Tool: Provides a powerful tool for network administrators and security professionals."
+    ],
+    "additional_resources": "For more information, visit the Dns2tcp documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network security and DNS tools for support and discussions.",
+      "GitHub": "Visit the Dns2tcp GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dns2tcp -r <remote_host> -k <key>",
+      "uninstall_the_game": "pkg uninstall dns2tcp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dnslookup",
+    "version": "1.11.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dnslookup is a tool for querying DNS servers and retrieving DNS records.",
+    "homepage": "https://github.com/farrokhi/dnslookup",
+    "installation": "pkg install dnslookup",
+    "usage": "After installing dnslookup, you can use it to query DNS servers and retrieve DNS records.",
+    "features": [
+      "DNS Queries: Queries DNS servers and retrieves DNS records.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Network Tool: Provides a powerful tool for network administrators and security professionals."
+    ],
+    "additional_resources": "For more information, visit the Dnslookup documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS and network tools for support and discussions.",
+      "GitHub": "Visit the Dnslookup GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dnslookup <hostname>",
+      "uninstall_the_game": "pkg uninstall dnslookup"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dnsmap",
+    "version": "0.36-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dnsmap is a subdomain brute-forcing tool designed for security professionals and penetration testers.",
+    "homepage": "http://dnsmap.org/",
+    "installation": "pkg install dnsmap",
+    "usage": "After installing dnsmap, you can use it to brute-force subdomains.",
+    "features": [
+      "Subdomain Brute-Forcing: Brute-forces subdomains for penetration testing.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Security Tool: Designed for security professionals and penetration testers."
+    ],
+    "additional_resources": "For more information, visit the Dnsmap documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to network security and penetration testing for support and discussions.",
+      "GitHub": "Visit the Dnsmap GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dnsmap <domain>",
+      "uninstall_the_game": "pkg uninstall dnsmap"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dnstop",
+    "version": "2022.10.19",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dnstop is a tool for monitoring DNS traffic and analyzing DNS protocol usage.",
+    "homepage": "http://dns.measurement-factory.com/tools/dnstop/",
+    "installation": "pkg install dnstop",
+    "usage": "After installing dnstop, you can use it to monitor and analyze DNS traffic.",
+    "features": [
+      "DNS Traffic Monitoring: Monitors DNS traffic and analyzes DNS protocol usage.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Network Tool: Provides a powerful tool for network administrators and security professionals."
+    ],
+    "additional_resources": "For more information, visit the Dnstop documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS and network monitoring tools for support and discussions.",
+      "GitHub": "Visit the Dnstop GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dnstop <interface>",
+      "uninstall_the_game": "pkg uninstall dnstop"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dnsutils-static",
+    "version": "9.16.41",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dnsutils-static provides DNS query and DNS management tools. This is the statically linked version.",
+    "homepage": "https://www.isc.org/bind/",
+    "installation": "pkg install dnsutils-static",
+    "usage": "After installing dnsutils-static, you can use it to perform DNS queries and manage DNS records.",
+    "features": [
+      "DNS Management: Provides tools for DNS queries and DNS record management.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies."
+    ],
+    "additional_resources": "For more information, visit the DNSutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS and network tools for support and discussions.",
+      "GitHub": "Visit the DNSutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dig <hostname>",
+      "uninstall_the_game": "pkg uninstall dnsutils-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "dnsutils",
+    "version": "9.16.41",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Dnsutils provides DNS query and DNS management tools.",
+    "homepage": "https://www.isc.org/bind/",
+    "installation": "pkg install dnsutils",
+    "usage": "After installing dnsutils, you can use it to perform DNS queries and manage DNS records.",
+    "features": [
+      "DNS Management: Provides tools for DNS queries and DNS record management.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked."
+    ],
+    "additional_resources": "For more information, visit the DNSutils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to DNS and network tools for support and discussions.",
+      "GitHub": "Visit the DNSutils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "dig <hostname>",
+      "uninstall_the_game": "pkg uninstall dnsutils"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "docbook-xml",
+    "version": "4.5-4",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "DocBook XML is a markup language for technical documentation.",
+    "homepage": "http://www.docbook.org/",
+    "installation": "pkg install docbook-xml",
+    "usage": "After installing docbook-xml, you can use it to write technical documentation.",
+    "features": [
+      "Markup Language: Provides a markup language for technical documentation.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Standardized: Widely used standard for technical documentation."
+    ],
+    "additional_resources": "For more information, visit the DocBook XML documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to technical documentation and markup languages for support and discussions.",
+      "GitHub": "Visit the DocBook XML GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall docbook-xml"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "docbook-xsl",
+    "version": "1.79.2-1",
+    "architecture": "all",
+    "release_channel": "stable",
+    "description": "DocBook XSL is a set of XSL stylesheets for DocBook XML.",
+    "homepage": "http://www.docbook.org/",
+    "installation": "pkg install docbook-xsl",
+    "usage": "After installing docbook-xsl, you can use it to transform DocBook XML documents into various formats.",
+    "features": [
+      "XSL Stylesheets: Provides XSL stylesheets for transforming DocBook XML documents.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Versatile: Supports transformation into various formats including HTML, PDF, and more."
+    ],
+    "additional_resources": "For more information, visit the DocBook XSL documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to technical documentation and XSL transformations for support and discussions.",
+      "GitHub": "Visit the DocBook XSL GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "start_the_game": "Not applicable",
+      "uninstall_the_game": "pkg uninstall docbook-xsl"
+    },
+    "isFavorite": false
+  }
+]

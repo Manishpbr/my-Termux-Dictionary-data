@@ -1,0 +1,1446 @@
+[
+  {
+    "name": "liblua51",
+    "version": "5.1.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblua51 is a library for the Lua 5.1 programming language.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install liblua51",
+    "usage": "After installing liblua51, you can use it to embed Lua 5.1 in your applications.",
+    "features": [
+      "Lua 5.1: Provides tools for embedding the Lua 5.1 programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Lua tasks.",
+      "Integration: Can be integrated into applications requiring Lua scripting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua programming and Liblua for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblua51": "Not applicable",
+      "uninstall": "pkg uninstall liblua51"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblua52-static",
+    "version": "5.2.4-8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblua52 is a library for the Lua 5.2 programming language. This is the statically linked version.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install liblua52-static",
+    "usage": "After installing liblua52-static, you can use it to embed Lua 5.2 in your applications.",
+    "features": [
+      "Lua 5.2: Provides tools for embedding the Lua 5.2 programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Lua tasks.",
+      "Integration: Can be integrated into applications requiring Lua scripting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua programming and Liblua for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblua52": "Not applicable",
+      "uninstall": "pkg uninstall liblua52-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblua52",
+    "version": "5.2.4-8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblua52 is a library for the Lua 5.2 programming language.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install liblua52",
+    "usage": "After installing liblua52, you can use it to embed Lua 5.2 in your applications.",
+    "features": [
+      "Lua 5.2: Provides tools for embedding the Lua 5.2 programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Lua tasks.",
+      "Integration: Can be integrated into applications requiring Lua scripting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua programming and Liblua for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblua52": "Not applicable",
+      "uninstall": "pkg uninstall liblua52"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblua53-static",
+    "version": "5.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblua53 is a library for the Lua 5.3 programming language. This is the statically linked version.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install liblua53-static",
+    "usage": "After installing liblua53-static, you can use it to embed Lua 5.3 in your applications.",
+    "features": [
+      "Lua 5.3: Provides tools for embedding the Lua 5.3 programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Lua tasks.",
+      "Integration: Can be integrated into applications requiring Lua scripting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua programming and Liblua for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblua53": "Not applicable",
+      "uninstall": "pkg uninstall liblua53-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblua53",
+    "version": "5.3.6",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblua53 is a library for the Lua 5.3 programming language.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install liblua53",
+    "usage": "After installing liblua53, you can use it to embed Lua 5.3 in your applications.",
+    "features": [
+      "Lua 5.3: Provides tools for embedding the Lua 5.3 programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Lua tasks.",
+      "Integration: Can be integrated into applications requiring Lua scripting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua programming and Liblua for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblua53": "Not applicable",
+      "uninstall": "pkg uninstall liblua53"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblua54-static",
+    "version": "5.4.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblua54 is a library for the Lua 5.4 programming language. This is the statically linked version.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install liblua54-static",
+    "usage": "After installing liblua54-static, you can use it to embed Lua 5.4 in your applications.",
+    "features": [
+      "Lua 5.4: Provides tools for embedding the Lua 5.4 programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Lua tasks.",
+      "Integration: Can be integrated into applications requiring Lua scripting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua programming and Liblua for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblua54": "Not applicable",
+      "uninstall": "pkg uninstall liblua54-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblua54",
+    "version": "5.4.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblua54 is a library for the Lua 5.4 programming language.",
+    "homepage": "https://www.lua.org/",
+    "installation": "pkg install liblua54",
+    "usage": "After installing liblua54, you can use it to embed Lua 5.4 in your applications.",
+    "features": [
+      "Lua 5.4: Provides tools for embedding the Lua 5.4 programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Lua tasks.",
+      "Integration: Can be integrated into applications requiring Lua scripting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Lua documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Lua programming and Liblua for support and discussions.",
+      "GitHub": "Visit the Lua GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_liblua54": "Not applicable",
+      "uninstall": "pkg uninstall liblua54"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libluajit-static",
+    "version": "1:2.1.1731601260",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libluajit is a Just-In-Time Compiler (JIT) for the Lua programming language. This is the statically linked version.",
+    "homepage": "https://luajit.org/",
+    "installation": "pkg install libluajit-static",
+    "usage": "After installing libluajit-static, you can use it to embed JIT-compiled Lua in your applications.",
+    "features": [
+      "JIT Compilation: Provides tools for Just-In-Time Compilation of the Lua programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for JIT tasks.",
+      "Integration: Can be integrated into applications requiring LuaJIT support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LuaJIT documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to LuaJIT and Lua programming for support and discussions.",
+      "GitHub": "Visit the LuaJIT GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_luajit": "Not applicable",
+      "uninstall": "pkg uninstall libluajit-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libluajit",
+    "version": "1:2.1.1731601260",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libluajit is a Just-In-Time Compiler (JIT) for the Lua programming language.",
+    "homepage": "https://luajit.org/",
+    "installation": "pkg install libluajit",
+    "usage": "After installing libluajit, you can use it to embed JIT-compiled Lua in your applications.",
+    "features": [
+      "JIT Compilation: Provides tools for Just-In-Time Compilation of the Lua programming language.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for JIT tasks.",
+      "Integration: Can be integrated into applications requiring LuaJIT support.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LuaJIT documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to LuaJIT and Lua programming for support and discussions.",
+      "GitHub": "Visit the LuaJIT GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_luajit": "Not applicable",
+      "uninstall": "pkg uninstall libluajit"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblz4",
+    "version": "1.10.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblz4 is a fast compression library.",
+    "homepage": "https://lz4.github.io/lz4/",
+    "installation": "pkg install liblz4",
+    "usage": "After installing liblz4, you can use it to implement fast compression and decompression in your applications.",
+    "features": [
+      "Fast Compression: Provides tools for fast compression and decompression.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LZ4 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression and LZ4 for support and discussions.",
+      "GitHub": "Visit the LZ4 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lz4": "Not applicable",
+      "uninstall": "pkg uninstall liblz4"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblzma-static",
+    "version": "5.6.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblzma is a compression library for the XZ format. This is the statically linked version.",
+    "homepage": "https://tukaani.org/xz/",
+    "installation": "pkg install liblzma-static",
+    "usage": "After installing liblzma-static, you can use it to implement XZ compression and decompression in your applications.",
+    "features": [
+      "XZ Compression: Provides tools for XZ compression and decompression.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring XZ compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the XZ Utils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression and XZ Utils for support and discussions.",
+      "GitHub": "Visit the XZ Utils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lzma": "Not applicable",
+      "uninstall": "pkg uninstall liblzma-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblzma",
+    "version": "5.6.4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblzma is a compression library for the XZ format.",
+    "homepage": "https://tukaani.org/xz/",
+    "installation": "pkg install liblzma",
+    "usage": "After installing liblzma, you can use it to implement XZ compression and decompression in your applications.",
+    "features": [
+      "XZ Compression: Provides tools for XZ compression and decompression.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring XZ compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the XZ Utils documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression and XZ Utils for support and discussions.",
+      "GitHub": "Visit the XZ Utils GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lzma": "Not applicable",
+      "uninstall": "pkg uninstall liblzma"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblzo-static",
+    "version": "2.10-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblzo is a portable lossless data compression library. This is the statically linked version.",
+    "homepage": "https://www.oberhumer.com/opensource/lzo/",
+    "installation": "pkg install liblzo-static",
+    "usage": "After installing liblzo-static, you can use it to implement lossless data compression in your applications.",
+    "features": [
+      "Lossless Compression: Provides tools for lossless data compression.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring lossless compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LZO documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression and LZO for support and discussions.",
+      "GitHub": "Visit the LZO GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lzo": "Not applicable",
+      "uninstall": "pkg uninstall liblzo-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "liblzo",
+    "version": "2.10-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Liblzo is a portable lossless data compression library.",
+    "homepage": "https://www.oberhumer.com/opensource/lzo/",
+    "installation": "pkg install liblzo",
+    "usage": "After installing liblzo, you can use it to implement lossless data compression in your applications.",
+    "features": [
+      "Lossless Compression: Provides tools for lossless data compression.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for compression tasks.",
+      "Integration: Can be integrated into applications requiring lossless compression.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LZO documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to compression and LZO for support and discussions.",
+      "GitHub": "Visit the LZO GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lzo": "Not applicable",
+      "uninstall": "pkg uninstall liblzo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmaa",
+    "version": "1.4.7",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmaa is a library that provides many low-level data structures useful for writing compilers, interpreters, and other such programs.",
+    "homepage": "https://www.math.utah.edu/~beebe/software/maa/",
+    "installation": "pkg install libmaa",
+    "usage": "After installing libmaa, you can use it to implement low-level data structures in your applications.",
+    "features": [
+      "Low-Level Data Structures: Provides tools for implementing low-level data structures.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for data structure tasks.",
+      "Integration: Can be integrated into applications requiring low-level data structures.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmaa documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to data structures and Libmaa for support and discussions.",
+      "GitHub": "Visit the Libmaa GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmaa": "Not applicable",
+      "uninstall": "pkg uninstall libmaa"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmad",
+    "version": "0.16.4-1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmad is a high-quality MPEG audio decoder library.",
+    "homepage": "https://www.underbit.com/products/mad/",
+    "installation": "pkg install libmad",
+    "usage": "After installing libmad, you can use it to decode MPEG audio in your applications.",
+    "features": [
+      "MPEG Audio Decoding: Provides tools for decoding MPEG audio.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for audio decoding tasks.",
+      "Integration: Can be integrated into applications requiring MPEG audio decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmad documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio decoding and Libmad for support and discussions.",
+      "GitHub": "Visit the Libmad GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmad": "Not applicable",
+      "uninstall": "pkg uninstall libmad"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmariadbcpp",
+    "version": "1.1.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmariadbcpp is a C++ client library for MariaDB and MySQL.",
+    "homepage": "https://mariadb.com/kb/en/mariadb-connector-cpp/",
+    "installation": "pkg install libmariadbcpp",
+    "usage": "After installing libmariadbcpp, you can use it to connect to MariaDB and MySQL databases in your C++ applications.",
+    "features": [
+      "Database Connectivity: Provides tools for connecting to MariaDB and MySQL databases.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring database connectivity.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MariaDB Connector/C++ documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database connectivity and MariaDB for support and discussions.",
+      "GitHub": "Visit the MariaDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mariadbcpp": "Not applicable",
+      "uninstall": "pkg uninstall libmariadbcpp"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmatio",
+    "version": "1.5.28",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmatio is a library for reading and writing MATLAB MAT files.",
+    "homepage": "https://sourceforge.net/projects/matio/",
+    "installation": "pkg install libmatio",
+    "usage": "After installing libmatio, you can use it to read and write MATLAB MAT files in your applications.",
+    "features": [
+      "MAT File Handling: Provides tools for reading and writing MATLAB MAT files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for MAT file tasks.",
+      "Integration: Can be integrated into applications requiring MAT file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Matio documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to MATLAB and Matio for support and discussions.",
+      "GitHub": "Visit the Matio GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_matio": "Not applicable",
+      "uninstall": "pkg uninstall libmatio"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmatroska",
+    "version": "1.7.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmatroska is a C++ library to parse Matroska files (.mkv and .mka).",
+    "homepage": "https://www.matroska.org/",
+    "installation": "pkg install libmatroska",
+    "usage": "After installing libmatroska, you can use it to parse Matroska files in your applications.",
+    "features": [
+      "Matroska Parsing: Provides tools for parsing Matroska files (.mkv and .mka).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for Matroska tasks.",
+      "Integration: Can be integrated into applications requiring Matroska file handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Matroska documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to multimedia and Matroska for support and discussions.",
+      "GitHub": "Visit the Matroska GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_matroska": "Not applicable",
+      "uninstall": "pkg uninstall libmatroska"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmaxminddb-static",
+    "version": "1.12.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmaxminddb is a C library for reading MaxMind DB files. This is the statically linked version.",
+    "homepage": "https://github.com/maxmind/libmaxminddb",
+    "installation": "pkg install libmaxminddb-static",
+    "usage": "After installing libmaxminddb-static, you can use it to read MaxMind DB files in your applications.",
+    "features": [
+      "MaxMind DB Reading: Provides tools for reading MaxMind DB files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring MaxMind DB reading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MaxMindDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to geolocation and MaxMindDB for support and discussions.",
+      "GitHub": "Visit the MaxMindDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_maxminddb": "Not applicable",
+      "uninstall": "pkg uninstall libmaxminddb-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmaxminddb-tools",
+    "version": "1.12.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmaxminddb-tools is a collection of tools for working with MaxMind DB files.",
+    "homepage": "https://github.com/maxmind/libmaxminddb",
+    "installation": "pkg install libmaxminddb-tools",
+    "usage": "After installing libmaxminddb-tools, you can use it to work with MaxMind DB files in your applications.",
+    "features": [
+      "MaxMind DB Tools: Provides tools for working with MaxMind DB files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring MaxMind DB tools.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MaxMindDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to geolocation and MaxMindDB for support and discussions.",
+      "GitHub": "Visit the MaxMindDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_maxminddb_tools": "Not applicable",
+      "uninstall": "pkg uninstall libmaxminddb-tools"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmaxminddb",
+    "version": "1.12.2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmaxminddb is a C library for reading MaxMind DB files.",
+    "homepage": "https://github.com/maxmind/libmaxminddb",
+    "installation": "pkg install libmaxminddb",
+    "usage": "After installing libmaxminddb, you can use it to read MaxMind DB files in your applications.",
+    "features": [
+      "MaxMind DB Reading: Provides tools for reading MaxMind DB files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring MaxMind DB reading.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MaxMindDB documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to geolocation and MaxMindDB for support and discussions.",
+      "GitHub": "Visit the MaxMindDB GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_maxminddb": "Not applicable",
+      "uninstall": "pkg uninstall libmaxminddb"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmcrypt-static",
+    "version": "2.5.8-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmcrypt is a library for encryption algorithms. This is the statically linked version.",
+    "homepage": "https://github.com/libmcrypt/libmcrypt",
+    "installation": "pkg install libmcrypt-static",
+    "usage": "After installing libmcrypt-static, you can use it to implement encryption algorithms in your applications.",
+    "features": [
+      "Encryption Algorithms: Provides tools for implementing encryption algorithms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for encryption tasks.",
+      "Integration: Can be integrated into applications requiring encryption.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmcrypt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libmcrypt for support and discussions.",
+      "GitHub": "Visit the Libmcrypt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmcrypt": "Not applicable",
+      "uninstall": "pkg uninstall libmcrypt-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmcrypt",
+    "version": "2.5.8-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmcrypt is a library for encryption algorithms.",
+    "homepage": "https://github.com/libmcrypt/libmcrypt",
+    "installation": "pkg install libmcrypt",
+    "usage": "After installing libmcrypt, you can use it to implement encryption algorithms in your applications.",
+    "features": [
+      "Encryption Algorithms: Provides tools for implementing encryption algorithms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for encryption tasks.",
+      "Integration: Can be integrated into applications requiring encryption.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmcrypt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libmcrypt for support and discussions.",
+      "GitHub": "Visit the Libmcrypt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmcrypt": "Not applicable",
+      "uninstall": "pkg uninstall libmcrypt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmd-static",
+    "version": "1.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmd is a library that provides message digest functions. This is the statically linked version.",
+    "homepage": "https://www.hadrons.org/software/libmd/",
+    "installation": "pkg install libmd-static",
+    "usage": "After installing libmd-static, you can use it to compute message digests in your applications.",
+    "features": [
+      "Message Digests: Provides tools for computing message digests.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for digest tasks.",
+      "Integration: Can be integrated into applications requiring message digests.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libmd for support and discussions.",
+      "GitHub": "Visit the Libmd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmd": "Not applicable",
+      "uninstall": "pkg uninstall libmd-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmd",
+    "version": "1.1.0",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmd is a library that provides message digest functions.",
+    "homepage": "https://www.hadrons.org/software/libmd/",
+    "installation": "pkg install libmd",
+    "usage": "After installing libmd, you can use it to compute message digests in your applications.",
+    "features": [
+      "Message Digests: Provides tools for computing message digests.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for digest tasks.",
+      "Integration: Can be integrated into applications requiring message digests.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Libmd for support and discussions.",
+      "GitHub": "Visit the Libmd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmd": "Not applicable",
+      "uninstall": "pkg uninstall libmd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmdbx",
+    "version": "0.12.10",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmdbx is a fast, compact, powerful, and robust database management library.",
+    "homepage": "https://github.com/erthink/libmdbx",
+    "installation": "pkg install libmdbx",
+    "usage": "After installing libmdbx, you can use it to implement database management in your applications.",
+    "features": [
+      "Database Management: Provides tools for database management.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for database tasks.",
+      "Integration: Can be integrated into applications requiring database management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LMDBX documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to database technologies and LMDBX for support and discussions.",
+      "GitHub": "Visit the LMDBX GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lmdbx": "Not applicable",
+      "uninstall": "pkg uninstall libmdbx"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmediainfo-static",
+    "version": "24.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmediainfo is a library for retrieving technical information and other metadata about media files. This is the statically linked version.",
+    "homepage": "https://mediaarea.net/en/MediaInfo",
+    "installation": "pkg install libmediainfo-static",
+    "usage": "After installing libmediainfo-static, you can use it to retrieve metadata about media files in your applications.",
+    "features": [
+      "Media Metadata: Provides tools for retrieving technical information and other metadata about media files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for metadata tasks.",
+      "Integration: Can be integrated into applications requiring media metadata retrieval.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MediaInfo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to media processing and MediaInfo for support and discussions.",
+      "GitHub": "Visit the MediaInfo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mediainfo": "Not applicable",
+      "uninstall": "pkg uninstall libmediainfo-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmediainfo",
+    "version": "24.12",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmediainfo is a library for retrieving technical information and other metadata about media files.",
+    "homepage": "https://mediaarea.net/en/MediaInfo",
+    "installation": "pkg install libmediainfo",
+    "usage": "After installing libmediainfo, you can use it to retrieve metadata about media files in your applications.",
+    "features": [
+      "Media Metadata: Provides tools for retrieving technical information and other metadata about media files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for metadata tasks.",
+      "Integration: Can be integrated into applications requiring media metadata retrieval.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MediaInfo documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to media processing and MediaInfo for support and discussions.",
+      "GitHub": "Visit the MediaInfo GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mediainfo": "Not applicable",
+      "uninstall": "pkg uninstall libmediainfo"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmesode-static",
+    "version": "0.10.1-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmesode is a minimal XMPP library written in C. This is the statically linked version.",
+    "homepage": "https://github.com/profanity-im/libmesode",
+    "installation": "pkg install libmesode-static",
+    "usage": "After installing libmesode-static, you can use it to implement XMPP functionalities in your applications.",
+    "features": [
+      "XMPP Library: Provides tools for implementing XMPP functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for XMPP tasks.",
+      "Integration: Can be integrated into applications requiring XMPP functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmesode documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XMPP and Libmesode for support and discussions.",
+      "GitHub": "Visit the Libmesode GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmesode": "Not applicable",
+      "uninstall": "pkg uninstall libmesode-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmesode",
+    "version": "0.10.1-4",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmesode is a minimal XMPP library written in C.",
+    "homepage": "https://github.com/profanity-im/libmesode",
+    "installation": "pkg install libmesode",
+    "usage": "After installing libmesode, you can use it to implement XMPP functionalities in your applications.",
+    "features": [
+      "XMPP Library: Provides tools for implementing XMPP functionalities.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for XMPP tasks.",
+      "Integration: Can be integrated into applications requiring XMPP functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmesode documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to XMPP and Libmesode for support and discussions.",
+      "GitHub": "Visit the Libmesode GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmesode": "Not applicable",
+      "uninstall": "pkg uninstall libmesode"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmhash-static",
+    "version": "0.9.9.9-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmhash is a library that provides a uniform interface to several hash algorithms. This is the statically linked version.",
+    "homepage": "https://mhash.sourceforge.net/",
+    "installation": "pkg install libmhash-static",
+    "usage": "After installing libmhash-static, you can use it to implement hash algorithms in your applications.",
+    "features": [
+      "Hash Algorithms: Provides tools for implementing several hash algorithms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for hash tasks.",
+      "Integration: Can be integrated into applications requiring hash algorithms.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Mhash documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Mhash for support and discussions.",
+      "GitHub": "Visit the Mhash GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mhash": "Not applicable",
+      "uninstall": "pkg uninstall libmhash-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmhash",
+    "version": "0.9.9.9-3",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmhash is a library that provides a uniform interface to several hash algorithms.",
+    "homepage": "https://mhash.sourceforge.net/",
+    "installation": "pkg install libmhash",
+    "usage": "After installing libmhash, you can use it to implement hash algorithms in your applications.",
+    "features": [
+      "Hash Algorithms: Provides tools for implementing several hash algorithms.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for hash tasks.",
+      "Integration: Can be integrated into applications requiring hash algorithms.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Mhash documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to cryptography and Mhash for support and discussions.",
+      "GitHub": "Visit the Mhash GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mhash": "Not applicable",
+      "uninstall": "pkg uninstall libmhash"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmicrohttpd-static",
+    "version": "1.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmicrohttpd is a small C library that is supposed to make it easy to run an HTTP server as part of another application. This is the statically linked version.",
+    "homepage": "https://www.gnu.org/software/libmicrohttpd/",
+    "installation": "pkg install libmicrohttpd-static",
+    "usage": "After installing libmicrohttpd-static, you can use it to implement an HTTP server in your applications.",
+    "features": [
+      "HTTP Server: Provides tools for implementing an HTTP server.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for HTTP server tasks.",
+      "Integration: Can be integrated into applications requiring HTTP server functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmicrohttpd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web servers and Libmicrohttpd for support and discussions.",
+      "GitHub": "Visit the Libmicrohttpd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmicrohttpd": "Not applicable",
+      "uninstall": "pkg uninstall libmicrohttpd-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmicrohttpd",
+    "version": "1.0.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmicrohttpd is a small C library that is supposed to make it easy to run an HTTP server as part of another application.",
+    "homepage": "https://www.gnu.org/software/libmicrohttpd/",
+    "installation": "pkg install libmicrohttpd",
+    "usage": "After installing libmicrohttpd, you can use it to implement an HTTP server in your applications.",
+    "features": [
+      "HTTP Server: Provides tools for implementing an HTTP server.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for HTTP server tasks.",
+      "Integration: Can be integrated into applications requiring HTTP server functionality.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmicrohttpd documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to web servers and Libmicrohttpd for support and discussions.",
+      "GitHub": "Visit the Libmicrohttpd GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmicrohttpd": "Not applicable",
+      "uninstall": "pkg uninstall libmicrohttpd"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libminizip-ng",
+    "version": "4.0.8",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libminizip-ng is a library for handling ZIP archives.",
+    "homepage": "https://github.com/zlib-ng/minizip-ng",
+    "installation": "pkg install libminizip-ng",
+    "usage": "After installing libminizip-ng, you can use it to handle ZIP archives in your applications.",
+    "features": [
+      "ZIP Handling: Provides tools for handling ZIP archives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for ZIP tasks.",
+      "Integration: Can be integrated into applications requiring ZIP handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Minizip-ng documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to archiving and Minizip-ng for support and discussions.",
+      "GitHub": "Visit the Minizip-ng GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_minizip_ng": "Not applicable",
+      "uninstall": "pkg uninstall libminizip-ng"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libminizip-static",
+    "version": "1.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libminizip is a library for handling ZIP archives. This is the statically linked version.",
+    "homepage": "https://github.com/nmoinvaz/minizip",
+    "installation": "pkg install libminizip-static",
+    "usage": "After installing libminizip-static, you can use it to handle ZIP archives in your applications.",
+    "features": [
+      "ZIP Handling: Provides tools for handling ZIP archives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for ZIP tasks.",
+      "Integration: Can be integrated into applications requiring ZIP handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Minizip documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to archiving and Minizip for support and discussions.",
+      "GitHub": "Visit the Minizip GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_minizip": "Not applicable",
+      "uninstall": "pkg uninstall libminizip-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libminizip",
+    "version": "1.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libminizip is a library for handling ZIP archives.",
+    "homepage": "https://github.com/nmoinvaz/minizip",
+    "installation": "pkg install libminizip",
+    "usage": "After installing libminizip, you can use it to handle ZIP archives in your applications.",
+    "features": [
+      "ZIP Handling: Provides tools for handling ZIP archives.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for ZIP tasks.",
+      "Integration: Can be integrated into applications requiring ZIP handling.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Minizip documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to archiving and Minizip for support and discussions.",
+      "GitHub": "Visit the Minizip GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_minizip": "Not applicable",
+      "uninstall": "pkg uninstall libminizip"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmnl-static",
+    "version": "1.0.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmnl is a minimalistic user-space library oriented to Netlink developers. This is the statically linked version.",
+    "homepage": "https://netfilter.org/projects/libmnl/",
+    "installation": "pkg install libmnl-static",
+    "usage": "After installing libmnl-static, you can use it to develop Netlink-based applications.",
+    "features": [
+      "Netlink Development: Provides tools for developing Netlink-based applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for Netlink tasks.",
+      "Integration: Can be integrated into applications requiring Netlink development.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmnl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Netlink development and Libmnl for support and discussions.",
+      "GitHub": "Visit the Libmnl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmnl": "Not applicable",
+      "uninstall": "pkg uninstall libmnl-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmnl",
+    "version": "1.0.5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmnl is a minimalistic user-space library oriented to Netlink developers.",
+    "homepage": "https://netfilter.org/projects/libmnl/",
+    "installation": "pkg install libmnl",
+    "usage": "After installing libmnl, you can use it to develop Netlink-based applications.",
+    "features": [
+      "Netlink Development: Provides tools for developing Netlink-based applications.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for Netlink tasks.",
+      "Integration: Can be integrated into applications requiring Netlink development.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmnl documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to Netlink development and Libmnl for support and discussions.",
+      "GitHub": "Visit the Libmnl GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmnl": "Not applicable",
+      "uninstall": "pkg uninstall libmnl"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmodplug-static",
+    "version": "0.8.9.1.r461",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmodplug is a library for playing MOD, S3M, XM, IT, and other tracker music files. This is the statically linked version.",
+    "homepage": "https://modplug-xmms.sourceforge.net/",
+    "installation": "pkg install libmodplug-static",
+    "usage": "After installing libmodplug-static, you can use it to play tracker music files in your applications.",
+    "features": [
+      "Tracker Music Playback: Provides tools for playing MOD, S3M, XM, IT, and other tracker music files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for music playback tasks.",
+      "Integration: Can be integrated into applications requiring tracker music playback.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmodplug documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to music playback and Libmodplug for support and discussions.",
+      "GitHub": "Visit the Libmodplug GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmodplug": "Not applicable",
+      "uninstall": "pkg uninstall libmodplug-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmodplug",
+    "version": "0.8.9.1.r461",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmodplug is a library for playing MOD, S3M, XM, IT, and other tracker music files.",
+    "homepage": "https://modplug-xmms.sourceforge.net/",
+    "installation": "pkg install libmodplug",
+    "usage": "After installing libmodplug, you can use it to play tracker music files in your applications.",
+    "features": [
+      "Tracker Music Playback: Provides tools for playing MOD, S3M, XM, IT, and other tracker music files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for music playback tasks.",
+      "Integration: Can be integrated into applications requiring tracker music playback.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmodplug documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to music playback and Libmodplug for support and discussions.",
+      "GitHub": "Visit the Libmodplug GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmodplug": "Not applicable",
+      "uninstall": "pkg uninstall libmodplug"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmosquitto",
+    "version": "2.0.20",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmosquitto is a C library for the MQTT protocol, a lightweight messaging protocol for small sensors and mobile devices.",
+    "homepage": "https://mosquitto.org/",
+    "installation": "pkg install libmosquitto",
+    "usage": "After installing libmosquitto, you can use it to implement MQTT functionalities in your applications.",
+    "features": [
+      "MQTT Protocol: Provides tools for implementing the MQTT protocol.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for MQTT tasks.",
+      "Integration: Can be integrated into applications requiring MQTT functionalities.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Mosquitto documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to MQTT and Mosquitto for support and discussions.",
+      "GitHub": "Visit the Mosquitto GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mosquitto": "Not applicable",
+      "uninstall": "pkg uninstall libmosquitto"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmount",
+    "version": "2.40.2-2",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmount is a library for managing mount points.",
+    "homepage": "https://www.kernel.org/doc/man-pages/",
+    "installation": "pkg install libmount",
+    "usage": "After installing libmount, you can use it to manage mount points in your applications.",
+    "features": [
+      "Mount Point Management: Provides tools for managing mount points.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for mount management tasks.",
+      "Integration: Can be integrated into applications requiring mount point management.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Linux man-pages documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to system administration and mount management for support and discussions.",
+      "GitHub": "Visit the Util-linux GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mount": "Not applicable",
+      "uninstall": "pkg uninstall libmount"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmp3lame-static",
+    "version": "3.100-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmp3lame is a high-quality MPEG Audio Layer III (MP3) encoder. This is the statically linked version.",
+    "homepage": "https://lame.sourceforge.io/",
+    "installation": "pkg install libmp3lame-static",
+    "usage": "After installing libmp3lame-static, you can use it to encode audio to MP3 format in your applications.",
+    "features": [
+      "MP3 Encoding: Provides tools for encoding audio to MP3 format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for encoding tasks.",
+      "Integration: Can be integrated into applications requiring MP3 encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LAME documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio encoding and LAME for support and discussions.",
+      "GitHub": "Visit the LAME GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lame": "Not applicable",
+      "uninstall": "pkg uninstall libmp3lame-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmp3lame",
+    "version": "3.100-5",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmp3lame is a high-quality MPEG Audio Layer III (MP3) encoder.",
+    "homepage": "https://lame.sourceforge.io/",
+    "installation": "pkg install libmp3lame",
+    "usage": "After installing libmp3lame, you can use it to encode audio to MP3 format in your applications.",
+    "features": [
+      "MP3 Encoding: Provides tools for encoding audio to MP3 format.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for encoding tasks.",
+      "Integration: Can be integrated into applications requiring MP3 encoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the LAME documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio encoding and LAME for support and discussions.",
+      "GitHub": "Visit the LAME GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_lame": "Not applicable",
+      "uninstall": "pkg uninstall libmp3lame"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmp3splt-static",
+    "version": "0.9.2-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmp3splt is a library for splitting MP3 and Ogg Vorbis files. This is the statically linked version.",
+    "homepage": "http://mp3splt.sourceforge.net/",
+    "installation": "pkg install libmp3splt-static",
+    "usage": "After installing libmp3splt-static, you can use it to split MP3 and Ogg Vorbis files in your applications.",
+    "features": [
+      "File Splitting: Provides tools for splitting MP3 and Ogg Vorbis files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for splitting tasks.",
+      "Integration: Can be integrated into applications requiring file splitting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Mp3splt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Mp3splt for support and discussions.",
+      "GitHub": "Visit the Mp3splt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mp3splt": "Not applicable",
+      "uninstall": "pkg uninstall libmp3splt-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmp3splt",
+    "version": "0.9.2-9",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmp3splt is a library for splitting MP3 and Ogg Vorbis files.",
+    "homepage": "http://mp3splt.sourceforge.net/",
+    "installation": "pkg install libmp3splt",
+    "usage": "After installing libmp3splt, you can use it to split MP3 and Ogg Vorbis files in your applications.",
+    "features": [
+      "File Splitting: Provides tools for splitting MP3 and Ogg Vorbis files.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for splitting tasks.",
+      "Integration: Can be integrated into applications requiring file splitting.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Mp3splt documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to audio processing and Mp3splt for support and discussions.",
+      "GitHub": "Visit the Mp3splt GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mp3splt": "Not applicable",
+      "uninstall": "pkg uninstall libmp3splt"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmpc-static",
+    "version": "1.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmpc is a library for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result. This is the statically linked version.",
+    "homepage": "http://www.multiprecision.org/mpc/",
+    "installation": "pkg install libmpc-static",
+    "usage": "After installing libmpc-static, you can use it to perform high-precision arithmetic in your applications.",
+    "features": [
+      "High-Precision Arithmetic: Provides tools for the arithmetic of complex numbers with arbitrarily high precision.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for arithmetic tasks.",
+      "Integration: Can be integrated into applications requiring high-precision arithmetic.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MPC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and MPC for support and discussions.",
+      "GitHub": "Visit the MPC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mpc": "Not applicable",
+      "uninstall": "pkg uninstall libmpc-static"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmpc",
+    "version": "1.3.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmpc is a library for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result.",
+    "homepage": "http://www.multiprecision.org/mpc/",
+    "installation": "pkg install libmpc",
+    "usage": "After installing libmpc, you can use it to perform high-precision arithmetic in your applications.",
+    "features": [
+      "High-Precision Arithmetic: Provides tools for the arithmetic of complex numbers with arbitrarily high precision.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Dynamic Linking: This version is dynamically linked.",
+      "Ease of Use: Offers an intuitive API for arithmetic tasks.",
+      "Integration: Can be integrated into applications requiring high-precision arithmetic.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the MPC documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to numerical computing and MPC for support and discussions.",
+      "GitHub": "Visit the MPC GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_mpc": "Not applicable",
+      "uninstall": "pkg uninstall libmpc"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmpdclient",
+    "version": "2.22",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmpdclient is a library for interfacing with Music Player Daemon (MPD).",
+    "homepage": "https://www.musicpd.org/libs/libmpdclient/",
+    "installation": "pkg install libmpdclient",
+    "usage": "After installing libmpdclient, you can use it to interface with MPD in your applications.",
+    "features": [
+      "MPD Interface: Provides tools for interfacing with Music Player Daemon (MPD).",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Ease of Use: Offers an intuitive API for MPD tasks.",
+      "Integration: Can be integrated into applications requiring MPD interface.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmpdclient documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to music playback and Libmpdclient for support and discussions.",
+      "GitHub": "Visit the Libmpdclient GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmpdclient": "Not applicable",
+      "uninstall": "pkg uninstall libmpdclient"
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "libmpeg2-static",
+    "version": "0.5.1",
+    "architecture": "aarch64",
+    "release_channel": "stable",
+    "description": "Libmpeg2 is a library for decoding MPEG-1 and MPEG-2 video streams. This is the statically linked version.",
+    "homepage": "https://libmpeg2.sourceforge.net/",
+    "installation": "pkg install libmpeg2-static",
+    "usage": "After installing libmpeg2-static, you can use it to decode MPEG-1 and MPEG-2 video streams in your applications.",
+    "features": [
+      "Video Decoding: Provides tools for decoding MPEG-1 and MPEG-2 video streams.",
+      "Cross-Platform: Available on multiple operating systems including Windows, Linux, and macOS.",
+      "Static Linking: This version is statically linked to avoid dependencies.",
+      "Ease of Use: Offers an intuitive API for video decoding tasks.",
+      "Integration: Can be integrated into applications requiring video decoding.",
+      "Open Source: An open-source project with a large community of users and contributors."
+    ],
+    "additional_resources": "For more information, visit the Libmpeg2 documentation and community forums.",
+    "community_and_support": {
+      "forums": "Check out forums dedicated to video processing and Libmpeg2 for support and discussions.",
+      "GitHub": "Visit the Libmpeg2 GitHub repository for source code, issues, and contributions."
+    },
+    "example_commands": {
+      "use_libmpeg2": "Not applicable",
+      "uninstall": "pkg uninstall libmpeg2-static"
+    },
+    "isFavorite": false
+  }
+]
